@@ -86,8 +86,13 @@ def list_page(page, proxy=None, netns=None):
     return ids, total_pages, html
 
 
-def collect_ids(want, proxy=None, start_page=1, max_pages=200, existing=(), netns=None):
-    """Walk listing pages until `want` unseen ids are collected."""
+def collect_ids(want, proxy=None, start_page=1, max_pages=200, existing=(),
+                netns=None, stop_on_old=True):
+    """Walk listing pages until `want` unseen ids are collected.
+
+    stop_on_old=True is the incremental mode: a full page of already-archived ids
+    means we have caught up. Backfills pass False to keep walking older pages.
+    """
     out, page, total = [], start_page, None
     misses = 0
     while len(out) < want and page <= max_pages:
@@ -106,8 +111,10 @@ def collect_ids(want, proxy=None, start_page=1, max_pages=200, existing=(), netn
         out.extend(fresh)
         log(f"page {page}/{total}: {len(ids)} ids, {len(fresh)} new (total {len(out)})")
         if not fresh:
-            log("all ids already archived - stopping")
-            break
+            if stop_on_old:
+                log("all ids already archived - stopping")
+                break
+            log(f"page {page}: known ids only, continuing backfill")
         page += 1
         time.sleep(1.5)
     return out[:want], page, total

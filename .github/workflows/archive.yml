@@ -8,6 +8,9 @@ on:
       limit:
         description: 'How many new works to archive this run'
         default: '50'
+      start_page:
+        description: 'Start from listing page N (use >1 to backfill older works)'
+        default: '1'
       skip_vpn:
         description: 'Skip VPN setup (debug only)'
         type: boolean
@@ -42,9 +45,10 @@ jobs:
         run: |
           set -o pipefail
           LIMIT="${{ github.event.inputs.limit || '50' }}"
+          START="${{ github.event.inputs.start_page || '1' }}"
           FLAGS=""
           if [ "${{ github.event.inputs.skip_vpn }}" = "true" ]; then FLAGS="--no-vpn"; fi
-          python3 scripts/run.py --limit "$LIMIT" $FLAGS 2>&1 | tee /tmp/archive.log
+          python3 scripts/run.py --limit "$LIMIT" --start-page "$START" $FLAGS 2>&1 | tee /tmp/archive.log
 
       - name: Diagnose tunnel (on failure)
         if: failure()
@@ -88,6 +92,10 @@ jobs:
           git add -f .diag/last-failure.txt
           git commit -m "diag: tunnel failure [skip ci]" || true
           git push || true
+
+      - name: Clear stale diagnostics
+        if: success()
+        run: rm -rf .diag
 
       - name: Build static site
         run: python3 scripts/build_site.py

@@ -46,6 +46,10 @@ def main():
     ap.add_argument("--no-vpn", action="store_true", help="skip vpngate setup")
     ap.add_argument("--workers", type=int, default=3)
     ap.add_argument("--max-pages", type=int, default=120)
+    ap.add_argument("--start-page", type=int, default=1,
+                    help="listing page to start from (older pages = backfill)")
+    ap.add_argument("--no-stop", action="store_true",
+                    help="keep paging even when a page is entirely archived")
     args = ap.parse_args()
 
     os.makedirs(WORKS, exist_ok=True)
@@ -67,7 +71,8 @@ def main():
     try:
         ids, page, total_pages = scraper.collect_ids(
             args.limit, proxy=args.proxy, existing=done, max_pages=args.max_pages,
-            netns=netns)
+            netns=netns, start_page=args.start_page,
+            stop_on_old=(args.start_page == 1 and not args.no_stop))
         scraper.log(f"{len(ids)} new ids to fetch (listing page {page}/{total_pages})")
 
         def work_one(pid):
@@ -104,7 +109,8 @@ def main():
         }
         save_state(st)
         scraper.log(f"done: {ok} ok / {fail} failed, total archived {len(done)}")
-        return 0 if ok else 1
+        # "nothing new to archive" is a normal, successful outcome
+        return 0 if fail == 0 else 1
     finally:
         if vpn and not args.no_vpn:
             vpn.stop(mode == "netns")

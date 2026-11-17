@@ -1,0 +1,90 @@
+run: 44147644811  Tue Nov 17 18:27:08 UTC 2026
+
+===== archive.log =====
+[scrape] already archived: 50 works
+[vpn] netns dlsitevpn up (10.201.0.1 <-> 10.201.0.2, nat via eth0)
+[vpn] 50 JP candidates, trying up to 25
+[vpn] trying 59.138.182.93:1378 tcp ping=2ms
+[vpn]   openvpn exited
+[vpn] trying 207.65.181.159:1270 tcp ping=2ms
+[vpn]   openvpn exited
+[vpn] trying 117.108.66.173:1442 tcp ping=3ms
+[vpn]   openvpn exited
+[vpn] trying 106.139.165.4:1524 tcp ping=3ms
+[vpn]   openvpn exited
+[vpn] trying 150.249.55.99:1460 tcp ping=3ms
+[vpn]   openvpn exited
+[vpn] trying 118.19.248.75:995 tcp ping=4ms
+[vpn]   connected: 114.163.101.144 Machida AS4713 NTT DOCOMO BUSINESS,Inc.
+[scrape] egress [netns]: 114.163.101.144 Machida
+[scrape] page 1/1217: 30 ids, 0 new (total 0)
+[scrape] all ids already archived - stopping
+[scrape] 0 new ids to fetch (listing page 1/1217)
+[scrape] done: 0 ok / 0 failed, total archived 50
+[vpn] netns removed
+[scrape] tunnel down
+
+===== netns =====
+
+===== tun0 (host) =====
+Device "tun0" does not exist.
+
+===== openvpn =====
+2026-11-17 18:26:59 Note: cipher 'AES-128-CBC' in --data-ciphers is not supported by ovpn-dco, disabling data channel offload.
+2026-11-17 18:26:59 NOTE: --mute triggered...
+2026-11-17 18:26:59 5 variation(s) on previous 5 message(s) suppressed by --mute
+2026-11-17 18:26:59 Socket Buffers: R=[131072->131072] S=[16384->16384]
+2026-11-17 18:26:59 Attempting to establish TCP connection with [AF_INET]118.19.248.75:995
+2026-11-17 18:26:59 NOTE: --mute triggered...
+2026-11-17 18:27:00 3 variation(s) on previous 5 message(s) suppressed by --mute
+2026-11-17 18:27:00 TLS: Initial packet from [AF_INET]118.19.248.75:995, sid=d6cc2ca6 d12b5bda
+2026-11-17 18:27:00 NOTE: --mute triggered...
+2026-11-17 18:27:00 5 variation(s) on previous 5 message(s) suppressed by --mute
+2026-11-17 18:27:00 [opengw.net] Peer Connection Initiated with [AF_INET]118.19.248.75:995
+2026-11-17 18:27:00 TLS: move_session: dest=TM_ACTIVE src=TM_INITIAL reinit_src=1
+2026-11-17 18:27:00 NOTE: --mute triggered...
+2026-11-17 18:27:01 1 variation(s) on previous 5 message(s) suppressed by --mute
+2026-11-17 18:27:01 SENT CONTROL [opengw.net]: 'PUSH_REQUEST' (status=1)
+2026-11-17 18:27:01 NOTE: --mute triggered...
+2026-11-17 18:27:01 3 variation(s) on previous 5 message(s) suppressed by --mute
+2026-11-17 18:27:01 WARNING: You have specified redirect-gateway and redirect-private at the same time (or the same option multiple times). This is not well supported and may lead to unexpected results
+2026-11-17 18:27:01 OPTIONS IMPORT: --ifconfig/up options modified
+2026-11-17 18:27:01 NOTE: --mute triggered...
+2026-11-17 18:27:01 2 variation(s) on previous 5 message(s) suppressed by --mute
+2026-11-17 18:27:01 Using peer cipher 'AES-128-CBC'
+2026-11-17 18:27:01 net_route_v4_best_gw query: dst 0.0.0.0
+2026-11-17 18:27:01 NOTE: --mute triggered...
+2026-11-17 18:27:01 12 variation(s) on previous 5 message(s) suppressed by --mute
+2026-11-17 18:27:01 Data Channel: cipher 'AES-128-CBC', auth 'SHA1'
+2026-11-17 18:27:01 NOTE: --mute triggered...
+2026-11-17 18:27:04 1 variation(s) on previous 5 message(s) suppressed by --mute
+2026-11-17 18:27:04 event_wait : Interrupted system call (fd=-1,code=4)
+2026-11-17 18:27:04 net_route_v4_del: 118.19.248.75/32 via 10.201.0.1 dev [NULL] table 0 metric -1
+2026-11-17 18:27:04 NOTE: --mute triggered...
+2026-11-17 18:27:04 2 variation(s) on previous 5 message(s) suppressed by --mute
+2026-11-17 18:27:04 Closing tun/tap interface
+2026-11-17 18:27:04 net_addr_ptp_v4_del: 10.211.1.29 dev tun0
+2026-11-17 18:27:04 NOTE: --mute triggered...
+
+===== iptables =====
+-P INPUT ACCEPT
+-P FORWARD DROP
+-P OUTPUT ACCEPT
+-N DOCKER
+-N DOCKER-BRIDGE
+-N DOCKER-CT
+-N DOCKER-FORWARD
+-N DOCKER-INTERNAL
+-N DOCKER-USER
+-A FORWARD -j DOCKER-USER
+-A FORWARD -j DOCKER-FORWARD
+-A DOCKER ! -i docker0 -o docker0 -j DROP
+-A DOCKER-BRIDGE -o docker0 -j DOCKER
+-A DOCKER-CT -o docker0 -m conntrack --ctstate RELATED,ESTABLISHED -j ACCEPT
+-A DOCKER-FORWARD -j DOCKER-CT
+-A DOCKER-FORWARD -j DOCKER-INTERNAL
+-A DOCKER-FORWARD -j DOCKER-BRIDGE
+-A DOCKER-FORWARD -i docker0 -j ACCEPT
+
+===== capabilities =====
+crw-rw-rw- 1 root root 10, 200 Nov 17 18:23 /dev/net/tun

@@ -42,9 +42,12 @@ def save_state(st):
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--limit", type=int, default=50, help="how many new works to archive")
-    ap.add_argument("--proxy", default=None, help="socks5h://127.0.0.1:1081 for local runs")
+    ap.add_argument("--proxy", default=None,
+                    help="socks5h://127.0.0.1:1081 for local runs, comma-separated for multiple egress IPs")
     ap.add_argument("--no-vpn", action="store_true", help="skip vpngate setup")
-    ap.add_argument("--workers", type=int, default=3)
+    ap.add_argument("--workers", type=int, default=8)
+    ap.add_argument("--with-images", action="store_true",
+                    help="download official images into docs/images (default: CDN links only)")
     ap.add_argument("--max-pages", type=int, default=120)
     ap.add_argument("--start-page", type=int, default=1,
                     help="listing page to start from (older pages = backfill)")
@@ -54,6 +57,9 @@ def main():
 
     os.makedirs(WORKS, exist_ok=True)
     os.makedirs(IMAGES, exist_ok=True)
+    proxies = [p.strip() for p in (args.proxy or "").split(",") if p.strip()] or [None]
+    if len(proxies) > 1:
+        scraper.log(f"egress pool: {len(proxies)} endpoints, round-robin")
     st = load_state()
     done = set(st["done"])
     scraper.log(f"already archived: {len(done)} works")
@@ -75,27 +81,31 @@ def main():
             stop_on_old=(args.start_page == 1 and not args.no_stop))
         scraper.log(f"{len(ids)} new ids to fetch (listing page {page}/{total_pages})")
 
-        def work_one(pid):
+        def work_one(item):
+            idx, pid = item
+            proxy = proxies[idx % len(proxies)]
             t0 = time.time()
-            work, err = scraper.fetch_work(pid, proxy=args.proxy, netns=netns)
+            work, err = scraper.fetch_work(pid, proxy=proxy, netns=netns)
             if not work:
                 return pid, None, err
-            try:
-                scraper.save_images(work, IMAGES, proxy=args.proxy, netns=netns)
-            except Exception as e:
-                work["image_error"] = f"{type(e).__name__}: {e}"
+            if args.with_images:
+                try:
+                    scraper.save_images(work, IMAGES, proxy=proxy, netns=netns)
+                except Exception as e:
+                    work["image_error"] = f"{type(e).__name__}: {e}"
             with open(os.path.join(WORKS, pid + ".json"), "w") as f:
                 json.dump(work, f, ensure_ascii=False, indent=1)
             return pid, work, f"{time.time() - t0:.1f}s"
 
         ok = fail = 0
         with cf.ThreadPoolExecutor(max_workers=args.workers) as ex:
-            for pid, work, msg in ex.map(work_one, ids):
+            for pid, work, msg in ex.map(work_one, enumerate(ids)):
                 if work:
                     ok += 1
                     done.add(pid)
-                    n = len(work["local_images"].get("samples", []))
-                    scraper.log(f"  {pid} ok  imgs={n + 1} ({msg}) {work['title'][:38]}")
+                    local = (work.get("local_images") or {}).get("samples")
+                    tag = f"imgs={len(local) + 1}" if local else "cdn"
+                    scraper.log(f"  {pid} ok  {tag} ({msg}) {work['title'][:38]}")
                 else:
                     fail += 1
                     scraper.log(f"  {pid} FAIL {msg}")

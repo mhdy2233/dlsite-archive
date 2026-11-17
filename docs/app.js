@@ -202,8 +202,10 @@ async function openDetail(id) {
   $('#mhero').src = hero;
   $('#mhero').alt = w.title;
   const samples = (li.samples || []).map(s => `images/${s}`);
-  const fullSamples = w.images.samples || [];
-  $('#mthumbs').innerHTML = samples.map((s, i) =>
+  const cdnSamples = (w.images.samples || []).map(u => u.startsWith('//') ? 'https:' + u : u);
+  const shotList = samples.length ? samples : cdnSamples;
+  const fullSamples = cdnSamples.length ? cdnSamples : shotList;
+  $('#mthumbs').innerHTML = shotList.map((s, i) =>
     `<img loading="lazy" src="${esc(s)}" data-full="${esc(fullSamples[i] || s)}" alt="sample ${i + 1}">`
   ).join('');
   $('#mthumbs').onclick = e => {

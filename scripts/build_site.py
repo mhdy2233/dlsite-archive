@@ -19,9 +19,14 @@ def log(m):
 
 def card(w):
     imgs = w.get("local_images") or {}
-    thumb = imgs.get("thumb") or imgs.get("main") or w["images"].get("thumb")
-    if thumb and not thumb.startswith("images/"):
+    thumb = imgs.get("thumb") or imgs.get("main")
+    if thumb:
         thumb = "images/" + thumb
+    else:
+        # no local copy: hotlink DLsite's own CDN (verified: no referer checks)
+        thumb = w["images"].get("thumb") or w["images"].get("main") or ""
+        if thumb.startswith("//"):
+            thumb = "https:" + thumb
     return {
         "i": w["id"],
         "t": w["title"],

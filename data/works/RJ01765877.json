@@ -1,0 +1,143 @@
+{
+ "id": "RJ01765877",
+ "title": "人形妖怪の3つの質問に答えたら×××",
+ "title_romaji": "ningyouyoukainomittsunoshitsumonnikotaetara",
+ "circle": {
+  "id": "RG01085921",
+  "name": "ぎがんと",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01085921.html"
+ },
+ "type": {
+  "code": "RPG",
+  "name": "ロールプレイング",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "r18",
+ "sex": 1,
+ "price": {
+  "jpy": 264,
+  "official_jpy": 330,
+  "currencies": {
+   "USD": 1.6544162573970893,
+   "EUR": 1.5034374046114525,
+   "GBP": 1.2543963265193638,
+   "TWD": 54.542073838398444,
+   "CNY": 11.047642960266147,
+   "KRW": 2209.205020920502,
+   "IDR": 30240.549828178693,
+   "VND": 42580.645161290326,
+   "THB": 56.06404892862452,
+   "SEK": 16.70051050424155,
+   "HKD": 12.98241472913962,
+   "SGD": 2.1321892737957167,
+   "CAD": 2.365284080473415,
+   "MYR": 6.774459262148478,
+   "BRL": 9.413644078675244,
+   "AUD": 2.452865950875785,
+   "PHP": 105.74381158375391,
+   "MXN": 30.69089387228403,
+   "NZD": 3.0050129078963543,
+   "INR": 155.42211232779934
+  }
+ },
+ "point": {
+  "point_amount": 14,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1794495600,
+ "file": {
+  "type": "EXE",
+  "size": 152091127
+ },
+ "tags": [
+  {
+   "key": "662",
+   "name": "人外"
+  },
+  {
+   "key": "243",
+   "name": "妖怪"
+  },
+  {
+   "key": "019",
+   "name": "ホラー"
+  }
+ ],
+ "languages": [
+  "JPN"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [],
+ "rating": {
+  "average": null,
+  "count": null
+ },
+ "review_count": 0,
+ "dl_count": 15,
+ "wishlist_count": 60,
+ "ranking": [],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01766000/RJ01765877_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ01766000/RJ01765877_img_main_240x240.jpg",
+  "samples": [
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01766000/RJ01765877_img_smp1.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01766000/RJ01765877_img_smp2.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01766000/RJ01765877_img_smp3.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01766000/RJ01765877_img_smp4.jpg"
+  ],
+  "sample_thumbs": [
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01766000/RJ01765877_img_smp1_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01766000/RJ01765877_img_smp2_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01766000/RJ01765877_img_smp3_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01766000/RJ01765877_img_smp4_100x100.jpg"
+  ],
+  "alt": "人形妖怪の3つの質問に答えたら××× [ぎがんと]"
+ },
+ "introductions": [
+  {
+   "type": "text",
+   "title": "要約！",
+   "body": [
+    {
+     "intro": "空いた時間にサッとできる短いノベルゲームです。<br />\r\nちょっとだけアブノーマルだけど、そこまで変態ではない。くらいのイメージで作りました。<br />\r\nモンスター娘などが好きな方にお勧めしたいです！<br />\r\nプレイ時間は10分もあれば終わると思うので、お忙しい方やショート動画が好きな方はぜひ！"
+    }
+   ]
+  },
+  {
+   "type": "text_list",
+   "title": "ストーリー",
+   "body": [
+    {
+     "intro": "色々あって、3つの質問に答えることになります。 失敗したら、まあ雑にひどい目に会います。 成功したら、ご褒美！って感じです。"
+    },
+    {
+     "intro": "タイトル、SE、背景などにAIを利用しています。"
+    }
+   ]
+  }
+ ],
+ "description": "3つの質問に答えたらご褒美として…。というテーマの簡単なノベルミニゲームです。",
+ "short_introduction": "3つの質問に答えたらご褒美として…。というテーマの簡単なノベルミニゲームです。",
+ "options": [
+  "AIP",
+  "ORW"
+ ],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01765877.html",
+ "site_id": "maniax",
+ "fetched_at": 1794941538
+}

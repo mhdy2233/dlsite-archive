@@ -1,0 +1,129 @@
+{
+ "id": "RJ01524686",
+ "title": "Lustrate Circle",
+ "title_romaji": "rasutoreetosaakuru",
+ "circle": {
+  "id": "RG01000734",
+  "name": "Conceptual Cage",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01000734.html"
+ },
+ "type": {
+  "code": "ACN",
+  "name": "アクション",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "all",
+ "sex": 1,
+ "price": {
+  "jpy": 110,
+  "official_jpy": 110,
+  "currencies": {
+   "USD": 0.6893401072487872,
+   "EUR": 0.6264322519214386,
+   "GBP": 0.5226651360497349,
+   "TWD": 22.725864099332686,
+   "CNY": 4.6031845667775615,
+   "KRW": 920.5020920502093,
+   "IDR": 12600.229095074455,
+   "VND": 17741.93548387097,
+   "THB": 23.360020386926884,
+   "SEK": 6.958546043433979,
+   "HKD": 5.409339470474841,
+   "SGD": 0.888412197414882,
+   "CAD": 0.9855350335305896,
+   "MYR": 2.8226913592285325,
+   "BRL": 3.922351699448018,
+   "AUD": 1.022027479531577,
+   "PHP": 44.059921493230796,
+   "MXN": 12.787872446785013,
+   "NZD": 1.252088711623481,
+   "INR": 64.7592134699164
+  }
+ },
+ "point": {
+  "point_amount": 6,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1765350000,
+ "file": {
+  "type": "EXE",
+  "size": 82717496
+ },
+ "tags": [
+  {
+   "key": "254",
+   "name": "ロボット/アンドロイド"
+  },
+  {
+   "key": "034",
+   "name": "戦場"
+  }
+ ],
+ "languages": [
+  "NM"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [],
+ "rating": {
+  "average": null,
+  "count": null
+ },
+ "review_count": 0,
+ "dl_count": 0,
+ "wishlist_count": 1,
+ "ranking": [],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01525000/RJ01524686_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ01525000/RJ01524686_img_main_240x240.jpg",
+  "samples": [
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01525000/RJ01524686_img_smp1.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01525000/RJ01524686_img_smp2.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01525000/RJ01524686_img_smp3.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01525000/RJ01524686_img_smp4.jpg"
+  ],
+  "sample_thumbs": [
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01525000/RJ01524686_img_smp1_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01525000/RJ01524686_img_smp2_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01525000/RJ01524686_img_smp3_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01525000/RJ01524686_img_smp4_100x100.jpg"
+  ],
+  "alt": "Lustrate Circle [Conceptual Cage]"
+ },
+ "introductions": [
+  {
+   "type": "text",
+   "title": "敵をロックし動きを封じてから浄化しろ",
+   "body": [
+    {
+     "intro": "遊び方:<br />\r\nシンプルな2Dゲームです。<br />\r\nステージには制限時間があります。<br />\r\nその制限時間内に指示された敵を指示された数だけ倒すとステージクリアです。<br />\r\nプレイヤーのキャラの下に真ん中に穴の開いた円があります。この円の中央部を敵に重ねます。<br />\r\n重なった時にボタンを押すと敵がロックされ動きが封じられ、円の左側の10という数字が0になっていきます。<br />\r\nこの数字が0になる前にボタンを押して浄化すると敵を倒す事ができます。<br />\r\n敵の発射するミサイルに当たるとダメージを受けます。体力は右上の緑色のバーです。<br />\r\n体力が0になるか、制限時間が0になるとゲームオーバーになります。<br />\r\nゲームオーバーになるとランキングが表示されます。<br />\r\n<br />\r\n※キーボード操作不可能です。<br />\r\n※XBOX CONTROLLER以外のコントローラーでの動作は試していないため保証できません。<br />\r\n※体験版は20秒たつとタイトルに戻る仕様になっております。<br />\r\n※ゲームの背景画像、プレイヤーキャラクターのスプライトの1部にAIを使用しております。"
+    }
+   ]
+  }
+ ],
+ "description": "敵をロックし動きを封じてから浄化しろ",
+ "short_introduction": "敵をロックし動きを封じてから浄化しろ",
+ "options": [
+  "MS2",
+  "TRI",
+  "AIP",
+  "ORW"
+ ],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01524686.html",
+ "site_id": "home",
+ "fetched_at": 1794947077
+}

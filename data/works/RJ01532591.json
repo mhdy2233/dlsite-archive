@@ -1,0 +1,119 @@
+{
+ "id": "RJ01532591",
+ "title": "三国志:蒼天の選択",
+ "title_romaji": "sangokushisoutennosentaku",
+ "circle": {
+  "id": "RG01041541",
+  "name": "歴史Founder",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01041541.html"
+ },
+ "type": {
+  "code": "ADV",
+  "name": "アドベンチャー",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "all",
+ "sex": 1,
+ "price": {
+  "jpy": 1100,
+  "official_jpy": 1100,
+  "currencies": {
+   "USD": 6.8934010724878725,
+   "EUR": 6.264322519214385,
+   "GBP": 5.226651360497349,
+   "TWD": 227.25864099332685,
+   "CNY": 46.03184566777561,
+   "KRW": 9205.020920502093,
+   "IDR": 126002.29095074456,
+   "VND": 177419.3548387097,
+   "THB": 233.60020386926882,
+   "SEK": 69.5854604343398,
+   "HKD": 54.09339470474841,
+   "SGD": 8.88412197414882,
+   "CAD": 9.855350335305896,
+   "MYR": 28.226913592285324,
+   "BRL": 39.223516994480185,
+   "AUD": 10.22027479531577,
+   "PHP": 440.599214932308,
+   "MXN": 127.87872446785012,
+   "NZD": 12.52088711623481,
+   "INR": 647.5921346991639
+  }
+ },
+ "point": {
+  "point_amount": 60,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1766674800,
+ "file": {
+  "type": "HTE",
+  "size": 119427
+ },
+ "tags": [
+  {
+   "key": "017",
+   "name": "歴史/時代物"
+  }
+ ],
+ "languages": [
+  "JPN"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [],
+ "rating": {
+  "average": null,
+  "count": null
+ },
+ "review_count": 0,
+ "dl_count": 20,
+ "wishlist_count": 27,
+ "ranking": [],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01533000/RJ01532591_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ01533000/RJ01532591_img_main_240x240.jpg",
+  "samples": [
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01533000/RJ01532591_img_smp1.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01533000/RJ01532591_img_smp2.jpg"
+  ],
+  "sample_thumbs": [
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01533000/RJ01532591_img_smp1_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01533000/RJ01532591_img_smp2_100x100.jpg"
+  ],
+  "alt": "三国志:蒼天の選択 [歴史Founder]"
+ },
+ "introductions": [
+  {
+   "type": "text",
+   "title": "紹介",
+   "body": [
+    {
+     "intro": "・三国志の世界に降り立った一人の人間となり、乱世を生き抜くマルチエンディング形式のテキストアドベンチャー。 <br />\r\n曹操、劉備、孫権……英雄たちの傘下に入るもよし。 野に下り、山賊や傭兵として名を上げるもよし。 あるいは海を渡り、異国の王となることさえ可能。<br />\r\n<br />\r\n・圧倒的な自由度とIF展開 <br />\r\n「宛城の典韋」「白門楼の呂布」「五丈原の孔明」…… 本来死ぬはずだった英雄たちを、プレイヤーの知略と武勇で救い出し、歴史を改変することが可能。"
+    }
+   ]
+  }
+ ],
+ "description": "三国志の世界に降り立った一人の人間となり、乱世を生き抜くマルチエンディング形式のテキストアドベンチャー。",
+ "short_introduction": "三国志の世界に降り立った一人の人間となり、乱世を生き抜くマルチエンディング形式のテキストアドベンチャー。",
+ "options": [
+  "DLP",
+  "OLY"
+ ],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01532591.html",
+ "site_id": "home",
+ "fetched_at": 1794946943
+}

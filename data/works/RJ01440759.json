@@ -1,0 +1,123 @@
+{
+ "id": "RJ01440759",
+ "title": "推定無罪～in dubio pro reo～",
+ "title_romaji": "suiteimuzai",
+ "circle": {
+  "id": "RG01052585",
+  "name": "syanruruの物置",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01052585.html"
+ },
+ "type": {
+  "code": "DNV",
+  "name": "デジタルノベル",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "all",
+ "sex": 1,
+ "price": {
+  "jpy": 110,
+  "official_jpy": 110,
+  "currencies": {
+   "USD": 0.6893401072487872,
+   "EUR": 0.6264322519214386,
+   "GBP": 0.5226651360497349,
+   "TWD": 22.725864099332686,
+   "CNY": 4.6031845667775615,
+   "KRW": 920.5020920502093,
+   "IDR": 12600.229095074455,
+   "VND": 17741.93548387097,
+   "THB": 23.360020386926884,
+   "SEK": 6.958546043433979,
+   "HKD": 5.409339470474841,
+   "SGD": 0.888412197414882,
+   "CAD": 0.9855350335305896,
+   "MYR": 2.8226913592285325,
+   "BRL": 3.922351699448018,
+   "AUD": 1.022027479531577,
+   "PHP": 44.059921493230796,
+   "MXN": 12.787872446785013,
+   "NZD": 1.252088711623481,
+   "INR": 64.7592134699164
+  }
+ },
+ "point": {
+  "point_amount": 6,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1754118000,
+ "file": {
+  "type": "EXE",
+  "size": 88416903
+ },
+ "tags": [
+  {
+   "key": "015",
+   "name": "シリアス"
+  }
+ ],
+ "languages": [
+  "JPN"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [],
+ "rating": {
+  "average": null,
+  "count": null
+ },
+ "review_count": 3,
+ "dl_count": 13,
+ "wishlist_count": 13,
+ "ranking": [],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01441000/RJ01440759_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ01441000/RJ01440759_img_main_240x240.jpg",
+  "samples": [
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01441000/RJ01440759_img_smp1.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01441000/RJ01440759_img_smp2.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01441000/RJ01440759_img_smp3.jpg"
+  ],
+  "sample_thumbs": [
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01441000/RJ01440759_img_smp1_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01441000/RJ01440759_img_smp2_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01441000/RJ01440759_img_smp3_100x100.jpg"
+  ],
+  "alt": "推定無罪～in dubio pro reo～ [syanruruの物置]"
+ },
+ "introductions": [
+  {
+   "type": "text",
+   "title": "推定無罪",
+   "body": [
+    {
+     "intro": "■プレイ時間■<br />\n 2時間～3時間<br />\n<br />\n■ゲーム紹介文■<br />\nあなたは裁判官となり、さまざまな事件の真相と向き合うことになります。<br />\n提示されるのは、限られた証拠と食い違う証言。<br />\n誰が嘘をついているのか、本当に罪に問うべきなのか――<br />\n真実は、プレイヤーには明かされません。<br />\n有罪か、無罪か。<br />\nその判断が、誰かの人生を大きく変える。<br />\nこれは「法」と「良心」の間で揺れる、あなた自身の物語です。<br />\n<br />\n※ドット絵の補助ツールとしてAIを利用しています<br />\n<br />\n■制作ツール■<br />\nUnity<br />\n<br />\n<br />\n■実況・生放送について■<br />\n<br />\n歓迎します！<br />\n<br />\n動画のタイトルには「ゲーム名」を入れて、説明文にはこのゲームページURLか制作者URLを入れておいてください。<br />\n動画は会員登録してなくても動画・生放送が閲覧できると助かります。<br />\n<br />\n※ 誹謗中傷や作品の世界観を壊すものはお控えください。マナーを守ってお願いします。<br />\n(何かあれば削除をお願いすることがあるかもしれませんが、ご協力お願いいたします)<br />\n<br />\n<br />\n■免責事項■<br />\n<br />\nこのゲームはフィクションです。<br />\n法的内容に関して正確性を欠く場合がございます。"
+    }
+   ]
+  }
+ ],
+ "description": "疑わしきは誰が利益に。裁判官たるあなたが決めてください",
+ "short_introduction": "疑わしきは誰が利益に。裁判官たるあなたが決めてください",
+ "options": [
+  "AIP",
+  "REV",
+  "OLY",
+  "ORW"
+ ],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01440759.html",
+ "site_id": "home",
+ "fetched_at": 1794948041
+}

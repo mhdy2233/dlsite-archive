@@ -1,0 +1,140 @@
+{
+ "id": "RJ01415486",
+ "title": "Recode Prequel",
+ "title_romaji": "rikoodopurekueru",
+ "circle": {
+  "id": "RG01049999",
+  "name": "PoinpamuProject",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01049999.html"
+ },
+ "type": {
+  "code": "RPG",
+  "name": "ロールプレイング",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "all",
+ "sex": 1,
+ "price": {
+  "jpy": 550,
+  "official_jpy": 550,
+  "currencies": {
+   "USD": 3.4467005362439362,
+   "EUR": 3.1321612596071926,
+   "GBP": 2.6133256802486744,
+   "TWD": 113.62932049666342,
+   "CNY": 23.015922833887807,
+   "KRW": 4602.510460251046,
+   "IDR": 63001.14547537228,
+   "VND": 88709.67741935485,
+   "THB": 116.80010193463441,
+   "SEK": 34.7927302171699,
+   "HKD": 27.046697352374206,
+   "SGD": 4.44206098707441,
+   "CAD": 4.927675167652948,
+   "MYR": 14.113456796142662,
+   "BRL": 19.611758497240093,
+   "AUD": 5.110137397657885,
+   "PHP": 220.299607466154,
+   "MXN": 63.93936223392506,
+   "NZD": 6.260443558117405,
+   "INR": 323.79606734958196
+  }
+ },
+ "point": {
+  "point_amount": 30,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1751007600,
+ "file": {
+  "type": "EXE",
+  "size": 79202584
+ },
+ "tags": [
+  {
+   "key": "431",
+   "name": "ドット"
+  },
+  {
+   "key": "016",
+   "name": "ファンタジー"
+  }
+ ],
+ "languages": [
+  "JPN"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [],
+ "rating": {
+  "average": null,
+  "count": null
+ },
+ "review_count": 1,
+ "dl_count": 6,
+ "wishlist_count": 31,
+ "ranking": [],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01416000/RJ01415486_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ01416000/RJ01415486_img_main_240x240.jpg",
+  "samples": [
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01416000/RJ01415486_img_smp1.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01416000/RJ01415486_img_smp2.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01416000/RJ01415486_img_smp3.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01416000/RJ01415486_img_smp4.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01416000/RJ01415486_img_smp5.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01416000/RJ01415486_img_smp6.jpg"
+  ],
+  "sample_thumbs": [
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01416000/RJ01415486_img_smp1_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01416000/RJ01415486_img_smp2_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01416000/RJ01415486_img_smp3_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01416000/RJ01415486_img_smp4_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01416000/RJ01415486_img_smp5_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01416000/RJ01415486_img_smp6_100x100.jpg"
+  ],
+  "alt": "Recode Prequel [PoinpamuProject]"
+ },
+ "introductions": [
+  {
+   "type": "text",
+   "title": "でこぼこ三人組がおりなす短編ドットRPG!!",
+   "body": [
+    {
+     "intro": "『Recode Prequel』は三人組の勇者をみちびいて、イデアルを救うためにがんばるRPG(ロールプレイングゲーム)です。<br />\n<br />\n毎ターンたまるMP(マナパワー)をやりくりして、\"マモノ\"と戦いましょう!<br />\n装備によってできること(コマンド)が変化するシステム。どんな装備を着せるかが戦略のカギ!<br />\n<br />\n旅先のふきだしマークを調べると、三人の会話が楽しめるよ。"
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "title": "『Recode Prequel』ってどんなおはなし?",
+   "body": [
+    {
+     "intro": "世界のどこにもない理想の場所\"イデアル\"。<br />\nそこに住まう人々は誰もが幸せな日々を送り、毎日を不自由なく暮らしていました。<br />\n<br />\nところがある日、イデアルの空を暗く悲しい闇の光が広がります。<br />\n同時に大地には\"マモノ\"が現れ、イデアルに住まう人々の心に悲しみや恐怖を植え付けました。<br />\n<br />\n「このままではいけない!」<br />\n<br />\nそう願い、どこからともなく集まった三人の勇者が、イデアルをこの異変から救うため旅立ったのでした。"
+    }
+   ]
+  }
+ ],
+ "description": "『でこぼこなピースだからこそ、ピッタリハマってひとつになる!!』イデアルを救うため、三人の勇者がおりなす短編ドットRPG!!",
+ "short_introduction": "『でこぼこなピースだからこそ、ピッタリハマってひとつになる!!』イデアルを救うため、三人の勇者がおりなす短編ドットRPG!!",
+ "options": [
+  "REV",
+  "ORW"
+ ],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01415486.html",
+ "site_id": "home",
+ "fetched_at": 1794948320
+}

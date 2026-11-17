@@ -1,0 +1,125 @@
+{
+ "id": "RJ01523445",
+ "title": "脱衣ンベーダーゲーム",
+ "title_romaji": "datsuinbeedaageemu",
+ "circle": {
+  "id": "RG01061056",
+  "name": "きんのじ",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01061056.html"
+ },
+ "type": {
+  "code": "STG",
+  "name": "シューティング",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "r18",
+ "sex": 1,
+ "price": {
+  "jpy": 110,
+  "official_jpy": 110,
+  "currencies": {
+   "USD": 0.6893401072487872,
+   "EUR": 0.6264322519214386,
+   "GBP": 0.5226651360497349,
+   "TWD": 22.725864099332686,
+   "CNY": 4.6031845667775615,
+   "KRW": 920.5020920502093,
+   "IDR": 12600.229095074455,
+   "VND": 17741.93548387097,
+   "THB": 23.360020386926884,
+   "SEK": 6.958546043433979,
+   "HKD": 5.409339470474841,
+   "SGD": 0.888412197414882,
+   "CAD": 0.9855350335305896,
+   "MYR": 2.8226913592285325,
+   "BRL": 3.922351699448018,
+   "AUD": 1.022027479531577,
+   "PHP": 44.059921493230796,
+   "MXN": 12.787872446785013,
+   "NZD": 1.252088711623481,
+   "INR": 64.7592134699164
+  }
+ },
+ "point": {
+  "point_amount": 6,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1765177200,
+ "file": {
+  "type": "EXE",
+  "size": 37419722
+ },
+ "tags": [
+  {
+   "key": "316",
+   "name": "ヤンデレ"
+  },
+  {
+   "key": "075",
+   "name": "セーラー服"
+  }
+ ],
+ "languages": [
+  "JPN"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [],
+ "rating": {
+  "average": 3.87,
+  "count": 15
+ },
+ "review_count": 0,
+ "dl_count": 54,
+ "wishlist_count": 96,
+ "ranking": [],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01524000/RJ01523445_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ01524000/RJ01523445_img_main_240x240.jpg",
+  "samples": [
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01524000/RJ01523445_img_smp1.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01524000/RJ01523445_img_smp2.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01524000/RJ01523445_img_smp3.jpg"
+  ],
+  "sample_thumbs": [
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01524000/RJ01523445_img_smp1_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01524000/RJ01523445_img_smp2_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01524000/RJ01523445_img_smp3_100x100.jpg"
+  ],
+  "alt": "脱衣ンベーダーゲーム [きんのじ]"
+ },
+ "introductions": [
+  {
+   "type": "text",
+   "title": "",
+   "body": [
+    {
+     "intro": "敵を撃墜しスコアを増やすと1000pt毎に脱衣していきます。<br />\r\n<br />\r\n完全脱衣後に飛んでくるハートを撃墜するか、スコアが9999に達するとゲームクリアです。<br />\r\n<br />\r\n【操作方法】<br />\r\n<br />\r\n◆決定.射撃【X】<br />\r\n<br />\r\n◆一時停止【Space】<br />\r\n<br />\r\n◆リトライ【Enter】"
+    }
+   ]
+  }
+ ],
+ "description": "脱衣シューティング",
+ "short_introduction": "脱衣シューティング",
+ "options": [
+  "ORW",
+  "RegionHiddenFilter"
+ ],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01523445.html",
+ "site_id": "maniax",
+ "fetched_at": 1794947095
+}

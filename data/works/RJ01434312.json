@@ -1,0 +1,115 @@
+{
+ "id": "RJ01434312",
+ "title": "タロット占い ～Tarot reading～",
+ "title_romaji": "tarottouranai",
+ "circle": {
+  "id": "RG57699",
+  "name": "あぶりカルビ",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG57699.html"
+ },
+ "type": {
+  "code": "ETC",
+  "name": "その他ゲーム",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "all",
+ "sex": 1,
+ "price": {
+  "jpy": 110,
+  "official_jpy": 110,
+  "currencies": {
+   "USD": 0.6893401072487872,
+   "EUR": 0.6264322519214386,
+   "GBP": 0.5226651360497349,
+   "TWD": 22.725864099332686,
+   "CNY": 4.6031845667775615,
+   "KRW": 920.5020920502093,
+   "IDR": 12600.229095074455,
+   "VND": 17741.93548387097,
+   "THB": 23.360020386926884,
+   "SEK": 6.958546043433979,
+   "HKD": 5.409339470474841,
+   "SGD": 0.888412197414882,
+   "CAD": 0.9855350335305896,
+   "MYR": 2.8226913592285325,
+   "BRL": 3.922351699448018,
+   "AUD": 1.022027479531577,
+   "PHP": 44.059921493230796,
+   "MXN": 12.787872446785013,
+   "NZD": 1.252088711623481,
+   "INR": 64.7592134699164
+  }
+ },
+ "point": {
+  "point_amount": 6,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1753110000,
+ "file": {
+  "type": "EXE",
+  "size": 203640781
+ },
+ "tags": [],
+ "languages": [
+  "JPN"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [],
+ "rating": {
+  "average": 4.71,
+  "count": 21
+ },
+ "review_count": 8,
+ "dl_count": 202,
+ "wishlist_count": 58,
+ "ranking": [],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01435000/RJ01434312_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ01435000/RJ01434312_img_main_240x240.jpg",
+  "samples": [
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01435000/RJ01434312_img_smp1.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01435000/RJ01434312_img_smp2.jpg"
+  ],
+  "sample_thumbs": [
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01435000/RJ01434312_img_smp1_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01435000/RJ01434312_img_smp2_100x100.jpg"
+  ],
+  "alt": "タロット占い ～Tarot reading～ [あぶりカルビ]"
+ },
+ "introductions": [
+  {
+   "type": "text",
+   "title": "タロット占いで楽しみたいあなたへ！",
+   "body": [
+    {
+     "intro": "今日の運勢をかわいいタロットイラストの絵柄で占います！<br />\r\nタロットがどんなものなのか知りたいあなたにおすすめです♪<br />\r\n※このゲームは「破瓜簒奪3」の追加コンテンツだったものです。"
+    }
+   ]
+  }
+ ],
+ "description": "「破瓜簒奪3」の追加コンテンツです。※背景、カード裏面のデザインはAI生成画像予めご了承ください。",
+ "short_introduction": "「破瓜簒奪3」の追加コンテンツです。※背景、カード裏面のデザインはAI生成画像予めご了承ください。",
+ "options": [
+  "AIP",
+  "REV",
+  "ORW"
+ ],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01434312.html",
+ "site_id": "home",
+ "fetched_at": 1794948155
+}

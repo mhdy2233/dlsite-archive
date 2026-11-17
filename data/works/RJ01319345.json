@@ -1,0 +1,229 @@
+{
+ "id": "RJ01319345",
+ "title": "遥豊のサレテ",
+ "title_romaji": "youhounosarete",
+ "circle": {
+  "id": "RG01016832",
+  "name": "機世語堂",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01016832.html"
+ },
+ "type": {
+  "code": "ACN",
+  "name": "アクション",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "all",
+ "sex": 1,
+ "price": {
+  "jpy": 550,
+  "official_jpy": 550,
+  "currencies": {
+   "USD": 3.4467005362439362,
+   "EUR": 3.1321612596071926,
+   "GBP": 2.6133256802486744,
+   "TWD": 113.62932049666342,
+   "CNY": 23.015922833887807,
+   "KRW": 4602.510460251046,
+   "IDR": 63001.14547537228,
+   "VND": 88709.67741935485,
+   "THB": 116.80010193463441,
+   "SEK": 34.7927302171699,
+   "HKD": 27.046697352374206,
+   "SGD": 4.44206098707441,
+   "CAD": 4.927675167652948,
+   "MYR": 14.113456796142662,
+   "BRL": 19.611758497240093,
+   "AUD": 5.110137397657885,
+   "PHP": 220.299607466154,
+   "MXN": 63.93936223392506,
+   "NZD": 6.260443558117405,
+   "INR": 323.79606734958196
+  }
+ },
+ "point": {
+  "point_amount": 30,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1741071600,
+ "file": {
+  "type": "EXE",
+  "size": 309016078
+ },
+ "tags": [],
+ "languages": [
+  "JPN"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [],
+ "rating": {
+  "average": 4.68,
+  "count": 306
+ },
+ "review_count": 15,
+ "dl_count": 1388,
+ "wishlist_count": 943,
+ "ranking": [
+  {
+   "category": "game",
+   "period": "month",
+   "rank": 91,
+   "date": "2025-04-01"
+  }
+ ],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01320000/RJ01319345_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ01320000/RJ01319345_img_main_240x240.jpg",
+  "samples": [
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01320000/RJ01319345_img_smp1.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01320000/RJ01319345_img_smp2.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01320000/RJ01319345_img_smp3.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01320000/RJ01319345_img_smp4.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01320000/RJ01319345_img_smp5.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01320000/RJ01319345_img_smp6.jpg"
+  ],
+  "sample_thumbs": [
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01320000/RJ01319345_img_smp1_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01320000/RJ01319345_img_smp2_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01320000/RJ01319345_img_smp3_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01320000/RJ01319345_img_smp4_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01320000/RJ01319345_img_smp5_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01320000/RJ01319345_img_smp6_100x100.jpg"
+  ],
+  "alt": "遥豊のサレテ [機世語堂]"
+ },
+ "introductions": [
+  {
+   "type": "text",
+   "title": "概要",
+   "body": [
+    {
+     "intro": "本作はサバイバーライクの戦闘システムに、アイテム合成やアイテムビルド構築、土地の育成、RPG的なストーリーといった要素を加えたゲームです。<br />\n様々な手段で強力なアイテムをクラフトし、敵を薙ぎ払いながら舞台となるラピスマチェリアを覆おうとする異常を解明しましょう。<br />\n<br />\n<br />\n■動作について<br />\nこのゲームはWOLF RPGエディターで制作しており、WOLF RPGエディターのゲームが動く環境ならば動作自体は行われると思います。しかしサバイバーライクなため負荷が高く、場合によってはスムーズに動作が行えない可能性があります。<br />\n購入前に体験版で動作確認をお願いします。また体験版では負荷確認用のセーブデータがあり、高負荷の状態でも動作するか確かめる事ができます。<br />\n<br />\nゲームの動作が重い場合、オプションでヒットエフェクトを無効化すると改善する場合があります。<br />\n<br />\n■体験版について<br />\n体験版のセーブデータは製品版に引き継げません。ご了承ください。<br />\n体験版にはあらかじめセーブデータがあります。このセーブデータは負荷確認用の特殊なセーブデータになっています。<br />\n詳細は体験版のReadMeをご確認ください。<br />\n<br />\n■不具合やご意見があればこちらにコメントください<br />\n<a href=\"https://ci-en.net/creator/18991/article/1379205\" target=\"_blank\">https://ci-en.net/creator/18991/article/1379205</a><br />\n<br />\n■新コンテンツ「闇の回廊」実装！<br />\nV2.0の大型アップデートでコンテンツ「闇の回廊」が実装されました。<br />\n「闇の回廊」コンテンツをプレイするには本編をクリアした後に、<br />\nユイリスの家に移動してください<br />\n<br />\n■実況・配信などについて<br />\n自由にしていただいて構いません。<br />\nまた本作の紹介等のためにスクリーンショットを利用する行為も自由にしていただいて構いません。<br />\nただし本作から素材を引き抜いて利用する事はご遠慮ください。"
+    }
+   ]
+  },
+  {
+   "type": "image",
+   "title": "ヴァンサバライクのシンプルかつ派手なアクション",
+   "body": [
+    {
+     "intro": "本作の戦闘パートは移動とレベルアップ時のアイテム選択だけのシンプルな操作。攻撃は自動で行う。<br />\r\n登場武器は32種類以上、パッシヴ・インスタントが16種類以上。<br />\r\n合計で48種類以上のアイテムが登場する。<br />\r\n<br />\r\n各アイテムには後述の『特性』が付与されており、<br />\r\n『特性』によりその武器の性能が変化する。",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ01320000/RJ01319345/d29789f9194399abe940b0a14652786a.jpg",
+      "alt": "遥豊のサレテ [機世語堂]",
+      "title": "遥豊のサレテ [機世語堂]"
+     },
+     "position": "left"
+    }
+   ]
+  },
+  {
+   "type": "image",
+   "title": "奥深いアイテム合成",
+   "body": [
+    {
+     "intro": "『クラフト』では決められたアイテムだけで合成するだけではなく、ある程度素材が緩いものもある。<br />\r\n最適な素材を選んで合成しよう。<br />\r\n<br />\r\n素材も含め全ての素材には『品質』があり、『特性』を持つものもある。<br />\r\n『特性』は3つまで付与される。<br />\r\n『品質』が高いほどに攻撃力が上がったり、効果量が上昇する。<br />\r\n<br />\r\n『特性』には攻撃力や範囲、品質を向上させるシンプルなものから追加の攻撃法を得るような驚きの効果もある。<br />\r\nアイテムや装備編成に応じた最適な『特性』を付与していこう。",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ01320000/RJ01319345/ccd19488628187a6b34ac8610e5b761c.jpg",
+      "alt": "遥豊のサレテ [機世語堂]",
+      "title": "遥豊のサレテ [機世語堂]"
+     },
+     "position": "left"
+    }
+   ]
+  },
+  {
+   "type": "image",
+   "title": "装備編成",
+   "body": [
+    {
+     "intro": "アイテムは装備しないと意味がない!<br />\r\n戦闘でのレベルアップ時に抽選されるアイテムはこの装備編成で編成されているアイテムから選ばれる。<br />\r\nクラフトで作った強力なアイテムを編成し、戦闘を有利に進めよう。",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ01320000/RJ01319345/630ae06cb28b1328bbec3524a7d0ed0a.jpg",
+      "alt": "遥豊のサレテ [機世語堂]",
+      "title": "遥豊のサレテ [機世語堂]"
+     },
+     "position": "left"
+    }
+   ]
+  },
+  {
+   "type": "image",
+   "title": "土地の育成",
+   "body": [
+    {
+     "intro": "土地を育成すると、その土地でより強い素材をたくさん入手できるようになる。<br />\r\nまた土地の属性を調整し、入手素材の特性や属性に変化を与えたり、付加素材を追加して好みの素材を入手できるようになる。",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ01320000/RJ01319345/3438c24b7eb1db8afa493eb91cc38106.jpg",
+      "alt": "遥豊のサレテ [機世語堂]",
+      "title": "遥豊のサレテ [機世語堂]"
+     },
+     "position": "left"
+    }
+   ]
+  },
+  {
+   "type": "image_list",
+   "title": "登場人物紹介",
+   "body": [
+    {
+     "intro": "サレテルーチェ・シルヴァント<br />\r\n<br />\r\n主人公<br />\r\n名門貴族の生まれで、家を出てクラフターになった。<br />\r\nクラフターとしての腕が悪いわけではないのが、とある事情でその店は全く上手くいっていない。<br />\r\n<br />\r\nクラフターとしての技術に加え、貴族としての教養とそれなりの戦闘力を持つ。<br />\r\n『仕掛け鞄』と多数のアイテムを使う事で大量の魔獣とも渡り合っていく。",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ01320000/RJ01319345/e1e69df18ec28bff06998a1628d38e86.jpg",
+      "alt": "遥豊のサレテ [機世語堂]",
+      "title": "遥豊のサレテ [機世語堂]"
+     }
+    },
+    {
+     "intro": "ルルフェ・アルカ<br />\r\n<br />\r\nサレテの友人<br />\r\nラピスマチェリアの生まれで、都市の外に出た事はない。<br />\r\n今回の件を面白がってサレテについていく。<br />\r\n<br />\r\n頭が悪いわけではないが、知識は色々と不足してる。<br />\r\n特別な技能を持っているわけではないが、様々な事柄に臆せずに突っ込んでいく。",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ01320000/RJ01319345/90b67dc0787a26918c00598faacf098a.jpg",
+      "alt": "遥豊のサレテ [機世語堂]",
+      "title": "遥豊のサレテ [機世語堂]"
+     }
+    },
+    {
+     "intro": "イヴェナ・ラピスマチェリア<br />\r\n<br />\r\n舞台となる都市、ラピスマチェリアを統治する貴族<br />\r\n『仕掛け鞄』という魔道具を前払いの報酬に、とある問題の調査と解決をサレテに依頼する。<br />\r\n<br />\r\n街からのクエストをサレテに斡旋するほか、サレテの土地改良に興味を示し報酬を与える等、金銭面のサポートを行う。",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ01320000/RJ01319345/f30e24e6c99fb5372d448d7bcf28d753.jpg",
+      "alt": "遥豊のサレテ [機世語堂]",
+      "title": "遥豊のサレテ [機世語堂]"
+     }
+    },
+    {
+     "intro": "ユイリス・マール<br />\r\n<br />\r\n『魔獣』を研究する学者。<br />\r\nイヴェナに良くしてもらった事と、自分の研究に役立つ事からサレテに協力する。<br />\r\n<br />\r\n研究者としての確かな知識を持ち、サレテ達を知識面でサポートしていく。<br />\r\n加えて生計を立てるために本の仕入れ販売もしており、アイテムレシピの販売もしてくれる。",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ01320000/RJ01319345/ac7f7fbc678ece41f7d0104681e43e2d.jpg",
+      "alt": "遥豊のサレテ [機世語堂]",
+      "title": "遥豊のサレテ [機世語堂]"
+     }
+    }
+   ]
+  }
+ ],
+ "description": "アイテム合成×ヴァンサバライク×土地強化。斜陽クラフターの主人公サレテは領主イヴェナとの出会いを経て魔獣の大量発生の調査に乗り出す事になる。強力な武器やアイテムをクラフトしてイヴェナの依頼を達成しよう。",
+ "short_introduction": "アイテム合成×ヴァンサバライク×土地強化。斜陽クラフターの主人公サレテは領主イヴェナとの出会いを経て魔獣の大量発生の調査に乗り出す事になる。強力な武器やアイテムをクラフトしてイヴェナの依頼を達成しよう。",
+ "options": [
+  "MS2",
+  "REV",
+  "TRI",
+  "ORW"
+ ],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01319345.html",
+ "site_id": "home",
+ "fetched_at": 1794949083
+}

@@ -1,0 +1,167 @@
+{
+ "id": "RJ01502024",
+ "title": "メ○ガキ格闘技わからせ",
+ "title_romaji": "mesugakikakutougiwakarase",
+ "circle": {
+  "id": "RG01035947",
+  "name": "ガールズ・ビー・ストロング",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01035947.html"
+ },
+ "type": {
+  "code": "SLN",
+  "name": "シミュレーション",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "r18",
+ "sex": 1,
+ "price": {
+  "jpy": 110,
+  "official_jpy": 110,
+  "currencies": {
+   "USD": 0.6893401072487872,
+   "EUR": 0.6264322519214386,
+   "GBP": 0.5226651360497349,
+   "TWD": 22.725864099332686,
+   "CNY": 4.6031845667775615,
+   "KRW": 920.5020920502093,
+   "IDR": 12600.229095074455,
+   "VND": 17741.93548387097,
+   "THB": 23.360020386926884,
+   "SEK": 6.958546043433979,
+   "HKD": 5.409339470474841,
+   "SGD": 0.888412197414882,
+   "CAD": 0.9855350335305896,
+   "MYR": 2.8226913592285325,
+   "BRL": 3.922351699448018,
+   "AUD": 1.022027479531577,
+   "PHP": 44.059921493230796,
+   "MXN": 12.787872446785013,
+   "NZD": 1.252088711623481,
+   "INR": 64.7592134699164
+  }
+ },
+ "point": {
+  "point_amount": 6,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1762268400,
+ "file": {
+  "type": "EXE",
+  "size": 61315727
+ },
+ "tags": [
+  {
+   "key": "502",
+   "name": "男主人公"
+  },
+  {
+   "key": "525",
+   "name": "ざぁ～こ♡"
+  },
+  {
+   "key": "207",
+   "name": "つるぺた"
+  },
+  {
+   "key": "012",
+   "name": "格闘"
+  },
+  {
+   "key": "024",
+   "name": "バイオレンス"
+  },
+  {
+   "key": "528",
+   "name": "本番なし"
+  },
+  {
+   "key": "143",
+   "name": "露出"
+  },
+  {
+   "key": "313",
+   "name": "リョナ"
+  }
+ ],
+ "languages": [
+  "JPN"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [],
+ "rating": {
+  "average": 3.8,
+  "count": 20
+ },
+ "review_count": 0,
+ "dl_count": 82,
+ "wishlist_count": 115,
+ "ranking": [],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01503000/RJ01502024_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ01503000/RJ01502024_img_main_240x240.jpg",
+  "samples": [
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01503000/RJ01502024_img_smp1.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01503000/RJ01502024_img_smp2.jpg"
+  ],
+  "sample_thumbs": [
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01503000/RJ01502024_img_smp1_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01503000/RJ01502024_img_smp2_100x100.jpg"
+  ],
+  "alt": "メ○ガキ格闘技わからせ [ガールズ・ビー・ストロング]"
+ },
+ "introductions": [
+  {
+   "type": "text",
+   "title": "メ○ガキを懲らしめよう",
+   "body": [
+    {
+     "intro": "メ○ガキの悪行を見かけた主人公はメ○ガキの母からの依頼で<br />\r\n格闘技で性格を矯正することに。<br />\r\n果たして主人公はメ○ガキの性格を直すことができるのか"
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "title": "シンプル格闘シミュレーション",
+   "body": [
+    {
+     "intro": "タイミングよくクリックすることでメ○ガキを攻撃できる。<br />\r\n攻撃をすることで精神力が下がっていく。<br />\r\nタイミングがずれてしまったり、クリックし損なうと逆にメ○ガキから攻撃を受ける。<br />\r\nアクション次第でメ○ガキのパワーやテクニックなどステータスが上がるぞ。<br />\r\n<br />\r\n期限までに精神力を50未満に落とすことが目的だ。"
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "title": "メ○ガキは強くなるぞ",
+   "body": [
+    {
+     "intro": "メ○ガキを育てていると主人公よりも強くなってしまうかもしれない・・・<br />\r\nそうなると立場が逆転してしまうだろう。<br />\r\nほどほどになるように注意しよう。"
+    }
+   ]
+  }
+ ],
+ "description": "メ○ガキの性格を格闘技で殴って極めて治す格闘シミュレーション",
+ "short_introduction": "メ○ガキの性格を格闘技で殴って極めて治す格闘シミュレーション",
+ "options": [
+  "MS2",
+  "TRI",
+  "OLY",
+  "RegionHiddenFilter"
+ ],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01502024.html",
+ "site_id": "maniax",
+ "fetched_at": 1794947348
+}

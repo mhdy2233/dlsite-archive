@@ -1,0 +1,166 @@
+{
+ "id": "RJ01280361",
+ "title": "Solar Blaster",
+ "title_romaji": "sooraaburasutaa",
+ "circle": {
+  "id": "RG07650",
+  "name": "Old Style Factory",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG07650.html"
+ },
+ "type": {
+  "code": "STG",
+  "name": "シューティング",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "all",
+ "sex": 1,
+ "price": {
+  "jpy": 1100,
+  "official_jpy": 1100,
+  "currencies": {
+   "USD": 6.8934010724878725,
+   "EUR": 6.264322519214385,
+   "GBP": 5.226651360497349,
+   "TWD": 227.25864099332685,
+   "CNY": 46.03184566777561,
+   "KRW": 9205.020920502093,
+   "IDR": 126002.29095074456,
+   "VND": 177419.3548387097,
+   "THB": 233.60020386926882,
+   "SEK": 69.5854604343398,
+   "HKD": 54.09339470474841,
+   "SGD": 8.88412197414882,
+   "CAD": 9.855350335305896,
+   "MYR": 28.226913592285324,
+   "BRL": 39.223516994480185,
+   "AUD": 10.22027479531577,
+   "PHP": 440.599214932308,
+   "MXN": 127.87872446785012,
+   "NZD": 12.52088711623481,
+   "INR": 647.5921346991639
+  }
+ },
+ "point": {
+  "point_amount": 60,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1734102000,
+ "file": {
+  "type": "EXE",
+  "size": 59286603
+ },
+ "tags": [
+  {
+   "key": "431",
+   "name": "ドット"
+  }
+ ],
+ "languages": [
+  "JPN",
+  "ENG"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [],
+ "rating": {
+  "average": 4.2,
+  "count": 5
+ },
+ "review_count": 1,
+ "dl_count": 34,
+ "wishlist_count": 47,
+ "ranking": [],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01281000/RJ01280361_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ01281000/RJ01280361_img_main_240x240.jpg",
+  "samples": [
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01281000/RJ01280361_img_smp1.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01281000/RJ01280361_img_smp2.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01281000/RJ01280361_img_smp3.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01281000/RJ01280361_img_smp4.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01281000/RJ01280361_img_smp5.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01281000/RJ01280361_img_smp6.jpg"
+  ],
+  "sample_thumbs": [
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01281000/RJ01280361_img_smp1_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01281000/RJ01280361_img_smp2_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01281000/RJ01280361_img_smp3_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01281000/RJ01280361_img_smp4_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01281000/RJ01280361_img_smp5_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01281000/RJ01280361_img_smp6_100x100.jpg"
+  ],
+  "alt": "Solar Blaster [Old Style Factory]"
+ },
+ "introductions": [
+  {
+   "type": "image",
+   "title": "「地形が最大の敵」",
+   "body": [
+    {
+     "intro": "全9ステージ×3タイプのレトロスタイルな横スクロールシューティングゲームです。<br />\n各ステージには基本となる「通常ステージ」、スコアアタック向けの「スコアアタックステージ」、2周目に相当する通常ステージとは構成が異なる「エクストラステージ」の3パターン用意されています。<br />\nガンガンリトライして攻略しよう!<br />\n<br />\n※「スコアアタックステージ」「エクストラステージ」は通常ステージのステージ9をクリアすると解放され選択できるようになります。<br />\n<br />\n残機無制限でミス9回以内でクリアすると次のステージが解放される「CASUAL」、ミス3回以内でステージを攻略する「STANDARD」の2つのモードがあります。<br />\n<br />\n※CASUAL、STANDARDでステージの構成そのものは変わりません",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ01281000/RJ01280361/7bac4484819cc29d76af8eede29fd081.jpg",
+      "alt": "Solar Blaster [Old Style Factory]",
+      "title": "Solar Blaster [Old Style Factory]"
+     },
+     "position": "left"
+    }
+   ]
+  },
+  {
+   "type": "image",
+   "title": "待ち構えるボスを倒せ!",
+   "body": [
+    {
+     "intro": "ステージの最後にはさまざまなボスが!",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ01281000/RJ01280361/a6cdf3a6fe6bd0bafd54e0efe46e40cd.jpg",
+      "alt": "Solar Blaster [Old Style Factory]",
+      "title": "Solar Blaster [Old Style Factory]"
+     },
+     "position": "left"
+    }
+   ]
+  },
+  {
+   "type": "image",
+   "title": "目指せハイスコア!",
+   "body": [
+    {
+     "intro": "連続で敵を倒すとチェーンが発生してスコアが倍に!<br />\nSTANDARDモードではステージごとにハイスコアと最大チェーン数が記録されます。<br />\n<br />\n※CASUALモードではハイスコア・最大チェーンは記録されません。",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ01281000/RJ01280361/5d7aeab6d355d92eeda0f6c442dbdb30.jpg",
+      "alt": "Solar Blaster [Old Style Factory]",
+      "title": "Solar Blaster [Old Style Factory]"
+     },
+     "position": "left"
+    }
+   ]
+  }
+ ],
+ "description": "「地形が最大の敵」そんなレトロな横スクロールSTG!",
+ "short_introduction": "「地形が最大の敵」そんなレトロな横スクロールSTG!",
+ "options": [
+  "MS2",
+  "REV",
+  "TRI",
+  "ORW"
+ ],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01280361.html",
+ "site_id": "home",
+ "fetched_at": 1794949688
+}

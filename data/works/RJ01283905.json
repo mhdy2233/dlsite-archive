@@ -1,0 +1,202 @@
+{
+ "id": "RJ01283905",
+ "title": "Dungeon Flowy",
+ "title_romaji": "danjonfuroowii",
+ "circle": {
+  "id": "RG01029285",
+  "name": "Catalion",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01029285.html"
+ },
+ "type": {
+  "code": "RPG",
+  "name": "ロールプレイング",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "all",
+ "sex": 1,
+ "price": {
+  "jpy": 550,
+  "official_jpy": 550,
+  "currencies": {
+   "USD": 3.4467005362439362,
+   "EUR": 3.1321612596071926,
+   "GBP": 2.6133256802486744,
+   "TWD": 113.62932049666342,
+   "CNY": 23.015922833887807,
+   "KRW": 4602.510460251046,
+   "IDR": 63001.14547537228,
+   "VND": 88709.67741935485,
+   "THB": 116.80010193463441,
+   "SEK": 34.7927302171699,
+   "HKD": 27.046697352374206,
+   "SGD": 4.44206098707441,
+   "CAD": 4.927675167652948,
+   "MYR": 14.113456796142662,
+   "BRL": 19.611758497240093,
+   "AUD": 5.110137397657885,
+   "PHP": 220.299607466154,
+   "MXN": 63.93936223392506,
+   "NZD": 6.260443558117405,
+   "INR": 323.79606734958196
+  }
+ },
+ "point": {
+  "point_amount": 30,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1732806000,
+ "file": {
+  "type": "EXE",
+  "size": 79807627
+ },
+ "tags": [],
+ "languages": [
+  "JPN",
+  "ENG"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [],
+ "rating": {
+  "average": 4.33,
+  "count": 6
+ },
+ "review_count": 0,
+ "dl_count": 45,
+ "wishlist_count": 63,
+ "ranking": [],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01284000/RJ01283905_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ01284000/RJ01283905_img_main_240x240.jpg",
+  "samples": [
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01284000/RJ01283905_img_smp1.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01284000/RJ01283905_img_smp2.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01284000/RJ01283905_img_smp3.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01284000/RJ01283905_img_smp4.jpg"
+  ],
+  "sample_thumbs": [
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01284000/RJ01283905_img_smp1_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01284000/RJ01283905_img_smp2_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01284000/RJ01283905_img_smp3_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01284000/RJ01283905_img_smp4_100x100.jpg"
+  ],
+  "alt": "Dungeon Flowy [Catalion]"
+ },
+ "introductions": [
+  {
+   "type": "text",
+   "title": "オートバトル×ハクスラ",
+   "body": [
+    {
+     "intro": "6人パーティで好きなジョブを割り当ててダンジョンの最奥を目指すオートバトルのハクスラRPG。"
+    }
+   ]
+  },
+  {
+   "type": "image",
+   "title": "ジョブの特徴を理解してパーティを組もう",
+   "body": [
+    {
+     "intro": "ジョブは10種類以上あり、ステータスとスキルが異なる。攻撃が得意なジョブや回復が使えるジョブなど、そのジョブの強みを理解してパーティ構成を考えるのが大切。",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ01284000/RJ01283905/25a1964c89c1b29efb953d5b89c5f32c.jpg",
+      "alt": "Dungeon Flowy [Catalion]",
+      "title": "Dungeon Flowy [Catalion]"
+     },
+     "position": "left"
+    }
+   ]
+  },
+  {
+   "type": "image",
+   "title": "アイテムと宝箱を拾いながらダンジョンを突き進め",
+   "body": [
+    {
+     "intro": "ダンジョンは各層毎に3つのルートから選択するだけ。選択したら自動で落ちているアイテムと宝箱を拾いながら階段まで進む。階段の前には必ず1回戦闘がある。",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ01284000/RJ01283905/edbfdcc727cdcbb62587e0db769eb51d.jpg",
+      "alt": "Dungeon Flowy [Catalion]",
+      "title": "Dungeon Flowy [Catalion]"
+     },
+     "position": "left"
+    }
+   ]
+  },
+  {
+   "type": "image",
+   "title": "アイテムを使ってバトルを有利に進めよう",
+   "body": [
+    {
+     "intro": "オートバトルなので味方は自動でスキルを使う。<br />\r\nプレイヤーが介入できるのはウェーブ開始時にのみ使用できるアイテムのみ。ダンジョンから出るとアイテムは失われるのでピンチな時や強敵が出てきたら積極的に使おう。",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ01284000/RJ01283905/4acd531df2078dcd671ad862c34afe7f.jpg",
+      "alt": "Dungeon Flowy [Catalion]",
+      "title": "Dungeon Flowy [Catalion]"
+     },
+     "position": "left"
+    }
+   ]
+  },
+  {
+   "type": "image_list",
+   "title": "装備でキャラクターの行動を制御しよう",
+   "body": [
+    {
+     "intro": "オートバトルで各キャラクターは自動で使用確率に基づいてスキルを使う。この確率は一部の装備で変動させることができる。ある特定のスキルの使用確率を上げて連発させるか、逆に基礎ステータスだけ上げてスキルはランダムに任せるか。パーティ全体のシナジーも考えながらキャラクターの行動を制御しよう。",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ01284000/RJ01283905/63808982bc5fa272f0934076b458f4b5.jpg",
+      "alt": "Dungeon Flowy [Catalion]",
+      "title": "Dungeon Flowy [Catalion]"
+     }
+    },
+    {
+     "intro": "拾った宝箱は4層毎に開けて装備を更新することができる。ただし、スキップすることも可能。本作では宝箱は開けた階層で質が決まるため、より奥で開けた方が良いものが出る。",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ01284000/RJ01283905/bb0979003aed308d82bf9e1eafb32572.jpg",
+      "alt": "Dungeon Flowy [Catalion]",
+      "title": "Dungeon Flowy [Catalion]"
+     }
+    }
+   ]
+  },
+  {
+   "type": "image",
+   "title": "カスタムポートレートで自分の好きな画像をキャラアイコンにできる",
+   "body": [
+    {
+     "intro": "所定のフォルダに画像ファイルを置くとその画像をキャラクターのポートレートとして使用することができる。",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ01284000/RJ01283905/2ff4b72b5b07949512a9ec9e4dc245df.jpg",
+      "alt": "Dungeon Flowy [Catalion]",
+      "title": "Dungeon Flowy [Catalion]"
+     },
+     "position": "over"
+    }
+   ]
+  }
+ ],
+ "description": "オートバトルのハクスラRPG。6人パーティで好きなジョブを組み合わせてダンジョンの最奥を目指せ。自動でスキルを使うキャラクターを装備で制御するのが攻略のコツ。",
+ "short_introduction": "オートバトルのハクスラRPG。6人パーティで好きなジョブを組み合わせてダンジョンの最奥を目指せ。自動でスキルを使うキャラクターを装備で制御するのが攻略のコツ。",
+ "options": [
+  "MS2",
+  "TRI",
+  "ORW"
+ ],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01283905.html",
+ "site_id": "home",
+ "fetched_at": 1794949811
+}

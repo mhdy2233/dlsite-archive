@@ -1,0 +1,116 @@
+{
+ "id": "RJ01506416",
+ "title": "当社は倒産しました。",
+ "title_romaji": "toushahatousanshimashita",
+ "circle": {
+  "id": "RG01058885",
+  "name": "禄堂之辻",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01058885.html"
+ },
+ "type": {
+  "code": "ACN",
+  "name": "アクション",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "all",
+ "sex": 1,
+ "price": {
+  "jpy": 110,
+  "official_jpy": 110,
+  "currencies": {
+   "USD": 0.6893401072487872,
+   "EUR": 0.6264322519214386,
+   "GBP": 0.5226651360497349,
+   "TWD": 22.725864099332686,
+   "CNY": 4.6031845667775615,
+   "KRW": 920.5020920502093,
+   "IDR": 12600.229095074455,
+   "VND": 17741.93548387097,
+   "THB": 23.360020386926884,
+   "SEK": 6.958546043433979,
+   "HKD": 5.409339470474841,
+   "SGD": 0.888412197414882,
+   "CAD": 0.9855350335305896,
+   "MYR": 2.8226913592285325,
+   "BRL": 3.922351699448018,
+   "AUD": 1.022027479531577,
+   "PHP": 44.059921493230796,
+   "MXN": 12.787872446785013,
+   "NZD": 1.252088711623481,
+   "INR": 64.7592134699164
+  }
+ },
+ "point": {
+  "point_amount": 6,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1762873200,
+ "file": {
+  "type": "EXE",
+  "size": 159101702
+ },
+ "tags": [
+  {
+   "key": "509",
+   "name": "3D作品"
+  }
+ ],
+ "languages": [
+  "JPN"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [],
+ "rating": {
+  "average": null,
+  "count": null
+ },
+ "review_count": 0,
+ "dl_count": 9,
+ "wishlist_count": 5,
+ "ranking": [],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01507000/RJ01506416_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ01507000/RJ01506416_img_main_240x240.jpg",
+  "samples": [
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01507000/RJ01506416_img_smp1.jpg"
+  ],
+  "sample_thumbs": [
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01507000/RJ01506416_img_smp1_100x100.jpg"
+  ],
+  "alt": "当社は倒産しました。 [禄堂之辻]"
+ },
+ "introductions": [
+  {
+   "type": "text",
+   "title": "キーボードだけでビルを破壊！ピクトさんの頭を落とせ",
+   "body": [
+    {
+     "intro": "作品概要<br />\n<br />\n突如倒産した会社に勤めるピクトさん。<br />\nあなたはその屋上からピクトさんの頭を成長させ、落下させて会社のビルを破壊します。<br />\n物理演算と成長する頭のサイズ感を活かして、次々と足場を飛び移り、ビルを崩壊させましょう。<br />\n<br />\nゲームの特徴<br />\nピクトさんの頭は、接触した足場ごとに少しずつ大きくなる<br />\n頭の成長に応じてジャンプ力・移動速度も増加<br />\n足場の寿命は最大20秒。出現場所はランダムだが重なりはなし<br />\nビルの屋上から落下させることで破壊演出を楽しめる<br />\nスコア制で、どれだけ効率よく破壊できるかを競える<br />\n<br />\n操作方法<br />\n矢印キー:移動<br />\nスペースキー:ジャンプ<br />\nWASD:カメラ操作(進行方向を中心に)<br />\nQ / E:カメラ距離の調整(自動でも調整可)<br />\n<br />\n遊び方のコツ<br />\n足場の高さを見極め、次に乗る足場を選ぶ<br />\n足場の寿命を考えつつ成長を活かして効率よくジャンプ<br />\n頭が大きくなったら、ビル破壊のスコアもアップ<br />\n<br />\n推奨環境<br />\nWindows 10 / 11<br />\nCPU:Core i5-8200Y 以上<br />\nグラフィック:内蔵GPUでもプレイ可能<br />\nメモリ:4GB以上"
+    }
+   ]
+  }
+ ],
+ "description": "倒産した会社を、成長する頭で粉砕せよ！",
+ "short_introduction": "倒産した会社を、成長する頭で粉砕せよ！",
+ "options": [
+  "ORW"
+ ],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01506416.html",
+ "site_id": "home",
+ "fetched_at": 1794947294
+}

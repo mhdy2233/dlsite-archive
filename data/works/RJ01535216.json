@@ -1,0 +1,219 @@
+{
+ "id": "RJ01535216",
+ "title": "蒼キ光と魔剣の鍛冶師_全年齢版",
+ "title_romaji": "aokihikaritomakennoburakkusumisu",
+ "circle": {
+  "id": "RG38162",
+  "name": "Ason",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG38162.html"
+ },
+ "type": {
+  "code": "RPG",
+  "name": "ロールプレイング",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "all",
+ "sex": 1,
+ "price": {
+  "jpy": 2310,
+  "official_jpy": 2310,
+  "currencies": {
+   "USD": 14.476142252224532,
+   "EUR": 13.15507729035021,
+   "GBP": 10.975967857044433,
+   "TWD": 477.2431460859864,
+   "CNY": 96.6668759023288,
+   "KRW": 19330.543933054396,
+   "IDR": 264604.8109965636,
+   "VND": 372580.64516129036,
+   "THB": 490.56042812546457,
+   "SEK": 146.12946691211357,
+   "HKD": 113.59612887997167,
+   "SGD": 18.65665614571252,
+   "CAD": 20.69623570414238,
+   "MYR": 59.276518543799185,
+   "BRL": 82.36938568840839,
+   "AUD": 21.462577070163118,
+   "PHP": 925.2583513578467,
+   "MXN": 268.54532138248527,
+   "NZD": 26.2938629440931,
+   "INR": 1359.9434828682442
+  }
+ },
+ "point": {
+  "point_amount": 126,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1766818800,
+ "file": {
+  "type": "EXE",
+  "size": 2625435503
+ },
+ "tags": [
+  {
+   "key": "510",
+   "name": "ツクール"
+  },
+  {
+   "key": "431",
+   "name": "ドット"
+  },
+  {
+   "key": "016",
+   "name": "ファンタジー"
+  }
+ ],
+ "languages": [
+  "CHI_HANS",
+  "CHI_HANT",
+  "KO_KR",
+  "JPN",
+  "ENG",
+  "CHI"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [],
+ "rating": {
+  "average": null,
+  "count": null
+ },
+ "review_count": 0,
+ "dl_count": 18,
+ "wishlist_count": 115,
+ "ranking": [],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01536000/RJ01535216_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ01536000/RJ01535216_img_main_240x240.jpg",
+  "samples": [
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01536000/RJ01535216_img_smp1.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01536000/RJ01535216_img_smp2.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01536000/RJ01535216_img_smp3.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01536000/RJ01535216_img_smp4.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01536000/RJ01535216_img_smp5.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01536000/RJ01535216_img_smp6.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01536000/RJ01535216_img_smp7.jpg"
+  ],
+  "sample_thumbs": [
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01536000/RJ01535216_img_smp1_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01536000/RJ01535216_img_smp2_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01536000/RJ01535216_img_smp3_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01536000/RJ01535216_img_smp4_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01536000/RJ01535216_img_smp5_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01536000/RJ01535216_img_smp6_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01536000/RJ01535216_img_smp7_100x100.jpg"
+  ],
+  "alt": "蒼キ光と魔剣の鍛冶師_全年齢版 [Ason]"
+ },
+ "introductions": [
+  {
+   "type": "text",
+   "title": "どんなゲーム?",
+   "body": [
+    {
+     "intro": "入るたびにマップがランダムに生成される、「不○議のダンジョン」風ローグライクRPG！<br />\n体の侵食が限界に達すまでに、敵を倒しながら進んでいこう。<br />\n武器をその場で調達した素材で作れる！様々なスキル、アイテムを駆使して戦いに挑もう！<br />\n<br />\n女性キャラクターは全員実力派声優によるフルボイスとLive2Dによるアニメーション付き！<br />\nより一層物語の世界に引き込んでくれます。<br />\n<br />\n■こんな人にオススメ！<br />\n・「不○議のダンジョン」風のRPGが好き<br />\n・遊び応えのあるローグライクが好き<br />\n・難易度高めのチャレンジが好き<br />\n<br />\n※よくある質問については、こちらの記事をご覧ください。<br />\n<a href=\"https://ci-en.net/creator/6217/article/1713536\" target=\"_blank\">https://ci-en.net/creator/6217/article/1713536</a><br />\n<br />\n※注意事項<br />\n<br />\n本商品は同名商品の全年齢版となっており、成人向け版は別にあります。<br />\nご購入時にお気をつけくださいませ。<br />\n<br />\n成人向け版:<br />\n<a href=\"https://www.dlsite.com/maniax/work/=/product_id/RJ309598.html\" target=\"_blank\">https://www.dlsite.com/maniax/work/=/product_id/RJ309598.html</a>"
+    }
+   ]
+  },
+  {
+   "type": "image",
+   "title": "物語",
+   "body": [
+    {
+     "intro": "目を覚ますと、そこは漆黒の暗闇。<br />\r\nその中に突如現れる一筋の光が、唯一の救いだった。<br />\r\nだがその青い光もやがて紅に染まり、再び意識が遠のく…<br />\r\n<br />\r\n意識が戻ると、そこは見知らぬ荒れた地。<br />\r\n見覚えのない少女が、訳のわからない事を話している。<br />\r\n「避難所」、「使命」、「侵食」、「死」…<br />\r\n真実を掴むために、やるべき事はただ一つ。<br />\r\nこの手にある黒い剣を持って、「この世界」に抗い続ける事…",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ01536000/RJ01535216/9f90d52c6343b72e864a6bb0041aa447.jpg",
+      "alt": "蒼キ光と魔剣の鍛冶師_全年齢版 [Ason]",
+      "title": "蒼キ光と魔剣の鍛冶師_全年齢版 [Ason]"
+     },
+     "position": "over"
+    }
+   ]
+  },
+  {
+   "type": "image",
+   "title": "ローグライク　×　鍛冶屋　× ソウルライク　ダンジョン探索RPG",
+   "body": [
+    {
+     "intro": "「この世界」の真実にたどり着くために、ランダム生成のダンジョンに挑みます。<br />\r\n一歩間違えれば命取り！緻密な戦略を立てて探索しよう。<br />\r\n<br />\r\n迫力満点のボス戦も！<br />\r\n持てるもの「すべて」を出し惜しみせずぶつけよう！",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ01536000/RJ01535216/458df37638ed36b422da632a63909cc1.jpg",
+      "alt": "蒼キ光と魔剣の鍛冶師_全年齢版 [Ason]",
+      "title": "蒼キ光と魔剣の鍛冶師_全年齢版 [Ason]"
+     },
+     "position": "over"
+    }
+   ]
+  },
+  {
+   "type": "image",
+   "title": "武器を「作って壊す！」",
+   "body": [
+    {
+     "intro": "素材を集めて、その場で武器を生成、強化！<br />\r\n同じ武器でも違う素材で能力が変化します。<br />\r\n<br />\r\n個性あふれる武器・スキルは100種類以上！<br />\r\n<br />\r\n壊した武器も破片になって次なる武器の糧となり更に強くなる！<br />\r\n武器を壊して作って、壊して作って、理不尽なダンジョンを攻略しよう！",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ01536000/RJ01535216/ed4c52076a67b22a4cdb6ec8a7023cb7.jpg",
+      "alt": "蒼キ光と魔剣の鍛冶師_全年齢版 [Ason]",
+      "title": "蒼キ光と魔剣の鍛冶師_全年齢版 [Ason]"
+     },
+     "position": "over"
+    }
+   ]
+  },
+  {
+   "type": "image_list",
+   "title": "キャラクター紹介",
+   "body": [
+    {
+     "intro": "謎の案内人<br />\r\nドロエル<br />\r\nCV:雨宮涼<br />\r\n<br />\r\n「侵食も、呪いも、何もかも…<br />\r\n　私が全て受け止めるから…」<br />\r\n<br />\r\n純白なる聖騎士<br />\r\nレツィア<br />\r\nCV:浅木式<br />\r\n<br />\r\n「クジュフのご加護が、<br />\r\n　あなたに前に進む力を与えるように。」",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ01536000/RJ01535216/46297379243f07e759ad013d0226f92f.jpg",
+      "alt": "蒼キ光と魔剣の鍛冶師_全年齢版 [Ason]",
+      "title": "蒼キ光と魔剣の鍛冶師_全年齢版 [Ason]"
+     }
+    },
+    {
+     "intro": "わんぱくトレジャーハンター<br />\r\nスキュワー<br />\r\nCV:藤村莉央<br />\r\n<br />\r\n「串焼きの次に、<br />\r\n　キラキラなお宝が大好きだにゃ♪」<br />\r\n<br />\r\n頼れる修理屋<br />\r\nシャノア<br />\r\nCV:緑野らいむ<br />\r\n<br />\r\n「どう?出発前の景気づけに、<br />\r\n　お姉ちゃんと飲まない?」",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ01536000/RJ01535216/52bdeb3183af73e3f21a05276d59c44e.jpg",
+      "alt": "蒼キ光と魔剣の鍛冶師_全年齢版 [Ason]",
+      "title": "蒼キ光と魔剣の鍛冶師_全年齢版 [Ason]"
+     }
+    },
+    {
+     "intro": "怒れる魔の手<br />\r\nスタンガ<br />\r\nCV:竹早芽衣<br />\r\n<br />\r\n「貸してやった力を上手く使って、<br />\r\n　アタシとの取引をやり遂げろ。」<br />\r\n<br />\r\n瀟洒たる統治者<br />\r\nノクセル<br />\r\nCV:かづき葵<br />\r\n<br />\r\n「次に目を開けた時…<br />\r\n　君はまだ君でいられるかな?」",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ01536000/RJ01535216/38fb750f0277bee1ce62637ec8de619b.jpg",
+      "alt": "蒼キ光と魔剣の鍛冶師_全年齢版 [Ason]",
+      "title": "蒼キ光と魔剣の鍛冶師_全年齢版 [Ason]"
+     }
+    }
+   ]
+  }
+ ],
+ "description": "「さあ、行って。煉獄の果てまで、何度でも…」様々な武器を手に、未知の迷宮へと突き進む。自分の記憶と、この世界の真相を求めて…フルボイスで送る「不○議のダンジョン」風 ローグライク×鍛冶屋×ソウルライクRPG",
+ "short_introduction": "「さあ、行って。煉獄の果てまで、何度でも…」様々な武器を手に、未知の迷宮へと突き進む。自分の記憶と、この世界の真相を求めて…フルボイスで送る「不○議のダンジョン」風 ローグライク×鍛冶屋×ソウルライクRPG",
+ "options": [
+  "SND",
+  "MS2",
+  "TRI",
+  "ORW"
+ ],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01535216.html",
+ "site_id": "home",
+ "fetched_at": 1794946921
+}

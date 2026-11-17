@@ -1,0 +1,176 @@
+{
+ "id": "RJ01442421",
+ "title": "マンボウの大冒険",
+ "title_romaji": "manbounodaibouken",
+ "circle": {
+  "id": "RG01052675",
+  "name": "BibiPiece",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01052675.html"
+ },
+ "type": {
+  "code": "STG",
+  "name": "シューティング",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "all",
+ "sex": 1,
+ "price": {
+  "jpy": 660,
+  "official_jpy": 660,
+  "currencies": {
+   "USD": 4.1360406434927235,
+   "EUR": 3.7585935115286313,
+   "GBP": 3.1359908162984094,
+   "TWD": 136.35518459599612,
+   "CNY": 27.61910740066537,
+   "KRW": 5523.012552301256,
+   "IDR": 75601.37457044673,
+   "VND": 106451.6129032258,
+   "THB": 140.1601223215613,
+   "SEK": 41.75127626060387,
+   "HKD": 32.45603682284905,
+   "SGD": 5.330473184489292,
+   "CAD": 5.913210201183538,
+   "MYR": 16.936148155371196,
+   "BRL": 23.534110196688108,
+   "AUD": 6.132164877189462,
+   "PHP": 264.35952895938476,
+   "MXN": 76.72723468071007,
+   "NZD": 7.512532269740886,
+   "INR": 388.55528081949836
+  }
+ },
+ "point": {
+  "point_amount": 36,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1754204400,
+ "file": {
+  "type": "EXE",
+  "size": 199923108
+ },
+ "tags": [
+  {
+   "key": "431",
+   "name": "ドット"
+  },
+  {
+   "key": "051",
+   "name": "萌え"
+  },
+  {
+   "key": "206",
+   "name": "少女"
+  }
+ ],
+ "languages": [
+  "CHI_HANS",
+  "CHI_HANT",
+  "JPN",
+  "ENG",
+  "CHI"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [],
+ "rating": {
+  "average": 5,
+  "count": 6
+ },
+ "review_count": 0,
+ "dl_count": 31,
+ "wishlist_count": 141,
+ "ranking": [],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01443000/RJ01442421_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ01443000/RJ01442421_img_main_240x240.jpg",
+  "samples": [
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01443000/RJ01442421_img_smp1.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01443000/RJ01442421_img_smp2.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01443000/RJ01442421_img_smp3.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01443000/RJ01442421_img_smp4.jpg"
+  ],
+  "sample_thumbs": [
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01443000/RJ01442421_img_smp1_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01443000/RJ01442421_img_smp2_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01443000/RJ01442421_img_smp3_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01443000/RJ01442421_img_smp4_100x100.jpg"
+  ],
+  "alt": "マンボウの大冒険 [BibiPiece]"
+ },
+ "introductions": [
+  {
+   "type": "text",
+   "title": "マンボウの大冒険",
+   "body": [
+    {
+     "intro": "横スクロール型の弾幕シューティングゲームです。<br />\n<br />\nプレイヤーはマンボウを操作して、少女と一緒に海中を冒険します。<br />\n弾幕を避けて海の危険な生物を倒そう！<br />\n<br />\nプレイ時間: 約40分～2時間"
+    }
+   ]
+  },
+  {
+   "type": "image_list",
+   "title": "",
+   "body": [
+    {
+     "intro": "矢印キー: 移動<br />\nZキー: シュート<br />\nXキー: ボム(ステージ2以降で使用可能)<br />\nShiftキー: 低速移動",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ01443000/RJ01442421/535e07b4c67ec7ce4ebd6b78035aae85.jpg",
+      "alt": "マンボウの大冒険 [BibiPiece]",
+      "title": "マンボウの大冒険 [BibiPiece]"
+     }
+    },
+    {
+     "intro": "深海の敵を倒す",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ01443000/RJ01442421/41a925271d09bd36ba274c524dc8c5c1.jpg",
+      "alt": "マンボウの大冒険 [BibiPiece]",
+      "title": "マンボウの大冒険 [BibiPiece]"
+     }
+    },
+    {
+     "intro": "オリジナルBGM",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ01443000/RJ01442421/394f6d1c6ae3e4c6a222e28b6ad727b7.jpg",
+      "alt": "マンボウの大冒険 [BibiPiece]",
+      "title": "マンボウの大冒険 [BibiPiece]"
+     }
+    }
+   ]
+  },
+  {
+   "type": "text_list",
+   "title": "※AIの一部使用について",
+   "body": [
+    {
+     "intro": "このゲームの翻訳はAIによるものです。"
+    }
+   ]
+  }
+ ],
+ "description": "『マンボウの大冒険』 は、横スクロール型の弾幕シューティングゲームです。  プレイヤーはマンボウを操作して、少女と一緒に海中を冒険します。",
+ "short_introduction": "『マンボウの大冒険』 は、横スクロール型の弾幕シューティングゲームです。  プレイヤーはマンボウを操作して、少女と一緒に海中を冒険します。",
+ "options": [
+  "AIP",
+  "MS2",
+  "TRI",
+  "ORW"
+ ],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01442421.html",
+ "site_id": "home",
+ "fetched_at": 1794948050
+}

@@ -1,0 +1,123 @@
+{
+ "id": "RJ01370348",
+ "title": "夜中のドットカフェ",
+ "title_romaji": "yonakanodottokafwe",
+ "circle": {
+  "id": "RG01044050",
+  "name": "電脳工房",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01044050.html"
+ },
+ "type": {
+  "code": "DNV",
+  "name": "デジタルノベル",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "all",
+ "sex": 1,
+ "price": {
+  "jpy": 220,
+  "official_jpy": 220,
+  "currencies": {
+   "USD": 1.3786802144975745,
+   "EUR": 1.2528645038428772,
+   "GBP": 1.0453302720994697,
+   "TWD": 45.45172819866537,
+   "CNY": 9.206369133555123,
+   "KRW": 1841.0041841004186,
+   "IDR": 25200.45819014891,
+   "VND": 35483.87096774194,
+   "THB": 46.72004077385377,
+   "SEK": 13.917092086867958,
+   "HKD": 10.818678940949683,
+   "SGD": 1.776824394829764,
+   "CAD": 1.9710700670611792,
+   "MYR": 5.645382718457065,
+   "BRL": 7.844703398896036,
+   "AUD": 2.044054959063154,
+   "PHP": 88.11984298646159,
+   "MXN": 25.575744893570025,
+   "NZD": 2.504177423246962,
+   "INR": 129.5184269398328
+  }
+ },
+ "point": {
+  "point_amount": 12,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1744210800,
+ "file": {
+  "type": "EXE",
+  "size": 119914698
+ },
+ "tags": [],
+ "languages": [
+  "JPN"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [],
+ "rating": {
+  "average": null,
+  "count": null
+ },
+ "review_count": 0,
+ "dl_count": 0,
+ "wishlist_count": 5,
+ "ranking": [],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01371000/RJ01370348_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ01371000/RJ01370348_img_main_240x240.jpg",
+  "samples": [
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01371000/RJ01370348_img_smp1.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01371000/RJ01370348_img_smp2.jpg"
+  ],
+  "sample_thumbs": [
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01371000/RJ01370348_img_smp1_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01371000/RJ01370348_img_smp2_100x100.jpg"
+  ],
+  "alt": "夜中のドットカフェ [電脳工房]"
+ },
+ "introductions": [
+  {
+   "type": "text",
+   "title": "短いひと時に隠された過去とは・・・。",
+   "body": [
+    {
+     "intro": "カフェを題材にしたノベルゲーム完全最新作「夜中のドットカフェ」は落ち着きのある雰囲気と温かさで描かれるストーリーで描かれていきます。<br />\r\n<br />\r\n<br />\r\n弱っている少年が立ち寄った店、そこはとある女性が営むカフェの個人店だった。<br />\r\n閉店間近の時、少年の入店を受け入れる....。"
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "title": "メーカー情報/利用規約等",
+   "body": [
+    {
+     "intro": "配布元:電脳工房<br />\r\n制作元:電脳工房<br />\r\n<br />\r\n・ゲームのテストプレイは検証済みです。<br />\r\n<br />\r\n利用規約等はReadmeにも記載済みですが公式サイトにて記述しています。<br />\r\n問い合わせ等はReadmeに記載されているサポートフォームよりご送信ください。"
+    }
+   ]
+  }
+ ],
+ "description": "短いひと時に隠された過去とは・・・。",
+ "short_introduction": "短いひと時に隠された過去とは・・・。",
+ "options": [
+  "MS2",
+  "ORW"
+ ],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01370348.html",
+ "site_id": "home",
+ "fetched_at": 1794948847
+}

@@ -1,0 +1,129 @@
+{
+ "id": "RJ01347471",
+ "title": "Magical Dungeon(リメイク版)",
+ "title_romaji": "majikarudanjonrimeikuban",
+ "circle": {
+  "id": "RG07650",
+  "name": "Old Style Factory",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG07650.html"
+ },
+ "type": {
+  "code": "PZL",
+  "name": "パズル",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "all",
+ "sex": 1,
+ "price": {
+  "jpy": 1100,
+  "official_jpy": 1100,
+  "currencies": {
+   "USD": 6.8934010724878725,
+   "EUR": 6.264322519214385,
+   "GBP": 5.226651360497349,
+   "TWD": 227.25864099332685,
+   "CNY": 46.03184566777561,
+   "KRW": 9205.020920502093,
+   "IDR": 126002.29095074456,
+   "VND": 177419.3548387097,
+   "THB": 233.60020386926882,
+   "SEK": 69.5854604343398,
+   "HKD": 54.09339470474841,
+   "SGD": 8.88412197414882,
+   "CAD": 9.855350335305896,
+   "MYR": 28.226913592285324,
+   "BRL": 39.223516994480185,
+   "AUD": 10.22027479531577,
+   "PHP": 440.599214932308,
+   "MXN": 127.87872446785012,
+   "NZD": 12.52088711623481,
+   "INR": 647.5921346991639
+  }
+ },
+ "point": {
+  "point_amount": 60,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1741359600,
+ "file": {
+  "type": "EXE",
+  "size": 90231793
+ },
+ "tags": [
+  {
+   "key": "431",
+   "name": "ドット"
+  }
+ ],
+ "languages": [
+  "JPN",
+  "ENG"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [],
+ "rating": {
+  "average": null,
+  "count": null
+ },
+ "review_count": 0,
+ "dl_count": 5,
+ "wishlist_count": 9,
+ "ranking": [],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01348000/RJ01347471_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ01348000/RJ01347471_img_main_240x240.jpg",
+  "samples": [
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01348000/RJ01347471_img_smp1.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01348000/RJ01347471_img_smp2.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01348000/RJ01347471_img_smp3.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01348000/RJ01347471_img_smp4.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01348000/RJ01347471_img_smp5.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01348000/RJ01347471_img_smp6.jpg"
+  ],
+  "sample_thumbs": [
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01348000/RJ01347471_img_smp1_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01348000/RJ01347471_img_smp2_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01348000/RJ01347471_img_smp3_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01348000/RJ01347471_img_smp4_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01348000/RJ01347471_img_smp5_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01348000/RJ01347471_img_smp6_100x100.jpg"
+  ],
+  "alt": "Magical Dungeon(リメイク版) [Old Style Factory]"
+ },
+ "introductions": [
+  {
+   "type": "text",
+   "title": "レッツ宝回収!",
+   "body": [
+    {
+     "intro": "画面内にある宝物を全て取り、開いた扉から脱出するレトロなパズルゲームです。<br />\r\n追いかけてくる敵をかわし、隠せるカラーブロックや押せるブロックなどを駆使して宝物を回収してください。<br />\r\n<br />\r\n「通常コース」をクリアする事で、<br />\r\n・高難易度ステージを収録した「難しいコース」<br />\r\n・カラーハシゴやトゲなどの新ギミックが追加された「カラフルコース」<br />\r\n・キークリスタルを移動させて台座にセットするギミックが追加された「キークリスタルコース」<br />\r\nの3コースが解放されます。<br />\r\n各コース30ステージ、4コースの120ステージが収録されています。<br />\r\n<br />\r\n※体験版(フリー版)は通常コースの30ステージのみプレイできます。"
+    }
+   ]
+  }
+ ],
+ "description": "お宝回収レトロ系パズルゲーム!",
+ "short_introduction": "お宝回収レトロ系パズルゲーム!",
+ "options": [
+  "MS2",
+  "TRI",
+  "ORW"
+ ],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01347471.html",
+ "site_id": "home",
+ "fetched_at": 1794949066
+}

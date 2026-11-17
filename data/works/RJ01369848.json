@@ -1,0 +1,141 @@
+{
+ "id": "RJ01369848",
+ "title": "ShadowSurvivor",
+ "title_romaji": "shadousabaibaa",
+ "circle": {
+  "id": "RG01043964",
+  "name": "sirosiroDeveloper",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01043964.html"
+ },
+ "type": {
+  "code": "ACN",
+  "name": "アクション",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "all",
+ "sex": 1,
+ "price": {
+  "jpy": 550,
+  "official_jpy": 550,
+  "currencies": {
+   "USD": 3.4467005362439362,
+   "EUR": 3.1321612596071926,
+   "GBP": 2.6133256802486744,
+   "TWD": 113.62932049666342,
+   "CNY": 23.015922833887807,
+   "KRW": 4602.510460251046,
+   "IDR": 63001.14547537228,
+   "VND": 88709.67741935485,
+   "THB": 116.80010193463441,
+   "SEK": 34.7927302171699,
+   "HKD": 27.046697352374206,
+   "SGD": 4.44206098707441,
+   "CAD": 4.927675167652948,
+   "MYR": 14.113456796142662,
+   "BRL": 19.611758497240093,
+   "AUD": 5.110137397657885,
+   "PHP": 220.299607466154,
+   "MXN": 63.93936223392506,
+   "NZD": 6.260443558117405,
+   "INR": 323.79606734958196
+  }
+ },
+ "point": {
+  "point_amount": 30,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1743750000,
+ "file": {
+  "type": "EXE",
+  "size": 607261554
+ },
+ "tags": [
+  {
+   "key": "509",
+   "name": "3D作品"
+  },
+  {
+   "key": "432",
+   "name": "女主人公"
+  },
+  {
+   "key": "016",
+   "name": "ファンタジー"
+  },
+  {
+   "key": "029",
+   "name": "魔法"
+  }
+ ],
+ "languages": [
+  "JPN"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [],
+ "rating": {
+  "average": null,
+  "count": null
+ },
+ "review_count": 0,
+ "dl_count": 6,
+ "wishlist_count": 6,
+ "ranking": [],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01370000/RJ01369848_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ01370000/RJ01369848_img_main_240x240.jpg",
+  "samples": [
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01370000/RJ01369848_img_smp1.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01370000/RJ01369848_img_smp2.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01370000/RJ01369848_img_smp3.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01370000/RJ01369848_img_smp4.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01370000/RJ01369848_img_smp5.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01370000/RJ01369848_img_smp6.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01370000/RJ01369848_img_smp7.jpg"
+  ],
+  "sample_thumbs": [
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01370000/RJ01369848_img_smp1_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01370000/RJ01369848_img_smp2_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01370000/RJ01369848_img_smp3_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01370000/RJ01369848_img_smp4_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01370000/RJ01369848_img_smp5_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01370000/RJ01369848_img_smp6_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01370000/RJ01369848_img_smp7_100x100.jpg"
+  ],
+  "alt": "ShadowSurvivor [sirosiroDeveloper]"
+ },
+ "introductions": [
+  {
+   "type": "text",
+   "title": "",
+   "body": [
+    {
+     "intro": "『ShadowSurvivor』は1人用のサバイバーライクなオートシューターでヴァンサバ系のゲームです。<br />\n大量の敵が出現して敵を倒す爽快感を楽しめます。<br />\n<br />\n配信・動画投稿について<br />\n配信や実況動画などでのプレイOKです！"
+    }
+   ]
+  }
+ ],
+ "description": "『ShadowSurvivor』は1人用のサバイバーライクなオートシューターでヴァンサバ系のゲームです。 大量の敵が出現して敵を倒す爽快感を楽しめます。",
+ "short_introduction": "『ShadowSurvivor』は1人用のサバイバーライクなオートシューターでヴァンサバ系のゲームです。 大量の敵が出現して敵を倒す爽快感を楽しめます。",
+ "options": [
+  "MS2",
+  "ORW"
+ ],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01369848.html",
+ "site_id": "home",
+ "fetched_at": 1794948880
+}

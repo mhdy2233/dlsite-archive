@@ -1,0 +1,125 @@
+{
+ "id": "RJ01471721",
+ "title": "firework_typing",
+ "title_romaji": "fwaiawaakutaipingu",
+ "circle": {
+  "id": "RG01053237",
+  "name": "Riqoo",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01053237.html"
+ },
+ "type": {
+  "code": "TYP",
+  "name": "タイピング",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "all",
+ "sex": 1,
+ "price": {
+  "jpy": 110,
+  "official_jpy": 110,
+  "currencies": {
+   "USD": 0.6893401072487872,
+   "EUR": 0.6264322519214386,
+   "GBP": 0.5226651360497349,
+   "TWD": 22.725864099332686,
+   "CNY": 4.6031845667775615,
+   "KRW": 920.5020920502093,
+   "IDR": 12600.229095074455,
+   "VND": 17741.93548387097,
+   "THB": 23.360020386926884,
+   "SEK": 6.958546043433979,
+   "HKD": 5.409339470474841,
+   "SGD": 0.888412197414882,
+   "CAD": 0.9855350335305896,
+   "MYR": 2.8226913592285325,
+   "BRL": 3.922351699448018,
+   "AUD": 1.022027479531577,
+   "PHP": 44.059921493230796,
+   "MXN": 12.787872446785013,
+   "NZD": 1.252088711623481,
+   "INR": 64.7592134699164
+  }
+ },
+ "point": {
+  "point_amount": 6,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1758121200,
+ "file": {
+  "type": "EXE",
+  "size": 33978774
+ },
+ "tags": [],
+ "languages": [
+  "JPN",
+  "ENG"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [],
+ "rating": {
+  "average": 4.4,
+  "count": 5
+ },
+ "review_count": 3,
+ "dl_count": 6,
+ "wishlist_count": 11,
+ "ranking": [],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01472000/RJ01471721_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ01472000/RJ01471721_img_main_240x240.jpg",
+  "samples": [
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01472000/RJ01471721_img_smp1.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01472000/RJ01471721_img_smp2.jpg"
+  ],
+  "sample_thumbs": [
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01472000/RJ01471721_img_smp1_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01472000/RJ01471721_img_smp2_100x100.jpg"
+  ],
+  "alt": "firework_typing [Riqoo]"
+ },
+ "introductions": [
+  {
+   "type": "text",
+   "title": "ゲーム紹介/About the Game",
+   "body": [
+    {
+     "intro": "花火を打ち上げながら楽しめる、シンプルなタイピングゲームです。<br />\r\n制限時間内に文字を入力して、できるだけ多くの花火を打ち上げましょう。<br />\r\n<br />\r\nA simple typing game where you can enjoy launching fireworks.<br />\r\nType the letters within the time limit to set off as many fireworks as possible!"
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "title": "ゲームの特徴/Feature/",
+   "body": [
+    {
+     "intro": "タイピングのたびに画面に花火が打ち上がります。<br />\r\nタイピング数に応じて観客数が増えていきます。<br />\r\n短時間でサクッと遊べるカジュアル設計。<br />\r\n<br />\r\nFireworks light up the screen with every keystroke.<br />\r\nAudience numbers increase based on combos and typing speed.<br />\r\nDesigned for quick and casual play sessions."
+    }
+   ]
+  }
+ ],
+ "description": "文字を入力して花火を打ち上げます。/Type the displayed letters to launch fireworks.",
+ "short_introduction": "文字を入力して花火を打ち上げます。/Type the displayed letters to launch fireworks.",
+ "options": [
+  "REV",
+  "OLY",
+  "ORW"
+ ],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01471721.html",
+ "site_id": "home",
+ "fetched_at": 1794947713
+}

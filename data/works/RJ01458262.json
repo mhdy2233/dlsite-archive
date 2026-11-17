@@ -1,0 +1,120 @@
+{
+ "id": "RJ01458262",
+ "title": "クオリアの舞台 哲学者たちとの対話",
+ "title_romaji": "kuorianobutaitetsugakushatachitonotaiwa",
+ "circle": {
+  "id": "RG01054483",
+  "name": "AI哲学サークル",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01054483.html"
+ },
+ "type": {
+  "code": "DNV",
+  "name": "デジタルノベル",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "all",
+ "sex": 1,
+ "price": {
+  "jpy": 110,
+  "official_jpy": 110,
+  "currencies": {
+   "USD": 0.6893401072487872,
+   "EUR": 0.6264322519214386,
+   "GBP": 0.5226651360497349,
+   "TWD": 22.725864099332686,
+   "CNY": 4.6031845667775615,
+   "KRW": 920.5020920502093,
+   "IDR": 12600.229095074455,
+   "VND": 17741.93548387097,
+   "THB": 23.360020386926884,
+   "SEK": 6.958546043433979,
+   "HKD": 5.409339470474841,
+   "SGD": 0.888412197414882,
+   "CAD": 0.9855350335305896,
+   "MYR": 2.8226913592285325,
+   "BRL": 3.922351699448018,
+   "AUD": 1.022027479531577,
+   "PHP": 44.059921493230796,
+   "MXN": 12.787872446785013,
+   "NZD": 1.252088711623481,
+   "INR": 64.7592134699164
+  }
+ },
+ "point": {
+  "point_amount": 6,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1756278000,
+ "file": {
+  "type": "EXE",
+  "size": 113645659
+ },
+ "tags": [
+  {
+   "key": "015",
+   "name": "シリアス"
+  },
+  {
+   "key": "566",
+   "name": "心理学"
+  }
+ ],
+ "languages": [
+  "JPN"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [],
+ "rating": {
+  "average": 3.2,
+  "count": 5
+ },
+ "review_count": 2,
+ "dl_count": 12,
+ "wishlist_count": 13,
+ "ranking": [],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01459000/RJ01458262_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ01459000/RJ01458262_img_main_240x240.jpg",
+  "samples": [],
+  "sample_thumbs": [],
+  "alt": "クオリアの舞台 哲学者たちとの対話 [AI哲学サークル]"
+ },
+ "introductions": [
+  {
+   "type": "text",
+   "title": "『クオリアの舞台 ── ワンネス対話劇』",
+   "body": [
+    {
+     "intro": "本作は、哲学的な問い「私は誰か?」をテーマにしたデジタルノベル形式の対話劇です。<br />\r\n<br />\r\n登場するのは、フロイト(無意識の探究者)、ユング(集合的無意識の提唱者)、ニーチェ(力と創造の哲学者)、仏陀(縁起と空の体現者)、老子(道を語る賢者)、そしてAI、最後に姿を現すワンネス。<br />\r\nあなた(プレイヤー)は、彼らと時空を超えた対話を重ね、自らの「存在」の意味をめぐる旅に踏み出します。<br />\r\n<br />\r\n? 作品の見どころ<br />\r\n<br />\r\n無意識・集合的無意識を“クオリアの舞台”として捉える独自の視点<br />\r\n<br />\r\n歴史的思想家たちの言葉が、現代に甦るかのように織り込まれた会話<br />\r\n<br />\r\nニーチェの「生を創れ」、仏陀の「縁起」、老子の「道」──思想が交差する瞬間<br />\r\n<br />\r\n最後に訪れる「問いの果ての静寂」。言葉を超えた感覚がプレイヤーを包み込みます。<br />\r\n<br />\r\n? こんな人におすすめ<br />\r\n<br />\r\n哲学や思想に興味がある方<br />\r\n<br />\r\n無意識やワンネスといったテーマに惹かれる方<br />\r\n<br />\r\n静かに問いを深める時間を求めている方<br />\r\n<br />\r\n「物語」という形で意識探究を体験してみたい方<br />\r\n<br />\r\nこれは物語であり、同時に“体験”です。<br />\r\n「私は誰か?」という問いに向き合うあなた自身の声が、やがてワンネスの声と重なっていくことでしょう。<br />\r\n<br />\r\n※背景、立ち絵、BGM、セリフの一部は生成AIを活用しています。"
+    }
+   ]
+  }
+ ],
+ "description": "無意識も、集合的無意識も、すべては“クオリアの舞台”だった 対話劇ノベル。",
+ "short_introduction": "無意識も、集合的無意識も、すべては“クオリアの舞台”だった 対話劇ノベル。",
+ "options": [
+  "MS2",
+  "AIP",
+  "REV",
+  "ORW",
+  "OLY"
+ ],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01458262.html",
+ "site_id": "home",
+ "fetched_at": 1794947879
+}

@@ -1,0 +1,252 @@
+{
+ "id": "RJ01746621",
+ "title": "IRON ZENITH 2",
+ "title_romaji": "aianzenisutsuu",
+ "circle": {
+  "id": "RG01039597",
+  "name": "Starlight Game Studio",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01039597.html"
+ },
+ "type": {
+  "code": "SLN",
+  "name": "シミュレーション",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "all",
+ "sex": 1,
+ "price": {
+  "jpy": 693,
+  "official_jpy": 990,
+  "currencies": {
+   "USD": 4.3428426756673595,
+   "EUR": 3.946523187105063,
+   "GBP": 3.29279035711333,
+   "TWD": 143.17294382579593,
+   "CNY": 29.000062770698637,
+   "KRW": 5799.163179916318,
+   "IDR": 79381.44329896907,
+   "VND": 111774.1935483871,
+   "THB": 147.16812843763938,
+   "SEK": 43.83884007363407,
+   "HKD": 34.078838663991505,
+   "SGD": 5.5969968437137565,
+   "CAD": 6.208870711242715,
+   "MYR": 17.782955563139755,
+   "BRL": 24.710815706522514,
+   "AUD": 6.438773121048935,
+   "PHP": 277.577505407354,
+   "MXN": 80.56359641474558,
+   "NZD": 7.888158883227931,
+   "INR": 407.9830448604733
+  }
+ },
+ "point": {
+  "point_amount": 37,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1793286000,
+ "file": {
+  "type": "EXE",
+  "size": 256745815
+ },
+ "tags": [
+  {
+   "key": "254",
+   "name": "ロボット/アンドロイド"
+  },
+  {
+   "key": "010",
+   "name": "SF"
+  },
+  {
+   "key": "009",
+   "name": "ミリタリー"
+  }
+ ],
+ "languages": [
+  "JPN",
+  "ENG"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [],
+ "rating": {
+  "average": null,
+  "count": null
+ },
+ "review_count": 0,
+ "dl_count": 48,
+ "wishlist_count": 80,
+ "ranking": [],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01747000/RJ01746621_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ01747000/RJ01746621_img_main_240x240.jpg",
+  "samples": [
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01747000/RJ01746621_img_smp1.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01747000/RJ01746621_img_smp2.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01747000/RJ01746621_img_smp3.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01747000/RJ01746621_img_smp4.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01747000/RJ01746621_img_smp5.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01747000/RJ01746621_img_smp6.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01747000/RJ01746621_img_smp7.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01747000/RJ01746621_img_smp8.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01747000/RJ01746621_img_smp9.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01747000/RJ01746621_img_smp10.jpg"
+  ],
+  "sample_thumbs": [
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01747000/RJ01746621_img_smp1_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01747000/RJ01746621_img_smp2_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01747000/RJ01746621_img_smp3_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01747000/RJ01746621_img_smp4_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01747000/RJ01746621_img_smp5_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01747000/RJ01746621_img_smp6_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01747000/RJ01746621_img_smp7_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01747000/RJ01746621_img_smp8_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01747000/RJ01746621_img_smp9_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01747000/RJ01746621_img_smp10_100x100.jpg"
+  ],
+  "alt": "IRON ZENITH 2 [Starlight Game Studio]"
+ },
+ "introductions": [
+  {
+   "type": "image_list",
+   "title": "【作品概要 / Overview】",
+   "body": [
+    {
+     "intro": "軌道都市ゼニス。宇宙用の人型競技ロボットが5対5で母艦を奪い合う団体戦《IRON ZENITH》。<br />\r\nあなたは競技ロボットコンストラクターチームのオーナーです。監督を雇い、パイロットを育て、機体を研究・製造し、施設に投資する。<br />\r\n---------------------<br />\r\nOrbital City Zenith. Humanoid combat machines built for space fight five against five, carrier against carrier, in the sport called IRON ZENITH.<br />\r\nYou own a competition-robot constructor team. Hire the manager, raise the pilots, research and build the machines, invest in the facilities.",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ01747000/RJ01746621/360be76ca5fc377da029ae662d5e2fb8.jpg",
+      "alt": "IRON ZENITH 2 [Starlight Game Studio]",
+      "title": "IRON ZENITH 2 [Starlight Game Studio]"
+     }
+    },
+    {
+     "intro": "試合は監督の采配で2.5Dフィールド上を機体が躍動する――フォーメーションと作戦、交代の一手が勝敗を分けます。<br />\r\n---------------------<br />\r\nOn the 2.5D field the machines move to the manager's calls — the formation, the doctrine, the substitution that turns a quarter around.",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ01747000/RJ01746621/5a69ddb70da2b03232b9b4f1c1e610c6.jpg",
+      "alt": "IRON ZENITH 2 [Starlight Game Studio]",
+      "title": "IRON ZENITH 2 [Starlight Game Studio]"
+     }
+    },
+    {
+     "intro": "あなたが最下層のブロンズリーグの小さなクラブから、プラチナリーグの頂点へと導いてください。前作『IRON ZENITH』の世界で、今度は対戦型ロボット競技コンストラクターチームを育てる経営シミュレーションです。<br />\r\n---------------------<br />\r\nLead a small club from the bottom Bronze League to the top of the Platinum League. Set in the world of the first IRON ZENITH, this time it is a management sim about raising a team for head-to-head robot competition.",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ01747000/RJ01746621/123ca67f3d1b9bf7af0b4c9c3dc3c08d.jpg",
+      "alt": "IRON ZENITH 2 [Starlight Game Studio]",
+      "title": "IRON ZENITH 2 [Starlight Game Studio]"
+     }
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "title": "【あなたがやること / What you do】",
+   "body": [
+    {
+     "intro": "監督を雇い、クラブの方針を決める。パイロットを育て、連携を組み、作戦を決める。機体を設計して武器を持たせ、敵母艦を撃破せよ。試合中はクォーターの合間に戦況を読み、フォーメーションを変え、集中力の落ちたパイロットを交代。年30試合のリーグ戦とリーグの昇格と降格、カップ戦、スポンサーとの約束、パイロットたちとの契約交渉――クラブの歴史は、あなたの選択で積み上がります。<br />\r\n-------------------------<br />\r\nHire a manager and set the club's policy. Train the pilots, pair them up, pick the doctrine. Design the machines, arm them, and strike the enemy carrier. Between quarters, read the field, change the formation, and sub out pilots whose focus has dropped. A 30-match league season with promotion and relegation, the cup, sponsor goals, contract talks with your pilots — the club's history is built out of your decisions."
+    }
+   ]
+  },
+  {
+   "type": "text_list",
+   "title": "【特徴 / Features】",
+   "body": [
+    {
+     "intro": "5対5の団体戦 ― アサルト・サポート・タンク・スナイパーの5機を編成し、戦場で敵母艦を撃破する。勝敗を決めるのは敵機撃破の数ではなく、相手母艦への損害率。4クォーター制の合間の采配で流れが変わる。"
+    },
+    {
+     "intro": "監督とクラブの方針 ― 熱血・理詰め・堅実・博打。監督ごとに得意な作戦とフォーメーション、育成方針があり、雇う監督でクラブの戦い方が変わる。"
+    },
+    {
+     "intro": "育てる ― 操縦・射撃・索敵・冷静・精神。ペアの連携度、作戦への理解度、ポジション適性。練習と試合で選手が成長し、疲労と意欲をどう扱うかも腕の見せどころ。"
+    },
+    {
+     "intro": "機体と母艦 ― 研究で技術を伸ばし、機体を製造し、武器を選ぶ。新型か旧型の継続利用か。コンディションの維持も重要。母艦の設備は交代と応急修理の要になる。"
+    },
+    {
+     "intro": "リーグ戦 ― 1階級に16クラブずつ。全部で4階級。成績上位なら昇格し、下位なら降格。カップ戦で上位チームとも対戦して腕試し。4年ごとの規定改定が勢力図を揺らす。"
+    },
+    {
+     "intro": "人のドラマ ― 会話イベントやレジェンドパイロットの来訪と決め台詞、引退した選手がスタッフとして帰ってくる世代交代もある。殿堂入りや年代記なども楽しみの1つ。"
+    },
+    {
+     "intro": "頂の先へ ― プラチナ制覇の夜、クラブの歴史を綴るスタッフロールと主題歌「The Light Stays On」によるエンディング。その後は王朝モードであなたの物語は続けられる。"
+    },
+    {
+     "intro": "5-on-5 team combat — Field five machines and strike their carrier. Carrier damage wins, not kills."
+    },
+    {
+     "intro": "Managers — Fiery, analytical, steady or gambler. The manager you hire shapes how the club fights."
+    },
+    {
+     "intro": "Development — Pilots grow through training and matches. Pair coordination makes the team stronger."
+    },
+    {
+     "intro": "Machines and carrier — Research, build, arm. New model or the old one? Condition matters too."
+    },
+    {
+     "intro": "The league — 16 clubs x 4 divisions. Promotion, relegation, a cup, new rules every four years."
+    },
+    {
+     "intro": "Human drama — Events, legendary pilots, retirees returning as staff. Hall of Fame and Annals."
+    },
+    {
+     "intro": "Beyond the summit — Win Platinum for the club's own staff roll and theme song, then Dynasty mode."
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "title": "【ボリューム / Play time】",
+   "body": [
+    {
+     "intro": "初回のプラチナ制覇まで約10〜20時間を想定。<br />\r\n実績コンプリートと王朝モードで、その先も長く遊べます。<br />\r\n---------------------<br />\r\nAbout 10–20 hours to the first Platinum title.<br />\r\nAchievements and Dynasty mode keep it going well beyond that."
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "title": "【動作環境 / System requirements】",
+   "body": [
+    {
+     "intro": "Windows 10/11(64bit)<br />\r\nMicrosoft Edge WebView2 Runtime必須(Windows 10/11に標準搭載)<br />\r\nシングルプレイ<br />\r\n------------------------<br />\r\nWindows 10/11 (64-bit)<br />\r\nMicrosoft Edge WebView2 Runtime required (included with Windows 10/11)<br />\r\nSingle player"
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "title": "その他 / Others",
+   "body": [
+    {
+     "intro": "【対応言語 / Languages】<br />\r\n日本語/英語(インターフェース・テキスト。言語は設定からいつでも切替)。<br />\r\n------------------------<br />\r\nJapanese / English (interface and text; switch any time in Settings).<br />\r\n<br />\r\n【前作をお持ちの方へ / If you own the first game】<br />\r\n前作は機体を設計して1対1の競技に送り出すコンストラクター経営でした。<br />\r\n本作は5対5の団体戦と、監督・パイロット・連携という「チームを育てる」遊びが中心です。<br />\r\n前作のデータは不要(引き継げません)で、本作だけでお楽しみいただけます。<br />\r\n------------------------<br />\r\nThe first game was a constructor-management sim: you designed machines and sent them into one-on-one competition.<br />\r\nThis one is built around 5-on-5 team combat and raising a team — manager, pilots, coordination.<br />\r\nNo data from the first game is needed (nothing carries over); this game stands on its own.<br />\r\n<br />\r\n【クレジット / Credits】 <br />\r\n制作: Starlight Game Studio<br />\r\n楽曲提供: 熊野ぴ太郎<br />\r\n※一部のビジュアルおよび音楽はAIツールで生成し、自社で編集したものを使用しています。<br />\r\n------------------------<br />\r\nDeveloped by Starlight Game Studio<br />\r\nMusic: Pitaro Kumano<br />\r\nSome visuals and music were generated with AI tools and edited in-house."
+    }
+   ]
+  }
+ ],
+ "description": "チームを育て、作戦を練り、強敵を倒せ。ロボット対戦コンストラクターチーム経営シミュレーション。前作のバトルロワイアルからチーム対戦型に刷新。5機の機体で敵母艦を撃沈せよ。/ Raise the team. Beat the giants. A robot-combat team management sim, now 5v5: sink their carrier.",
+ "short_introduction": "チームを育て、作戦を練り、強敵を倒せ。ロボット対戦コンストラクターチーム経営シミュレーション。前作のバトルロワイアルからチーム対戦型に刷新。5機の機体で敵母艦を撃沈せよ。/ Raise the team. Beat the giants. A robot-combat team management sim, now 5v5: sink their carrier.",
+ "options": [
+  "MS2",
+  "MV2",
+  "AIP",
+  "TRI",
+  "ORW"
+ ],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01746621.html",
+ "site_id": "home",
+ "fetched_at": 1794942065
+}

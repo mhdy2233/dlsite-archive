@@ -1,0 +1,224 @@
+{
+ "id": "RJ01721460",
+ "title": "まじっくすと～り～2",
+ "title_romaji": "majikkusutooriitsuu",
+ "circle": {
+  "id": "RG01080401",
+  "name": "ふりけんもじゅれ～しょん",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01080401.html"
+ },
+ "type": {
+  "code": "RPG",
+  "name": "ロールプレイング",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "all",
+ "sex": 1,
+ "price": {
+  "jpy": 2200,
+  "official_jpy": 2200,
+  "currencies": {
+   "USD": 13.786802144975745,
+   "EUR": 12.52864503842877,
+   "GBP": 10.453302720994698,
+   "TWD": 454.5172819866537,
+   "CNY": 92.06369133555123,
+   "KRW": 18410.041841004186,
+   "IDR": 252004.58190148912,
+   "VND": 354838.7096774194,
+   "THB": 467.20040773853765,
+   "SEK": 139.1709208686796,
+   "HKD": 108.18678940949682,
+   "SGD": 17.76824394829764,
+   "CAD": 19.710700670611793,
+   "MYR": 56.45382718457065,
+   "BRL": 78.44703398896037,
+   "AUD": 20.44054959063154,
+   "PHP": 881.198429864616,
+   "MXN": 255.75744893570024,
+   "NZD": 25.04177423246962,
+   "INR": 1295.1842693983278
+  }
+ },
+ "point": {
+  "point_amount": 120,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1791903600,
+ "file": {
+  "type": "EXE",
+  "size": 358563606
+ },
+ "tags": [
+  {
+   "key": "502",
+   "name": "男主人公"
+  },
+  {
+   "key": "432",
+   "name": "女主人公"
+  },
+  {
+   "key": "016",
+   "name": "ファンタジー"
+  }
+ ],
+ "languages": [
+  "JPN"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [],
+ "rating": {
+  "average": null,
+  "count": null
+ },
+ "review_count": 0,
+ "dl_count": 12,
+ "wishlist_count": 64,
+ "ranking": [],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01722000/RJ01721460_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ01722000/RJ01721460_img_main_240x240.jpg",
+  "samples": [
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01722000/RJ01721460_img_smp1.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01722000/RJ01721460_img_smp2.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01722000/RJ01721460_img_smp3.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01722000/RJ01721460_img_smp4.jpg"
+  ],
+  "sample_thumbs": [
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01722000/RJ01721460_img_smp1_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01722000/RJ01721460_img_smp2_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01722000/RJ01721460_img_smp3_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01722000/RJ01721460_img_smp4_100x100.jpg"
+  ],
+  "alt": "まじっくすと～り～2 [ふりけんもじゅれ～しょん]"
+ },
+ "introductions": [
+  {
+   "type": "image",
+   "title": "概要",
+   "body": [
+    {
+     "intro": "「まじっくすと～り～2」は3DダンジョンRPGです！<br />\r\n<br />\r\n普通の3DダンジョンRPGでは1つのパーティを操作することが<br />\r\n多いですが、「まじっくすと～り～2」では2つのパーティを<br />\r\n切り替えながらダンジョンを探索します！<br />\r\n<br />\r\nそれぞれのパーティを別々に動かし、仕掛けを解いたり、別ルートを進んだりするため、単純な「歩いて敵と戦う」だけではありません。",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ01722000/RJ01721460/d98c2427dab1368c014db7759cc30201.jpg",
+      "alt": "まじっくすと～り～2 [ふりけんもじゅれ～しょん]",
+      "title": "まじっくすと～り～2 [ふりけんもじゅれ～しょん]"
+     },
+     "position": "over"
+    }
+   ]
+  },
+  {
+   "type": "image",
+   "title": "数字に頼らない戦闘！",
+   "body": [
+    {
+     "intro": "バトルは体力や魔力を数字で表現せず<br />\r\nキャラクターの表情やセリフで戦況を判断します。<br />\r\n<br />\r\n非常に細かくキャラクターの表情が変わっていきますので<br />\r\nすぐに感覚を掴み、直感的なバトルを楽しむことが出来るでしょう！",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ01722000/RJ01721460/2199d5209e9abcb651a0b44725c77e5d.jpg",
+      "alt": "まじっくすと～り～2 [ふりけんもじゅれ～しょん]",
+      "title": "まじっくすと～り～2 [ふりけんもじゅれ～しょん]"
+     },
+     "position": "left"
+    }
+   ]
+  },
+  {
+   "type": "image_list",
+   "title": "親切設計な謎解き！",
+   "body": [
+    {
+     "intro": "謎解きは色んなところにヒントが隠されています！<br />\r\n<br />\r\n例えば「赤い結界」があって先へ進めなくて困っている2人…。",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ01722000/RJ01721460/c6288007e9c19e6f44bae60d244ee758.jpg",
+      "alt": "まじっくすと～り～2 [ふりけんもじゅれ～しょん]",
+      "title": "まじっくすと～り～2 [ふりけんもじゅれ～しょん]"
+     }
+    },
+    {
+     "intro": "「もしかしたら行けないところにボタンがあるのかも?」<br />\r\nと言っています。",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ01722000/RJ01721460/be08ac66f84caad0461df090fb35d793.jpg",
+      "alt": "まじっくすと～り～2 [ふりけんもじゅれ～しょん]",
+      "title": "まじっくすと～り～2 [ふりけんもじゅれ～しょん]"
+     }
+    },
+    {
+     "intro": "ここでパーティーを切り替えて、先に進んでみましょう。",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ01722000/RJ01721460/b2cda2f943c79cd16e8b7a5d016b2284.jpg",
+      "alt": "まじっくすと～り～2 [ふりけんもじゅれ～しょん]",
+      "title": "まじっくすと～り～2 [ふりけんもじゅれ～しょん]"
+     }
+    },
+    {
+     "intro": "「赤いボタン」があります。<br />\r\nこれを押すことによって<br />\r\n2人は先へ進むことが出来る。<br />\r\nそんな感じで進めていきます！",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ01722000/RJ01721460/00209a1cdd1a7e82ca4679541d30bd48.jpg",
+      "alt": "まじっくすと～り～2 [ふりけんもじゅれ～しょん]",
+      "title": "まじっくすと～り～2 [ふりけんもじゅれ～しょん]"
+     }
+    }
+   ]
+  },
+  {
+   "type": "image",
+   "title": "キャラクタープロフィールはいつでも確認出来る！",
+   "body": [
+    {
+     "intro": "個性豊かなキャラクターが多数登場する<br />\r\n「まじっくすと～り～2」ですが<br />\r\nキャラクターについては<br />\r\nキャラクター紹介でいつでも確認が可能です。<br />\r\n<br />\r\nキャラクターの関係性などもわかり、より深く<br />\r\n物語を楽しむことが出来るでしょう！",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ01722000/RJ01721460/d8db067e31f92748a63fd6253920ed6f.jpg",
+      "alt": "まじっくすと～り～2 [ふりけんもじゅれ～しょん]",
+      "title": "まじっくすと～り～2 [ふりけんもじゅれ～しょん]"
+     },
+     "position": "over"
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "title": "ゲームの動作環境",
+   "body": [
+    {
+     "intro": "・お使いのPCで正常に動くかどうか、体験版で動作確認を推奨致します。<br />\r\n<br />\r\n・本ゲームはキーボード、ジョイパッドで遊べます。"
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "title": "その他",
+   "body": [
+    {
+     "intro": "公式ホームページ:<br />\r\n<a href=\"https://magicstory2.jimdofree.com/\" target=\"_blank\">https://magicstory2.jimdofree.com/</a><br />\r\n<br />\r\n最新情報、ガイドライン等は公式ホームページを確認ください。<br />\r\nお問い合わせもそちらにあります。"
+    }
+   ]
+  }
+ ],
+ "description": "パーティを切り替えて進め！ カワイイキャラクター達が登場する 3DダンジョンRPG!",
+ "short_introduction": "パーティを切り替えて進め！ カワイイキャラクター達が登場する 3DダンジョンRPG!",
+ "options": [
+  "MS2",
+  "TRI",
+  "ORW"
+ ],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01721460.html",
+ "site_id": "home",
+ "fetched_at": 1794942188
+}

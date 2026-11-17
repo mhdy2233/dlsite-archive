@@ -101,7 +101,7 @@
  },
  "review_count": 1,
  "dl_count": 1352,
- "wishlist_count": 1883,
+ "wishlist_count": 1884,
  "ranking": [
   {
    "category": "game",
@@ -275,17 +275,5 @@
  ],
  "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01745149.html",
  "site_id": "maniax",
- "fetched_at": 1794941100,
- "local_images": {
-  "main": "RJ01745149/main.jpg",
-  "thumb": "RJ01745149/thumb.jpg",
-  "samples": [
-   "RJ01745149/smp1.jpg",
-   "RJ01745149/smp2.jpg",
-   "RJ01745149/smp3.jpg",
-   "RJ01745149/smp4.jpg",
-   "RJ01745149/smp5.jpg",
-   "RJ01745149/smp6.jpg"
-  ]
- }
+ "fetched_at": 1794942078
 }

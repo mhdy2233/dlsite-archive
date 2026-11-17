@@ -1,0 +1,111 @@
+{
+ "id": "RJ01711500",
+ "title": "AEON DAWN ― 悠久の黎明",
+ "title_romaji": "iiondoonyuukyuunoreimei",
+ "circle": {
+  "id": "RG01076916",
+  "name": "精肉",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01076916.html"
+ },
+ "type": {
+  "code": "SLN",
+  "name": "シミュレーション",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "all",
+ "sex": 1,
+ "price": {
+  "jpy": 1430,
+  "official_jpy": 1430,
+  "currencies": {
+   "USD": 8.961421394234234,
+   "EUR": 8.143619274978702,
+   "GBP": 6.794646768646554,
+   "TWD": 295.4362332913249,
+   "CNY": 59.8413993681083,
+   "KRW": 11966.52719665272,
+   "IDR": 163802.97823596792,
+   "VND": 230645.16129032258,
+   "THB": 303.6802650300495,
+   "SEK": 90.46109856464173,
+   "HKD": 70.32141311617293,
+   "SGD": 11.549358566393467,
+   "CAD": 12.811955435897666,
+   "MYR": 36.69498766997092,
+   "BRL": 50.99057209282424,
+   "AUD": 13.2863572339105,
+   "PHP": 572.7789794120004,
+   "MXN": 166.24234180820514,
+   "NZD": 16.277153251105254,
+   "INR": 841.8697751089131
+  }
+ },
+ "point": {
+  "point_amount": 78,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1788361200,
+ "file": {
+  "type": "EXE",
+  "size": 80143066
+ },
+ "tags": [],
+ "languages": [
+  "JPN"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [],
+ "rating": {
+  "average": null,
+  "count": null
+ },
+ "review_count": 0,
+ "dl_count": 1,
+ "wishlist_count": 12,
+ "ranking": [],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01712000/RJ01711500_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ01712000/RJ01711500_img_main_240x240.jpg",
+  "samples": [
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01712000/RJ01711500_img_smp1.jpg"
+  ],
+  "sample_thumbs": [
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01712000/RJ01711500_img_smp1_100x100.jpg"
+  ],
+  "alt": "AEON DAWN ― 悠久の黎明 [精肉]"
+ },
+ "introductions": [
+  {
+   "type": "text",
+   "title": "",
+   "body": [
+    {
+     "intro": "・一台の荷車から始まる<br />\nはじめに与えられるのは、開拓者ひとりと、槍を持った兵がひとり。あとは霧に覆われた地図だけです。<br />\n<br />\n良い土地を見つけて都市を建て、労働者に農地と鉱山を作らせ、交易の実りを研究と国庫に振り分ける。人口が増えれば不満が生まれ、神殿や闘技場、あるいは芸能人に就かせた市民でそれを抑える。都市が遠くなれば腐敗で交易が中央に届かなくなり、裁判所を建てるか、政体を移すかを迫られる。<br />\n<br />\nそうやって数千年を積み上げた先に、統一理論の完成が待っています。あるいは大陸から他国が消えているか、三つの都市が不朽の文化を得ているか。決着の付き方は、そこまでの選択が決めます。<br />\n<br />\n・相手には、それぞれの考え方がある<br />\n10の文明を率いる10人の指導者は、それぞれ違う判断をします。攻めやすさ、広げ方、造営好き、学問好き、商い好き、信の重さ——この六つが相手ごとに違うので、同じ外交が誰にでも通じるわけではありません。<br />\n<br />\nチンギス・ハンは弱いと見れば躊躇なく馬を向けます。アショーカ王は攻められない限り剣を抜きません。ペリクレスは戦うより先を行くことで勝とうとし、マンサ・ムーサは金で解決できることは金で解決します。<br />\n<br />\n各国はこちらへの心証を抱えていて、贈り物・技術供与・長く続く平和で上がり、宣戦や国境の摩擦で下がります。和平も貢納も、相手が優勢なうちは通りません。<br />\n<br />\n・海が隔てるとき<br />\n世界の形は三つから選べます。陸続きの「一つの大陸」なら海軍が無くても最後まで戦えますが、「島々」を選べば話は変わります。各文明はそれぞれの島に置かれ、船を出さない限り、隣国の存在すら知らないまま数十ターンが過ぎていきます。<br />\n<br />\n沿岸船は岸から離れられません。外洋を越えるには遠洋航海の技術と、港を備えた都市が要ります。陸上ユニットを船に乗せ、海を渡し、隣の陸へ降ろす。乗り降りにはそれぞれ一手かかり、船が沈めば積み荷も海の底です。<br />\n<br />\n・帝国が大きくなっても、手は足ります<br />\n都市が10を超えたあたりから、一つずつ指示を出すのは現実的ではなくなります。そのための道具が揃っています。<br />\n<br />\n労働者は自動化すれば、最も改善の効くタイルを自分で選んで働き続けます。都市の重点を食料・生産・交易・均衡から選べば、働くタイルの配分が変わります。生産は6件まで積んでおけて、他国に先を越された遺産などは自動で読み飛ばします。総督に任せれば、完成のたびに次を選んでくれます。"
+    }
+   ]
+  }
+ ],
+ "description": "都市を建て、技術を伸ばし、海を渡る。実在の10文明で数千年を駆け抜けるターン制4Xストラテジー。指導者ごとに気性が違うので、同じ手は誰にでも通じません。",
+ "short_introduction": "都市を建て、技術を伸ばし、海を渡る。実在の10文明で数千年を駆け抜けるターン制4Xストラテジー。指導者ごとに気性が違うので、同じ手は誰にでも通じません。",
+ "options": [
+  "OLY"
+ ],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01711500.html",
+ "site_id": "home",
+ "fetched_at": 1794942431
+}

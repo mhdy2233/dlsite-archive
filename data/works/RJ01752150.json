@@ -109,7 +109,7 @@
  },
  "review_count": 0,
  "dl_count": 87,
- "wishlist_count": 583,
+ "wishlist_count": 584,
  "ranking": [],
  "images": {
   "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01753000/RJ01752150_img_main.jpg",
@@ -269,17 +269,5 @@
  ],
  "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01752150.html",
  "site_id": "maniax",
- "fetched_at": 1794941161,
- "local_images": {
-  "main": "RJ01752150/main.jpg",
-  "thumb": "RJ01752150/thumb.jpg",
-  "samples": [
-   "RJ01752150/smp1.jpg",
-   "RJ01752150/smp2.jpg",
-   "RJ01752150/smp3.jpg",
-   "RJ01752150/smp4.jpg",
-   "RJ01752150/smp5.jpg",
-   "RJ01752150/smp6.jpg"
-  ]
- }
+ "fetched_at": 1794942086
 }

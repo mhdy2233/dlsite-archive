@@ -1,0 +1,119 @@
+{
+ "id": "RJ01716427",
+ "title": "LAYER RAY VER4 VB",
+ "title_romaji": "reiyaareibaafwoobuibii",
+ "circle": {
+  "id": "RG01517",
+  "name": "RAYHAWK",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01517.html"
+ },
+ "type": {
+  "code": "STG",
+  "name": "シューティング",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "all",
+ "sex": 1,
+ "price": {
+  "jpy": 11,
+  "official_jpy": 110,
+  "currencies": {
+   "USD": 0.06893401072487872,
+   "EUR": 0.06264322519214385,
+   "GBP": 0.05226651360497349,
+   "TWD": 2.2725864099332687,
+   "CNY": 0.46031845667775617,
+   "KRW": 92.05020920502092,
+   "IDR": 1260.0229095074455,
+   "VND": 1774.1935483870968,
+   "THB": 2.3360020386926883,
+   "SEK": 0.695854604343398,
+   "HKD": 0.5409339470474842,
+   "SGD": 0.0888412197414882,
+   "CAD": 0.09855350335305896,
+   "MYR": 0.28226913592285324,
+   "BRL": 0.39223516994480184,
+   "AUD": 0.1022027479531577,
+   "PHP": 4.40599214932308,
+   "MXN": 1.2787872446785011,
+   "NZD": 0.1252088711623481,
+   "INR": 6.4759213469916395
+  }
+ },
+ "point": {
+  "point_amount": 0,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1788879600,
+ "file": {
+  "type": "EXE",
+  "size": 151689337
+ },
+ "tags": [],
+ "languages": [
+  "JPN"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [],
+ "rating": {
+  "average": null,
+  "count": null
+ },
+ "review_count": 0,
+ "dl_count": 6,
+ "wishlist_count": 6,
+ "ranking": [],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01717000/RJ01716427_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ01717000/RJ01716427_img_main_240x240.jpg",
+  "samples": [
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01717000/RJ01716427_img_smp1.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01717000/RJ01716427_img_smp2.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01717000/RJ01716427_img_smp3.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01717000/RJ01716427_img_smp4.jpg"
+  ],
+  "sample_thumbs": [
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01717000/RJ01716427_img_smp1_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01717000/RJ01716427_img_smp2_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01717000/RJ01716427_img_smp3_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01717000/RJ01716427_img_smp4_100x100.jpg"
+  ],
+  "alt": "LAYER RAY VER4 VB [RAYHAWK]"
+ },
+ "introductions": [
+  {
+   "type": "text",
+   "title": "自機の前後左右ショットで小型機を撃墜する爽快なSFシューティングゲームです。",
+   "body": [
+    {
+     "intro": "自機の前後左右ショットで小型機を撃墜する爽快な<br />\r\n<br />\r\nSFシューティングゲームです。<br />\r\n<br />\r\n全7面のシューティングで1-5面目までは、低難易度<br />\r\n<br />\r\nで、6+7面目から難しくなりますが、初級者からプロ<br />\r\n<br />\r\nのゲーマーまでお気軽にのんびりと遊べます。<br />\r\n<br />\r\nゲームファンの皆様、ごゆっくりお楽しみください。"
+    }
+   ]
+  }
+ ],
+ "description": "自機の前後左右ショットで小型機を撃墜する爽快なSFシューティングゲームです。",
+ "short_introduction": "自機の前後左右ショットで小型機を撃墜する爽快なSFシューティングゲームです。",
+ "options": [
+  "MS2",
+  "TRI",
+  "ORW"
+ ],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01716427.html",
+ "site_id": "home",
+ "fetched_at": 1794942410
+}

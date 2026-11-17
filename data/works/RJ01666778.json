@@ -1,0 +1,117 @@
+{
+ "id": "RJ01666778",
+ "title": "異界開拓記",
+ "title_romaji": "ikaikaitakuki",
+ "circle": {
+  "id": "RG01041541",
+  "name": "歴史Founder",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01041541.html"
+ },
+ "type": {
+  "code": "RPG",
+  "name": "ロールプレイング",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "all",
+ "sex": 1,
+ "price": {
+  "jpy": 1980,
+  "official_jpy": 1980,
+  "currencies": {
+   "USD": 12.40812193047817,
+   "EUR": 11.275780534585895,
+   "GBP": 9.407972448895228,
+   "TWD": 409.06555378798834,
+   "CNY": 82.85732220199611,
+   "KRW": 16569.037656903765,
+   "IDR": 226804.12371134022,
+   "VND": 319354.83870967745,
+   "THB": 420.4803669646839,
+   "SEK": 125.25382878181162,
+   "HKD": 97.36811046854714,
+   "SGD": 15.991419553467876,
+   "CAD": 17.739630603550612,
+   "MYR": 50.808444466113585,
+   "BRL": 70.60233059006433,
+   "AUD": 18.396494631568384,
+   "PHP": 793.0785868781543,
+   "MXN": 230.1817040421302,
+   "NZD": 22.53759680922266,
+   "INR": 1165.6658424584953
+  }
+ },
+ "point": {
+  "point_amount": 108,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1783522800,
+ "file": {
+  "type": "EXE",
+  "size": 78444614
+ },
+ "tags": [
+  {
+   "key": "016",
+   "name": "ファンタジー"
+  }
+ ],
+ "languages": [
+  "JPN"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [],
+ "rating": {
+  "average": null,
+  "count": null
+ },
+ "review_count": 0,
+ "dl_count": 18,
+ "wishlist_count": 68,
+ "ranking": [],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01667000/RJ01666778_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ01667000/RJ01666778_img_main_240x240.jpg",
+  "samples": [
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01667000/RJ01666778_img_smp1.jpg"
+  ],
+  "sample_thumbs": [
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01667000/RJ01666778_img_smp1_100x100.jpg"
+  ],
+  "alt": "異界開拓記 [歴史Founder]"
+ },
+ "introductions": [
+  {
+   "type": "text",
+   "title": "",
+   "body": [
+    {
+     "intro": "プレイごとに世界がまるごと新しく生まれる。<br />\n町の形も、住人の名前も性格も、迷宮の構造さえも——すべてが自動生成。<br />\n攻略サイトの地図は役に立たない。この辺境を知っているのは、あなただけ。<br />\n<br />\n『異界開拓記』は、スローライフ × ターン制ローグライク。<br />\n朝は畑に水をやり、昼は池のヌシと格闘し、夕方に鍛冶屋で剣を打ち直して、<br />\n夜——迷宮の底へ潜る。どう生きるかは、すべて自由。<br />\n<br />\n■ 紋章がつなぐ、6つの迷宮<br />\n始まりの大穴から、水没神殿、灼熱の火山、死者の霊廟、そして四つの紋章で開く「深淵の塔」地下30階へ。各迷宮の主が守る紋章が、次の封印を解く鍵になる。迷宮は潜るたびに構造が変化し、ボスを倒すまで下り階段は封印される。魔王を討ったその後には——無限迷宮「久遠の回廊」が解放。10階ごとに歴代の強敵が立ちはだかり、到達深度は歴代ランキングに刻まれる。<br />\n<br />\n■ 地上も、戦場<br />\n町を一歩出れば、北の森・東の荒野・南の湿原・西の丘陵。地方ごとに棲む魔物が変わり、夜はさらに凶暴に。各地にはゴブリンの野営地や竜の巣といった縄張りがあり、数日ごとに現れる主を討てば高ランク装備を確定ドロップ。ギルドの賞金首として狩りに出るもよし。<br />\n<br />\n■ 生きるための手が、戦う力になる<br />\n農業・釣り・採掘・調合・ギルド依頼——生活のすべてが冒険につながる。装備は鍛冶屋強化でき、上位素材は火山の緋鉄、霊廟の霊銀、深淵の黒鋼。ランダム生成装備を、未鑑定のまま拾う緊張感。<br />\n<br />\n■ 魔物さえ、仲間になる<br />\n弱らせた魔物にごちそうを差し出せば——スライムも、狼も、リビングアーマーさえも仲間に。ボス以外の全種がテイム可能。毒牙、火炎ブレス、じひびき——種族ごとの固有技を引っさげて隣で戦い、レベルを上げる。そして町の空き家を買えば、ベッド・収納・キッチンに加え、裏庭の畑やペット小屋への増築まで。ギルド地下の闘技場では銅から竜まで5リーグの3連戦が、賞金と栄光を懸けて待っている。畑とヌシの恵みで作る料理は、翌朝まで続く力になる。<br />\n<br />\n■ 住人は、データじゃない<br />\n毎日話しかけ、好みの贈り物を見つけ、好感度を上げて——交際、そして結婚まで。冒険者を仲間に誘えば挟撃で共に戦い、鍛冶師や宿屋の女将らにはそれぞれ3話構成の頼みごと物語。完結すれば、能力が永続上昇する秘伝書が手に入る。<br />\n<br />\n■ 骨の髄まで、やり込める<br />\nレベル上限99。モンスター図鑑、釣り・農業・調合の記録が冒険を刻む。"
+    }
+   ]
+  }
+ ],
+ "description": "プレイごとに町も住人も迷宮も自動生成されるRPG。畑・釣り・鍛冶・結婚まで自由に生きながら、紋章を集めて6つの迷宮を踏破せよ。魔王の先には無限回廊と歴代ランキング。",
+ "short_introduction": "プレイごとに町も住人も迷宮も自動生成されるRPG。畑・釣り・鍛冶・結婚まで自由に生きながら、紋章を集めて6つの迷宮を踏破せよ。魔王の先には無限回廊と歴代ランキング。",
+ "options": [
+  "MS2",
+  "OLY"
+ ],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01666778.html",
+ "site_id": "home",
+ "fetched_at": 1794942730
+}

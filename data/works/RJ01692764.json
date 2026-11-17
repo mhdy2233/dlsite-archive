@@ -1,0 +1,130 @@
+{
+ "id": "RJ01692764",
+ "title": "死霊のハウス",
+ "title_romaji": "shiryounohausu",
+ "circle": {
+  "id": "RG30579",
+  "name": "ぶるのま亭",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG30579.html"
+ },
+ "type": {
+  "code": "RPG",
+  "name": "ロールプレイング",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "r18",
+ "sex": 1,
+ "price": {
+  "jpy": 440,
+  "official_jpy": 440,
+  "currencies": {
+   "USD": 2.757360428995149,
+   "EUR": 2.5057290076857544,
+   "GBP": 2.0906605441989394,
+   "TWD": 90.90345639733074,
+   "CNY": 18.412738267110246,
+   "KRW": 3682.008368200837,
+   "IDR": 50400.91638029782,
+   "VND": 70967.74193548388,
+   "THB": 93.44008154770754,
+   "SEK": 27.834184173735917,
+   "HKD": 21.637357881899366,
+   "SGD": 3.553648789659528,
+   "CAD": 3.9421401341223583,
+   "MYR": 11.29076543691413,
+   "BRL": 15.689406797792072,
+   "AUD": 4.088109918126308,
+   "PHP": 176.23968597292318,
+   "MXN": 51.15148978714005,
+   "NZD": 5.008354846493924,
+   "INR": 259.0368538796656
+  }
+ },
+ "point": {
+  "point_amount": 24,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1786287600,
+ "file": {
+  "type": "EXE",
+  "size": 207445066
+ },
+ "tags": [
+  {
+   "key": "432",
+   "name": "女主人公"
+  },
+  {
+   "key": "016",
+   "name": "ファンタジー"
+  },
+  {
+   "key": "131",
+   "name": "搾乳"
+  },
+  {
+   "key": "128",
+   "name": "中出し"
+  }
+ ],
+ "languages": [
+  "JPN"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [],
+ "rating": {
+  "average": 4.36,
+  "count": 11
+ },
+ "review_count": 0,
+ "dl_count": 129,
+ "wishlist_count": 383,
+ "ranking": [],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01693000/RJ01692764_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ01693000/RJ01692764_img_main_240x240.jpg",
+  "samples": [
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01693000/RJ01692764_img_smp1.jpg"
+  ],
+  "sample_thumbs": [
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01693000/RJ01692764_img_smp1_100x100.jpg"
+  ],
+  "alt": "死霊のハウス [ぶるのま亭]"
+ },
+ "introductions": [
+  {
+   "type": "text",
+   "title": "屋敷探索短編RPG",
+   "body": [
+    {
+     "intro": "邪悪な魔術師の屋敷に迷い込んで閉じ込められてしまった旅の女戦士ティル。<br />\r\n魔術師の人体実験で生まれた怪物が徘徊する屋敷から、無事に脱出することはできるのか……<br />\r\n<br />\r\n30分程度でクリア可能な探索短編RPGです。戦闘はなく、屋敷の中でアイテムを集めて魔術師を倒しましょう。<br />\r\n<br />\r\nCG枚数7枚、最初から全解放可能。<br />\r\n<br />\r\nRPGツクールMZにて制作しております。<br />\r\n体験版での動作確認をお願いいたします。"
+    }
+   ]
+  }
+ ],
+ "description": "旅の女戦士が邪悪な魔術師の館に閉じ込められて脱出するために探索する短編RPG",
+ "short_introduction": "旅の女戦士が邪悪な魔術師の館に閉じ込められて脱出するために探索する短編RPG",
+ "options": [
+  "MS2",
+  "TRI",
+  "ORW"
+ ],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01692764.html",
+ "site_id": "maniax",
+ "fetched_at": 1794942557
+}

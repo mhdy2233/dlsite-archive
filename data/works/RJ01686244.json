@@ -1,0 +1,136 @@
+{
+ "id": "RJ01686244",
+ "title": "隠れて麻雀",
+ "title_romaji": "kakuretemaajan",
+ "circle": {
+  "id": "RG01076692",
+  "name": "職場内ゲーマー",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01076692.html"
+ },
+ "type": {
+  "code": "PZL",
+  "name": "パズル",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "all",
+ "sex": 1,
+ "price": {
+  "jpy": 165,
+  "official_jpy": 330,
+  "currencies": {
+   "USD": 1.0340101608731809,
+   "EUR": 0.9396483778821578,
+   "GBP": 0.7839977040746023,
+   "TWD": 34.08879614899903,
+   "CNY": 6.904776850166343,
+   "KRW": 1380.753138075314,
+   "IDR": 18900.343642611682,
+   "VND": 26612.90322580645,
+   "THB": 35.04003058039032,
+   "SEK": 10.437819065150968,
+   "HKD": 8.114009205712263,
+   "SGD": 1.332618296122323,
+   "CAD": 1.4783025502958844,
+   "MYR": 4.234037038842799,
+   "BRL": 5.883527549172027,
+   "AUD": 1.5330412192973655,
+   "PHP": 66.08988223984619,
+   "MXN": 19.181808670177517,
+   "NZD": 1.8781330674352215,
+   "INR": 97.13882020487459
+  }
+ },
+ "point": {
+  "point_amount": 9,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1785596400,
+ "file": {
+  "type": "EXE",
+  "size": 8236071
+ },
+ "tags": [
+  {
+   "key": "507",
+   "name": "技術書"
+  },
+  {
+   "key": "053",
+   "name": "健全"
+  },
+  {
+   "key": "431",
+   "name": "ドット"
+  }
+ ],
+ "languages": [
+  "JPN"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [],
+ "rating": {
+  "average": null,
+  "count": null
+ },
+ "review_count": 0,
+ "dl_count": 3,
+ "wishlist_count": 12,
+ "ranking": [],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01687000/RJ01686244_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ01687000/RJ01686244_img_main_240x240.jpg",
+  "samples": [
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01687000/RJ01686244_img_smp1.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01687000/RJ01686244_img_smp2.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01687000/RJ01686244_img_smp3.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01687000/RJ01686244_img_smp4.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01687000/RJ01686244_img_smp5.jpg"
+  ],
+  "sample_thumbs": [
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01687000/RJ01686244_img_smp1_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01687000/RJ01686244_img_smp2_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01687000/RJ01686244_img_smp3_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01687000/RJ01686244_img_smp4_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01687000/RJ01686244_img_smp5_100x100.jpg"
+  ],
+  "alt": "隠れて麻雀 [職場内ゲーマー]"
+ },
+ "introductions": [
+  {
+   "type": "image",
+   "title": "隠れて遊ぶ麻雀。",
+   "body": [
+    {
+     "intro": "職場で麻雀をやりたい！　そんな心の声に答える形で開発しました。隠れて遊ぶ為の麻雀アプリ。画面は古い開発ツール。一見すると仕事してる様にしか見えない。音なし。演出なし。グラフィックなし。多言語対応でより麻雀に見えないゲームに進化。<br />\r\n<br />\r\n日本語、英語、中国、スペイン語の4カ国語対応。@マークキーでのツモ切り機能をアップデートしました。",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ01687000/RJ01686244/d800b8615c378b7915b499fb92e3dd51.jpg",
+      "alt": "隠れて麻雀 [職場内ゲーマー]",
+      "title": "隠れて麻雀 [職場内ゲーマー]"
+     },
+     "position": "over"
+    }
+   ]
+  }
+ ],
+ "description": "職場で麻雀をやりたい！ そんな心の声に答える形で開発しました。隠れて遊ぶ為の麻雀アプリ。画面は古い開発ツール。一見すると仕事してる様にしか見えない。音なし。演出なし。グラフィックなし。多言語対応でより麻雀に見えないゲームに進化。",
+ "short_introduction": "職場で麻雀をやりたい！ そんな心の声に答える形で開発しました。隠れて遊ぶ為の麻雀アプリ。画面は古い開発ツール。一見すると仕事してる様にしか見えない。音なし。演出なし。グラフィックなし。多言語対応でより麻雀に見えないゲームに進化。",
+ "options": [],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01686244.html",
+ "site_id": "home",
+ "fetched_at": 1794942583
+}

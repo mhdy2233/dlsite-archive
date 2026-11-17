@@ -1,0 +1,111 @@
+{
+ "id": "RJ01736642",
+ "title": "本日付で、社長。",
+ "title_romaji": "honjitsuzukedeshachou",
+ "circle": {
+  "id": "RG01079569",
+  "name": "魔物",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01079569.html"
+ },
+ "type": {
+  "code": "SLN",
+  "name": "シミュレーション",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "all",
+ "sex": 1,
+ "price": {
+  "jpy": 1760,
+  "official_jpy": 1760,
+  "currencies": {
+   "USD": 11.029441715980596,
+   "EUR": 10.022916030743017,
+   "GBP": 8.362642176795758,
+   "TWD": 363.61382558932297,
+   "CNY": 73.65095306844098,
+   "KRW": 14728.033472803349,
+   "IDR": 201603.6655211913,
+   "VND": 283870.9677419355,
+   "THB": 373.76032619083014,
+   "SEK": 111.33673669494367,
+   "HKD": 86.54943152759746,
+   "SGD": 14.214595158638112,
+   "CAD": 15.768560536489433,
+   "MYR": 45.16306174765652,
+   "BRL": 62.75762719116829,
+   "AUD": 16.35243967250523,
+   "PHP": 704.9587438916927,
+   "MXN": 204.6059591485602,
+   "NZD": 20.033419385975694,
+   "INR": 1036.1474155186625
+  }
+ },
+ "point": {
+  "point_amount": 96,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1791097200,
+ "file": {
+  "type": "EXE",
+  "size": 111588368
+ },
+ "tags": [],
+ "languages": [
+  "JPN"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [],
+ "rating": {
+  "average": null,
+  "count": null
+ },
+ "review_count": 0,
+ "dl_count": 2,
+ "wishlist_count": 10,
+ "ranking": [],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01737000/RJ01736642_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ01737000/RJ01736642_img_main_240x240.jpg",
+  "samples": [
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01737000/RJ01736642_img_smp1.jpg"
+  ],
+  "sample_thumbs": [
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01737000/RJ01736642_img_smp1_100x100.jpg"
+  ],
+  "alt": "本日付で、社長。 [魔物]"
+ },
+ "introductions": [
+  {
+   "type": "text",
+   "title": "",
+   "body": [
+    {
+     "intro": "新卒で入った会社で、社長の椅子を目指す会社員生活シミュレーション。毎月の働き方と終業後の過ごし方を決め、案件を納期までに仕上げ、3月の人事考課と4月の辞令をくぐり抜けていく。残業で成果を積むか、定時で帰って体を守るか。同期のライバルより先に、社長室へたどり着けるか。"
+    }
+   ]
+  }
+ ],
+ "description": "新卒で入った会社で、社長の椅子を目指す会社員生活シミュレーション。毎月の働き方と終業後の過ごし方を決め、案件を納期までに仕上げ、3月の人事考課と4月の辞令をくぐり抜けていく。残業で成果を積むか、定時で帰って体を守るか。同期のライバルより先に、社長室へたどり着けるか。",
+ "short_introduction": "新卒で入った会社で、社長の椅子を目指す会社員生活シミュレーション。毎月の働き方と終業後の過ごし方を決め、案件を納期までに仕上げ、3月の人事考課と4月の辞令をくぐり抜けていく。残業で成果を積むか、定時で帰って体を守るか。同期のライバルより先に、社長室へたどり着けるか。",
+ "options": [
+  "OLY"
+ ],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01736642.html",
+ "site_id": "home",
+ "fetched_at": 1794942245
+}

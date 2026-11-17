@@ -1,0 +1,253 @@
+{
+ "id": "RJ01677934",
+ "title": "新クトゥルフ神話TRPG「羽墜としの牢獄」【SPLL:E187903】",
+ "title_romaji": "haneotoshinorougoku",
+ "circle": {
+  "id": "RG01075975",
+  "name": "澤村終家-シナリオ製作所",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01075975.html"
+ },
+ "type": {
+  "code": "ETC",
+  "name": "その他ゲーム",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "all",
+ "sex": 1,
+ "price": {
+  "jpy": 550,
+  "official_jpy": 550,
+  "currencies": {
+   "USD": 3.4467005362439362,
+   "EUR": 3.1321612596071926,
+   "GBP": 2.6133256802486744,
+   "TWD": 113.62932049666342,
+   "CNY": 23.015922833887807,
+   "KRW": 4602.510460251046,
+   "IDR": 63001.14547537228,
+   "VND": 88709.67741935485,
+   "THB": 116.80010193463441,
+   "SEK": 34.7927302171699,
+   "HKD": 27.046697352374206,
+   "SGD": 4.44206098707441,
+   "CAD": 4.927675167652948,
+   "MYR": 14.113456796142662,
+   "BRL": 19.611758497240093,
+   "AUD": 5.110137397657885,
+   "PHP": 220.299607466154,
+   "MXN": 63.93936223392506,
+   "NZD": 6.260443558117405,
+   "INR": 323.79606734958196
+  }
+ },
+ "point": {
+  "point_amount": 30,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1785769200,
+ "file": {
+  "type": "PDF",
+  "size": 50466158
+ },
+ "tags": [
+  {
+   "key": "508",
+   "name": "TRPG"
+  },
+  {
+   "key": "516",
+   "name": "TRPGシナリオ"
+  },
+  {
+   "key": "010",
+   "name": "SF"
+  },
+  {
+   "key": "026",
+   "name": "オカルト"
+  },
+  {
+   "key": "015",
+   "name": "シリアス"
+  },
+  {
+   "key": "019",
+   "name": "ホラー"
+  }
+ ],
+ "languages": [
+  "JPN"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [],
+ "rating": {
+  "average": null,
+  "count": null
+ },
+ "review_count": 0,
+ "dl_count": 3,
+ "wishlist_count": 14,
+ "ranking": [],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01678000/RJ01677934_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ01678000/RJ01677934_img_main_240x240.jpg",
+  "samples": [
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01678000/RJ01677934_img_smp1.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01678000/RJ01677934_img_smp2.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01678000/RJ01677934_img_smp3.jpg"
+  ],
+  "sample_thumbs": [
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01678000/RJ01677934_img_smp1_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01678000/RJ01677934_img_smp2_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01678000/RJ01677934_img_smp3_100x100.jpg"
+  ],
+  "alt": "新クトゥルフ神話TRPG「羽墜としの牢獄」【SPLL:E187903】 [澤村終家-シナリオ製作所]"
+ },
+ "introductions": [
+  {
+   "type": "text",
+   "title": "あらすじ",
+   "body": [
+    {
+     "intro": "化け物に招かれやってきたのは、<br />\n異界を彷彿とさせる「廃墟」だった。<br />\n<br />\n目の前に広がるは、赤錆が侵食する荒廃した世界。<br />\n天井にぶら下がる剥き出しの豆電球が、辺りを不気味に照らしている。<br />\n静寂の奥底から、何者かの唸り声が忍び寄るのを感じた。<br />\n死という名の終わりから逃れる事は出来るのだろうか。<br />\n<br />\n生存者達の決死の脱出劇が幕を開ける――。"
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "title": "本シナリオについて",
+   "body": [
+    {
+     "intro": "クトゥルフ神話TRPG第1弾です！<br />\r\n<br />\r\n本シナリオは初心者でも楽しめるよう、<br />\r\n解説資料やキーパー用の台本を最大限充実させました。<br />\r\nまた、今回のアピールポイントは以下となります。<br />\r\n<br />\r\n・エンディング分岐を「計7種」用意。<br />\r\n・コズミックホラーを体験できる。<br />\r\n・快適なプレイができるよう、ココフォリアの盤面を用意。"
+    }
+   ]
+  },
+  {
+   "type": "text_list",
+   "title": "ゲーム概要",
+   "body": [
+    {
+     "intro": "ゲームシステム:新クトゥルフ神話TRPG"
+    },
+    {
+     "intro": "対応版　　　　:7版(6版の技能の説明もあり)"
+    },
+    {
+     "intro": "プレイ人数　　:「プレイヤー2～4人推奨」+「キーパー1人」"
+    },
+    {
+     "intro": "プレイ時間目安:3～4時間程度"
+    },
+    {
+     "intro": "難易度　　　　:優しめ(初めての方でも楽しむことが出来ます)"
+    },
+    {
+     "intro": "ジャンル　　　:コズミックホラー、ファンタジー"
+    },
+    {
+     "intro": "舞台　　　　　:現代、廃墟"
+    },
+    {
+     "intro": "雰囲気　　　　:ホラー、不気味、不安、狂気、陰湿"
+    },
+    {
+     "intro": "傾向　　　　　:協力型脱出ゲーム"
+    },
+    {
+     "intro": "文字量　　　　:盤面(少なめ)、説明資料(多め)"
+    },
+    {
+     "intro": "AI使用有無　　:資料に使用している画像にのみAI製を含む(文章、シナリオ、設定等は完全自作)"
+    },
+    {
+     "intro": "使用ツール　　:ココフォリア+通話ソフト(Discord等)"
+    },
+    {
+     "intro": "男女比　　　　:自由"
+    },
+    {
+     "intro": "密談の有無　　:なし"
+    },
+    {
+     "intro": "戦闘有無　　　:あり"
+    },
+    {
+     "intro": "対立要素　　　:なし"
+    },
+    {
+     "intro": "秘匿要素　　　:なし"
+    },
+    {
+     "intro": "HO要素　　　 :なし"
+    },
+    {
+     "intro": "KPの事前読込　:あり(必須)"
+    },
+    {
+     "intro": "PLの事前読込　:なし"
+    },
+    {
+     "intro": "NPC有無　　　:3人(質疑応答タイプで自主的には動かない)"
+    },
+    {
+     "intro": "ブロック要素　:ホラー、残虐描写、人の死亡"
+    },
+    {
+     "intro": "使用ファイル　:PL・GM共に「pdf」、「txt」、「png」ファイルのみ"
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "title": "商品内容",
+   "body": [
+    {
+     "intro": "※zipファイルにまとめています。<br />\n※ページ数、文字数は「pdf」ファイルが元です。<br />\n<br />\n(KP用資料)<br />\n　・01#概要.pdf(全27ページ、3740文字)<br />\n　・02#チャート情報.pdf(全259ページ、計43629文字)<br />\n　・03#NPC情報.pdf(全78ページ、計14564文字)<br />\n　・04#アイテム情報.pdf(全80ページ、8822文字)<br />\n　・05#解説.pdf(全48ページ、14875文字)<br />\n　　※全く同じ内容で「txt」ファイルも用意しております。<br />\n<br />\n(ゲームデータ)<br />\n　・アイテム情報[png](計12個)<br />\n　・アイテム情報[pdf](計10個)<br />\n　・オープニング.png(2枚)<br />\n　・タイトル.png(2枚)<br />\n　・概要.png(2枚)<br />\n<br />\n(ココフォリア設定ファイル)<br />\n　・ゲーム用ファイル.zip(2個)<br />\n　　→「部屋情報あり」のファイル<br />\n　　→「部屋情報なし」のファイル"
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "title": "注意事項",
+   "body": [
+    {
+     "intro": "■ネタバレのご配慮について<br />\r\nTRPGは、ネタバレ情報を知ると面白さが完全に失われてしまいます。<br />\r\nSNSなどの公開の場でネタバレ情報(シナリオ本編情報の全て)を含む感想などをつぶやく際には、「ふせったー」などのご利用をお願い致します。<br />\r\nキーパーを担当される皆様は、上記についてプレイヤーにご周知頂けますよう何卒、宜しくお願い致します。<br />\r\n<br />\r\n■禁止事項<br />\r\n本シナリオは「澤村終家」に帰属しております。<br />\r\n無断転載、二次配布等は禁止させて頂きます。<br />\r\nシナリオの自作発言もおやめください。<br />\r\nただしプレイ目的に限りプレイに必要なファイルのやりとりを許可します。<br />\r\n<br />\r\n■利用規約<br />\r\n本シナリオは以下の利用方法を公認しております。<br />\r\n　□動画配信サイトなどでこのシナリオを使用した配信をすること。<br />\r\n　□また、その配信や動画によって広告収入などを受け取ること。<br />\r\n※利用時に都度確認を取る必要はございません。<br />\r\n※1人でも多くの方に楽しんで頂ければ幸いです！"
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "title": "情報",
+   "body": [
+    {
+     "intro": "■作品情報<br />\n企画・執筆　　:澤村修家<br />\nゲームデザイン:澤村修家<br />\n<br />\n■権利表記<br />\n当シナリオはTRPGライツSPLL「E187903」を取得済みです。<br />\n==============================================<br />\n本作は、「 株式会社アークライト 」及び「株式会社 KADOKAWA」が権利を有する『クトゥルフ神話 TRPG』の二次創作物です。<br />\nCall of Cthulhu is copyright ©1981, 2015, 2019 by Chaosium Inc. ;all rights reserved. Arranged by Arclight Inc.<br />\nCall of Cthulhu is a registered trademark of Chaosium Inc.<br />\nPUBLISHED BY KADOKAWA CORPORATION 「クトゥルフ神話 TRPG」<br />\n=============================================="
+    }
+   ]
+  }
+ ],
+ "description": "コズミックホラー風味の探索型クトゥルフ神話TRPG。鉄錆に浸食された廃墟から無事脱出が出来るのか。一つ一つの行動が生死を分かつ。(文章、シナリオ、世界観、設定、ココフォリア盤面は完全自作)",
+ "short_introduction": "コズミックホラー風味の探索型クトゥルフ神話TRPG。鉄錆に浸食された廃墟から無事脱出が出来るのか。一つ一つの行動が生死を分かつ。(文章、シナリオ、世界観、設定、ココフォリア盤面は完全自作)",
+ "options": [
+  "AIP",
+  "DLP",
+  "TRI"
+ ],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01677934.html",
+ "site_id": "home",
+ "fetched_at": 1794942580
+}

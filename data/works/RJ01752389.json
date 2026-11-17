@@ -104,10 +104,10 @@
  "language_editions": [],
  "rating": {
   "average": 4.59,
-  "count": 967
+  "count": 968
  },
  "review_count": 26,
- "dl_count": 12756,
+ "dl_count": 12757,
  "wishlist_count": 14360,
  "ranking": [
   {
@@ -245,17 +245,5 @@
  ],
  "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01752389.html",
  "site_id": "maniax",
- "fetched_at": 1794941306,
- "local_images": {
-  "main": "RJ01752389/main.jpg",
-  "thumb": "RJ01752389/thumb.jpg",
-  "samples": [
-   "RJ01752389/smp1.jpg",
-   "RJ01752389/smp2.jpg",
-   "RJ01752389/smp3.jpg",
-   "RJ01752389/smp4.jpg",
-   "RJ01752389/smp5.jpg",
-   "RJ01752389/smp6.jpg"
-  ]
- }
+ "fetched_at": 1794942095
 }

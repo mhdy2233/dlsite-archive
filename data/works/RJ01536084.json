@@ -1,0 +1,150 @@
+{
+ "id": "RJ01536084",
+ "title": "めいどいんめいど！+",
+ "title_romaji": "meidoinmeidopurasu",
+ "circle": {
+  "id": "RG01032870",
+  "name": "青い鳥のポンダリング",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01032870.html"
+ },
+ "type": {
+  "code": "RPG",
+  "name": "ロールプレイング",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "r18",
+ "sex": 1,
+ "price": {
+  "jpy": 1320,
+  "official_jpy": 1320,
+  "currencies": {
+   "USD": 8.272081286985447,
+   "EUR": 7.517187023057263,
+   "GBP": 6.271981632596819,
+   "TWD": 272.71036919199224,
+   "CNY": 55.23821480133074,
+   "KRW": 11046.025104602511,
+   "IDR": 151202.74914089346,
+   "VND": 212903.2258064516,
+   "THB": 280.3202446431226,
+   "SEK": 83.50255252120775,
+   "HKD": 64.9120736456981,
+   "SGD": 10.660946368978584,
+   "CAD": 11.826420402367075,
+   "MYR": 33.87229631074239,
+   "BRL": 47.068220393376215,
+   "AUD": 12.264329754378924,
+   "PHP": 528.7190579187695,
+   "MXN": 153.45446936142014,
+   "NZD": 15.025064539481772,
+   "INR": 777.1105616389967
+  }
+ },
+ "point": {
+  "point_amount": 72,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1767106800,
+ "file": {
+  "type": "EXE",
+  "size": 683201616
+ },
+ "tags": [
+  {
+   "key": "502",
+   "name": "男主人公"
+  },
+  {
+   "key": "510",
+   "name": "ツクール"
+  },
+  {
+   "key": "078",
+   "name": "メイド"
+  },
+  {
+   "key": "046",
+   "name": "ハーレム"
+  }
+ ],
+ "languages": [
+  "JPN"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [],
+ "rating": {
+  "average": 4.46,
+  "count": 54
+ },
+ "review_count": 1,
+ "dl_count": 437,
+ "wishlist_count": 1212,
+ "ranking": [],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01537000/RJ01536084_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ01537000/RJ01536084_img_main_240x240.jpg",
+  "samples": [
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01537000/RJ01536084_img_smp1.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01537000/RJ01536084_img_smp2.jpg"
+  ],
+  "sample_thumbs": [
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01537000/RJ01536084_img_smp1_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01537000/RJ01536084_img_smp2_100x100.jpg"
+  ],
+  "alt": "めいどいんめいど！+ [青い鳥のポンダリング]"
+ },
+ "introductions": [
+  {
+   "type": "text",
+   "title": "作品概要",
+   "body": [
+    {
+     "intro": "これまでCi-enの100円プランで配布していた「めいどいんめいど！」の追加要素を、ひとまとめにしたもの(+α)です。"
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "title": "収録内容",
+   "body": [
+    {
+     "intro": "・めいどいんめいど！dlc (本編に18禁イベントシーンを追加するパッチです)<br />\n・めいどいんめいど！END3 (本編にエンディングを追加するパッチです)<br />\n・めいどいんめいど！イラストまとめ (作中使用イラストをまとめたものです)<br />\n・裏話+ (裏話です)"
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "title": "注意事項",
+   "body": [
+    {
+     "intro": "「めいどいんめいど！dlc」と「めいどいんめいど！END3」は、「めいどいんめいど！」に新たな要素を追加するパッチです。単体では動作しません。"
+    }
+   ]
+  }
+ ],
+ "description": "あなたと、あなたの『メイド』たちが、共に思い出を『作って』いく物語…の別ルート+α",
+ "short_introduction": "あなたと、あなたの『メイド』たちが、共に思い出を『作って』いく物語…の別ルート+α",
+ "options": [
+  "REV",
+  "OLY",
+  "ORW"
+ ],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01536084.html",
+ "site_id": "maniax",
+ "fetched_at": 1794945492
+}

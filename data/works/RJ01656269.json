@@ -1,0 +1,124 @@
+{
+ "id": "RJ01656269",
+ "title": "星屑市の目利き ～掘り出し物を探すファンタジー・バザールRPG～",
+ "title_romaji": "hoshikuzuichinomekikihoridashimonowosagasufwantajiibazaaruaarupiijii",
+ "circle": {
+  "id": "RG01066479",
+  "name": "小さな学び舎",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01066479.html"
+ },
+ "type": {
+  "code": "SLN",
+  "name": "シミュレーション",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "all",
+ "sex": 1,
+ "price": {
+  "jpy": 990,
+  "official_jpy": 990,
+  "currencies": {
+   "USD": 6.204060965239085,
+   "EUR": 5.637890267292947,
+   "GBP": 4.703986224447614,
+   "TWD": 204.53277689399417,
+   "CNY": 41.428661100998056,
+   "KRW": 8284.518828451883,
+   "IDR": 113402.06185567011,
+   "VND": 159677.41935483873,
+   "THB": 210.24018348234196,
+   "SEK": 62.62691439090581,
+   "HKD": 48.68405523427357,
+   "SGD": 7.995709776733938,
+   "CAD": 8.869815301775306,
+   "MYR": 25.404222233056792,
+   "BRL": 35.30116529503216,
+   "AUD": 9.198247315784192,
+   "PHP": 396.53929343907714,
+   "MXN": 115.0908520210651,
+   "NZD": 11.26879840461133,
+   "INR": 582.8329212292476
+  }
+ },
+ "point": {
+  "point_amount": 54,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1782054000,
+ "file": {
+  "type": "HTE",
+  "size": 57352
+ },
+ "tags": [
+  {
+   "key": "016",
+   "name": "ファンタジー"
+  }
+ ],
+ "languages": [
+  "JPN"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [],
+ "rating": {
+  "average": null,
+  "count": null
+ },
+ "review_count": 0,
+ "dl_count": 18,
+ "wishlist_count": 40,
+ "ranking": [],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01657000/RJ01656269_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ01657000/RJ01656269_img_main_240x240.jpg",
+  "samples": [
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01657000/RJ01656269_img_smp1.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01657000/RJ01656269_img_smp2.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01657000/RJ01656269_img_smp3.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01657000/RJ01656269_img_smp4.jpg"
+  ],
+  "sample_thumbs": [
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01657000/RJ01656269_img_smp1_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01657000/RJ01656269_img_smp2_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01657000/RJ01656269_img_smp3_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01657000/RJ01656269_img_smp4_100x100.jpg"
+  ],
+  "alt": "星屑市の目利き ～掘り出し物を探すファンタジー・バザールRPG～ [小さな学び舎]"
+ },
+ "introductions": [
+  {
+   "type": "text",
+   "title": "「一流の冒険者ってのは、物の価値を見定める目もあるもんだ」",
+   "body": [
+    {
+     "intro": "年に一度の大バザール「星屑市」。<br />\r\n冒険者であるあなたは、限られた時間と資金を手に、三つの地区を巡って掘り出し物を探します。<br />\r\n<br />\r\n店頭に並ぶのは、使い込まれた中古武具、旅に役立つ実用品、古道具や日用品、怪しげな魔法の品、巧妙な偽物、そして滅多に現れない名品まで全115種類。<br />\r\n商品の価値は、技術判定による目利き、幸運判定による直感、体力を消費する魔力感知や鑑定魔法で調べられます。<br />\r\nどこまで情報を集めるか、そのうえで買うか見送るかはあなた次第です。<br />\r\n<br />\r\n朝・昼・夕で店主や商品は入れ替わり、各地区では一度ずつタイムセールが行われます。<br />\r\n特定の時間帯にしか現れない品もあり、体力が足りなければ1行動分の時間を費やして休憩することもできます。<br />\r\n<br />\r\n閉場後には、居残った客や店主との個人交渉が始まります。<br />\r\n現金での買取、物々交換、売れ残り品の叩き売りのほか、所持している品によっては特殊な相手から取引を持ちかけることもあります。<br />\r\n一見がらくたにしか見えない品が、思いがけない交換へつながるかもしれません。<br />\r\n<br />\r\n宿へ戻ると、購入品の正体と本当の価値が明らかになります。<br />\r\n支払った金額と手に入れた品の価値から収支とランクが判定され、特別な品や行動によっては通常とは異なる後日談や特殊エンディングが発生します。<br />\r\n<br />\r\n一度クリアすると、購入経験のある商品の価格、正体、出現地区、時間帯などを確認できる「買物図鑑」が解放されます。<br />\r\n<br />\r\nHTMLファイルをブラウザで開くだけで遊べる、1人用・周回型のファンタジーゲームブックです。<br />\r\nインターネット接続は必要ありません。<br />\r\n<br />\r\n<br />\r\n※紹介画像・サムネイル画像および作品制作の補助にAIを使用しています。"
+    }
+   ]
+  }
+ ],
+ "description": "目利き・幸運・魔法を頼りに全115種の商品を見極めて購入し、閉場後は他の客と交渉する周回型ファンタジー・バザールゲームブックRPG。",
+ "short_introduction": "目利き・幸運・魔法を頼りに全115種の商品を見極めて購入し、閉場後は他の客と交渉する周回型ファンタジー・バザールゲームブックRPG。",
+ "options": [
+  "AIP",
+  "DLP",
+  "ORW"
+ ],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01656269.html",
+ "site_id": "home",
+ "fetched_at": 1794943912
+}

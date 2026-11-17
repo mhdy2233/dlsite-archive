@@ -1,0 +1,135 @@
+{
+ "id": "RJ01592151",
+ "title": "失敗したら罰ゲーム！?！?",
+ "title_romaji": "shippaishitarabatsugeemu",
+ "circle": {
+  "id": "RG01067871",
+  "name": "マナーハウス",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01067871.html"
+ },
+ "type": {
+  "code": "ACN",
+  "name": "アクション",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "r18",
+ "sex": 1,
+ "price": {
+  "jpy": 220,
+  "official_jpy": 220,
+  "currencies": {
+   "USD": 1.3786802144975745,
+   "EUR": 1.2528645038428772,
+   "GBP": 1.0453302720994697,
+   "TWD": 45.45172819866537,
+   "CNY": 9.206369133555123,
+   "KRW": 1841.0041841004186,
+   "IDR": 25200.45819014891,
+   "VND": 35483.87096774194,
+   "THB": 46.72004077385377,
+   "SEK": 13.917092086867958,
+   "HKD": 10.818678940949683,
+   "SGD": 1.776824394829764,
+   "CAD": 1.9710700670611792,
+   "MYR": 5.645382718457065,
+   "BRL": 7.844703398896036,
+   "AUD": 2.044054959063154,
+   "PHP": 88.11984298646159,
+   "MXN": 25.575744893570025,
+   "NZD": 2.504177423246962,
+   "INR": 129.5184269398328
+  }
+ },
+ "point": {
+  "point_amount": 12,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1775919600,
+ "file": {
+  "type": "EXE",
+  "size": 82036535
+ },
+ "tags": [
+  {
+   "key": "509",
+   "name": "3D作品"
+  },
+  {
+   "key": "279",
+   "name": "年下攻め"
+  },
+  {
+   "key": "528",
+   "name": "本番なし"
+  }
+ ],
+ "languages": [
+  "JPN"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [],
+ "rating": {
+  "average": null,
+  "count": null
+ },
+ "review_count": 0,
+ "dl_count": 1,
+ "wishlist_count": 20,
+ "ranking": [],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01593000/RJ01592151_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ01593000/RJ01592151_img_main_240x240.jpg",
+  "samples": [],
+  "sample_thumbs": [],
+  "alt": "失敗したら罰ゲーム！?！? [マナーハウス]"
+ },
+ "introductions": [
+  {
+   "type": "text",
+   "title": "ミニゲームと若干のエロ要素を含んだゲームです!!",
+   "body": [
+    {
+     "intro": "初めまして、マナーハウスのエキゾチックな猫です。<br />\r\n<br />\r\n商品の説明をみていただきありがとうございます。<br />\r\nゲームのボリュームはお値段の通りですが、青い球体をゴールへ運ぶだけの簡単で誰でもすぐに遊べるミニゲームに仕上がっております。<br />\r\n<br />\r\n音声はCOEIROINK:リリンちゃんを使用しているため、合成音声が苦手な方はご注意願います。<br />\r\n<br />\r\n<br />\r\nバグ等を発見していただいた購入者様にあってはお手数ですがCi-enまでご連絡をお願いいたします。"
+    }
+   ]
+  },
+  {
+   "type": "image",
+   "title": "生成される障害物や移動体の種類はランダムで生成されます。",
+   "body": [
+    {
+     "intro": "ゴールへの到達回数に応じて、ミニゲーム終了後に煽ってくれます。<br />\r\n段階は4回以下、5回以上8回以下、9回以上の3段階で最大3分間です。<br />\r\n<br />\r\n操作方法はReadMeを確認願います。",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ01593000/RJ01592151/95a9fc3ffca39098d5c114c286910ff6.jpg",
+      "alt": "失敗したら罰ゲーム！?！? [マナーハウス]",
+      "title": "失敗したら罰ゲーム！?！? [マナーハウス]"
+     },
+     "position": "over"
+    }
+   ]
+  }
+ ],
+ "description": "unityを用いて制作した当たり判定がシビアな障害物回避ゲーです。",
+ "short_introduction": "unityを用いて制作した当たり判定がシビアな障害物回避ゲーです。",
+ "options": [
+  "OLY"
+ ],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01592151.html",
+ "site_id": "maniax",
+ "fetched_at": 1794944585
+}

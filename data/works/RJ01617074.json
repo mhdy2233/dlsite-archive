@@ -1,0 +1,122 @@
+{
+ "id": "RJ01617074",
+ "title": "冒険者の日常:銀の雄鶏亭の五つの挑戦印",
+ "title_romaji": "boukenshanonichijouginnoondoriteinoitsutsunochousenjou",
+ "circle": {
+  "id": "RG01066479",
+  "name": "小さな学び舎",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01066479.html"
+ },
+ "type": {
+  "code": "ADV",
+  "name": "アドベンチャー",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "all",
+ "sex": 1,
+ "price": {
+  "jpy": 550,
+  "official_jpy": 550,
+  "currencies": {
+   "USD": 3.4467005362439362,
+   "EUR": 3.1321612596071926,
+   "GBP": 2.6133256802486744,
+   "TWD": 113.62932049666342,
+   "CNY": 23.015922833887807,
+   "KRW": 4602.510460251046,
+   "IDR": 63001.14547537228,
+   "VND": 88709.67741935485,
+   "THB": 116.80010193463441,
+   "SEK": 34.7927302171699,
+   "HKD": 27.046697352374206,
+   "SGD": 4.44206098707441,
+   "CAD": 4.927675167652948,
+   "MYR": 14.113456796142662,
+   "BRL": 19.611758497240093,
+   "AUD": 5.110137397657885,
+   "PHP": 220.299607466154,
+   "MXN": 63.93936223392506,
+   "NZD": 6.260443558117405,
+   "INR": 323.79606734958196
+  }
+ },
+ "point": {
+  "point_amount": 30,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1777302000,
+ "file": {
+  "type": "HTE",
+  "size": 28223
+ },
+ "tags": [
+  {
+   "key": "016",
+   "name": "ファンタジー"
+  }
+ ],
+ "languages": [
+  "JPN"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [],
+ "rating": {
+  "average": null,
+  "count": null
+ },
+ "review_count": 0,
+ "dl_count": 14,
+ "wishlist_count": 17,
+ "ranking": [],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01618000/RJ01617074_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ01618000/RJ01617074_img_main_240x240.jpg",
+  "samples": [
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01618000/RJ01617074_img_smp1.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01618000/RJ01617074_img_smp2.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01618000/RJ01617074_img_smp3.jpg"
+  ],
+  "sample_thumbs": [
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01618000/RJ01617074_img_smp1_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01618000/RJ01617074_img_smp2_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01618000/RJ01617074_img_smp3_100x100.jpg"
+  ],
+  "alt": "冒険者の日常:銀の雄鶏亭の五つの挑戦印 [小さな学び舎]"
+ },
+ "introductions": [
+  {
+   "type": "text",
+   "title": "",
+   "body": [
+    {
+     "intro": "冒険者の宿「銀の雄鶏亭」で、あなたはまだ仮登録の冒険者。<br />\r\n正式な本契約を得るには五件の試用依頼をこなし、依頼人から推薦印を集めなければなりません。<br />\r\n<br />\r\n地下倉庫の害獣退治、夜道の配達、街道警護、怪異調査、交渉仕事、そして時折舞い込む高難度な依頼……。<br />\r\n依頼ごとに複数の選択肢と判定があり、選んだ冒険者、買った装備、噂や道具の使い方によって結果が変わります。<br />\r\n<br />\r\n一回のプレイは短めながら、依頼は全20種類。<br />\r\n序盤は低難度の仕事から始まり、試用を重ねることで新しい依頼や高難度の案件が掲示板に並ぶようになります。<br />\r\n<br />\r\n報酬を優先するか、推薦印を狙うか。<br />\r\n無理をして名を上げるか、堅実に生き残るか。<br />\r\nはたして五件の試用期間の終わりに、あなたは銀の雄鶏亭の正式な冒険者として認められるでしょうか?<br />\r\n<br />\r\nHTMLファイル単体で遊べる、ブラウザ用ファンタジーゲームブックです。<br />\r\n<br />\r\n<br />\r\n※紹介画像・サムネイル画像および作品制作の補助にAIを使用しています。"
+    }
+   ]
+  }
+ ],
+ "description": "五件の試用依頼をこなし、推薦印を集めて本契約を目指す短編リプレイ型ゲームブック。",
+ "short_introduction": "五件の試用依頼をこなし、推薦印を集めて本契約を目指す短編リプレイ型ゲームブック。",
+ "options": [
+  "AIP",
+  "DLP",
+  "ORW"
+ ],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01617074.html",
+ "site_id": "home",
+ "fetched_at": 1794944441
+}

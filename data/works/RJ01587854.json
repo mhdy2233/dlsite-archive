@@ -1,0 +1,149 @@
+{
+ "id": "RJ01587854",
+ "title": "算弾譜 - Geometry of Bullets",
+ "title_romaji": "sandanfujiometoriiobubarettsu",
+ "circle": {
+  "id": "RG01066754",
+  "name": "夢幻の森",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01066754.html"
+ },
+ "type": {
+  "code": "STG",
+  "name": "シューティング",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "all",
+ "sex": 1,
+ "price": {
+  "jpy": 220,
+  "official_jpy": 220,
+  "currencies": {
+   "USD": 1.3786802144975745,
+   "EUR": 1.2528645038428772,
+   "GBP": 1.0453302720994697,
+   "TWD": 45.45172819866537,
+   "CNY": 9.206369133555123,
+   "KRW": 1841.0041841004186,
+   "IDR": 25200.45819014891,
+   "VND": 35483.87096774194,
+   "THB": 46.72004077385377,
+   "SEK": 13.917092086867958,
+   "HKD": 10.818678940949683,
+   "SGD": 1.776824394829764,
+   "CAD": 1.9710700670611792,
+   "MYR": 5.645382718457065,
+   "BRL": 7.844703398896036,
+   "AUD": 2.044054959063154,
+   "PHP": 88.11984298646159,
+   "MXN": 25.575744893570025,
+   "NZD": 2.504177423246962,
+   "INR": 129.5184269398328
+  }
+ },
+ "point": {
+  "point_amount": 12,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1780297200,
+ "file": {
+  "type": "EXE",
+  "size": 59884853
+ },
+ "tags": [
+  {
+   "key": "432",
+   "name": "女主人公"
+  },
+  {
+   "key": "431",
+   "name": "ドット"
+  },
+  {
+   "key": "051",
+   "name": "萌え"
+  },
+  {
+   "key": "206",
+   "name": "少女"
+  }
+ ],
+ "languages": [
+  "JPN"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [],
+ "rating": {
+  "average": null,
+  "count": null
+ },
+ "review_count": 0,
+ "dl_count": 3,
+ "wishlist_count": 2,
+ "ranking": [],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01588000/RJ01587854_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ01588000/RJ01587854_img_main_240x240.jpg",
+  "samples": [
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01588000/RJ01587854_img_smp1.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01588000/RJ01587854_img_smp2.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01588000/RJ01587854_img_smp3.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01588000/RJ01587854_img_smp4.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01588000/RJ01587854_img_smp5.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01588000/RJ01587854_img_smp6.jpg"
+  ],
+  "sample_thumbs": [
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01588000/RJ01587854_img_smp1_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01588000/RJ01587854_img_smp2_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01588000/RJ01587854_img_smp3_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01588000/RJ01587854_img_smp4_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01588000/RJ01587854_img_smp5_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01588000/RJ01587854_img_smp6_100x100.jpg"
+  ],
+  "alt": "算弾譜 - Geometry of Bullets [夢幻の森]"
+ },
+ "introductions": [
+  {
+   "type": "text",
+   "title": "算弾譜 - Geometry of Bullets",
+   "body": [
+    {
+     "intro": "これは,懐かしいんだか懐かしくないんだか,レトロなんだかレトロじゃないだかわからない弾幕ゲームです.<br />\r\n難易度は高いですが,自分でプレイしていても面白いので,ハマる人はハマるのではないかと思います."
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "title": "readme.txtより抜粋",
+   "body": [
+    {
+     "intro": "-------------------------------------------------------------------<br />\r\n◯ 算弾譜 - Geometry of Bullets 体験版<br />\r\n<br />\r\n　私を読んで<br />\r\n<br />\r\n　　　　　　　　　　　　　　　　　夢幻の森 代表　さとしん<br />\r\n　　　　　　　　　　　　　　　　　　　　　　　        2026/05/31<br />\r\n-------------------------------------------------------------------<br />\r\n<br />\r\n<br />\r\n■1.挨拶<br />\r\n　　この度は,「算弾譜 - Geometry of Bullets」をお買い上げ頂き,<br />\r\n　まことに有難う御座います.<br />\r\n<br />\r\n　　本ゲームはなんだか懐かしいんだか,懐かしくないんだか分からない雰囲気の<br />\r\n　弾幕ゲームです.<br />\r\n　　弾幕ゲームとは言え,シューティングゲーム要素は皆無ですので,弾幕系の<br />\r\n　シューティングゲーム大好き～という方はご注意ください.<br />\r\n<br />\r\n<br />\r\n<br />\r\n■2.インストール方法<br />\r\n<br />\r\n　zipを解答いただいたのち,同梱のexeファイルを実行いただければ,<br />\r\nそのまま遊んでいただけます.<br />\r\n　インストール方法というか,起動方法に近いですね.<br />\r\n<br />\r\n<br />\r\n■3.アンインストール方法<br />\r\n<br />\r\n　本exeが入っているフォルダを削除いただければ問題ありません.<br />\r\n<br />\r\n<br />\r\n<br />\r\n■4.マニュアル<br />\r\n　<br />\r\n　メニュー画面では,十字キー,もしくはジョイスティックでカーソルの<br />\r\n移動が可能です.決定はZキー,もしくはエンターキー,外付けの<br />\r\nコントローラの場合は,コントローラの右側の四つのボタンのうち<br />\r\n一番下のボタンが決定の場合が多いですが,コントローラによっては<br />\r\n別のボタンが割り当てられる可能性があります.<br />\r\n<br />\r\n　ゲーム中は,十字キーの左右,またはジョイスティックで自機を左右に<br />\r\n動かします.白くて丸いボールに触れた状態で決定ボタンを押すと,<br />\r\nボールを上に飛ばすことができ,ボールが敵キャラに当たると,敵に<br />\r\nダメージがいきます.シフトキー,または外付けのコントローラの場合は<br />\r\n肩についてるLRボタンを押しながら移動すると低速移動できます.<br />\r\nまた,上キーを押すと上にジャンプできます.<br />\r\n<br />\r\n<br />\r\n<br />\r\n■5.免責事項<br />\r\n<br />\r\n　本ゲームをダウンロード,起動,プレイ,その他本ゲームに関する行為<br />\r\nによりプレイヤが被った任意の損失,損害,不利益等について,開発者と<br />\r\nその関係者は一切責任を負いません.すべて自己責任でお願いします.<br />\r\n<br />\r\n<br />\r\n■6.注意事項<br />\r\n<br />\r\n　本ゲームを改変することなく,又は一部を改変したゲームを二次配布するなど<br />\r\nの行為は禁止です.<br />\r\n　犯罪行為や公序良俗に反する行為は禁止です.<br />\r\n　本ゲームを利用して,特定の思想・宗教・政治団体・その他これに類するものを<br />\r\n布教・宣伝するなどの行為は禁止です.<br />\r\n　<br />\r\n　本ゲームのプレイ動画,及び紹介動画,並びに実況動画を物理的な方法,又は<br />\r\n電子的な方法により有償または無償により配信,配布する行為はOKです.ただし,<br />\r\nゲームのプレイ動画を配信,もしくは共有する目的以外での配信等の行為は禁止<br />\r\nです.具体的には,BGMのみを流すなどの行為がこの禁止行為に該当します.<br />\r\n<br />\r\n　本ゲームの二次創作作品を制作し,それを物理的な方法,又は電子的な方法に<br />\r\nより有償配布,または無償配布する行為はOKです.全年齢的な方法はもちろん,<br />\r\nR-18,百合,TS,TS薔薇などなど基本的に自由ですが,グロテスク表現は禁止です.<br />\r\n<br />\r\n　本ゲームに使用されている音楽のアレンジを制作し,それを物理的な方法,又は<br />\r\n電磁的な方法により有償配布,または無償配布する行為はOKです.ただし,本ゲーム<br />\r\nにりようされるwavファイルを抜き出し,そのまま二次配布する行為,当該wavファイル<br />\r\nの音程やエフェクトなどをいじっただけのものを二次配布する行為は禁止です.<br />\r\n<br />\r\n■7.利用しているOSSやフォントについて<br />\r\n　同梱の「ThirdPartyLicenses.md」を参照ください."
+    }
+   ]
+  }
+ ],
+ "description": "懐かしいんだか懐かしくないんだか分からない,難易度の高い弾幕ゲーム",
+ "short_introduction": "懐かしいんだか懐かしくないんだか分からない,難易度の高い弾幕ゲーム",
+ "options": [
+  "MS2",
+  "TRI",
+  "ORW"
+ ],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01587854.html",
+ "site_id": "home",
+ "fetched_at": 1794944092
+}

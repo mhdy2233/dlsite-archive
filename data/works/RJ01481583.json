@@ -1,0 +1,186 @@
+{
+ "id": "RJ01481583",
+ "title": "お前のノベルゲームが完成しない理由2",
+ "title_romaji": "omaenonoberugeemugakanseishinairiyuu",
+ "circle": {
+  "id": "RG72431",
+  "name": "えるりんご",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG72431.html"
+ },
+ "type": {
+  "code": "DNV",
+  "name": "デジタルノベル",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "all",
+ "sex": 1,
+ "price": {
+  "jpy": 550,
+  "official_jpy": 550,
+  "currencies": {
+   "USD": 3.4467005362439362,
+   "EUR": 3.1321612596071926,
+   "GBP": 2.6133256802486744,
+   "TWD": 113.62932049666342,
+   "CNY": 23.015922833887807,
+   "KRW": 4602.510460251046,
+   "IDR": 63001.14547537228,
+   "VND": 88709.67741935485,
+   "THB": 116.80010193463441,
+   "SEK": 34.7927302171699,
+   "HKD": 27.046697352374206,
+   "SGD": 4.44206098707441,
+   "CAD": 4.927675167652948,
+   "MYR": 14.113456796142662,
+   "BRL": 19.611758497240093,
+   "AUD": 5.110137397657885,
+   "PHP": 220.299607466154,
+   "MXN": 63.93936223392506,
+   "NZD": 6.260443558117405,
+   "INR": 323.79606734958196
+  }
+ },
+ "point": {
+  "point_amount": 30,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1768230000,
+ "file": {
+  "type": "EXE",
+  "size": 242954939
+ },
+ "tags": [
+  {
+   "key": "502",
+   "name": "男主人公"
+  },
+  {
+   "key": "230",
+   "name": "サラリーマン"
+  },
+  {
+   "key": "281",
+   "name": "同級生/同僚"
+  }
+ ],
+ "languages": [
+  "JPN"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [],
+ "rating": {
+  "average": null,
+  "count": null
+ },
+ "review_count": 0,
+ "dl_count": 3,
+ "wishlist_count": 13,
+ "ranking": [],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01482000/RJ01481583_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ01482000/RJ01481583_img_main_240x240.jpg",
+  "samples": [
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01482000/RJ01481583_img_smp1.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01482000/RJ01481583_img_smp2.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01482000/RJ01481583_img_smp3.jpg"
+  ],
+  "sample_thumbs": [
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01482000/RJ01481583_img_smp1_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01482000/RJ01481583_img_smp2_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01482000/RJ01481583_img_smp3_100x100.jpg"
+  ],
+  "alt": "お前のノベルゲームが完成しない理由2 [えるりんご]"
+ },
+ "introductions": [
+  {
+   "type": "text",
+   "title": "このゲームについて",
+   "body": [
+    {
+     "intro": "このゲームは、物語を楽しむものと言うよりかは<br />\n「えるりんご式ノベルゲームの作り方」を解説したハウツーものです。<br />\n<br />\n今回は長編ノベルゲームの完成方法に特化した内容です。<br />\n<br />\n<br />\n・短編ノベルゲームの完成方法<br />\n・ノベルゲーム制作における基本的な考え方<br />\nに関しては、前作「お前のノベルゲームが完成しない理由」をご参照ください。<br />\n<a href=\"https://www.dlsite.com/home/work/=/product_id/RJ01318053.html\" target=\"_blank\">https://www.dlsite.com/home/work/=/product_id/RJ01318053.html</a>"
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "title": "あらすじ",
+   "body": [
+    {
+     "intro": "社会人の夏都は長編ノベルゲーム制作に興味を持っていた。<br />\nそこで、友人の冬夜から長編ノベルゲーム制作について教えてもらうことに。<br />\nしかし、冬夜から「長編なんてやめとけ」と言われてしまう。<br />\n果たして、夏都は長編ノベルゲームを完成させることができるのか?"
+    }
+   ]
+  },
+  {
+   "type": "image_list",
+   "title": "登場人物",
+   "body": [
+    {
+     "intro": "【夏都】<br />\n主人公。社会人。<br />\n今回は長編ノベルゲーム制作に挑戦！<br />\n純情な性格だけど、ちょっと面倒くさがり。",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ01482000/RJ01481583/dbf9a570679e51fc716335cc7cf721b9.jpg",
+      "alt": "お前のノベルゲームが完成しない理由2 [えるりんご]",
+      "title": "お前のノベルゲームが完成しない理由2 [えるりんご]"
+     }
+    },
+    {
+     "intro": "【冬夜】<br />\n夏都の友人。<br />\n大手同人ノベルゲームサークルのサークル主。<br />\n口が悪く、結構辛口なので要注意。",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ01482000/RJ01481583/9ea825ad394fb8c30e606550a527290c.jpg",
+      "alt": "お前のノベルゲームが完成しない理由2 [えるりんご]",
+      "title": "お前のノベルゲームが完成しない理由2 [えるりんご]"
+     }
+    }
+   ]
+  },
+  {
+   "type": "text_list",
+   "title": "ゲーム概要",
+   "body": [
+    {
+     "intro": "総プレイ時間(オートモード選択時):1時間程度"
+    },
+    {
+     "intro": "ED数:1"
+    },
+    {
+     "intro": "選択肢:なし"
+    },
+    {
+     "intro": "イベントスチル枚数:なし"
+    },
+    {
+     "intro": "キャラクターボイス:なし"
+    },
+    {
+     "intro": "リリース日:2025/12/31"
+    }
+   ]
+  }
+ ],
+ "description": "えるりんご式ノベルゲームの作り方をざっくり解説!今回は長編ノベルゲームの完成方法編!",
+ "short_introduction": "えるりんご式ノベルゲームの作り方をざっくり解説!今回は長編ノベルゲームの完成方法編!",
+ "options": [
+  "MS2",
+  "TRI",
+  "OLY",
+  "ORW"
+ ],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01481583.html",
+ "site_id": "home",
+ "fetched_at": 1794945418
+}

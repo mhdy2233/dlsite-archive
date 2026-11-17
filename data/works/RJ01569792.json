@@ -1,0 +1,226 @@
+{
+ "id": "RJ01569792",
+ "title": "Call of Ponchy : Mahjong Warfare",
+ "title_romaji": "kooruobuponchimaajanwoofweaa",
+ "circle": {
+  "id": "RG54685",
+  "name": "デジメカ製作所",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG54685.html"
+ },
+ "type": {
+  "code": "ACN",
+  "name": "アクション",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "all",
+ "sex": 1,
+ "price": {
+  "jpy": 110,
+  "official_jpy": 110,
+  "currencies": {
+   "USD": 0.6893401072487872,
+   "EUR": 0.6264322519214386,
+   "GBP": 0.5226651360497349,
+   "TWD": 22.725864099332686,
+   "CNY": 4.6031845667775615,
+   "KRW": 920.5020920502093,
+   "IDR": 12600.229095074455,
+   "VND": 17741.93548387097,
+   "THB": 23.360020386926884,
+   "SEK": 6.958546043433979,
+   "HKD": 5.409339470474841,
+   "SGD": 0.888412197414882,
+   "CAD": 0.9855350335305896,
+   "MYR": 2.8226913592285325,
+   "BRL": 3.922351699448018,
+   "AUD": 1.022027479531577,
+   "PHP": 44.059921493230796,
+   "MXN": 12.787872446785013,
+   "NZD": 1.252088711623481,
+   "INR": 64.7592134699164
+  }
+ },
+ "point": {
+  "point_amount": 6,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1771398000,
+ "file": {
+  "type": "EXE",
+  "size": 2830398908
+ },
+ "tags": [
+  {
+   "key": "432",
+   "name": "女主人公"
+  },
+  {
+   "key": "053",
+   "name": "健全"
+  }
+ ],
+ "languages": [
+  "JPN"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [],
+ "rating": {
+  "average": 4.33,
+  "count": 18
+ },
+ "review_count": 0,
+ "dl_count": 75,
+ "wishlist_count": 95,
+ "ranking": [],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01570000/RJ01569792_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ01570000/RJ01569792_img_main_240x240.jpg",
+  "samples": [
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01570000/RJ01569792_img_smp1.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01570000/RJ01569792_img_smp2.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01570000/RJ01569792_img_smp3.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01570000/RJ01569792_img_smp4.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01570000/RJ01569792_img_smp5.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01570000/RJ01569792_img_smp6.jpg"
+  ],
+  "sample_thumbs": [
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01570000/RJ01569792_img_smp1_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01570000/RJ01569792_img_smp2_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01570000/RJ01569792_img_smp3_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01570000/RJ01569792_img_smp4_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01570000/RJ01569792_img_smp5_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01570000/RJ01569792_img_smp6_100x100.jpg"
+  ],
+  "alt": "Call of Ponchy : Mahjong Warfare [デジメカ製作所]"
+ },
+ "introductions": [
+  {
+   "type": "text",
+   "title": "麻雀TPS。それは銃とバットを用いる変則ルールの麻雀",
+   "body": [
+    {
+     "intro": "高レートマンション麻雀の代打ちとなり<br />\n<br />\n卓上を駆け、牌を集め、ライバルを倒そう。"
+    }
+   ]
+  },
+  {
+   "type": "image",
+   "title": "■ルールは?",
+   "body": [
+    {
+     "intro": "麻雀です。<br />\n<br />\nオーラスまでに敵よりも高い点棒を集めるか<br />\n<br />\n全ての敵を倒せば勝ちです。",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ01570000/RJ01569792/f09f1fd2acc7099f391a4165442f4db3.jpg",
+      "alt": "Call of Ponchy : Mahjong Warfare [デジメカ製作所]",
+      "title": "Call of Ponchy : Mahjong Warfare [デジメカ製作所]"
+     },
+     "position": "over"
+    }
+   ]
+  },
+  {
+   "type": "image",
+   "title": "■バット?",
+   "body": [
+    {
+     "intro": "あと1牌で面子が完成するときにバットで殴るとポンができます。<br />\n<br />\n敵のHPも削れます。",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ01570000/RJ01569792/429b889e8bd88c44f8b9ca2ad6865829.jpg",
+      "alt": "Call of Ponchy : Mahjong Warfare [デジメカ製作所]",
+      "title": "Call of Ponchy : Mahjong Warfare [デジメカ製作所]"
+     },
+     "position": "over"
+    }
+   ]
+  },
+  {
+   "type": "image",
+   "title": "■HP?",
+   "body": [
+    {
+     "intro": "ハコポイントです。<br />\n<br />\n銃やバットで削って0になるとトビます。",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ01570000/RJ01569792/fd5701343c29f5ec032c44c3150d7e8a.jpg",
+      "alt": "Call of Ponchy : Mahjong Warfare [デジメカ製作所]",
+      "title": "Call of Ponchy : Mahjong Warfare [デジメカ製作所]"
+     },
+     "position": "over"
+    }
+   ]
+  },
+  {
+   "type": "image",
+   "title": "■運ゲー?",
+   "body": [
+    {
+     "intro": "手積みやデッキのツミコミで差をつけることができます。<br />\n<br />\n対局はツモる前から始まっているのです。",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ01570000/RJ01569792/39abd4860e4d4f9afd4be511e2ea5f5a.jpg",
+      "alt": "Call of Ponchy : Mahjong Warfare [デジメカ製作所]",
+      "title": "Call of Ponchy : Mahjong Warfare [デジメカ製作所]"
+     },
+     "position": "over"
+    }
+   ]
+  },
+  {
+   "type": "text_list",
+   "title": "その他、細かいこと",
+   "body": [
+    {
+     "intro": "■ゴブリン?"
+    },
+    {
+     "intro": "牌を投げ捨てるのは打牌と呼ばれる麻雀の基本アクションですが  その結果として召喚されます。"
+    },
+    {
+     "intro": "■コールオブポンチー?"
+    },
+    {
+     "intro": "英語圏では鳴くときコールポン、コールチーと言うらしい。  明日使える無駄知識。"
+    },
+    {
+     "intro": "■帰宅麻雀部 池田?"
+    },
+    {
+     "intro": "主人公です。  社会の理不尽をお金で解決するため  高レートマンション麻雀に挑みます。"
+    },
+    {
+     "intro": "■安全?"
+    },
+    {
+     "intro": "麻雀卓-バトルフィールド-では麻雀の力が3倍、それ以外は1/3になります。  安全です。"
+    },
+    {
+     "intro": "■帰宅麻雀部 池田?"
+    },
+    {
+     "intro": "主人公です。  社会の理不尽をお金で解決するため  高レートマンション麻雀に挑みます。"
+    }
+   ]
+  }
+ ],
+ "description": "麻雀TPS。それは銃とバットを用いる変則ルールの麻雀",
+ "short_introduction": "麻雀TPS。それは銃とバットを用いる変則ルールの麻雀",
+ "options": [
+  "ORW"
+ ],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01569792.html",
+ "site_id": "home",
+ "fetched_at": 1794945117
+}

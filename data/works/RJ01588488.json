@@ -1,0 +1,145 @@
+{
+ "id": "RJ01588488",
+ "title": "スローフエル",
+ "title_romaji": "suroofueru",
+ "circle": {
+  "id": "RG45460",
+  "name": "ミケシ",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG45460.html"
+ },
+ "type": {
+  "code": "PZL",
+  "name": "パズル",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "all",
+ "sex": 1,
+ "price": {
+  "jpy": 440,
+  "official_jpy": 440,
+  "currencies": {
+   "USD": 2.757360428995149,
+   "EUR": 2.5057290076857544,
+   "GBP": 2.0906605441989394,
+   "TWD": 90.90345639733074,
+   "CNY": 18.412738267110246,
+   "KRW": 3682.008368200837,
+   "IDR": 50400.91638029782,
+   "VND": 70967.74193548388,
+   "THB": 93.44008154770754,
+   "SEK": 27.834184173735917,
+   "HKD": 21.637357881899366,
+   "SGD": 3.553648789659528,
+   "CAD": 3.9421401341223583,
+   "MYR": 11.29076543691413,
+   "BRL": 15.689406797792072,
+   "AUD": 4.088109918126308,
+   "PHP": 176.23968597292318,
+   "MXN": 51.15148978714005,
+   "NZD": 5.008354846493924,
+   "INR": 259.0368538796656
+  }
+ },
+ "point": {
+  "point_amount": 24,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1774162800,
+ "file": {
+  "type": "EXE",
+  "size": 26921805
+ },
+ "tags": [],
+ "languages": [
+  "JPN"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [],
+ "rating": {
+  "average": null,
+  "count": null
+ },
+ "review_count": 0,
+ "dl_count": 1,
+ "wishlist_count": 6,
+ "ranking": [],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01589000/RJ01588488_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ01589000/RJ01588488_img_main_240x240.jpg",
+  "samples": [
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01589000/RJ01588488_img_smp1.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01589000/RJ01588488_img_smp2.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01589000/RJ01588488_img_smp3.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01589000/RJ01588488_img_smp4.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01589000/RJ01588488_img_smp5.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01589000/RJ01588488_img_smp6.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01589000/RJ01588488_img_smp7.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01589000/RJ01588488_img_smp8.jpg"
+  ],
+  "sample_thumbs": [
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01589000/RJ01588488_img_smp1_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01589000/RJ01588488_img_smp2_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01589000/RJ01588488_img_smp3_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01589000/RJ01588488_img_smp4_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01589000/RJ01588488_img_smp5_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01589000/RJ01588488_img_smp6_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01589000/RJ01588488_img_smp7_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01589000/RJ01588488_img_smp8_100x100.jpg"
+  ],
+  "alt": "スローフエル [ミケシ]"
+ },
+ "introductions": [
+  {
+   "type": "text",
+   "title": "",
+   "body": [
+    {
+     "intro": "・ゲームについて<br />\n　このゲームは左右に並んでる四角い物体(フエル)を中央のタンクに<br />\n　投入してタンクを満タンにするパズルゲームです。<br />\n　タンクを満タンにするまでの数<br />\n　ショートコース:100<br />\n　ベーシックコース:500<br />\n　高難易度コース:500<br />\n　スローフエルはマウス操作のみで遊ぶゲームです。<br />\n　セーブはオートセーブのみです。<br />\n　ストーリーはありません。<br />\n　プレイ時間:高難易度コースやRPGコースを1発クリアできれば12分くらい<br />\n　実況・プレイ動画OKです。<br />\n<br />\n<br />\n・動作環境<br />\n　このゲームはWOLF RPG エディター3.653で制作されています。<br />\n　購入前に必ず体験版で動作確認と内容の察しをしてください。"
+    }
+   ]
+  },
+  {
+   "type": "text_list",
+   "title": "アップデートver1.10",
+   "body": [
+    {
+     "intro": "RPGコースの追加"
+    },
+    {
+     "intro": "次降って来る左右のフエルを入れ替えるボタンを追加"
+    },
+    {
+     "intro": "フエルを一時的に1増やすガラス砲を追加"
+    },
+    {
+     "intro": "ベーシックコース2週目以降紫フエルが出てこない不具合修正"
+    }
+   ]
+  }
+ ],
+ "description": "頭を使わなくてもクリアできる爽快パズル！",
+ "short_introduction": "頭を使わなくてもクリアできる爽快パズル！",
+ "options": [
+  "TRI",
+  "OLY",
+  "ORW"
+ ],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01588488.html",
+ "site_id": "home",
+ "fetched_at": 1794944782
+}

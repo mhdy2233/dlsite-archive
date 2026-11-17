@@ -96,8 +96,9 @@ def collect_ids(want, proxy=None, start_page=1, max_pages=200, existing=(),
     """
     plist = proxies or ([proxy] if proxy else [None])
     out, page, total = [], start_page, None
+    last_page = start_page + max_pages - 1   # max_pages counts pages walked, not an absolute cap
     misses = 0
-    while len(out) < want and page <= max_pages:
+    while len(out) < want and page <= last_page:
         p = plist[(page - start_page) % len(plist)]
         ids, total_pages, html = list_page(page, proxy=p, netns=netns)
         total = total_pages

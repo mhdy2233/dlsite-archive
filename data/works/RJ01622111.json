@@ -1,0 +1,135 @@
+{
+ "id": "RJ01622111",
+ "title": "それって「○ん○う」ですよね?",
+ "title_romaji": "soretteanoudesuyone",
+ "circle": {
+  "id": "RG01070888",
+  "name": "荒巻しゃけ",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01070888.html"
+ },
+ "type": {
+  "code": "QIZ",
+  "name": "クイズ",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "all",
+ "sex": 1,
+ "price": {
+  "jpy": 330,
+  "official_jpy": 330,
+  "currencies": {
+   "USD": 2.0680203217463617,
+   "EUR": 1.8792967557643157,
+   "GBP": 1.5679954081492047,
+   "TWD": 68.17759229799806,
+   "CNY": 13.809553700332685,
+   "KRW": 2761.506276150628,
+   "IDR": 37800.687285223365,
+   "VND": 53225.8064516129,
+   "THB": 70.08006116078064,
+   "SEK": 20.875638130301937,
+   "HKD": 16.228018411424525,
+   "SGD": 2.665236592244646,
+   "CAD": 2.956605100591769,
+   "MYR": 8.468074077685598,
+   "BRL": 11.767055098344054,
+   "AUD": 3.066082438594731,
+   "PHP": 132.17976447969238,
+   "MXN": 38.363617340355034,
+   "NZD": 3.756266134870443,
+   "INR": 194.27764040974918
+  }
+ },
+ "point": {
+  "point_amount": 18,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1779721200,
+ "file": {
+  "type": "EXE",
+  "size": 22311595
+ },
+ "tags": [
+  {
+   "key": "053",
+   "name": "健全"
+  }
+ ],
+ "languages": [
+  "JPN"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [],
+ "rating": {
+  "average": null,
+  "count": null
+ },
+ "review_count": 0,
+ "dl_count": 7,
+ "wishlist_count": 3,
+ "ranking": [],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01623000/RJ01622111_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ01623000/RJ01622111_img_main_240x240.jpg",
+  "samples": [],
+  "sample_thumbs": [],
+  "alt": "それって「○ん○う」ですよね? [荒巻しゃけ]"
+ },
+ "introductions": [
+  {
+   "type": "text",
+   "title": "ゲーム説明",
+   "body": [
+    {
+     "intro": "【概要】<br />\r\nこのゲームは、彼女が聞いてくる意味を持つ単語を当てるというものです。<br />\r\n<br />\r\nまた、単語には制約があり、「(あ段)ん(お段)う」のみです。<br />\r\n例えば、<br />\r\n・「かんそう」→(k,s)<br />\r\n・「たんとう」→(t,t)<br />\r\n・「かんどう」→(k,d)<br />\r\nというように、子音を入力することで回答ができます。<br />\r\n<br />\r\n【ルール】<br />\r\n1. 画面に単語の意味が表示されます<br />\r\n2. その意味に該当する単語の子音を入力します<br />\r\n   例:Q.「『物事についての印象や考え』って何だっけ?」→「かんそう」(子音は「k,s」)<br />\r\n3. 15秒以内に正しい子音を答えます(答えが間違っても再度回答可能)<br />\r\n4. 15秒以内に正解を答えられないとミスになります<br />\r\n5. 10問正解でゲームクリア、3回ミスするとゲームオーバーです"
+    }
+   ]
+  },
+  {
+   "type": "image_list",
+   "title": "ゲーム画面",
+   "body": [
+    {
+     "intro": "【難易度選択画面】<br />\r\n・かんたん<br />\r\n・ふつう<br />\r\n・むずかしい<br />\r\n・100題耐久(腕試しモード)<br />\r\n<br />\r\n※画像は開発中の画面です",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ01623000/RJ01622111/4537886b557e6737942d9469f959a551.jpg",
+      "alt": "それって「○ん○う」ですよね? [荒巻しゃけ]",
+      "title": "それって「○ん○う」ですよね? [荒巻しゃけ]"
+     }
+    },
+    {
+     "intro": "【プレイ中画面】<br />\r\n<br />\r\n左側が彼女、右側があなたです。<br />\r\n下に子音を入力してEnterで回答！<br />\r\n※画像は開発中の画面です",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ01623000/RJ01622111/c6cb06d3cb544b62a14e183526f8aaff.jpg",
+      "alt": "それって「○ん○う」ですよね? [荒巻しゃけ]",
+      "title": "それって「○ん○う」ですよね? [荒巻しゃけ]"
+     }
+    }
+   ]
+  }
+ ],
+ "description": "意味から子音を決めて「◯ん◯う」を完成させろ！",
+ "short_introduction": "意味から子音を決めて「◯ん◯う」を完成させろ！",
+ "options": [
+  "MS2",
+  "TRI"
+ ],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01622111.html",
+ "site_id": "home",
+ "fetched_at": 1794944187
+}

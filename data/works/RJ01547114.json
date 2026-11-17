@@ -1,0 +1,137 @@
+{
+ "id": "RJ01547114",
+ "title": "SmileRemaster～スマイルリマスター～",
+ "title_romaji": "sumairurimasutaa",
+ "circle": {
+  "id": "RG01063335",
+  "name": "Links8",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01063335.html"
+ },
+ "type": {
+  "code": "DNV",
+  "name": "デジタルノベル",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "all",
+ "sex": 1,
+ "price": {
+  "jpy": 1210,
+  "official_jpy": 1210,
+  "currencies": {
+   "USD": 7.58274117973666,
+   "EUR": 6.890754771135824,
+   "GBP": 5.749316496547084,
+   "TWD": 249.98450509265953,
+   "CNY": 50.63503023455318,
+   "KRW": 10125.523012552301,
+   "IDR": 138602.52004581902,
+   "VND": 195161.29032258067,
+   "THB": 256.9602242561957,
+   "SEK": 76.54400647777378,
+   "HKD": 59.50273417522326,
+   "SGD": 9.772534171563702,
+   "CAD": 10.840885368836485,
+   "MYR": 31.04960495151386,
+   "BRL": 43.1458686939282,
+   "AUD": 11.242302274847347,
+   "PHP": 484.65913642553875,
+   "MXN": 140.66659691463514,
+   "NZD": 13.772975827858291,
+   "INR": 712.3513481690803
+  }
+ },
+ "point": {
+  "point_amount": 66,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1769785200,
+ "file": {
+  "type": "EXE",
+  "size": 2139437297
+ },
+ "tags": [
+  {
+   "key": "222",
+   "name": "幼なじみ"
+  },
+  {
+   "key": "281",
+   "name": "同級生/同僚"
+  },
+  {
+   "key": "001",
+   "name": "学校/学園"
+  },
+  {
+   "key": "171",
+   "name": "黒髪"
+  }
+ ],
+ "languages": [
+  "JPN"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [],
+ "rating": {
+  "average": null,
+  "count": null
+ },
+ "review_count": 0,
+ "dl_count": 16,
+ "wishlist_count": 120,
+ "ranking": [],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01548000/RJ01547114_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ01548000/RJ01547114_img_main_240x240.jpg",
+  "samples": [
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01548000/RJ01547114_img_smp1.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01548000/RJ01547114_img_smp2.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01548000/RJ01547114_img_smp3.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01548000/RJ01547114_img_smp4.jpg"
+  ],
+  "sample_thumbs": [
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01548000/RJ01547114_img_smp1_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01548000/RJ01547114_img_smp2_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01548000/RJ01547114_img_smp3_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01548000/RJ01547114_img_smp4_100x100.jpg"
+  ],
+  "alt": "SmileRemaster～スマイルリマスター～ [Links8]"
+ },
+ "introductions": [
+  {
+   "type": "text",
+   "title": "あの頃の夏へ進むSFビジュアルノベル",
+   "body": [
+    {
+     "intro": "ジャンル:あの頃の夏へ進むSFビジュアルノベル<br />\n■想定プレイ時間<br />\n体験版:2時間程度<br />\n本編　:6時間程度<br />\n<br />\n対応OS:Win10・11、MacOS<br />\nキャラクターボイス:無し<br />\n<br />\n「ありますか、やれなかったこと。やりますか、これからもう一度。」<br />\n<br />\n東京で働く主人公は、同窓会をきっかけに不登校になったかつての想い人の存在を知る。<br />\n彼女のうめたタイムカプセルを届けようとした際、<br />\n小学生の姿で過去にタイムスリップしてしまう。<br />\n過去で彼女の心の問題に向き合いながら、<br />\n主人公自身も自分の在り方を見つめ直していくことになる。<br />\n<br />\nご購入後にDLできるzip内にWin版、mac版両方格納しています。<br />\nご利用のOSに合わせてご選択ください"
+    }
+   ]
+  }
+ ],
+ "description": "あの頃の夏へ進むSFビジュアルノベル",
+ "short_introduction": "あの頃の夏へ進むSFビジュアルノベル",
+ "options": [
+  "MS2",
+  "MV2",
+  "TRI",
+  "ORW"
+ ],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01547114.html",
+ "site_id": "home",
+ "fetched_at": 1794945252
+}

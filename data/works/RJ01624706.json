@@ -1,0 +1,126 @@
+{
+ "id": "RJ01624706",
+ "title": "【孤島探索×サバイバルゲームブック】黒帆島漂流記",
+ "title_romaji": "kotoutansakusabaibarugeemubukkukurohotouhyouryuuki",
+ "circle": {
+  "id": "RG01066479",
+  "name": "小さな学び舎",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01066479.html"
+ },
+ "type": {
+  "code": "ADV",
+  "name": "アドベンチャー",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "all",
+ "sex": 1,
+ "price": {
+  "jpy": 1320,
+  "official_jpy": 1320,
+  "currencies": {
+   "USD": 8.272081286985447,
+   "EUR": 7.517187023057263,
+   "GBP": 6.271981632596819,
+   "TWD": 272.71036919199224,
+   "CNY": 55.23821480133074,
+   "KRW": 11046.025104602511,
+   "IDR": 151202.74914089346,
+   "VND": 212903.2258064516,
+   "THB": 280.3202446431226,
+   "SEK": 83.50255252120775,
+   "HKD": 64.9120736456981,
+   "SGD": 10.660946368978584,
+   "CAD": 11.826420402367075,
+   "MYR": 33.87229631074239,
+   "BRL": 47.068220393376215,
+   "AUD": 12.264329754378924,
+   "PHP": 528.7190579187695,
+   "MXN": 153.45446936142014,
+   "NZD": 15.025064539481772,
+   "INR": 777.1105616389967
+  }
+ },
+ "point": {
+  "point_amount": 72,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1778137200,
+ "file": {
+  "type": "HTE",
+  "size": 35322425
+ },
+ "tags": [
+  {
+   "key": "016",
+   "name": "ファンタジー"
+  }
+ ],
+ "languages": [
+  "JPN"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [],
+ "rating": {
+  "average": null,
+  "count": null
+ },
+ "review_count": 0,
+ "dl_count": 13,
+ "wishlist_count": 40,
+ "ranking": [],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01625000/RJ01624706_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ01625000/RJ01624706_img_main_240x240.jpg",
+  "samples": [
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01625000/RJ01624706_img_smp1.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01625000/RJ01624706_img_smp2.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01625000/RJ01624706_img_smp3.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01625000/RJ01624706_img_smp4.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01625000/RJ01624706_img_smp5.jpg"
+  ],
+  "sample_thumbs": [
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01625000/RJ01624706_img_smp1_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01625000/RJ01624706_img_smp2_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01625000/RJ01624706_img_smp3_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01625000/RJ01624706_img_smp4_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01625000/RJ01624706_img_smp5_100x100.jpg"
+  ],
+  "alt": "【孤島探索×サバイバルゲームブック】黒帆島漂流記 [小さな学び舎]"
+ },
+ "introductions": [
+  {
+   "type": "text",
+   "title": "",
+   "body": [
+    {
+     "intro": "嵐で船を失い、あなたは海図にない孤島へ漂着した。<br />\r\n砂浜で漂着物を集め、密林で食料と水を探し、危険な獣や古い遺構をかいくぐりながら、島の地図を少しずつ広げていく。<br />\r\n資源管理と選択が生死を分ける。<br />\r\n<br />\r\n島には潮民の集落、湿地に佇む塔、海賊が残した黒い遺構、魔女の小屋など、様々なものが存在する。<br />\r\nあなたの選択次第で、結末は大きく変わっていく。<br />\r\n煙を上げて救助の船を待つか、いかだを組んで自ら外洋へ出るか。<br />\r\n遺構に潜り、脱出の助けとなるものを探すか。<br />\r\nあるいは、この島に定住するか――。<br />\r\n<br />\r\n戦闘はサイコロ判定式。<br />\r\n食料・水・体力・気力を管理しながら進む、緊張感あるゲーム体験。<br />\r\n約170段落の分岐と複数の脱出ルート、マルチエンディングを備えた、繰り返し遊べるゲームブック方式のサバイバル・アドベンチャー。<br />\r\n<br />\r\n<br />\r\n※紹介画像・サムネイル画像・挿絵、および作品制作の補助にAIを使用しています。"
+    }
+   ]
+  }
+ ],
+ "description": "一本道では終わらない。資源管理と選択で生き延び、脱出する、孤島サバイバルゲームブック。",
+ "short_introduction": "一本道では終わらない。資源管理と選択で生き延び、脱出する、孤島サバイバルゲームブック。",
+ "options": [
+  "AIP",
+  "DLP",
+  "ORW"
+ ],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01624706.html",
+ "site_id": "home",
+ "fetched_at": 1794944344
+}

@@ -1,0 +1,117 @@
+{
+ "id": "RJ01494260",
+ "title": "花咲く君が連れ出した。夏の終わりの白い花",
+ "title_romaji": "hanasakukimigatsuredashitanatsunoowarinoshiroihana",
+ "circle": {
+  "id": "RG01039353",
+  "name": "Creative Blossoms",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01039353.html"
+ },
+ "type": {
+  "code": "DNV",
+  "name": "デジタルノベル",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "all",
+ "sex": 1,
+ "price": {
+  "jpy": 1430,
+  "official_jpy": 1430,
+  "currencies": {
+   "USD": 8.961421394234234,
+   "EUR": 8.143619274978702,
+   "GBP": 6.794646768646554,
+   "TWD": 295.4362332913249,
+   "CNY": 59.8413993681083,
+   "KRW": 11966.52719665272,
+   "IDR": 163802.97823596792,
+   "VND": 230645.16129032258,
+   "THB": 303.6802650300495,
+   "SEK": 90.46109856464173,
+   "HKD": 70.32141311617293,
+   "SGD": 11.549358566393467,
+   "CAD": 12.811955435897666,
+   "MYR": 36.69498766997092,
+   "BRL": 50.99057209282424,
+   "AUD": 13.2863572339105,
+   "PHP": 572.7789794120004,
+   "MXN": 166.24234180820514,
+   "NZD": 16.277153251105254,
+   "INR": 841.8697751089131
+  }
+ },
+ "point": {
+  "point_amount": 78,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1767106800,
+ "file": {
+  "type": "EXE",
+  "size": 1342754900
+ },
+ "tags": [],
+ "languages": [
+  "JPN"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [],
+ "rating": {
+  "average": null,
+  "count": null
+ },
+ "review_count": 0,
+ "dl_count": 10,
+ "wishlist_count": 62,
+ "ranking": [],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01495000/RJ01494260_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ01495000/RJ01494260_img_main_240x240.jpg",
+  "samples": [
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01495000/RJ01494260_img_smp1.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01495000/RJ01494260_img_smp2.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01495000/RJ01494260_img_smp3.jpg"
+  ],
+  "sample_thumbs": [
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01495000/RJ01494260_img_smp1_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01495000/RJ01494260_img_smp2_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01495000/RJ01494260_img_smp3_100x100.jpg"
+  ],
+  "alt": "花咲く君が連れ出した。夏の終わりの白い花 [Creative Blossoms]"
+ },
+ "introductions": [
+  {
+   "type": "text",
+   "title": "君がくれた夏を生きるADV",
+   "body": [
+    {
+     "intro": "生きる意味を失った汐凪は、とある病気を患う彩波と出会う。<br />\n 「ボクをこの退屈な日常から誘拐してよ」 死にたいと願う彼。<br />\n 死ぬことが約束された少女。<br />\n 互いの“命”に向き合う、ひと夏の切ない誘拐劇。"
+    }
+   ]
+  }
+ ],
+ "description": "君がくれた夏を生きるADV",
+ "short_introduction": "君がくれた夏を生きるADV",
+ "options": [
+  "MS2",
+  "TRI",
+  "ORW"
+ ],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01494260.html",
+ "site_id": "home",
+ "fetched_at": 1794945507
+}

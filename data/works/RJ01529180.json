@@ -1,0 +1,189 @@
+{
+ "id": "RJ01529180",
+ "title": "【ミニゲーム】あの子と初詣 ～2026Ver.～",
+ "title_romaji": "anokotohatsumoude",
+ "circle": {
+  "id": "RG34178",
+  "name": "エアリクス(Airlcx)",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG34178.html"
+ },
+ "type": {
+  "code": "DNV",
+  "name": "デジタルノベル",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "all",
+ "sex": 1,
+ "price": {
+  "jpy": 110,
+  "official_jpy": 110,
+  "currencies": {
+   "USD": 0.6893401072487872,
+   "EUR": 0.6264322519214386,
+   "GBP": 0.5226651360497349,
+   "TWD": 22.725864099332686,
+   "CNY": 4.6031845667775615,
+   "KRW": 920.5020920502093,
+   "IDR": 12600.229095074455,
+   "VND": 17741.93548387097,
+   "THB": 23.360020386926884,
+   "SEK": 6.958546043433979,
+   "HKD": 5.409339470474841,
+   "SGD": 0.888412197414882,
+   "CAD": 0.9855350335305896,
+   "MYR": 2.8226913592285325,
+   "BRL": 3.922351699448018,
+   "AUD": 1.022027479531577,
+   "PHP": 44.059921493230796,
+   "MXN": 12.787872446785013,
+   "NZD": 1.252088711623481,
+   "INR": 64.7592134699164
+  }
+ },
+ "point": {
+  "point_amount": 6,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1767193200,
+ "file": {
+  "type": "EXE",
+  "size": 232979994
+ },
+ "tags": [
+  {
+   "key": "056",
+   "name": "癒し"
+  },
+  {
+   "key": "220",
+   "name": "お姉さん"
+  },
+  {
+   "key": "091",
+   "name": "着物/和服"
+  },
+  {
+   "key": "032",
+   "name": "純愛"
+  },
+  {
+   "key": "321",
+   "name": "褐色/日焼け"
+  }
+ ],
+ "languages": [
+  "JPN"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [],
+ "rating": {
+  "average": 4.8,
+  "count": 5
+ },
+ "review_count": 0,
+ "dl_count": 27,
+ "wishlist_count": 27,
+ "ranking": [],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01530000/RJ01529180_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ01530000/RJ01529180_img_main_240x240.jpg",
+  "samples": [
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01530000/RJ01529180_img_smp1.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01530000/RJ01529180_img_smp2.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01530000/RJ01529180_img_smp3.jpg"
+  ],
+  "sample_thumbs": [
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01530000/RJ01529180_img_smp1_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01530000/RJ01529180_img_smp2_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01530000/RJ01529180_img_smp3_100x100.jpg"
+  ],
+  "alt": "【ミニゲーム】あの子と初詣 ～2026Ver.～ [エアリクス(Airlcx)]"
+ },
+ "introductions": [
+  {
+   "type": "text",
+   "title": "■新年の始まりはここから",
+   "body": [
+    {
+     "intro": "「グロリア」と一緒に初詣に行きませんか?<br />\r\n超ミニ初詣ノベルゲーム！"
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "title": "■物語",
+   "body": [
+    {
+     "intro": "1月1日の朝、あなたは頭痛を覚えながら、自室のベッドの上で目を覚ます。<br />\r\nすると目の前には、着物姿の女性がひとりで静かに立っていた。<br />\r\n<br />\r\n突然の出来事に戸惑う中、あなたはどのような行動を取るのでしょうか?<br />\r\n<br />\r\n彼女の放ったひと言が、新年の幕開けを告げた──"
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "title": "■内容",
+   "body": [
+    {
+     "intro": "・立ち絵:2種類(差分除き)<br />\r\n<br />\r\n・クリア時間:約15分(分岐除き)<br />\r\n<br />\r\n・CG(イラスト):2枚<br />\r\n<br />\r\n・フルボイス(ヒロインのみ)"
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "title": "■注意事項",
+   "body": [
+    {
+     "intro": "・本作品は年始でのご購入が最もお得です。<br />\r\n<br />\r\n・本作品は初詣シーンのみの内容となっております。<br />\r\n<br />\r\n・本作品は「RPGツクールMZ」を用いて製作しています。<br />\r\n　必ず動作確認を行なってからご購入ください。"
+    }
+   ]
+  },
+  {
+   "type": "image",
+   "title": "■ヒロイン「グロリア」に関連する作品",
+   "body": [
+    {
+     "intro": "『Last12～勇者の恥ずかしい育児日記～』(予告中)<br />\r\n<a href=\"https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG59265.html\" target=\"_blank\">https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG59265.html</a>",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ01530000/RJ01529180/34756a2bcbdfa7f5bd964384b2c775b2.jpg",
+      "alt": "【ミニゲーム】あの子と初詣 ～2026Ver.～ [エアリクス(Airlcx)]",
+      "title": "【ミニゲーム】あの子と初詣 ～2026Ver.～ [エアリクス(Airlcx)]"
+     },
+     "position": "over"
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "title": "■クレジット(敬称略)",
+   "body": [
+    {
+     "intro": "グロリア役: 一色ヒカル<br />\r\n<a href=\"https://x.com/issiki_hikaru\" target=\"_blank\">https://x.com/issiki_hikaru</a><br />\r\n<br />\r\nシナリオ: 須永成人<br />\r\n<a href=\"https://ktmhp.com/hp/naruhitodance/\" target=\"_blank\">https://ktmhp.com/hp/naruhitodance/</a><br />\r\n<br />\r\nイラスト: 西<br />\r\n<a href=\"https://x.com/Nishiii26miii\" target=\"_blank\">https://x.com/Nishiii26miii</a><br />\r\n<br />\r\n企画: エアリクス(Airlcx)<br />\r\n<a href=\"https://x.com/airlcx\" target=\"_blank\">https://x.com/airlcx</a>"
+    }
+   ]
+  }
+ ],
+ "description": "新年の始まりはここから! 超ミニ初詣ノベルゲーム!",
+ "short_introduction": "新年の始まりはここから! 超ミニ初詣ノベルゲーム!",
+ "options": [
+  "SND",
+  "MS2",
+  "ORW"
+ ],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01529180.html",
+ "site_id": "home",
+ "fetched_at": 1794945487
+}

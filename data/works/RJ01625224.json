@@ -1,0 +1,192 @@
+{
+ "id": "RJ01625224",
+ "title": "としだち 沼津駅前",
+ "title_romaji": "toshidachinumazuekimae",
+ "circle": {
+  "id": "RG01071160",
+  "name": "mitataMAT",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01071160.html"
+ },
+ "type": {
+  "code": "ADV",
+  "name": "アドベンチャー",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "all",
+ "sex": 1,
+ "price": {
+  "jpy": 110,
+  "official_jpy": 110,
+  "currencies": {
+   "USD": 0.6893401072487872,
+   "EUR": 0.6264322519214386,
+   "GBP": 0.5226651360497349,
+   "TWD": 22.725864099332686,
+   "CNY": 4.6031845667775615,
+   "KRW": 920.5020920502093,
+   "IDR": 12600.229095074455,
+   "VND": 17741.93548387097,
+   "THB": 23.360020386926884,
+   "SEK": 6.958546043433979,
+   "HKD": 5.409339470474841,
+   "SGD": 0.888412197414882,
+   "CAD": 0.9855350335305896,
+   "MYR": 2.8226913592285325,
+   "BRL": 3.922351699448018,
+   "AUD": 1.022027479531577,
+   "PHP": 44.059921493230796,
+   "MXN": 12.787872446785013,
+   "NZD": 1.252088711623481,
+   "INR": 64.7592134699164
+  }
+ },
+ "point": {
+  "point_amount": 6,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1778252400,
+ "file": {
+  "type": "EXE",
+  "size": 340091730
+ },
+ "tags": [
+  {
+   "key": "056",
+   "name": "癒し"
+  },
+  {
+   "key": "206",
+   "name": "少女"
+  },
+  {
+   "key": "013",
+   "name": "ほのぼの"
+  }
+ ],
+ "languages": [
+  "JPN"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [],
+ "rating": {
+  "average": null,
+  "count": null
+ },
+ "review_count": 1,
+ "dl_count": 8,
+ "wishlist_count": 16,
+ "ranking": [],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01626000/RJ01625224_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ01626000/RJ01625224_img_main_240x240.jpg",
+  "samples": [
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01626000/RJ01625224_img_smp1.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01626000/RJ01625224_img_smp2.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01626000/RJ01625224_img_smp3.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01626000/RJ01625224_img_smp4.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01626000/RJ01625224_img_smp5.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01626000/RJ01625224_img_smp6.jpg"
+  ],
+  "sample_thumbs": [
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01626000/RJ01625224_img_smp1_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01626000/RJ01625224_img_smp2_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01626000/RJ01625224_img_smp3_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01626000/RJ01625224_img_smp4_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01626000/RJ01625224_img_smp5_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01626000/RJ01625224_img_smp6_100x100.jpg"
+  ],
+  "alt": "としだち 沼津駅前 [mitataMAT]"
+ },
+ "introductions": [
+  {
+   "type": "text",
+   "title": "ストーリー",
+   "body": [
+    {
+     "intro": "そろそろ日が沈むころ。<br />\n帰ろうか、もう少し遊んでいこうか。<br />\nそんなことを考えながら、倉下明厘は沼津駅前をぶらぶらしていた。"
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "title": "特徴",
+   "body": [
+    {
+     "intro": "『PLATEAU』のデータを活用して再現した沼津駅前を、ぶらぶらすることができます。<br />\n(『3D都市モデル(Project PLATEAU)』(国土交通省)を加工して使用しています)<br />\n<br />\nマップのあちこちにある特別なオブジェクトを調べることで、アイテムを手に入れることができます。<br />\n特定のアイテムを集めることで出現するエンディングイベント用オブジェクトを調べると、<br />\nともだちに会ってエンディングを迎えることができます。"
+    }
+   ]
+  },
+  {
+   "type": "image_list",
+   "title": "キャラクター",
+   "body": [
+    {
+     "intro": "倉下明厘(くらした あかり)<br />\n元気で素直な子。<br />\n<br />\nすきなもの<br />\nゼリー<br />\nともだち",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ01626000/RJ01625224/7b085ca9aea864f28a80cce38228f11b.jpg",
+      "alt": "としだち 沼津駅前 [mitataMAT]",
+      "title": "としだち 沼津駅前 [mitataMAT]"
+     }
+    },
+    {
+     "intro": "鮫田深鈴(さめだ みすず)<br />\nかわいくてみんなに愛される存在。<br />\n<br />\nすきなもの<br />\n音楽<br />\nコーラ",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ01626000/RJ01625224/b77d7efe93b1ae12207ddfadf7db16a6.jpg",
+      "alt": "としだち 沼津駅前 [mitataMAT]",
+      "title": "としだち 沼津駅前 [mitataMAT]"
+     }
+    },
+    {
+     "intro": "金久千彩人(かねひさ ちさと)<br />\n頼りになるお姉さん的存在。<br />\n<br />\nすきなもの<br />\nお宝<br />\nキラキラしたもの",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ01626000/RJ01625224/b0f31d0a94987da7fafd85a35ffe40c2.jpg",
+      "alt": "としだち 沼津駅前 [mitataMAT]",
+      "title": "としだち 沼津駅前 [mitataMAT]"
+     }
+    },
+    {
+     "intro": "後藤麻海(ごとう まみ)<br />\nマイペースな子。<br />\n<br />\nすきなもの<br />\nゆったりとしたもの<br />\nきらめき",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ01626000/RJ01625224/6216f27f7dbbd4cd8af031e8674584f6.jpg",
+      "alt": "としだち 沼津駅前 [mitataMAT]",
+      "title": "としだち 沼津駅前 [mitataMAT]"
+     }
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "title": "対応デバイス",
+   "body": [
+    {
+     "intro": "・キーボード<br />\n・ゲームパッド(Xboxコントローラー、DualSenseコントローラー(有線接続)で動作確認を行いました )"
+    }
+   ]
+  }
+ ],
+ "description": "沼津駅前をぶらぶらしよう。",
+ "short_introduction": "沼津駅前をぶらぶらしよう。",
+ "options": [
+  "MS2",
+  "REV",
+  "ORW"
+ ],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01625224.html",
+ "site_id": "home",
+ "fetched_at": 1794944320
+}

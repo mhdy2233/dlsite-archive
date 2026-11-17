@@ -1,0 +1,228 @@
+{
+ "id": "RJ01596466",
+ "title": "ALIEN VS HEILEN",
+ "title_romaji": "eirianbaasasuheirian",
+ "circle": {
+  "id": "RG01068475",
+  "name": "ゲン",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01068475.html"
+ },
+ "type": {
+  "code": "ETC",
+  "name": "その他ゲーム",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "r18",
+ "sex": 1,
+ "price": {
+  "jpy": 110,
+  "official_jpy": 110,
+  "currencies": {
+   "USD": 0.6893401072487872,
+   "EUR": 0.6264322519214386,
+   "GBP": 0.5226651360497349,
+   "TWD": 22.725864099332686,
+   "CNY": 4.6031845667775615,
+   "KRW": 920.5020920502093,
+   "IDR": 12600.229095074455,
+   "VND": 17741.93548387097,
+   "THB": 23.360020386926884,
+   "SEK": 6.958546043433979,
+   "HKD": 5.409339470474841,
+   "SGD": 0.888412197414882,
+   "CAD": 0.9855350335305896,
+   "MYR": 2.8226913592285325,
+   "BRL": 3.922351699448018,
+   "AUD": 1.022027479531577,
+   "PHP": 44.059921493230796,
+   "MXN": 12.787872446785013,
+   "NZD": 1.252088711623481,
+   "INR": 64.7592134699164
+  }
+ },
+ "point": {
+  "point_amount": 6,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1774854000,
+ "file": {
+  "type": "EXE",
+  "size": 135557298
+ },
+ "tags": [
+  {
+   "key": "432",
+   "name": "女主人公"
+  },
+  {
+   "key": "017",
+   "name": "歴史/時代物"
+  },
+  {
+   "key": "487",
+   "name": "イラマチオ"
+  },
+  {
+   "key": "162",
+   "name": "触手"
+  },
+  {
+   "key": "134",
+   "name": "屈辱"
+  }
+ ],
+ "languages": [
+  "JPN"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [],
+ "rating": {
+  "average": null,
+  "count": null
+ },
+ "review_count": 0,
+ "dl_count": 29,
+ "wishlist_count": 37,
+ "ranking": [],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01597000/RJ01596466_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ01597000/RJ01596466_img_main_240x240.jpg",
+  "samples": [
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01597000/RJ01596466_img_smp1.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01597000/RJ01596466_img_smp2.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01597000/RJ01596466_img_smp3.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01597000/RJ01596466_img_smp4.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01597000/RJ01596466_img_smp5.jpg"
+  ],
+  "sample_thumbs": [
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01597000/RJ01596466_img_smp1_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01597000/RJ01596466_img_smp2_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01597000/RJ01596466_img_smp3_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01597000/RJ01596466_img_smp4_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01597000/RJ01596466_img_smp5_100x100.jpg"
+  ],
+  "alt": "ALIEN VS HEILEN [ゲン]"
+ },
+ "introductions": [
+  {
+   "type": "text_list",
+   "title": "AI利用箇所",
+   "body": [
+    {
+     "intro": "キャラ・背景・BGM・著者近影にAIを利用しています。"
+    }
+   ]
+  },
+  {
+   "type": "text_list",
+   "title": "作品形式",
+   "body": [
+    {
+     "intro": "紙芝居形式のノベルゲームです。Hシーンは手描きでアニメーションさせてます。総プレイ時間は5分程度です。"
+    }
+   ]
+  },
+  {
+   "type": "image_list",
+   "title": "登場キャラクター",
+   "body": [
+    {
+     "intro": "京の都を守る検非違使を束ねる女隊長。",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ01597000/RJ01596466/2c15c569d83972c77af3fdc0141e2aaa.jpg",
+      "alt": "ALIEN VS HEILEN [ゲン]",
+      "title": "ALIEN VS HEILEN [ゲン]"
+     }
+    },
+    {
+     "intro": "新人の検非違使。<br />\n先輩や隊長たちの足を引っ張らない様努めるが…。",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ01597000/RJ01596466/69e6c87e210cc1a72bb906941b61009e.jpg",
+      "alt": "ALIEN VS HEILEN [ゲン]",
+      "title": "ALIEN VS HEILEN [ゲン]"
+     }
+    },
+    {
+     "intro": "京を荒らしまわる人食いのエイリアン。<br />\n甲冑ごと人を食べてしまう程の悪食。",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ01597000/RJ01596466/eb515455aeabb4ed0c34ab52db3dee1b.jpg",
+      "alt": "ALIEN VS HEILEN [ゲン]",
+      "title": "ALIEN VS HEILEN [ゲン]"
+     }
+    }
+   ]
+  },
+  {
+   "type": "text_list",
+   "title": "SE BGM",
+   "body": [
+    {
+     "intro": "on-jin 音人"
+    },
+    {
+     "intro": "<a href=\"https://taira-komori.net/\" target=\"_blank\">https://taira-komori.net/</a>"
+    },
+    {
+     "intro": "すぱらんど。"
+    },
+    {
+     "intro": "Junky-Soft"
+    },
+    {
+     "intro": "ユーフルカ"
+    },
+    {
+     "intro": "甘茶の音楽工房"
+    },
+    {
+     "intro": "StudioS"
+    },
+    {
+     "intro": "Sonic Wire"
+    },
+    {
+     "intro": "ポケットサウンド – <a href=\"https://pocket-se.info/\" target=\"_blank\">https://pocket-se.info/</a>"
+    }
+   ]
+  },
+  {
+   "type": "image",
+   "title": "制作者紹介",
+   "body": [
+    {
+     "intro": "制作者のゲンです。<br />\nまた、いつか作ります。<br />\n気長にお待ちいただければ幸いです。",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ01597000/RJ01596466/28226c6f1aae4a9f92986084618c2e58.jpg",
+      "alt": "ALIEN VS HEILEN [ゲン]",
+      "title": "ALIEN VS HEILEN [ゲン]"
+     },
+     "position": "left"
+    }
+   ]
+  }
+ ],
+ "description": "追い詰めるか、追い詰められるか。手に汗にぎる、穴掘り合戦。今ここに開戦！",
+ "short_introduction": "追い詰めるか、追い詰められるか。手に汗にぎる、穴掘り合戦。今ここに開戦！",
+ "options": [
+  "AIP",
+  "OLY"
+ ],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01596466.html",
+ "site_id": "maniax",
+ "fetched_at": 1794944705
+}

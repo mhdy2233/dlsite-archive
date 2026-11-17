@@ -1,0 +1,208 @@
+{
+ "id": "RJ01586083",
+ "title": "多摩夜行線",
+ "title_romaji": "tamayakousen",
+ "circle": {
+  "id": "RG01061888",
+  "name": "リドパラ",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01061888.html"
+ },
+ "type": {
+  "code": "SLN",
+  "name": "シミュレーション",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "r18",
+ "sex": 1,
+ "price": {
+  "jpy": 1430,
+  "official_jpy": 1430,
+  "currencies": {
+   "USD": 8.961421394234234,
+   "EUR": 8.143619274978702,
+   "GBP": 6.794646768646554,
+   "TWD": 295.4362332913249,
+   "CNY": 59.8413993681083,
+   "KRW": 11966.52719665272,
+   "IDR": 163802.97823596792,
+   "VND": 230645.16129032258,
+   "THB": 303.6802650300495,
+   "SEK": 90.46109856464173,
+   "HKD": 70.32141311617293,
+   "SGD": 11.549358566393467,
+   "CAD": 12.811955435897666,
+   "MYR": 36.69498766997092,
+   "BRL": 50.99057209282424,
+   "AUD": 13.2863572339105,
+   "PHP": 572.7789794120004,
+   "MXN": 166.24234180820514,
+   "NZD": 16.277153251105254,
+   "INR": 841.8697751089131
+  }
+ },
+ "point": {
+  "point_amount": 78,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1773817200,
+ "file": {
+  "type": "EXE",
+  "size": 243633291
+ },
+ "tags": [
+  {
+   "key": "311",
+   "name": "おさわり"
+  },
+  {
+   "key": "065",
+   "name": "おっぱい"
+  },
+  {
+   "key": "301",
+   "name": "電車"
+  }
+ ],
+ "languages": [
+  "CHI_HANS",
+  "CHI_HANT",
+  "JPN",
+  "ENG",
+  "CHI"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [],
+ "rating": {
+  "average": null,
+  "count": null
+ },
+ "review_count": 0,
+ "dl_count": 13,
+ "wishlist_count": 67,
+ "ranking": [],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01587000/RJ01586083_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ01587000/RJ01586083_img_main_240x240.jpg",
+  "samples": [
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01587000/RJ01586083_img_smp1.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01587000/RJ01586083_img_smp2.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01587000/RJ01586083_img_smp3.jpg"
+  ],
+  "sample_thumbs": [
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01587000/RJ01586083_img_smp1_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01587000/RJ01586083_img_smp2_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01587000/RJ01586083_img_smp3_100x100.jpg"
+  ],
+  "alt": "多摩夜行線 [リドパラ]"
+ },
+ "introductions": [
+  {
+   "type": "image",
+   "title": "夜だけ走る都市伝説の電車「多摩夜行線」",
+   "body": [
+    {
+     "intro": "夜になるとどこからともなく現れると言われる、<br />\n都市伝説の電車 「多摩夜行線」。<br />\n<br />\nこの電車には、ある噂があります。<br />\n<br />\n終点に到着する前に、特定の車両へ辿り着くことができれば、<br />\n“運命のネックレス”を身につけた女性に出会える。<br />\n<br />\n静かな夜の列車は止まることなく走り続けます。<br />\nあなたは走行中の車両を進みながら、<br />\nその“運命の車両”を探すことになります。",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ01587000/RJ01586083/03ff4021c609cfc906343096e8fb938b.jpg",
+      "alt": "多摩夜行線 [リドパラ]",
+      "title": "多摩夜行線 [リドパラ]"
+     },
+     "position": "over"
+    }
+   ]
+  },
+  {
+   "type": "image",
+   "title": "電車の車両内を駆け抜けるランアクションゲーム",
+   "body": [
+    {
+     "intro": "本作は 走行中の電車を舞台にしたランアクションゲーム です。<br />\n<br />\nプレイヤーは次々と現れる車両を移動しながら、<br />\n障害物を避け、目的の車両を目指して進んでいきます。<br />\n<br />\n車両ごとに異なる構造や状況が存在し、<br />\n素早い判断と操作が求められます。",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ01587000/RJ01586083/26ca6db187593005ced7f83f2673425c.jpg",
+      "alt": "多摩夜行線 [リドパラ]",
+      "title": "多摩夜行線 [リドパラ]"
+     },
+     "position": "over"
+    }
+   ]
+  },
+  {
+   "type": "image",
+   "title": "特定の車両で発生するインタラクションイベント",
+   "body": [
+    {
+     "intro": "特定の車両に到達すると、<br />\nキャラクターとの インタラクションイベント が発生します。<br />\n<br />\nイベントではプレイヤーの操作に応じて<br />\nキャラクターの反応や演出が変化します。",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ01587000/RJ01586083/352634601bc771bf4a32746d5fd2bef7.jpg",
+      "alt": "多摩夜行線 [リドパラ]",
+      "title": "多摩夜行線 [リドパラ]"
+     },
+     "position": "over"
+    }
+   ]
+  },
+  {
+   "type": "image",
+   "title": "操作テンポによって変化する加速システム",
+   "body": [
+    {
+     "intro": "イベント中は 操作によって動作の速度を加速させることが可能 です。<br />\n<br />\nプレイヤーの入力テンポによって<br />\nイベントの進行速度や演出の変化が発生します。",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ01587000/RJ01586083/13551a3e082d2f8c5e597929fef83363.jpg",
+      "alt": "多摩夜行線 [リドパラ]",
+      "title": "多摩夜行線 [リドパラ]"
+     },
+     "position": "right"
+    }
+   ]
+  },
+  {
+   "type": "image_list",
+   "title": "タイミングを合わせるQTEイベント",
+   "body": [
+    {
+     "intro": "イベントの途中では QTE(クイックタイムイベント) が発生します。",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ01587000/RJ01586083/602c42dfdfa8fdfcac4945c6050f3c58.jpg",
+      "alt": "多摩夜行線 [リドパラ]",
+      "title": "多摩夜行線 [リドパラ]"
+     }
+    },
+    {
+     "intro": "表示されたタイミングで正しく操作することで<br />\n追加の演出やイベント進行が発生します。",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ01587000/RJ01586083/ed69153acf69117a76db851c04653a18.jpg",
+      "alt": "多摩夜行線 [リドパラ]",
+      "title": "多摩夜行線 [リドパラ]"
+     }
+    }
+   ]
+  }
+ ],
+ "description": "夜しか走らない都市伝説の電車「多摩夜行線」を駆け抜け、終点までに“運命の女性”が待つ車両へ辿り着く、ランアクション×リズムQTEのR18ゲーム。",
+ "short_introduction": "夜しか走らない都市伝説の電車「多摩夜行線」を駆け抜け、終点までに“運命の女性”が待つ車両へ辿り着く、ランアクション×リズムQTEのR18ゲーム。",
+ "options": [
+  "SND",
+  "MS2",
+  "OLY",
+  "ORW"
+ ],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01586083.html",
+ "site_id": "maniax",
+ "fetched_at": 1794944847
+}

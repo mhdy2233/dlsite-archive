@@ -5,7 +5,7 @@
 
 - 前端：https://mhdy2233.github.io/dlsite-archive/
 - 数据：`data/works/*.json`（每部作品一个文件）
-- 图片：`site/images/<RJ号>/`（DLsite 官方原图：主图 + 样例图 + 官方缩略图）
+- 图片：`docs/images/<RJ号>/`（DLsite 官方原图：主图 + 样例图 + 官方缩略图）
 
 ## 抓什么
 
@@ -38,7 +38,8 @@
 ## 部署
 
 1. 推到仓库（默认分支 `main`）。
-2. **Settings → Pages → Source** 选 `Deploy from a branch`，分支 `main`，目录 `/site`。
+2. **Settings → Pages → Source** 选 `Deploy from a branch`，分支 `main`，目录 **`/docs`**。
+   （GitHub 的分支部署只支持根目录或 `/docs`，所以站点放在 `docs/`。）
 3. **Settings → Actions → General → Workflow permissions** 选 `Read and write permissions`（否则无法回写数据）。
 4. Actions 页手动跑一次 `archive`（可填 `limit`），之后每 4 小时自动跑。
 
@@ -102,7 +103,7 @@ scripts/vpngate.py              # VPN Gate + netns 出口
 scripts/scraper.py              # 列表页 / 详情页 / 图片
 scripts/build_site.py           # 生成 api/index.json 等
 scripts/run.py                  # 主流程
-site/                           # Pages 根目录（前端 + api + images）
+docs/                           # Pages 根目录（前端 + api + images）
 data/works/                     # 每部作品的完整 JSON
 data/state.json                 # 归档进度
 ```

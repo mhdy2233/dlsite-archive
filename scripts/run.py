@@ -20,7 +20,7 @@ import scraper  # noqa: E402
 
 DATA = os.path.join(ROOT, "data")
 WORKS = os.path.join(DATA, "works")
-IMAGES = os.path.join(ROOT, "site", "images")
+IMAGES = os.path.join(ROOT, "docs", "images")
 STATE = os.path.join(DATA, "state.json")
 
 
@@ -56,12 +56,13 @@ def main():
 
     vpn = None
     netns = None
+    mode = None
     if not args.no_vpn:
         import vpngate
         vpn = vpngate
-        netns = vpngate.NETNS
-        node, info = vpngate.connect()
-        scraper.log(f"egress: {info.get('ip')} {info.get('city')}")
+        node, info, mode = vpngate.connect()
+        netns = vpngate.NETNS if mode == "netns" else None
+        scraper.log(f"egress [{mode}]: {info.get('ip')} {info.get('city')}")
 
     try:
         ids, page, total_pages = scraper.collect_ids(
@@ -106,7 +107,7 @@ def main():
         return 0 if ok else 1
     finally:
         if vpn and not args.no_vpn:
-            vpn.stop()
+            vpn.stop(mode == "netns")
             scraper.log("tunnel down")
 
 

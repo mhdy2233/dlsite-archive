@@ -45,6 +45,23 @@ jobs:
           if [ "${{ github.event.inputs.skip_vpn }}" = "true" ]; then FLAGS="--no-vpn"; fi
           python3 scripts/run.py --limit "$LIMIT" $FLAGS
 
+      - name: Diagnose tunnel (on failure)
+        if: failure()
+        continue-on-error: true
+        run: |
+          {
+            echo "### tunnel diagnostics"
+            echo '```'
+            echo "-- ip netns --";      sudo ip netns list 2>&1 | head -5
+            echo "-- ns links --";      sudo ip netns exec dlsitevpn ip -brief link 2>&1 | head -10
+            echo "-- ns routes --";     sudo ip netns exec dlsitevpn ip route 2>&1 | head -10
+            echo "-- ns egress --";     sudo ip netns exec dlsitevpn curl -4 -sS --max-time 10 https://ipinfo.io/json 2>&1 | head -5
+            echo "-- host tun --";      ip -brief link show tun0 2>&1 | head -3
+            echo "-- openvpn log --";   sudo tail -40 /var/lib/dlsite-vpn/openvpn.log 2>&1
+            echo "-- iptables --";      sudo iptables -S 2>&1 | head -15
+            echo '```'
+          } >> "$GITHUB_STEP_SUMMARY" 2>/dev/null || true
+
       - name: Build static site
         run: python3 scripts/build_site.py
 
@@ -71,7 +88,7 @@ jobs:
           except Exception:
               st = {"done": [], "last_ok": 0, "last_fail": 0}
           try:
-              meta = json.load(open('site/api/meta.json'))
+              meta = json.load(open('docs/api/meta.json'))
           except Exception:
               meta = {"types": [], "tags": []}
           print("### DLsite archive")
@@ -79,6 +96,6 @@ jobs:
           print(f"- last run: +{st.get('last_ok',0)} ok / {st.get('last_fail',0)} failed")
           print(f"- types: {len(meta['types'])} · tags: {len(meta['tags'])}")
           size = sum(os.path.getsize(os.path.join(r, f))
-                     for r, _, fs in os.walk('site/images') for f in fs) if os.path.isdir('site/images') else 0
+                     for r, _, fs in os.walk('docs/images') for f in fs) if os.path.isdir('docs/images') else 0
           print(f"- images on disk: {size/1024/1024:.0f} MB")
           PY

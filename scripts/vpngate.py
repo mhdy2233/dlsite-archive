@@ -14,6 +14,10 @@ import time
 import urllib.request
 
 CSV_URLS = [
+    # hourly mirror on jsDelivr: fast and reachable from CI networks
+    "https://cdn.jsdelivr.net/gh/GeorgeXie2333/vpngate-list-mirror@latest/data/vpngate.csv",
+    "https://fastly.jsdelivr.net/gh/GeorgeXie2333/vpngate-list-mirror@latest/data/vpngate.csv",
+    # official API (often unreachable from cloud IPs, kept as a fallback)
     "https://www.vpngate.net/api/iphone/",
     "http://www.vpngate.net/api/iphone/",
 ]
@@ -94,8 +98,18 @@ def ns_run(cmd, timeout=30):
                           capture_output=True, text=True, timeout=timeout)
 
 
-def tun_up():
-    return ns_run(["ip", "link", "show", "tun0"]).returncode == 0
+def tun_up(using_ns=True):
+    if using_ns:
+        return ns_run(["ip", "link", "show", "tun0"]).returncode == 0
+    return sh(["sudo", "ip", "link", "show", "tun0"]).returncode == 0
+
+
+def _int(v, default):
+    """VPN Gate uses '-' for unknown ping/speed."""
+    try:
+        return int(float(str(v).strip()))
+    except (TypeError, ValueError):
+        return default
 
 
 def fetch_nodes(country="JP"):
@@ -135,8 +149,8 @@ def fetch_nodes(country="JP"):
             continue
         nodes.append({
             "ip": row.get("IP") or remote, "port": port, "proto": proto,
-            "ping": int(row.get("Ping") or 9999),
-            "speed": int(row.get("Speed") or 0),
+            "ping": _int(row.get("Ping"), 9999),
+            "speed": _int(row.get("Speed"), 0),
             "config": cfg,
         })
     nodes.sort(key=lambda n: (0 if n["proto"].startswith("tcp") else 1,
@@ -180,8 +194,10 @@ def write_config(node, path=OVPN_PATH):
     return path
 
 
-def egress():
-    p = ns_run(["curl", "-4", "-sS", "--max-time", "15", "https://ipinfo.io/json"])
+def egress(using_ns=True):
+    cmd = (["sudo", "ip", "netns", "exec", NETNS, "curl"] if using_ns else ["curl"])
+    p = subprocess.run(cmd + ["-4", "-sS", "--max-time", "15",
+                              "https://ipinfo.io/json"], capture_output=True, text=True)
     if p.returncode != 0:
         return False, {"error": (p.stderr or "curl failed").strip()[:120]}
     try:
@@ -194,46 +210,72 @@ def egress():
 
 
 def connect(min_speed_mbps=1, tries=6, ready_timeout=40):
-    setup_netns()
-    nodes = fetch_nodes()
-    if not nodes:
-        raise RuntimeError("no JP nodes returned by vpngate")
-    log(f"{len(nodes)} JP candidates, trying up to {tries}")
-    for node in nodes[:tries]:
-        if node["speed"] and node["speed"] < min_speed_mbps * 1_000_000 / 8:
-            continue
-        sh(["sudo", "pkill", "-f", f"openvpn --config {OVPN_PATH}"])
-        time.sleep(1)
-        for dst in ("0.0.0.0/1", "128.0.0.0/1"):
-            while ns_run(["ip", "route", "del", dst]).returncode == 0:
-                pass
-        sh(["sudo", "ip", "netns", "exec", NETNS, "ip", "link", "del", "tun0"])
-        path = write_config(node)
-        log(f"trying {node['ip']}:{node['port']} {node['proto']} ping={node['ping']}ms")
-        p = sh(["sudo", "ip", "netns", "exec", NETNS, "openvpn",
-                "--config", path, "--daemon", "--log", OVPN_LOG])
-        if p.returncode != 0:
-            log(f"  openvpn refused: {p.stderr.strip()[:160]}")
-            continue
-        deadline = time.time() + ready_timeout
-        while time.time() < deadline:
-            time.sleep(3)
-            if not tun_up():
+    """Bring up a JP tunnel. Returns (node, info, mode) with mode in {netns, host}."""
+    using_ns = True
+    try:
+        setup_netns()
+    except Exception as e:
+        log(f"netns setup failed ({e}) -- falling back to host-wide tunnel")
+        using_ns = False
+
+    try:
+        nodes = fetch_nodes()
+        if not nodes:
+            raise RuntimeError("no JP nodes returned by vpngate")
+        log(f"{len(nodes)} JP candidates, trying up to {tries}")
+        for node in nodes[:tries]:
+            if node["speed"] and node["speed"] < min_speed_mbps * 1_000_000 / 8:
                 continue
-            ok, info = egress()
-            if ok and info.get("country") == "JP":
-                log(f"  connected: {info['ip']} {info.get('city')} {info.get('org')}")
-                return node, info
-        log("  handshake/egress timeout")
-    teardown_netns()
-    raise RuntimeError("no working JP node")
+            sh(["sudo", "pkill", "-f", f"openvpn --config {OVPN_PATH}"])
+            time.sleep(1)
+            for dst in ("0.0.0.0/1", "128.0.0.0/1"):
+                while ns_run(["ip", "route", "del", dst]).returncode == 0:
+                    pass
+            if using_ns:
+                sh(["sudo", "ip", "netns", "exec", NETNS, "ip", "link", "del", "tun0"])
+            else:
+                sh(["sudo", "ip", "link", "del", "tun0"])
+            path = write_config(node)
+            log(f"trying {node['ip']}:{node['port']} {node['proto']} ping={node['ping']}ms")
+            base = (["sudo", "ip", "netns", "exec", NETNS] if using_ns else ["sudo"])
+            p = sh(base + ["openvpn", "--config", path, "--daemon", "--log", OVPN_LOG])
+            if p.returncode != 0:
+                log(f"  openvpn refused: {p.stderr.strip()[:160]}")
+                continue
+            deadline = time.time() + ready_timeout
+            while time.time() < deadline:
+                time.sleep(3)
+                if sh(["pgrep", "-f", f"openvpn --config {OVPN_PATH}"]).returncode != 0:
+                    log("  openvpn exited")
+                    break
+                if not tun_up(using_ns):
+                    continue
+                ok, info = egress(using_ns)
+                if ok and info.get("country") == "JP":
+                    log(f"  connected: {info['ip']} {info.get('city')} {info.get('org')}")
+                    return node, info, ("netns" if using_ns else "host")
+            else:
+                log("  handshake/egress timeout")
+        raise RuntimeError("no working JP node")
+    except Exception:
+        stop(using_ns)
+        raise
 
 
-def stop():
-    teardown_netns()
-    log("netns removed")
+def stop(using_ns=True):
+    sh(["sudo", "pkill", "-f", f"openvpn --config {OVPN_PATH}"])
+    time.sleep(2)
+    if using_ns:
+        teardown_netns()
+        log("netns removed")
+    else:
+        sh(["sudo", "ip", "link", "del", "tun0"])
+        for dst in ("0.0.0.0/1", "128.0.0.0/1"):
+            while sh(["sudo", "ip", "route", "del", dst]).returncode == 0:
+                pass
+        log("host tunnel down")
 
 
 if __name__ == "__main__":
-    node, info = connect()
-    print(node["ip"], info)
+    node, info, mode = connect()
+    print(mode, node["ip"], info)

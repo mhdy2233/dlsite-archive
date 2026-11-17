@@ -9,7 +9,7 @@ from collections import Counter
 HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.dirname(HERE)
 DATA = os.path.join(ROOT, "data", "works")
-SITE = os.path.join(ROOT, "site")
+SITE = os.path.join(ROOT, "docs")
 API = os.path.join(SITE, "api")
 
 

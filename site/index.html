@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>DLsite Archive — 同人游戏归档</title>
+<meta name="description" content="DLsite maniax 同人游戏作品的本地归档，含详情、社团、标签与官方图片。">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="gate" id="gate" hidden>
+  <div class="box">
+    <h2>18+ 内容提示</h2>
+    <p>本站归档 DLsite 同人作品信息，包含成人向内容。请确认你已年满 18 周岁并愿意继续访问。</p>
+    <button class="no" id="gate-no">离开</button>
+    <button id="gate-yes">我已满 18 岁</button>
+  </div>
+</div>
+
+<header class="topbar">
+  <div class="brand">DLsite<span>Archive</span><small>maniax / 同人ゲーム</small></div>
+  <div class="search">
+    <span class="icon">⌕</span>
+    <input id="q" type="search" placeholder="搜索标题 / 社团 / 标签…" autocomplete="off">
+    <button class="clear" id="qclear" hidden aria-label="清除">×</button>
+  </div>
+  <div class="stats" id="stats"></div>
+</header>
+
+<div class="layout">
+  <aside class="sidebar">
+    <div class="side-group">
+      <div class="side-title">排序</div>
+      <div class="chips" id="sort"></div>
+    </div>
+    <div class="side-group">
+      <div class="side-title">类型</div>
+      <div class="chips" id="types"></div>
+    </div>
+    <div class="side-group">
+      <div class="side-title">标签</div>
+      <div class="chips" id="tags"></div>
+    </div>
+    <div class="side-group">
+      <div class="side-title">年龄</div>
+      <div class="chips" id="ages"></div>
+    </div>
+  </aside>
+
+  <main class="content">
+    <div class="grid" id="grid"></div>
+    <div class="empty" id="empty" hidden>没有匹配的作品</div>
+    <div class="more" id="more" hidden><button id="morebtn">显示更多</button></div>
+  </main>
+</div>
+
+<footer>
+  数据来源：<a href="https://www.dlsite.com/maniax/" target="_blank" rel="noopener">DLsite</a> ·
+  本站仅归档公开作品信息与官方图片，版权归原作者所有，请支持正版
+</footer>
+
+<div class="modal" id="modal">
+  <div class="sheet">
+    <div class="sheet-head"><h2 id="mtitle">…</h2><button class="x" id="mclose">×</button></div>
+    <div class="sheet-body">
+      <div class="shots"><div class="hero"><img id="mhero" alt=""></div><div class="thumbs" id="mthumbs"></div></div>
+      <div class="info" id="minfo"></div>
+    </div>
+  </div>
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>

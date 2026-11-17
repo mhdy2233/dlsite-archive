@@ -1,0 +1,132 @@
+{
+ "id": "RJ01768400",
+ "title": "バラバラ工場",
+ "title_romaji": "barabarakoujou",
+ "circle": {
+  "id": "RG01085775",
+  "name": "Sybamuse",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01085775.html"
+ },
+ "type": {
+  "code": "ACN",
+  "name": "アクション",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "all",
+ "sex": 1,
+ "price": {
+  "jpy": 880,
+  "official_jpy": 880,
+  "currencies": {
+   "USD": 5.514720857990298,
+   "EUR": 5.011458015371509,
+   "GBP": 4.181321088397879,
+   "TWD": 181.80691279466149,
+   "CNY": 36.82547653422049,
+   "KRW": 7364.016736401674,
+   "IDR": 100801.83276059564,
+   "VND": 141935.48387096776,
+   "THB": 186.88016309541507,
+   "SEK": 55.668368347471834,
+   "HKD": 43.27471576379873,
+   "SGD": 7.107297579319056,
+   "CAD": 7.884280268244717,
+   "MYR": 22.58153087382826,
+   "BRL": 31.378813595584145,
+   "AUD": 8.176219836252615,
+   "PHP": 352.47937194584637,
+   "MXN": 102.3029795742801,
+   "NZD": 10.016709692987847,
+   "INR": 518.0737077593312
+  }
+ },
+ "point": {
+  "point_amount": 48,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1794582000,
+ "file": {
+  "type": "EXE",
+  "size": 62017049
+ },
+ "tags": [],
+ "languages": [
+  "JPN",
+  "ENG"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [],
+ "rating": {
+  "average": null,
+  "count": null
+ },
+ "review_count": 0,
+ "dl_count": 0,
+ "wishlist_count": 2,
+ "ranking": [],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01769000/RJ01768400_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ01769000/RJ01768400_img_main_240x240.jpg",
+  "samples": [
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01769000/RJ01768400_img_smp1.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01769000/RJ01768400_img_smp2.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01769000/RJ01768400_img_smp3.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01769000/RJ01768400_img_smp4.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01769000/RJ01768400_img_smp5.jpg"
+  ],
+  "sample_thumbs": [
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01769000/RJ01768400_img_smp1_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01769000/RJ01768400_img_smp2_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01769000/RJ01768400_img_smp3_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01769000/RJ01768400_img_smp4_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01769000/RJ01768400_img_smp5_100x100.jpg"
+  ],
+  "alt": "バラバラ工場 [Sybamuse]"
+ },
+ "introductions": [
+  {
+   "type": "text",
+   "title": "",
+   "body": [
+    {
+     "intro": "暴走したスマート家電を、弱点のコアだけ狙って止めろ。<br />\n<br />\n暴走家電の処分工場で働く、弱点狙いのアクションゲームです。<br />\n<br />\nベルトコンベアを流れてくる家電は、本体を叩いても止まりません。動き回る弱点「コア」を狙ってクリックし、破壊してください。壊して集めた「カケラ」が貯まると、道具は自動で進化していきます(素手→ハンマー→バット→爆弾→プレス機→チェーンソー→レーザーカッター→究極プレス)。<br />\n<br />\n- 全7ステージ+各ステージ後のボスタイム(20秒)<br />\n- 対象は時計・瓶・トースター・テレビ・ラジオ・扇風機・掃除機・洗濯機・冷蔵庫・ゲーム機の10種類<br />\n- 1ステージ60〜90秒。暇つぶし・ストレス解消にどうぞ<br />\n- 叩くとライフが減る「圧力タンク」も登場。見極めて流すのも大切です<br />\n- 操作はマウスだけ。日本語/英語の表示切替対応<br />\n<br />\n体験版(ステージ1のみ、ブラウザで無料プレイ)は itch.io で公開中です。まずはこちらでお試しください。<br />\n<a href=\"https://sybazaki.itch.io/barabara-factory\" target=\"_blank\">https://sybazaki.itch.io/barabara-factory</a><br />\n<br />\n動作環境<br />\n- OS:Windows 10/11(64bit)専用(Macには対応していません)<br />\n- 形式:ダウンロード版(ZIPを展開し、BarabaraFactory.exe を実行)<br />\n- セーブデータは端末内に保存されます<br />\n- 初回起動時に Windows SmartScreen の確認画面(「Windows によって PC が保護されました」)が出ることがあります。個人制作のため電子署名を付けていないことが理由で、ウイルスではありません。「詳細情報」→「実行」で起動できます<br />\n<br />\n利用条件<br />\n© 2026 Sybamuse<br />\n本ソフトウェアおよび同梱物の著作権は Sybamuse に帰属します。<br />\n<br />\n1. 本ソフトウェアは、購入者(または正規の入手者)本人が個人的に遊ぶ目的でのみ使用できます。<br />\n2. 本ソフトウェアの全部または一部の複製物を、第三者へ再配布・転売・貸与・アップロード(ファイル共有サイト、SNS、掲示板等への掲載を含む)することは禁止します。<br />\n3. 本ソフトウェアのリバースエンジニアリング、改変物の配布は禁止します(法令で認められる範囲を除く)。<br />\n4. ゲーム内の画像・音楽・文章などの素材を抜き出して、別作品・別用途に使うことは禁止します。<br />\n5. 本ソフトウェアの使用により生じた損害について、Sybamuse は法令で認められる範囲で責任を負いません。セーブデータは端末内に保存されるため、ブラウザのデータ削除等で消える場合があります。<br />\n<br />\n配信ガイドライン(動画投稿・ライブ配信)<br />\n本ゲームのプレイ動画・配信は歓迎します。<br />\n<br />\n- 動画投稿サイト・配信プラットフォームでの公開、および収益化が可能です。<br />\n- エンディングを含む全内容を公開して構いません(ネタバレ制限はありません)。<br />\n- 切り抜き動画の作成・公開も可能です。<br />\n- 概要欄などにゲーム名「バラバラ工場」と入手先(ストアページ)へのリンクを入れていただけると助かります(任意ですが推奨します)。<br />\n- 以下は禁止します:<br />\n  - ゲームデータそのもの(実行ファイル・素材)の配布・転載<br />\n  - 本ゲームまたは Sybamuse を誹謗中傷する目的での利用<br />\n  - 公序良俗に反する利用<br />\n<br />\nクレジット・AI開示<br />\n- ゲームエンジン:Godot Engine(MIT License)<br />\n- フォント:Noto Sans CJK(SIL Open Font License 1.1)のサブセットを使用(ライセンス全文はパッケージに同梱)<br />\n- 画像素材の一部は生成AIで作成しています。音声はすべて自作のプログラム生成音で、AI生成音声は使っていません"
+    }
+   ]
+  }
+ ],
+ "description": "暴走したスマート家電を、弱点のコアだけ狙って止めろ。",
+ "short_introduction": "暴走したスマート家電を、弱点のコアだけ狙って止めろ。",
+ "options": [
+  "AIP",
+  "ORW"
+ ],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01768400.html",
+ "site_id": "home",
+ "fetched_at": 1794937670,
+ "local_images": {
+  "main": "RJ01768400/main.jpg",
+  "thumb": "RJ01768400/thumb.jpg",
+  "samples": [
+   "RJ01768400/smp1.jpg",
+   "RJ01768400/smp2.jpg",
+   "RJ01768400/smp3.jpg",
+   "RJ01768400/smp4.jpg",
+   "RJ01768400/smp5.jpg"
+  ]
+ }
+}

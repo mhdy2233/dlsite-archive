@@ -1,0 +1,156 @@
+{
+ "id": "RJ435903",
+ "title": "シラボシブロー",
+ "title_romaji": "shiraboshiburoo",
+ "circle": {
+  "id": "RG53084",
+  "name": "ぶらいずぽっと",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG53084.html"
+ },
+ "type": {
+  "code": "RPG",
+  "name": "ロールプレイング",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "r18",
+ "sex": 1,
+ "price": {
+  "jpy": 880,
+  "official_jpy": 880,
+  "currencies": {
+   "USD": 5.514720857990298,
+   "EUR": 5.011458015371509,
+   "GBP": 4.181321088397879,
+   "TWD": 181.80691279466149,
+   "CNY": 36.82547653422049,
+   "KRW": 7364.016736401674,
+   "IDR": 100801.83276059564,
+   "VND": 141935.48387096776,
+   "THB": 186.88016309541507,
+   "SEK": 55.668368347471834,
+   "HKD": 43.27471576379873,
+   "SGD": 7.107297579319056,
+   "CAD": 7.884280268244717,
+   "MYR": 22.58153087382826,
+   "BRL": 31.378813595584145,
+   "AUD": 8.176219836252615,
+   "PHP": 352.47937194584637,
+   "MXN": 102.3029795742801,
+   "NZD": 10.016709692987847,
+   "INR": 518.0737077593312
+  }
+ },
+ "point": {
+  "point_amount": 48,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1669129200,
+ "file": {
+  "type": "EXE",
+  "size": 299061704
+ },
+ "tags": [
+  {
+   "key": "071",
+   "name": "断面図"
+  },
+  {
+   "key": "510",
+   "name": "ツクール"
+  },
+  {
+   "key": "323",
+   "name": "アヘ顔"
+  },
+  {
+   "key": "164",
+   "name": "機械責め"
+  },
+  {
+   "key": "146",
+   "name": "拘束"
+  },
+  {
+   "key": "162",
+   "name": "触手"
+  },
+  {
+   "key": "129",
+   "name": "妊娠/孕ませ"
+  },
+  {
+   "key": "186",
+   "name": "ぼて腹/妊婦"
+  }
+ ],
+ "languages": [
+  "JPN"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [],
+ "rating": {
+  "average": 4.34,
+  "count": 144
+ },
+ "review_count": 6,
+ "dl_count": 327,
+ "wishlist_count": 735,
+ "ranking": [],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ436000/RJ435903_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ436000/RJ435903_img_main_240x240.jpg",
+  "samples": [
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ436000/RJ435903_img_smp1.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ436000/RJ435903_img_smp2.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ436000/RJ435903_img_smp3.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ436000/RJ435903_img_smp4.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ436000/RJ435903_img_smp5.jpg"
+  ],
+  "sample_thumbs": [
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ436000/RJ435903_img_smp1_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ436000/RJ435903_img_smp2_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ436000/RJ435903_img_smp3_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ436000/RJ435903_img_smp4_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ436000/RJ435903_img_smp5_100x100.jpg"
+  ],
+  "alt": "シラボシブロー [ぶらいずぽっと]"
+ },
+ "introductions": [
+  {
+   "type": "text",
+   "title": "コマンド『入力』でバトルする成人向けRPG!",
+   "body": [
+    {
+     "intro": "★Ver.1.10より内容を追加しました。<br />\n<br />\n○あらすじ<br />\n　100年前の封印から復活した魔王の暴走を止める為、<br />\n　主人公たちが奮闘する概ね王道の物語です。<br />\n　<br />\n　※本作のお話をしっかり理解したい方ように、簡単なあらすじ解説もゲーム内に用意しております。<br />\n　※気にされない方用にメッセージスキップ機能もあります。<br />\n　<br />\n○イベントシーン<br />\n　・主要キャラを中心にイベントシーン15種類以上 + ミニイベント<br />\n　　(ストーリー上のイベントから、サブイベント、敗北イベントなど)<br />\n　・主なジャンル<br />\n　　拘束、触手、中だし、ボテ腹、道具・・・など(紹介・サンプル画像をご確認ください)<br />\n　・ゲーム中の行動で特定条件を満たすと一部イベントシーンの展開、画像が変化します。<br />\n　・ゲームクリア後、回想部屋にて各イベントシーンを確認できます。<br />\n<br />\n　※Ver.1.10よりイベントシーンを1つ追加しました。<br />\n　<br />\n○バトルシステム<br />\n　主な流れはコマンドバトルと同じですが、本作では『コマンド入力』を行いバトルします。<br />\n　(画面上に表示されるコマンド通りにボタン(キーボード)を押下するイメージです。)<br />\n　プレイヤー操作・行動次第では、レベル上げに奔走しなくてもクリアできるシステムです。<br />\n　ゲーム難易度の選択、チュートリアル、いざという時の為のお助け機能などを用意しておりますので、<br />\n　ご気軽にプレイいただけます。<br />\n<br />\n　※Ver.1.10より戦闘に使用できる特殊アイテムを配置しました。<br />\n　　詳細は当作品フォルダ内の「readme.txt」をご確認ください。<br />\n<br />\n○注意事項<br />\n　・本作品は「RPGツクールVXace」にて制作しております。<br />\n　　一度体験版にて動作確認をお願いいたします。<br />\n　　体験版は製品版と冒頭の一部あらすじが異なります。<br />\n　・体験版からのセーブデータ引継ぎはできません。<br />\n　　読み込めたとしても正しく動作しない場合がありますのでご了承ください。<br />\n　・要素を追加する、不具合やバグなどが確認された場合はゲーム内容を修正、変更する場合がございます。<br />\n　　その際は再ダウンロードができるように会員登録をお勧めいたします。<br />\n<br />\n○バージョンアップ<br />\n　この度は非常に重要な部分で不具合がございました。申し訳ございません。<br />\n　最適にプレイいただく為にも最新バージョン(ver 1.10)の再ダウンロードをお願いいたします。"
+    }
+   ]
+  }
+ ],
+ "description": "当サークル作品第2弾! コマンド『入力』バトルで進める成人向けロールプレイングゲーム。初心者でも安心、ゲームレベル選択とチュートリアル的なものも用意。アヘ顔・触手・拘束・ぼて腹・・・など主要キャラを中心に多数のイベントシーンを予定しております。",
+ "short_introduction": "当サークル作品第2弾! コマンド『入力』バトルで進める成人向けロールプレイングゲーム。初心者でも安心、ゲームレベル選択とチュートリアル的なものも用意。アヘ顔・触手・拘束・ぼて腹・・・など主要キャラを中心に多数のイベントシーンを予定しております。",
+ "options": [
+  "MS2",
+  "REV",
+  "TRI",
+  "OLY",
+  "ORW"
+ ],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ435903.html",
+ "site_id": "maniax",
+ "fetched_at": 1794955051
+}

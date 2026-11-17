@@ -1,0 +1,173 @@
+{
+ "id": "RJ01127830",
+ "title": "闇祓奇譚",
+ "title_romaji": "yamibaraikitan",
+ "circle": {
+  "id": "RG49934",
+  "name": "グロスティック",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG49934.html"
+ },
+ "type": {
+  "code": "SLN",
+  "name": "シミュレーション",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "r18",
+ "sex": 1,
+ "price": {
+  "jpy": 440,
+  "official_jpy": 440,
+  "currencies": {
+   "USD": 2.757360428995149,
+   "EUR": 2.5057290076857544,
+   "GBP": 2.0906605441989394,
+   "TWD": 90.90345639733074,
+   "CNY": 18.412738267110246,
+   "KRW": 3682.008368200837,
+   "IDR": 50400.91638029782,
+   "VND": 70967.74193548388,
+   "THB": 93.44008154770754,
+   "SEK": 27.834184173735917,
+   "HKD": 21.637357881899366,
+   "SGD": 3.553648789659528,
+   "CAD": 3.9421401341223583,
+   "MYR": 11.29076543691413,
+   "BRL": 15.689406797792072,
+   "AUD": 4.088109918126308,
+   "PHP": 176.23968597292318,
+   "MXN": 51.15148978714005,
+   "NZD": 5.008354846493924,
+   "INR": 259.0368538796656
+  }
+ },
+ "point": {
+  "point_amount": 24,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1702047600,
+ "file": {
+  "type": "EXE",
+  "size": 56921987
+ },
+ "tags": [
+  {
+   "key": "311",
+   "name": "おさわり"
+  },
+  {
+   "key": "070",
+   "name": "連続絶頂"
+  },
+  {
+   "key": "501",
+   "name": "潮吹き"
+  }
+ ],
+ "languages": [
+  "JPN"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [],
+ "rating": {
+  "average": 4.13,
+  "count": 48
+ },
+ "review_count": 0,
+ "dl_count": 138,
+ "wishlist_count": 313,
+ "ranking": [],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01128000/RJ01127830_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ01128000/RJ01127830_img_main_240x240.jpg",
+  "samples": [
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01128000/RJ01127830_img_smp1.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01128000/RJ01127830_img_smp2.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01128000/RJ01127830_img_smp3.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01128000/RJ01127830_img_smp4.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01128000/RJ01127830_img_smp5.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01128000/RJ01127830_img_smp6.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01128000/RJ01127830_img_smp7.jpg"
+  ],
+  "sample_thumbs": [
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01128000/RJ01127830_img_smp1_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01128000/RJ01127830_img_smp2_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01128000/RJ01127830_img_smp3_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01128000/RJ01127830_img_smp4_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01128000/RJ01127830_img_smp5_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01128000/RJ01127830_img_smp6_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01128000/RJ01127830_img_smp7_100x100.jpg"
+  ],
+  "alt": "闇祓奇譚 [グロスティック]"
+ },
+ "introductions": [
+  {
+   "type": "text",
+   "title": "ご購入前のお願い。",
+   "body": [
+    {
+     "intro": "本作品はUnityで制作し、メインシーンはLive2dを利用している為、<br />\nご購入される前には必ず「体験版」にて動作確認をお願いします。<br />\n<br />\n※特にグラボ非搭載のオンボードPCは厳しめかと思われます。<br />\n----------------------<br />\nUnityエディターの脆弱性対応のため、本作品のビルド環境を更新いたしました(Ver1.0.1)。<br />\n内容に変更はございませんが、より安全な環境でプレイいただけるようになっております。"
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "title": "イントロダクション",
+   "body": [
+    {
+     "intro": "ある日、闇祓師の元に1人の女の子が連れてこられた。<br />\r\n彼女は意識がなく、どんなに身体を揺り動かそうとも目覚める事は無かった。<br />\r\n<br />\r\nそう、彼女は「闇」に侵されているのだ……"
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "title": "ゲームの内容",
+   "body": [
+    {
+     "intro": "クリッカーゲームです。<br />\r\n女の子の身体の部位をクリックして、ポイントを貯めて、そのポイントで闇祓師としての技を習得し、<br />\r\n効率よく闇を倒すゲームです。<br />\r\n<br />\r\n闇にダメージを与えるには、女の子を絶頂させて潮を噴かせる事!<br />\r\nその為に闇祓師は、様々な技を駆使して女の子を絶頂へと導きます。"
+    }
+   ]
+  },
+  {
+   "type": "image",
+   "title": "",
+   "body": [
+    {
+     "intro": "1.女の子の身体の部位をクリックして、感度を上げて行きましょう<br />\r\n<br />\r\n<br />\r\n<br />\r\n2.クリックで貯まったポイントで闇祓師の技を解放しましょう。<br />\r\n<br />\r\n<br />\r\n<br />\r\n3.時には女の子の身体に張り付いて邪魔をしてくる、モンスターも出現します。<br />\r\n<br />\r\n<br />\r\n<br />\r\n4.ここで施術を止めるか?それとも続行するか?の選択肢が数回出てきます。<br />\r\n　貴方の選択により、女の子の命運も決まってしまうので慎重に。<br />\r\n<br />\r\n<br />\r\n<br />\r\n5.意識が戻りつつある女の子には、畳み掛ける絶頂は苦痛を伴いますが、<br />\r\n　闇を倒すまでは施術は終われません。<br />\r\n<br />\r\n<br />\r\n<br />\r\n6.闇に侵された女の子の運命は?無事に闇から開放されるのか?<br />\r\n　全ては貴方の手腕にかかっています。",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ01128000/RJ01127830/fa1d70d4ad044c411c96087be0d02984.jpg",
+      "alt": "闇祓奇譚 [グロスティック]",
+      "title": "闇祓奇譚 [グロスティック]"
+     },
+     "position": "left"
+    }
+   ]
+  }
+ ],
+ "description": "闇に侵された女の子を救出すべく、身体の部位をクリックしていくゲームです。",
+ "short_introduction": "闇に侵された女の子を救出すべく、身体の部位をクリックしていくゲームです。",
+ "options": [
+  "SND",
+  "MS2",
+  "TRI",
+  "OLY",
+  "ORW"
+ ],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01127830.html",
+ "site_id": "maniax",
+ "fetched_at": 1794951967
+}

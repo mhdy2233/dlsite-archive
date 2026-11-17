@@ -1,0 +1,135 @@
+{
+ "id": "RJ01107927",
+ "title": "GYRATION",
+ "title_romaji": "jaireishon",
+ "circle": {
+  "id": "RG01009313",
+  "name": "susumu",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01009313.html"
+ },
+ "type": {
+  "code": "ACN",
+  "name": "アクション",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "all",
+ "sex": 1,
+ "price": {
+  "jpy": 220,
+  "official_jpy": 220,
+  "currencies": {
+   "USD": 1.3786802144975745,
+   "EUR": 1.2528645038428772,
+   "GBP": 1.0453302720994697,
+   "TWD": 45.45172819866537,
+   "CNY": 9.206369133555123,
+   "KRW": 1841.0041841004186,
+   "IDR": 25200.45819014891,
+   "VND": 35483.87096774194,
+   "THB": 46.72004077385377,
+   "SEK": 13.917092086867958,
+   "HKD": 10.818678940949683,
+   "SGD": 1.776824394829764,
+   "CAD": 1.9710700670611792,
+   "MYR": 5.645382718457065,
+   "BRL": 7.844703398896036,
+   "AUD": 2.044054959063154,
+   "PHP": 88.11984298646159,
+   "MXN": 25.575744893570025,
+   "NZD": 2.504177423246962,
+   "INR": 129.5184269398328
+  }
+ },
+ "point": {
+  "point_amount": 12,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1696921200,
+ "file": {
+  "type": "EXE",
+  "size": 34892352
+ },
+ "tags": [],
+ "languages": [
+  "JPN"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [],
+ "rating": {
+  "average": null,
+  "count": null
+ },
+ "review_count": 0,
+ "dl_count": 1,
+ "wishlist_count": 12,
+ "ranking": [],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01108000/RJ01107927_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ01108000/RJ01107927_img_main_240x240.jpg",
+  "samples": [
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01108000/RJ01107927_img_smp1.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01108000/RJ01107927_img_smp2.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01108000/RJ01107927_img_smp3.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01108000/RJ01107927_img_smp4.jpg"
+  ],
+  "sample_thumbs": [
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01108000/RJ01107927_img_smp1_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01108000/RJ01107927_img_smp2_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01108000/RJ01107927_img_smp3_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01108000/RJ01107927_img_smp4_100x100.jpg"
+  ],
+  "alt": "GYRATION [susumu]"
+ },
+ "introductions": [
+  {
+   "type": "text",
+   "title": "ゲーム概要",
+   "body": [
+    {
+     "intro": "昔懐かしい2Dアクションゲームです。<br />\n操作はシンプルで移動、ジャンプ、回転の3つです。<br />\n回転が加わることによって、いつもの2Dアクションゲームでありながら、どこか新しい感覚が味わえることができるゲームです。<br />\n回転を使ってコインをゲットし、全15ステージをクリアしよう!"
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "title": "操作方法",
+   "body": [
+    {
+     "intro": "メニュー画面<br />\r\nキーボード<br />\r\nW or ↑:上に移動<br />\r\nS or ↓:下に移動<br />\r\nEnter:決定<br />\r\n<br />\r\nコントローラ<br />\r\n十字ボタン:移動<br />\r\nAボタン:決定<br />\r\n<br />\r\nゲーム画面<br />\r\nキーボード<br />\r\nW or ↑:ジャンプ<br />\r\nA or ←:左移動<br />\r\nD or →:右移動<br />\r\nQ:左回転<br />\r\nE:右回転<br />\r\nEsc:ポーズ<br />\r\nEnter:決定<br />\r\n<br />\r\nコントローラ<br />\r\n十字ボタン:移動<br />\r\nAボタン:ジャンプ、決定<br />\r\nLボタン:左回転<br />\r\nRボタン:右回転<br />\r\nstartボタン:ポーズ"
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "title": "注意事項",
+   "body": [
+    {
+     "intro": "このゲームは画面酔いをする可能性があります。"
+    }
+   ]
+  }
+ ],
+ "description": "「回転」を使ってコインをゲットし、全15ステージの昔懐かしい2Dアクションゲームをクリアしよう!",
+ "short_introduction": "「回転」を使ってコインをゲットし、全15ステージの昔懐かしい2Dアクションゲームをクリアしよう!",
+ "options": [
+  "MS2"
+ ],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01107927.html",
+ "site_id": "home",
+ "fetched_at": 1794952317
+}

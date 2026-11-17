@@ -1,0 +1,205 @@
+{
+ "id": "RJ01088885",
+ "title": "現風少女 ブリューテの代償",
+ "title_romaji": "utsutsukazeshoujoburyuutenodaishou",
+ "circle": {
+  "id": "RG01007292",
+  "name": "ファイブ・フロート",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01007292.html"
+ },
+ "type": {
+  "code": "STG",
+  "name": "シューティング",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "all",
+ "sex": 1,
+ "price": {
+  "jpy": 550,
+  "official_jpy": 550,
+  "currencies": {
+   "USD": 3.4467005362439362,
+   "EUR": 3.1321612596071926,
+   "GBP": 2.6133256802486744,
+   "TWD": 113.62932049666342,
+   "CNY": 23.015922833887807,
+   "KRW": 4602.510460251046,
+   "IDR": 63001.14547537228,
+   "VND": 88709.67741935485,
+   "THB": 116.80010193463441,
+   "SEK": 34.7927302171699,
+   "HKD": 27.046697352374206,
+   "SGD": 4.44206098707441,
+   "CAD": 4.927675167652948,
+   "MYR": 14.113456796142662,
+   "BRL": 19.611758497240093,
+   "AUD": 5.110137397657885,
+   "PHP": 220.299607466154,
+   "MXN": 63.93936223392506,
+   "NZD": 6.260443558117405,
+   "INR": 323.79606734958196
+  }
+ },
+ "point": {
+  "point_amount": 30,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1692284400,
+ "file": {
+  "type": "EXE",
+  "size": 345654117
+ },
+ "tags": [
+  {
+   "key": "432",
+   "name": "女主人公"
+  },
+  {
+   "key": "400",
+   "name": "学生"
+  },
+  {
+   "key": "206",
+   "name": "少女"
+  },
+  {
+   "key": "074",
+   "name": "制服"
+  },
+  {
+   "key": "075",
+   "name": "セーラー服"
+  },
+  {
+   "key": "090",
+   "name": "ミニスカ"
+  },
+  {
+   "key": "005",
+   "name": "ギャグ"
+  }
+ ],
+ "languages": [
+  "JPN"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [],
+ "rating": {
+  "average": null,
+  "count": null
+ },
+ "review_count": 0,
+ "dl_count": 23,
+ "wishlist_count": 29,
+ "ranking": [],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01089000/RJ01088885_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ01089000/RJ01088885_img_main_240x240.jpg",
+  "samples": [
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01089000/RJ01088885_img_smp1.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01089000/RJ01088885_img_smp2.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01089000/RJ01088885_img_smp3.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01089000/RJ01088885_img_smp4.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01089000/RJ01088885_img_smp5.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01089000/RJ01088885_img_smp6.jpg"
+  ],
+  "sample_thumbs": [
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01089000/RJ01088885_img_smp1_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01089000/RJ01088885_img_smp2_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01089000/RJ01088885_img_smp3_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01089000/RJ01088885_img_smp4_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01089000/RJ01088885_img_smp5_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01089000/RJ01088885_img_smp6_100x100.jpg"
+  ],
+  "alt": "現風少女 ブリューテの代償 [ファイブ・フロート]"
+ },
+ "introductions": [
+  {
+   "type": "text",
+   "title": "",
+   "body": [
+    {
+     "intro": "現風少女シリーズの1作品目になります。<br />\r\n<br />\r\n弾幕シューティングというと、密度の濃い弾を避けて楽しい!ってイメージが私にあるんですけど、<br />\r\n本作品はムリに避けなくても、クリアできる可能性のある難易度になっていると思います。(ハード以外は)<br />\r\n<br />\r\nボムは逃げ道ではなく攻撃の手段です!どんどん撃ち込んじゃってください!<br />\r\nもちろんぜんぶ避けずにクリアすることはできないので、しっかりパターンをつかんで攻略してください。<br />\r\n<br />\r\nそれでは、新たな世界へ行ってらっしゃいませ・・・。"
+    }
+   ]
+  },
+  {
+   "type": "image",
+   "title": "キャラクター紹介",
+   "body": [
+    {
+     "intro": "【名前】江蓮宮 みら(Eremiya Mira)<br />\r\n<br />\r\n【趣味】記憶が欠落しているため、不明。<br />\r\n<br />\r\n【基本ショット】<br />\r\n時計の針を正面に投げつける<br />\r\n<br />\r\n【スキル】ルナティックカウンター<br />\r\n回転させた針を弾の狂気に当てると<br />\r\n追尾させた状態で抗狂気弾を飛ばす。<br />\r\n<br />\r\n【狂気開放】零刻のフェアローレン\"<br />\r\n無敵状態になり、周囲の弾消しと<br />\r\n画面内の敵全体にダメージを与える。<br />\r\nよく見ると「零」と書いてある。",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ01089000/RJ01088885/ad703270646fcccb7878cb14d7bd19c8.jpg",
+      "alt": "現風少女 ブリューテの代償 [ファイブ・フロート]",
+      "title": "現風少女 ブリューテの代償 [ファイブ・フロート]"
+     },
+     "position": "left"
+    }
+   ]
+  },
+  {
+   "type": "image_list",
+   "title": "",
+   "body": [
+    {
+     "intro": "【名前】苫小牧 まい(Tomakomai Mai)<br />\r\n<br />\r\n【趣味】友達としゃべること、音楽を聴くこと、気になったモノを調べること、最近は何世代か前のゲームで遊ぶことかな。<br />\r\n<br />\r\n【基本ショット】メガ弾丸<br />\r\n高火力な5連ミサイルをばら撒く<br />\r\n<br />\r\n【スキル】厳星こんぺーとMk-IV<br />\r\n周囲の4箇所に金平糖を設置し、当たった弾から抗狂気弾を正面に飛ばす。<br />\r\n<br />\r\n【狂気開放】スタースタンプ<br />\r\n無敵状態になり、画面内の敵全体にダメージを与える。<br />\r\nさらに敵を5秒間「気絶」させる。",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ01089000/RJ01088885/b40dd893dcab9b25be28c8b238a4bb11.jpg",
+      "alt": "現風少女 ブリューテの代償 [ファイブ・フロート]",
+      "title": "現風少女 ブリューテの代償 [ファイブ・フロート]"
+     }
+    },
+    {
+     "intro": "【名前】八戸恵 めぐ(Hatomegumi Megu)<br />\r\n<br />\r\n【趣味】スイーツ巡り、カフェで読書、見つけたお店にみんなで行くこと、月9ドラマを見ること。<br />\r\n<br />\r\n【基本ショット】十紋時レーザー<br />\r\n十字方向にレーザーを飛ばす。<br />\r\n<br />\r\n【スキル】迫り来る報告書<br />\r\nショット押下時に報告書を現在地に設置する。当たった弾から抗狂気弾を3方向にばら撒く。<br />\r\n<br />\r\n【狂気開放】五線色火炎砲<br />\r\n無敵状態になり、正面にダメージを与える。ボム無効の敵には2割、狂気状態の敵には貫通で1.5倍ダメージを与える。さらに、少しだけ敵を「やけど」させる。",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ01089000/RJ01088885/8143f042ae1d79082439b6182f58d632.jpg",
+      "alt": "現風少女 ブリューテの代償 [ファイブ・フロート]",
+      "title": "現風少女 ブリューテの代償 [ファイブ・フロート]"
+     }
+    },
+    {
+     "intro": "【名前】白鷺 さら(Sirasagi Sara)<br />\r\n<br />\r\n【趣味】朝になると目玉焼きとベーコンのいい香りで起きるけど寝たふりをするのよ。カナの料理は無限に食べれるわ。なぜか太らないの。<br />\r\n<br />\r\n【基本ショット】ダブルシュート<br />\r\n何の変哲もないただのショットです。<br />\r\n<br />\r\n【スキル】エリアカウンター(攻)<br />\r\nルナリング内に入った弾から抗狂気弾を追尾させて飛ばす。<br />\r\n<br />\r\n【狂気開放】ルナティック・フレア<br />\r\nジを与える。さらに、敵を10秒間「やけど」にする。狂気状態の敵には効果時間が長くなる。",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ01089000/RJ01088885/bc3a1100acd0fd418514f641d9101f88.jpg",
+      "alt": "現風少女 ブリューテの代償 [ファイブ・フロート]",
+      "title": "現風少女 ブリューテの代償 [ファイブ・フロート]"
+     }
+    },
+    {
+     "intro": "【名前】詩央 かな(Utanaka kana)<br />\r\n<br />\r\n【趣味】サラちゃんとお出かけ<br />\r\n毎日ごはんを作ってあげているんだけど、太らないように頑張って献立してます。毎朝、サラちゃんを起こす方法を模索中!<br />\r\n<br />\r\n【基本ショット】ダブルホーミング<br />\r\nホーミングする弾を2発飛ばす。<br />\r\n<br />\r\n【スキル】エリアカウンター(守)<br />\r\nルナリング内に入った弾から抗狂気弾を正面にまっすぐ飛ばす。<br />\r\n<br />\r\n【狂気開放】ヘルスガード<br />\r\n一瞬無敵になり弾全消しする。さらに3秒後に料理を3食生み出す。「料理」はダメージを受けたときに、一瞬無敵になり弾全消しする。クールダウンは15秒",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ01089000/RJ01088885/c26aa3c241bdddbb7d430023d9309c35.jpg",
+      "alt": "現風少女 ブリューテの代償 [ファイブ・フロート]",
+      "title": "現風少女 ブリューテの代償 [ファイブ・フロート]"
+     }
+    }
+   ]
+  }
+ ],
+ "description": "ヤバイ物質を追う旅物語!現風少女シリーズの1作品目です。",
+ "short_introduction": "ヤバイ物質を追う旅物語!現風少女シリーズの1作品目です。",
+ "options": [
+  "MS2",
+  "TRI",
+  "ORW"
+ ],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01088885.html",
+ "site_id": "home",
+ "fetched_at": 1794952637
+}

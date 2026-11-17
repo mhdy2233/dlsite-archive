@@ -1,0 +1,131 @@
+{
+ "id": "RJ01121386",
+ "title": "イブプロック2 夢",
+ "title_romaji": "ibupurokkutsuuyume",
+ "circle": {
+  "id": "RG66712",
+  "name": "うた×うた",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG66712.html"
+ },
+ "type": {
+  "code": "STG",
+  "name": "シューティング",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "all",
+ "sex": 1,
+ "price": {
+  "jpy": 220,
+  "official_jpy": 220,
+  "currencies": {
+   "USD": 1.3786802144975745,
+   "EUR": 1.2528645038428772,
+   "GBP": 1.0453302720994697,
+   "TWD": 45.45172819866537,
+   "CNY": 9.206369133555123,
+   "KRW": 1841.0041841004186,
+   "IDR": 25200.45819014891,
+   "VND": 35483.87096774194,
+   "THB": 46.72004077385377,
+   "SEK": 13.917092086867958,
+   "HKD": 10.818678940949683,
+   "SGD": 1.776824394829764,
+   "CAD": 1.9710700670611792,
+   "MYR": 5.645382718457065,
+   "BRL": 7.844703398896036,
+   "AUD": 2.044054959063154,
+   "PHP": 88.11984298646159,
+   "MXN": 25.575744893570025,
+   "NZD": 2.504177423246962,
+   "INR": 129.5184269398328
+  }
+ },
+ "point": {
+  "point_amount": 12,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1700290800,
+ "file": {
+  "type": "EXE",
+  "size": 115891732
+ },
+ "tags": [],
+ "languages": [
+  "JPN"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [],
+ "rating": {
+  "average": null,
+  "count": null
+ },
+ "review_count": 0,
+ "dl_count": 7,
+ "wishlist_count": 19,
+ "ranking": [],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01122000/RJ01121386_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ01122000/RJ01121386_img_main_240x240.jpg",
+  "samples": [
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01122000/RJ01121386_img_smp1.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01122000/RJ01121386_img_smp2.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01122000/RJ01121386_img_smp3.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01122000/RJ01121386_img_smp4.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01122000/RJ01121386_img_smp5.jpg"
+  ],
+  "sample_thumbs": [
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01122000/RJ01121386_img_smp1_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01122000/RJ01121386_img_smp2_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01122000/RJ01121386_img_smp3_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01122000/RJ01121386_img_smp4_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01122000/RJ01121386_img_smp5_100x100.jpg"
+  ],
+  "alt": "イブプロック2 夢 [うた×うた]"
+ },
+ "introductions": [
+  {
+   "type": "text",
+   "title": "男子禁制弾幕系ブロック崩し",
+   "body": [
+    {
+     "intro": "避ける。撃つ。跳ね返す。<br />\nキュート&amp;高難易度な弾幕系ブロック崩し!!<br />\n初心者からマニアまで熱くさせる。こいつは久々に面白いゲームだ!<br />\n<br />\nいわゆる東●Projectライクな感じのブロック崩し。<br />\nそこそこ難易度が高いですが、救済措置として自機の強化やチートアイテムがあるので、弾幕初心者でも安心してプレイできます。"
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "title": "セールスポイント",
+   "body": [
+    {
+     "intro": "ゲームモードは2つ。<br />\n敵の弾幕を避けつつブロックの全壊を狙うストーリーモードと、色んなギミックを攻略していくシンプルモード。<br />\nストーリーモードでは4つのシナリオが用意されており、自機によってかなり操作感が変化します。<br />\nシンプルモードでは100のステージが待ち受けている。ほぼ毎ステージ新ギミックや新ブロックが登場するので、水増しステージは一切ありません。"
+    }
+   ]
+  }
+ ],
+ "description": "男子禁制弾幕系ゆるふわ鬼畜ブロック崩し",
+ "short_introduction": "男子禁制弾幕系ゆるふわ鬼畜ブロック崩し",
+ "options": [
+  "MS2",
+  "TRI",
+  "OLY",
+  "ORW"
+ ],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01121386.html",
+ "site_id": "home",
+ "fetched_at": 1794952083
+}

@@ -1,0 +1,180 @@
+{
+ "id": "RJ01008841",
+ "title": "インキュバス～INCUBUS-Archive:1～",
+ "title_romaji": "inkyubasu",
+ "circle": {
+  "id": "RG71269",
+  "name": "あるタメ",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG71269.html"
+ },
+ "type": {
+  "code": "SLN",
+  "name": "シミュレーション",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "r18",
+ "sex": 1,
+ "price": {
+  "jpy": 1760,
+  "official_jpy": 1760,
+  "currencies": {
+   "USD": 11.029441715980596,
+   "EUR": 10.022916030743017,
+   "GBP": 8.362642176795758,
+   "TWD": 363.61382558932297,
+   "CNY": 73.65095306844098,
+   "KRW": 14728.033472803349,
+   "IDR": 201603.6655211913,
+   "VND": 283870.9677419355,
+   "THB": 373.76032619083014,
+   "SEK": 111.33673669494367,
+   "HKD": 86.54943152759746,
+   "SGD": 14.214595158638112,
+   "CAD": 15.768560536489433,
+   "MYR": 45.16306174765652,
+   "BRL": 62.75762719116829,
+   "AUD": 16.35243967250523,
+   "PHP": 704.9587438916927,
+   "MXN": 204.6059591485602,
+   "NZD": 20.033419385975694,
+   "INR": 1036.1474155186625
+  }
+ },
+ "point": {
+  "point_amount": 96,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1671980400,
+ "file": {
+  "type": "EXE",
+  "size": 1625770451
+ },
+ "tags": [
+  {
+   "key": "052",
+   "name": "燃え"
+  },
+  {
+   "key": "026",
+   "name": "オカルト"
+  },
+  {
+   "key": "007",
+   "name": "コメディ"
+  },
+  {
+   "key": "022",
+   "name": "サスペンス"
+  },
+  {
+   "key": "016",
+   "name": "ファンタジー"
+  }
+ ],
+ "languages": [
+  "JPN"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [
+  {
+   "product_id": "RJ01008841",
+   "edition_id": 30921,
+   "display_label": "日本語",
+   "dl_count": 2275,
+   "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01008841.html",
+   "lang": [
+    "JPN"
+   ]
+  }
+ ],
+ "rating": {
+  "average": 4.31,
+  "count": 744
+ },
+ "review_count": 9,
+ "dl_count": 2275,
+ "wishlist_count": 2023,
+ "ranking": [
+  {
+   "category": "game",
+   "period": "day",
+   "rank": 28,
+   "date": "2023-01-16"
+  },
+  {
+   "category": "game",
+   "period": "week",
+   "rank": 34,
+   "date": "2023-01-19"
+  },
+  {
+   "category": "game",
+   "period": "month",
+   "rank": 50,
+   "date": "2023-01-24"
+  }
+ ],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01009000/RJ01008841_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ01009000/RJ01008841_img_main_240x240.jpg",
+  "samples": [
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01009000/RJ01008841_img_smp1.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01009000/RJ01008841_img_smp2.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01009000/RJ01008841_img_smp3.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01009000/RJ01008841_img_smp4.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01009000/RJ01008841_img_smp5.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01009000/RJ01008841_img_smp6.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01009000/RJ01008841_img_smp7.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01009000/RJ01008841_img_smp8.jpg"
+  ],
+  "sample_thumbs": [
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01009000/RJ01008841_img_smp1_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01009000/RJ01008841_img_smp2_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01009000/RJ01008841_img_smp3_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01009000/RJ01008841_img_smp4_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01009000/RJ01008841_img_smp5_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01009000/RJ01008841_img_smp6_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01009000/RJ01008841_img_smp7_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01009000/RJ01008841_img_smp8_100x100.jpg"
+  ],
+  "alt": "インキュバス～INCUBUS-Archive:1～ [あるタメ]"
+ },
+ "introductions": [
+  {
+   "type": "text",
+   "title": "ビルド&amp;オカルトADV",
+   "body": [
+    {
+     "intro": "悪魔となって、探索、成長を繰り返していく、オカルトファンタジー・シュミレーションになります。<br />\n<br />\n※作品の特徴<br />\n・本作には、キャラクターに対する精神的・身体的な負荷(ストレス)を与える表現が含まれます。これらに耐性のない方の閲覧は推奨されません。<br />\n・一方的な支配関係や、社会通念に反する非道徳的なシチュエーションを主題としています。<br />\n・本作は、背徳的な優越感やキャラクターの苦悶に美学を見出す、特定の嗜好を持つ方向けの作品です。"
+    }
+   ]
+  }
+ ],
+ "description": "一風変わった、ビルド系RPG要素の強めなオカルトシュミレーションです。",
+ "short_introduction": "一風変わった、ビルド系RPG要素の強めなオカルトシュミレーションです。",
+ "options": [
+  "SND",
+  "MS2",
+  "REV",
+  "ORW",
+  "RegionHiddenFilter"
+ ],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01008841.html",
+ "site_id": "maniax",
+ "fetched_at": 1794954610
+}

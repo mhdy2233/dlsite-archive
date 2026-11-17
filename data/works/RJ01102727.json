@@ -1,0 +1,113 @@
+{
+ "id": "RJ01102727",
+ "title": "ごもくならべ(Gomoku) Win11対応版(3×4、4×4等の勝ち手の時、点滅します)",
+ "title_romaji": "gomokunarabeuindouzujuuichitaiouban",
+ "circle": {
+  "id": "RG12639",
+  "name": "うたたね地和",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG12639.html"
+ },
+ "type": {
+  "code": "TBL",
+  "name": "テーブル",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "all",
+ "sex": 1,
+ "price": {
+  "jpy": 770,
+  "official_jpy": 770,
+  "currencies": {
+   "USD": 4.825380750741511,
+   "EUR": 4.38502576345007,
+   "GBP": 3.6586559523481443,
+   "TWD": 159.0810486953288,
+   "CNY": 32.222291967442935,
+   "KRW": 6443.514644351465,
+   "IDR": 88201.6036655212,
+   "VND": 124193.54838709677,
+   "THB": 163.52014270848818,
+   "SEK": 48.70982230403786,
+   "HKD": 37.86537629332389,
+   "SGD": 6.218885381904174,
+   "CAD": 6.898745234714127,
+   "MYR": 19.758839514599728,
+   "BRL": 27.456461896136126,
+   "AUD": 7.154192356721039,
+   "PHP": 308.4194504526156,
+   "MXN": 89.51510712749509,
+   "NZD": 8.764620981364367,
+   "INR": 453.31449428941477
+  }
+ },
+ "point": {
+  "point_amount": 42,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1695999600,
+ "file": {
+  "type": "EXE",
+  "size": 298640
+ },
+ "tags": [
+  {
+   "key": "056",
+   "name": "癒し"
+  }
+ ],
+ "languages": [
+  "JPN"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [],
+ "rating": {
+  "average": null,
+  "count": null
+ },
+ "review_count": 0,
+ "dl_count": 0,
+ "wishlist_count": 12,
+ "ranking": [],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01103000/RJ01102727_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ01103000/RJ01102727_img_main_240x240.jpg",
+  "samples": [],
+  "sample_thumbs": [],
+  "alt": "ごもくならべ(Gomoku) Win11対応版(3×4、4×4等の勝ち手の時、点滅します) [うたたね地和]"
+ },
+ "introductions": [
+  {
+   "type": "text",
+   "title": "ごもくならべ　対戦相手のコンピュータの思考は、「青、赤、黄、緑」の4通りです。",
+   "body": [
+    {
+     "intro": "Gomoku<br />\r\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー<br />\r\n<br />\r\nWindows3.1の時代に、人気のあった「ごもくならべ」(雑誌に載った事もあります)。<br />\r\n[　メールで掲載の依頼が来て、OKを出したら、掲載誌を送ってくれました。　]<br />\r\n<br />\r\nWindows8以降、動かなくなっていたのですが、最新のVisual Studio2022で、作り直して、公開する事にしました。<br />\r\n(その他、ソフトも、見てくださいね!)<br />\r\n<br />\r\nルールは、コマを5つ並べたら、勝ちです。(3・3禁止、6以上無効です)4×4、4×3などの時、点滅します。<br />\r\nコンピューターの思考は、「青、赤、黄、緑」の4種類です。<br />\r\n<br />\r\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー<br />\r\n<br />\r\nIn the era of Windows 3.1, \"Gomoku Narabe\" was very popular (it was even published in a magazine).<br />\r\n[I received a request for publication by e-mail, and when I gave the OK, they sent me the magazine.　]<br />\r\n<br />\r\nIt had stopped working since Windows 8, but we decided to rebuild it with the latest Visual Studio 2022 and release it to the public.<br />\r\n(Please take a look at the other software!)<br />\r\n<br />\r\nThe rule is that you win if you line up 5 frames in a row. (3x3 is forbidden, 6 or more is invalid.) When 4x4, 4x3, etc. are lined up, a blinking light appears.<br />\r\nThe computer has four types of thoughts: blue, red, yellow, and green.<br />\r\n<br />\r\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー"
+    }
+   ]
+  }
+ ],
+ "description": "Windows3.1の時に人気のあった(雑誌にも載りました)、ごもくならべが、Windows11で、リメイクして登場。4×4、4×3の勝ち手の時、点滅します。",
+ "short_introduction": "Windows3.1の時に人気のあった(雑誌にも載りました)、ごもくならべが、Windows11で、リメイクして登場。4×4、4×3の勝ち手の時、点滅します。",
+ "options": [
+  "SND",
+  "ORW"
+ ],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01102727.html",
+ "site_id": "home",
+ "fetched_at": 1794952365
+}

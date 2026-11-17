@@ -1,0 +1,140 @@
+{
+ "id": "RJ01019932",
+ "title": "Recollection 2024.0207",
+ "title_romaji": "rekorekushon",
+ "circle": {
+  "id": "RG65027",
+  "name": "YJ Project",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG65027.html"
+ },
+ "type": {
+  "code": "ACN",
+  "name": "アクション",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "all",
+ "sex": 1,
+ "price": {
+  "jpy": 1100,
+  "official_jpy": 1100,
+  "currencies": {
+   "USD": 6.8934010724878725,
+   "EUR": 6.264322519214385,
+   "GBP": 5.226651360497349,
+   "TWD": 227.25864099332685,
+   "CNY": 46.03184566777561,
+   "KRW": 9205.020920502093,
+   "IDR": 126002.29095074456,
+   "VND": 177419.3548387097,
+   "THB": 233.60020386926882,
+   "SEK": 69.5854604343398,
+   "HKD": 54.09339470474841,
+   "SGD": 8.88412197414882,
+   "CAD": 9.855350335305896,
+   "MYR": 28.226913592285324,
+   "BRL": 39.223516994480185,
+   "AUD": 10.22027479531577,
+   "PHP": 440.599214932308,
+   "MXN": 127.87872446785012,
+   "NZD": 12.52088711623481,
+   "INR": 647.5921346991639
+  }
+ },
+ "point": {
+  "point_amount": 60,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1674399600,
+ "file": {
+  "type": "EXE",
+  "size": 37746272
+ },
+ "tags": [
+  {
+   "key": "509",
+   "name": "3D作品"
+  },
+  {
+   "key": "432",
+   "name": "女主人公"
+  },
+  {
+   "key": "015",
+   "name": "シリアス"
+  }
+ ],
+ "languages": [
+  "JPN"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [],
+ "rating": {
+  "average": null,
+  "count": null
+ },
+ "review_count": 0,
+ "dl_count": 2,
+ "wishlist_count": 8,
+ "ranking": [],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01020000/RJ01019932_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ01020000/RJ01019932_img_main_240x240.jpg",
+  "samples": [
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01020000/RJ01019932_img_smp1.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01020000/RJ01019932_img_smp2.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01020000/RJ01019932_img_smp3.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01020000/RJ01019932_img_smp4.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01020000/RJ01019932_img_smp5.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01020000/RJ01019932_img_smp6.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01020000/RJ01019932_img_smp7.jpg"
+  ],
+  "sample_thumbs": [
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01020000/RJ01019932_img_smp1_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01020000/RJ01019932_img_smp2_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01020000/RJ01019932_img_smp3_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01020000/RJ01019932_img_smp4_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01020000/RJ01019932_img_smp5_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01020000/RJ01019932_img_smp6_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01020000/RJ01019932_img_smp7_100x100.jpg"
+  ],
+  "alt": "Recollection 2024.0207 [YJ Project]"
+ },
+ "introductions": [
+  {
+   "type": "text",
+   "title": "",
+   "body": [
+    {
+     "intro": "3Dアクションゲームです。<br />\n<a href=\"https://yj-project.com/reco/\" target=\"_blank\">https://yj-project.com/reco/</a><br />\n<br />\n<br />\nグラフィックは、YJ Studioで作成しています。<br />\n<a href=\"https://yj-project.com/yj_studio/\" target=\"_blank\">https://yj-project.com/yj_studio/</a><br />\n<br />\nプログラムは、YJライブラリを使用しています。<br />\n<a href=\"https://yj-project.com/yj_lib/\" target=\"_blank\">https://yj-project.com/yj_lib/</a><br />\n<br />\nホームページ<br />\n<a href=\"https://yj-project.com/\" target=\"_blank\">https://yj-project.com/</a><br />\n<br />\n▼AIの利用<br />\n背景の一部にAIを使用しています。"
+    }
+   ]
+  }
+ ],
+ "description": "3Dアクションゲームです。",
+ "short_introduction": "3Dアクションゲームです。",
+ "options": [
+  "SND",
+  "MS2",
+  "AIP",
+  "TRI",
+  "ORW"
+ ],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01019932.html",
+ "site_id": "home",
+ "fetched_at": 1794954198
+}

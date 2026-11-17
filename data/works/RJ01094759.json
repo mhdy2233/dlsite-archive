@@ -1,0 +1,141 @@
+{
+ "id": "RJ01094759",
+ "title": "最強村娘の冒険譚",
+ "title_romaji": "saikyoumuramusumenoboukentan",
+ "circle": {
+  "id": "RG72929",
+  "name": "ふわとかむ",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG72929.html"
+ },
+ "type": {
+  "code": "RPG",
+  "name": "ロールプレイング",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "all",
+ "sex": 1,
+ "price": {
+  "jpy": 220,
+  "official_jpy": 220,
+  "currencies": {
+   "USD": 1.3786802144975745,
+   "EUR": 1.2528645038428772,
+   "GBP": 1.0453302720994697,
+   "TWD": 45.45172819866537,
+   "CNY": 9.206369133555123,
+   "KRW": 1841.0041841004186,
+   "IDR": 25200.45819014891,
+   "VND": 35483.87096774194,
+   "THB": 46.72004077385377,
+   "SEK": 13.917092086867958,
+   "HKD": 10.818678940949683,
+   "SGD": 1.776824394829764,
+   "CAD": 1.9710700670611792,
+   "MYR": 5.645382718457065,
+   "BRL": 7.844703398896036,
+   "AUD": 2.044054959063154,
+   "PHP": 88.11984298646159,
+   "MXN": 25.575744893570025,
+   "NZD": 2.504177423246962,
+   "INR": 129.5184269398328
+  }
+ },
+ "point": {
+  "point_amount": 12,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1694098800,
+ "file": {
+  "type": "EXE",
+  "size": 355937268
+ },
+ "tags": [
+  {
+   "key": "432",
+   "name": "女主人公"
+  },
+  {
+   "key": "016",
+   "name": "ファンタジー"
+  }
+ ],
+ "languages": [
+  "JPN"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [],
+ "rating": {
+  "average": 4.43,
+  "count": 28
+ },
+ "review_count": 3,
+ "dl_count": 90,
+ "wishlist_count": 101,
+ "ranking": [],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01095000/RJ01094759_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ01095000/RJ01094759_img_main_240x240.jpg",
+  "samples": [
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01095000/RJ01094759_img_smp2.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01095000/RJ01094759_img_smp8.jpg"
+  ],
+  "sample_thumbs": [
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01095000/RJ01094759_img_smp2_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01095000/RJ01094759_img_smp8_100x100.jpg"
+  ],
+  "alt": "最強村娘の冒険譚 [ふわとかむ]"
+ },
+ "introductions": [
+  {
+   "type": "text",
+   "title": "2人の少女が戦うアクションRPG",
+   "body": [
+    {
+     "intro": "ダミア村で日々依頼をこなす、冒険者の少女リアナ。<br />\nそんな彼女は、今や村最強の冒険者。<br />\nある日、エルミアという少女が村を訪れ……。<br />\n<br />\n冒険者2人の少女の活躍を描く本格アクションRPG"
+    }
+   ]
+  },
+  {
+   "type": "image",
+   "title": "炎、水、雷などの属性付き武器で敵の弱点を突こう。",
+   "body": [
+    {
+     "intro": "武器は簡単な操作で変更可能。<br />\nエルミアは杖を装備することで魔法が使えます。",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ01095000/RJ01094759/10d2d07a553d2f80b15c6898d2709d33.jpg",
+      "alt": "最強村娘の冒険譚 [ふわとかむ]",
+      "title": "最強村娘の冒険譚 [ふわとかむ]"
+     },
+     "position": "over"
+    }
+   ]
+  }
+ ],
+ "description": "冒険者の少女2人が世界を救うアクションRPG",
+ "short_introduction": "冒険者の少女2人が世界を救うアクションRPG",
+ "options": [
+  "MS2",
+  "REV",
+  "TRI",
+  "OLY",
+  "ORW"
+ ],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01094759.html",
+ "site_id": "home",
+ "fetched_at": 1794952519
+}

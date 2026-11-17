@@ -1,0 +1,134 @@
+{
+ "id": "RJ428444",
+ "title": "娘のお弁当!",
+ "title_romaji": "musumenoobentou",
+ "circle": {
+  "id": "RG41481",
+  "name": "贅肉農園",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG41481.html"
+ },
+ "type": {
+  "code": "SLN",
+  "name": "シミュレーション",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "r15",
+ "sex": 1,
+ "price": {
+  "jpy": 330,
+  "official_jpy": 330,
+  "currencies": {
+   "USD": 2.0680203217463617,
+   "EUR": 1.8792967557643157,
+   "GBP": 1.5679954081492047,
+   "TWD": 68.17759229799806,
+   "CNY": 13.809553700332685,
+   "KRW": 2761.506276150628,
+   "IDR": 37800.687285223365,
+   "VND": 53225.8064516129,
+   "THB": 70.08006116078064,
+   "SEK": 20.875638130301937,
+   "HKD": 16.228018411424525,
+   "SGD": 2.665236592244646,
+   "CAD": 2.956605100591769,
+   "MYR": 8.468074077685598,
+   "BRL": 11.767055098344054,
+   "AUD": 3.066082438594731,
+   "PHP": 132.17976447969238,
+   "MXN": 38.363617340355034,
+   "NZD": 3.756266134870443,
+   "INR": 194.27764040974918
+  }
+ },
+ "point": {
+  "point_amount": 18,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1666767600,
+ "file": {
+  "type": "EXE",
+  "size": 144458486
+ },
+ "tags": [],
+ "languages": [
+  "JPN"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [],
+ "rating": {
+  "average": 4.58,
+  "count": 74
+ },
+ "review_count": 1,
+ "dl_count": 483,
+ "wishlist_count": 126,
+ "ranking": [
+  {
+   "category": "game",
+   "period": "day",
+   "rank": 13,
+   "date": "2022-10-27"
+  },
+  {
+   "category": "game",
+   "period": "week",
+   "rank": 38,
+   "date": "2022-10-31"
+  },
+  {
+   "category": "game",
+   "period": "month",
+   "rank": 96,
+   "date": "2022-10-31"
+  }
+ ],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ429000/RJ428444_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ429000/RJ428444_img_main_240x240.jpg",
+  "samples": [
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ429000/RJ428444_img_smp1.jpg"
+  ],
+  "sample_thumbs": [
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ429000/RJ428444_img_smp1_100x100.jpg"
+  ],
+  "alt": "娘のお弁当! [贅肉農園]"
+ },
+ "introductions": [
+  {
+   "type": "text",
+   "title": "お弁当で娘を太らせよう!",
+   "body": [
+    {
+     "intro": "あなたは高校○年生の娘をもつおかあさん!<br />\n大事な大事な娘のためにお弁当をつくりましょう!<br />\n<br />\n※Windowsのみ対応<br />\n※体験版で動作確認をしてください<br />\n<br />\n2022/10/27<br />\n・お弁当作成時の操作をマウスカーソルで行うよう変更しました<br />\n・お弁当作成時におかずのカロリーと金額を明記しました<br />\n・パートでの給与を微増しました"
+    }
+   ]
+  }
+ ],
+ "description": "お弁当で娘を太らせよう!",
+ "short_introduction": "お弁当で娘を太らせよう!",
+ "options": [
+  "MS2",
+  "REV",
+  "TRI",
+  "OLY",
+  "ORW"
+ ],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ428444.html",
+ "site_id": "maniax",
+ "fetched_at": 1794955354
+}

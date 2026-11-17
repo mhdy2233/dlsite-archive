@@ -1,0 +1,245 @@
+{
+ "id": "RJ01073438",
+ "title": "アルカディア",
+ "title_romaji": "arukadhia",
+ "circle": {
+  "id": "RG01005462",
+  "name": "じゅえるソフト",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01005462.html"
+ },
+ "type": {
+  "code": "ADV",
+  "name": "アドベンチャー",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "all",
+ "sex": 1,
+ "price": {
+  "jpy": 3850,
+  "official_jpy": 3850,
+  "currencies": {
+   "USD": 24.126903753707552,
+   "EUR": 21.92512881725035,
+   "GBP": 18.29327976174072,
+   "TWD": 795.405243476644,
+   "CNY": 161.11145983721465,
+   "KRW": 32217.573221757324,
+   "IDR": 441008.01832760597,
+   "VND": 620967.7419354839,
+   "THB": 817.600713542441,
+   "SEK": 243.54911152018929,
+   "HKD": 189.32688146661945,
+   "SGD": 31.09442690952087,
+   "CAD": 34.493726173570636,
+   "MYR": 98.79419757299864,
+   "BRL": 137.28230948068062,
+   "AUD": 35.770961783605195,
+   "PHP": 1542.0972522630777,
+   "MXN": 447.5755356374754,
+   "NZD": 43.82310490682183,
+   "INR": 2266.572471447074
+  }
+ },
+ "point": {
+  "point_amount": 210,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1692975600,
+ "file": {
+  "type": "EXE",
+  "size": 2180394406
+ },
+ "tags": [
+  {
+   "key": "055",
+   "name": "感動"
+  },
+  {
+   "key": "001",
+   "name": "学校/学園"
+  },
+  {
+   "key": "015",
+   "name": "シリアス"
+  },
+  {
+   "key": "455",
+   "name": "ラブコメ"
+  },
+  {
+   "key": "494",
+   "name": "ロマンス"
+  }
+ ],
+ "languages": [
+  "JPN"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [],
+ "rating": {
+  "average": 3.14,
+  "count": 7
+ },
+ "review_count": 0,
+ "dl_count": 50,
+ "wishlist_count": 243,
+ "ranking": [],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01074000/RJ01073438_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ01074000/RJ01073438_img_main_240x240.jpg",
+  "samples": [
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01074000/RJ01073438_img_smp1.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01074000/RJ01073438_img_smp2.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01074000/RJ01073438_img_smp3.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01074000/RJ01073438_img_smp4.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01074000/RJ01073438_img_smp5.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01074000/RJ01073438_img_smp6.jpg"
+  ],
+  "sample_thumbs": [
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01074000/RJ01073438_img_smp1_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01074000/RJ01073438_img_smp2_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01074000/RJ01073438_img_smp3_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01074000/RJ01073438_img_smp4_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01074000/RJ01073438_img_smp5_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01074000/RJ01073438_img_smp6_100x100.jpg"
+  ],
+  "alt": "アルカディア [じゅえるソフト]"
+ },
+ "introductions": [
+  {
+   "type": "image",
+   "title": "『――これは、失われた《何か》を取り戻す物語』",
+   "body": [
+    {
+     "intro": "新ゲームブランド『じゅえるソフト』が送る、未来都市学園・歴史部の男女が地下遺跡の謎に立ち向かう青春恋愛譚!<br />\r\n豪華声優陣の《フルボイス》ストーリーでお送りします!",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ01074000/RJ01073438/9be0911485daf02f436d3f35ac512480.jpg",
+      "alt": "アルカディア [じゅえるソフト]",
+      "title": "アルカディア [じゅえるソフト]"
+     },
+     "position": "under"
+    }
+   ]
+  },
+  {
+   "type": "image",
+   "title": "【STORY】",
+   "body": [
+    {
+     "intro": "13年前、突如発生した「第4次大震災」の影響で、日本列島は未曾有の大災害に襲われた。<br />\r\nしかし、誰もが絶望の底に沈む中、超古代文明の遺跡が日本・岩間町の地下から発見される。遺跡には現代では再現不能なロスト・テクノロジーの力が眠っており、日本はその力によって再び復興を成し遂げた。そして現在、岩間町は『未来都市』として、日本の第二の首都機能を有すると言われる土地へと成長していった。<br />\r\n<br />\r\n主人公「浪江明斗」は、そんな『未来都市』の学園に通う高校2年生。<br />\r\n今では移住者で溢れている未来都市の中で数少ない岩間町出身者として歴史部に所属し、未来都市や地下遺跡の謎の解明と、復興の経過で失われた岩間町の存在を語り継ぐため、精力的に活動していた。<br />\r\n<br />\r\nそうした活動の中で友人や仲間と出会い、より充実した学園生活を送る明斗だったが、この『未来都市』で渦巻く数多の思惑が徐々に学園、ひいては歴史部の元にも漂い始めるのだった――。",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ01074000/RJ01073438/d0321137717f7d21849dde0da944f6a0.jpg",
+      "alt": "アルカディア [じゅえるソフト]",
+      "title": "アルカディア [じゅえるソフト]"
+     },
+     "position": "left"
+    }
+   ]
+  },
+  {
+   "type": "image_list",
+   "title": "【CHARACTER】",
+   "body": [
+    {
+     "intro": "【大人しめな幼馴染】<br />\r\n双葉桐華<br />\r\n(CV.菅野真衣)<br />\r\n<br />\r\n明斗と同じように岩間町出身者で、第4次大災害の被災者。<br />\r\nその際のトラウマで、災害の話題を挙げるのを避けたがる。<br />\r\n幼馴染ということもあってか、明斗とは比較的距離感が近い。",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ01074000/RJ01073438/7931e2378e50f558abfb5d5d0cb81474.jpg",
+      "alt": "アルカディア [じゅえるソフト]",
+      "title": "アルカディア [じゅえるソフト]"
+     }
+    },
+    {
+     "intro": "【元気印の新入部員】<br />\r\n大野羅々<br />\r\n(CV.鷹村彩花)<br />\r\n<br />\r\n歴史部の活動に興味を持ち部室に飛び込んできた、元気いっぱいの1年生。<br />\r\n好奇心旺盛な性格をしており、遺跡調査を先導したり、面々を遊びに誘ったりと、持ち前の明るさで歴史部を盛り上げている。",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ01074000/RJ01073438/93f2513e5993353dc3fa53e5c11c1e97.jpg",
+      "alt": "アルカディア [じゅえるソフト]",
+      "title": "アルカディア [じゅえるソフト]"
+     }
+    },
+    {
+     "intro": "【真面目な生徒会長】<br />\r\n夜ノ森紫穂<br />\r\n(CV.古賀葵)<br />\r\n<br />\r\nその真面目な性格を生かし、未来都市学園を纏め上げている淑女。<br />\r\n度々ルール違反を犯し遺跡調査を行う歴史部に目を光らせている。<br />\r\n一方、時々さみしがり屋な様子を見せたりと、可愛い一面も持ちあわせている。",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ01074000/RJ01073438/1ed655cb1c40289d3d435c76f0cd388b.jpg",
+      "alt": "アルカディア [じゅえるソフト]",
+      "title": "アルカディア [じゅえるソフト]"
+     }
+    },
+    {
+     "intro": "【謎に包まれた寡黙な少女】<br />\r\n原町喜衣<br />\r\n(CV.大空直美)<br />\r\n<br />\r\n不思議な雰囲気を纏っている転入生。<br />\r\n寡黙な性格で自分のことは語りたがらず、常に一歩引いたところで物事を俯瞰していることが多い。",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ01074000/RJ01073438/13de5b7e987098a67bf730ff88d6d0f1.jpg",
+      "alt": "アルカディア [じゅえるソフト]",
+      "title": "アルカディア [じゅえるソフト]"
+     }
+    }
+   ]
+  },
+  {
+   "type": "image_list",
+   "title": "",
+   "body": [
+    {
+     "intro": "【生徒会役員の盟友】<br />\r\n富岡佑<br />\r\n(CV.鈴木崚汰)<br />\r\n<br />\r\n明斗と同じクラスの友人。<br />\r\n場の盛り上げ役を買って出るタイプで、一人でボケもツッコミもこなす。<br />\r\n一方、生徒会に所属しており、肝心なときには明斗の力になってくれる、いわゆるデキる男。",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ01074000/RJ01073438/cc0a51c1c7816c0b7bcb1ee8fc9c9c67.jpg",
+      "alt": "アルカディア [じゅえるソフト]",
+      "title": "アルカディア [じゅえるソフト]"
+     }
+    },
+    {
+     "intro": "【遺跡の謎を最も知る男】<br />\r\n双葉正樹<br />\r\n(CV.関俊彦)<br />\r\n<br />\r\n桐華の父。<br />\r\n復興事業査察室の室長で、遺跡調査の全権を担っている。<br />\r\n岩間町出身にも関わらず復興を先導しており、明斗の反感を買っている。<br />\r\n常に心を読ませないような微笑みを見せており不気味。",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ01074000/RJ01073438/018119fbb31c66b2ded74a1a1e087052.jpg",
+      "alt": "アルカディア [じゅえるソフト]",
+      "title": "アルカディア [じゅえるソフト]"
+     }
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "title": "【STAFF CREDIT】",
+   "body": [
+    {
+     "intro": "企画・原案:林田悠汰<br />\r\nシナリオ:三船仲達<br />\r\n原画・キャラクターデザイン:落合雅<br />\r\n背景:唄夜白雪<br />\r\n音楽:作田京輔<br />\r\n制作:じゅえるソフト"
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "title": "【OFFICIAL SNS】",
+   "body": [
+    {
+     "intro": "■アルカディア公式SNS<br />\r\nTwitter : <a href=\"https://twitter.com/arcadia__PR\" target=\"_blank\">https://twitter.com/arcadia__PR</a><br />\r\n<br />\r\n■じゅえるソフト公式SNS<br />\r\nYoutube : <a href=\"https://www.youtube.com/channel/UC0j9yWDr7x_6FvONKL2KgRQ\" target=\"_blank\">https://www.youtube.com/channel/UC0j9yWDr7x_6FvONKL2KgRQ</a>"
+    }
+   ]
+  }
+ ],
+ "description": "『――これは、失われた《何か》を取り戻す物語』",
+ "short_introduction": "『――これは、失われた《何か》を取り戻す物語』",
+ "options": [
+  "SND",
+  "MS2",
+  "TRI",
+  "OLY",
+  "ORW"
+ ],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01073438.html",
+ "site_id": "home",
+ "fetched_at": 1794952604
+}

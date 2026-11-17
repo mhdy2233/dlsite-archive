@@ -1,0 +1,204 @@
+{
+ "id": "RJ434900",
+ "title": "烈日の狩人 ソアレ",
+ "title_romaji": "retsujitsunokariudosoare",
+ "circle": {
+  "id": "RG54162",
+  "name": "有機野菜畑",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG54162.html"
+ },
+ "type": {
+  "code": "RPG",
+  "name": "ロールプレイング",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "r18",
+ "sex": 1,
+ "price": {
+  "jpy": 1540,
+  "official_jpy": 1540,
+  "currencies": {
+   "USD": 9.650761501483021,
+   "EUR": 8.77005152690014,
+   "GBP": 7.317311904696289,
+   "TWD": 318.1620973906576,
+   "CNY": 64.44458393488587,
+   "KRW": 12887.02928870293,
+   "IDR": 176403.2073310424,
+   "VND": 248387.09677419355,
+   "THB": 327.04028541697636,
+   "SEK": 97.41964460807571,
+   "HKD": 75.73075258664778,
+   "SGD": 12.437770763808349,
+   "CAD": 13.797490469428254,
+   "MYR": 39.517679029199456,
+   "BRL": 54.91292379227225,
+   "AUD": 14.308384713442077,
+   "PHP": 616.8389009052312,
+   "MXN": 179.03021425499017,
+   "NZD": 17.529241962728733,
+   "INR": 906.6289885788295
+  }
+ },
+ "point": {
+  "point_amount": 84,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1671087600,
+ "file": {
+  "type": "EXE",
+  "size": 439045546
+ },
+ "tags": [
+  {
+   "key": "432",
+   "name": "女主人公"
+  },
+  {
+   "key": "325",
+   "name": "悪堕ち"
+  },
+  {
+   "key": "157",
+   "name": "トランス/暗示"
+  },
+  {
+   "key": "326",
+   "name": "精神支配"
+  },
+  {
+   "key": "118",
+   "name": "レズ/女同士"
+  },
+  {
+   "key": "313",
+   "name": "リョナ"
+  }
+ ],
+ "languages": [
+  "JPN"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [],
+ "rating": {
+  "average": 4.38,
+  "count": 1087
+ },
+ "review_count": 9,
+ "dl_count": 2759,
+ "wishlist_count": 2283,
+ "ranking": [
+  {
+   "category": "all",
+   "period": "day",
+   "rank": 10,
+   "date": "2022-12-16"
+  },
+  {
+   "category": "all",
+   "period": "week",
+   "rank": 33,
+   "date": "2022-12-22"
+  },
+  {
+   "category": "game",
+   "period": "day",
+   "rank": 5,
+   "date": "2022-12-16"
+  },
+  {
+   "category": "game",
+   "period": "week",
+   "rank": 16,
+   "date": "2022-12-19"
+  },
+  {
+   "category": "game",
+   "period": "month",
+   "rank": 43,
+   "date": "2023-01-02"
+  }
+ ],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ435000/RJ434900_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ435000/RJ434900_img_main_240x240.jpg",
+  "samples": [
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ435000/RJ434900_img_smp1.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ435000/RJ434900_img_smp2.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ435000/RJ434900_img_smp3.jpg"
+  ],
+  "sample_thumbs": [
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ435000/RJ434900_img_smp1_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ435000/RJ434900_img_smp2_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ435000/RJ434900_img_smp3_100x100.jpg"
+  ],
+  "alt": "烈日の狩人 ソアレ [有機野菜畑]"
+ },
+ "introductions": [
+  {
+   "type": "text",
+   "title": "凄腕のヴァンパイアハンターが女魔物たちに洗脳されるRPG!",
+   "body": [
+    {
+     "intro": "この作品はRPGツクールMVで作成しております。<br />\n<br />\n■あらすじ<br />\n<br />\n　凄腕のヴァンパイアハンター、『烈日』の二つ名を持つソアレは、古城に吸血鬼が潜んでいるという情報を入手する。<br />\n　吸血鬼への復讐のために、ソアレはその古城へと向かう。だがそこで待ち受けていたのは、ソアレの想像を超える現実だった。<br />\n　敗走したソアレは、一時撤退して態勢を整えようとする。しかし古城の周囲は激変しており、魔族たちがひしめく街へと変貌していた。<br />\n　脱出するには吸血鬼を倒さなければならない。<br />\n　ソアレは謎の少女メーゼと共に、魔族たちの街に潜みながら吸血鬼を狩るために動くのであった……。<br />\n<br />\n――幾重にも巡らされた謀。闇を照らす太陽は舞台で輝き続けるのだろうか。<br />\n<br />\n■ゲームシステム<br />\n・今作はルート分岐があり、多彩なバッドエンドルートに加えてノーマルエンドとトゥルーエンドが存在します!<br />\n　物語の結末は様々で、その多くでソアレは悲惨な末路を迎えます。存分にお楽しみください!<br />\n<br />\n・今作もあります!　チートアイテム!<br />\n　回想部屋の全開放やチートアイテムはもちろん完備!　忙しい方にも抜きやすいオナニーフレンドリーを提供します!<br />\n<br />\n・敵をサクサク倒せ!　バックアタックシステム!<br />\n　敵の背後から忍び寄ることで戦闘をスキップすることができます!　今作は戦闘リソースが貴重なため、是非有効活用してください!<br />\n<br />\n・アイテムを自作!　合成システム!<br />\n　ソアレは様々なアイテムを加工して吸血鬼に立ち向かいます。アイテムはどれも強力なため、是非ご活用ください!<br />\n<br />\n■Hシーンは38、差分CGは200枚以上!<br />\n<br />\n■シーン内容<br />\n・下級のヴァンパイアに血を吸われてグール化<br />\n・吸血鬼に敗北し、無様な奴○に洗脳される。<br />\n・サキュバスに魅了されてメロメロ奴○に。<br />\n・写し身のスライムに負けて苗床化。<br />\n・カジノでコインをすってしまいバニー洗脳される。<br />\n・人形の魔女によって記憶を奪われ人形化。<br />\n・ハーピーに篭絡されて踊り子に洗脳。<br />\n・ラミアに敗北し、同族化。<br />\n・吸血鬼に敗北して憎むべき吸血鬼に……。<br />\n<br />\nその他さまざまなシチュをそろえております!"
+    }
+   ]
+  },
+  {
+   "type": "image_list",
+   "title": "登場人物紹介",
+   "body": [
+    {
+     "intro": "ソアレ<br />\n<br />\n本作の主人公。<br />\n凄腕のヴァンパイアハンターであり、『烈日』の異名を持つ。<br />\n誰かと共に行動することはなく、常に一人で吸血鬼を狩る。<br />\n戦闘以外はからっきしであり、料理も家事も苦手。",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ435000/RJ434900/85dc6fee80c0c6d0f4209a32db70a175.jpg",
+      "alt": "烈日の狩人 ソアレ [有機野菜畑]",
+      "title": "烈日の狩人 ソアレ [有機野菜畑]"
+     }
+    },
+    {
+     "intro": "アカシル<br />\n<br />\nソアレの師匠。<br />\n大雑把な冒険者であるが、実力は本物。<br />\n引退したいと言っているが、腕を振るう場所を求めているため常に何かしらの厄介ごとに関わっている。<br />\n割と何でもできる器用な人。",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ435000/RJ434900/92277c45a24facf674edc7bcc143325b.jpg",
+      "alt": "烈日の狩人 ソアレ [有機野菜畑]",
+      "title": "烈日の狩人 ソアレ [有機野菜畑]"
+     }
+    },
+    {
+     "intro": "メーゼ<br />\n<br />\n吸血鬼の屋敷にいたメイドの少女。<br />\nとあるきっかけでソアレと行動することになり、街でのサポートをする。<br />\nメイドなのに家事や料理は大の苦手。",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ435000/RJ434900/7bdf1460f1190085467b6d5dcb9deff7.jpg",
+      "alt": "烈日の狩人 ソアレ [有機野菜畑]",
+      "title": "烈日の狩人 ソアレ [有機野菜畑]"
+     }
+    }
+   ]
+  }
+ ],
+ "description": "凄腕のヴァンパイアハンターソアレは、古城に潜む吸血鬼の討伐へ向かう。しかしそこには、彼女の想像をはるかに超える出来事が待ち受けていた――。レズ洗脳がメインのファンタジーRPG!! シーン数は38シーン、基本CG枚数は22! 大ボリュームでお届けいたします!!",
+ "short_introduction": "凄腕のヴァンパイアハンターソアレは、古城に潜む吸血鬼の討伐へ向かう。しかしそこには、彼女の想像をはるかに超える出来事が待ち受けていた――。レズ洗脳がメインのファンタジーRPG!! シーン数は38シーン、基本CG枚数は22! 大ボリュームでお届けいたします!!",
+ "options": [
+  "MS2",
+  "REV",
+  "TRI",
+  "ORW"
+ ],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ434900.html",
+ "site_id": "maniax",
+ "fetched_at": 1794954740
+}

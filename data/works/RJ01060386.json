@@ -1,0 +1,172 @@
+{
+ "id": "RJ01060386",
+ "title": "俺の有休恋物語",
+ "title_romaji": "orenoyuukyuukoimonogatari",
+ "circle": {
+  "id": "RG44961",
+  "name": "qureate",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG44961.html"
+ },
+ "type": {
+  "code": "RPG",
+  "name": "ロールプレイング",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "all",
+ "sex": 1,
+ "price": {
+  "jpy": 3080,
+  "official_jpy": 3080,
+  "currencies": {
+   "USD": 19.301523002966043,
+   "EUR": 17.54010305380028,
+   "GBP": 14.634623809392577,
+   "TWD": 636.3241947813152,
+   "CNY": 128.88916786977174,
+   "KRW": 25774.05857740586,
+   "IDR": 352806.4146620848,
+   "VND": 496774.1935483871,
+   "THB": 654.0805708339527,
+   "SEK": 194.83928921615143,
+   "HKD": 151.46150517329556,
+   "SGD": 24.875541527616697,
+   "CAD": 27.59498093885651,
+   "MYR": 79.03535805839891,
+   "BRL": 109.8258475845445,
+   "AUD": 28.616769426884154,
+   "PHP": 1233.6778018104624,
+   "MXN": 358.06042850998034,
+   "NZD": 35.058483925457466,
+   "INR": 1813.257977157659
+  }
+ },
+ "point": {
+  "point_amount": 168,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1685545200,
+ "file": {
+  "type": "EXE",
+  "size": 723970018
+ },
+ "tags": [],
+ "languages": [
+  "CHI_HANS",
+  "CHI_HANT",
+  "JPN",
+  "ENG",
+  "CHI"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [],
+ "rating": {
+  "average": 4.38,
+  "count": 45
+ },
+ "review_count": 1,
+ "dl_count": 216,
+ "wishlist_count": 1194,
+ "ranking": [],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01061000/RJ01060386_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ01061000/RJ01060386_img_main_240x240.jpg",
+  "samples": [
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01061000/RJ01060386_img_smp1.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01061000/RJ01060386_img_smp2.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01061000/RJ01060386_img_smp3.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01061000/RJ01060386_img_smp4.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01061000/RJ01060386_img_smp5.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01061000/RJ01060386_img_smp6.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01061000/RJ01060386_img_smp7.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01061000/RJ01060386_img_smp8.jpg"
+  ],
+  "sample_thumbs": [
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01061000/RJ01060386_img_smp1_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01061000/RJ01060386_img_smp2_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01061000/RJ01060386_img_smp3_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01061000/RJ01060386_img_smp4_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01061000/RJ01060386_img_smp5_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01061000/RJ01060386_img_smp6_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01061000/RJ01060386_img_smp7_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01061000/RJ01060386_img_smp8_100x100.jpg"
+  ],
+  "alt": "俺の有休恋物語 [qureate]"
+ },
+ "introductions": [
+  {
+   "type": "text",
+   "title": "About",
+   "body": [
+    {
+     "intro": "有給休暇期間中に帰省した田舎で、久しぶりに再会した美人三姉妹との恋愛とスローライフを楽しむADVゲームです。イベント画面以外の移動はサイドビュー形式で行われます。田舎での生活を楽しみながら三姉妹との恋を育んでいくのが目的です。"
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "title": "SYSTEM",
+   "body": [
+    {
+     "intro": "■有給休暇中に生まれ育った田舎に帰省!久しぶりに再会した美人三姉妹と恋愛に発展!?<br />\nプレイヤーに与えられた有給休暇は14日間! 14日間に三姉妹との恋愛を育んでいきましょう!<br />\n同い年のツンデレ次女と仲良くするもよし、ダウナー系の三女と仲良くなるも良し、バブみが強い長女と仲良くするも良し、はたまた三人まとめて仲良くなるも良し、三姉妹の誰と仲良くなるかはプレイヤーの自由です。<br />\nプレイヤーの行動次第で様々な結末を迎えます。<br />\n<br />\n■三姉妹とのイベント盛りだくさん!<br />\n三姉妹との仲を深めると特別なイベントが発生!<br />\nどのようなイベントが巻き起こるかは自分の目で確かめよう!<br />\n<br />\n■田舎でスローライフを満喫!<br />\nプレイヤーは自由に田舎のMAPを行動することができます。<br />\n釣りや、畑を耕したり田舎ならではのスローライフを過ごすことができます。<br />\n釣った魚や収穫した野菜はオネガイ達成に必要なアイテムだったり三姉妹にプレゼントすることができます。<br />\nまたMAP上には様々なアイテムが落ちています。<br />\n田舎の風景を楽しみながら隅々まで探索してアイテムを集めましょう!<br />\n<br />\n&lt;登場人物&gt;<br />\n・天草 亜舞音　(CV:諏訪彩花)<br />\n・天草 響 (CV:大森日雅)<br />\n・天草 果南 (CV:西明日香)<br />\n&lt;スタッフ&gt;<br />\n・キャラクターデザイン:乾和音<br />\n・シナリオ:株式会社ジンテーゼ　武藤隆義<br />\n・企画原案/プロデューサー:臼田裕次郎"
+    }
+   ]
+  },
+  {
+   "type": "image_list",
+   "title": "CHARACTERS",
+   "body": [
+    {
+     "intro": "天草 亜舞音　(CV:諏訪彩花)",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ01061000/RJ01060386/34e1bf8bbdce78970949082902e4898a.jpg",
+      "alt": "俺の有休恋物語 [qureate]",
+      "title": "俺の有休恋物語 [qureate]"
+     }
+    },
+    {
+     "intro": "天草 響 (CV:大森日雅)",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ01061000/RJ01060386/d66f63c2c8b9a26ff0445a01e31e1317.jpg",
+      "alt": "俺の有休恋物語 [qureate]",
+      "title": "俺の有休恋物語 [qureate]"
+     }
+    },
+    {
+     "intro": "天草 果南 (CV:西明日香)",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ01061000/RJ01060386/d94636cf3b6e12c31c6b523e21906747.jpg",
+      "alt": "俺の有休恋物語 [qureate]",
+      "title": "俺の有休恋物語 [qureate]"
+     }
+    }
+   ]
+  }
+ ],
+ "description": "有給休暇期間中に帰省した田舎で、久しぶりに再会した美人三姉妹との恋愛とスローライフを楽しむADVゲームです。イベント画面以外の移動はサイドビュー形式で行われます。田舎での生活を楽しみながら三姉妹との恋を育んでいくのが目的です。",
+ "short_introduction": "有給休暇期間中に帰省した田舎で、久しぶりに再会した美人三姉妹との恋愛とスローライフを楽しむADVゲームです。イベント画面以外の移動はサイドビュー形式で行われます。田舎での生活を楽しみながら三姉妹との恋を育んでいくのが目的です。",
+ "options": [
+  "SND",
+  "MS2",
+  "MV2",
+  "REV",
+  "ORW"
+ ],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01060386.html",
+ "site_id": "home",
+ "fetched_at": 1794953068
+}

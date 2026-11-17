@@ -1,0 +1,148 @@
+{
+ "id": "RJ01123583",
+ "title": "Yuko's O○ly Up!",
+ "title_romaji": "yuukozuonriiappu",
+ "circle": {
+  "id": "RG69766",
+  "name": "コーゲン製作所",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG69766.html"
+ },
+ "type": {
+  "code": "ACN",
+  "name": "アクション",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "all",
+ "sex": 1,
+ "price": {
+  "jpy": 1430,
+  "official_jpy": 1430,
+  "currencies": {
+   "USD": 8.961421394234234,
+   "EUR": 8.143619274978702,
+   "GBP": 6.794646768646554,
+   "TWD": 295.4362332913249,
+   "CNY": 59.8413993681083,
+   "KRW": 11966.52719665272,
+   "IDR": 163802.97823596792,
+   "VND": 230645.16129032258,
+   "THB": 303.6802650300495,
+   "SEK": 90.46109856464173,
+   "HKD": 70.32141311617293,
+   "SGD": 11.549358566393467,
+   "CAD": 12.811955435897666,
+   "MYR": 36.69498766997092,
+   "BRL": 50.99057209282424,
+   "AUD": 13.2863572339105,
+   "PHP": 572.7789794120004,
+   "MXN": 166.24234180820514,
+   "NZD": 16.277153251105254,
+   "INR": 841.8697751089131
+  }
+ },
+ "point": {
+  "point_amount": 78,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1701356400,
+ "file": {
+  "type": "EXE",
+  "size": 3888724344
+ },
+ "tags": [
+  {
+   "key": "509",
+   "name": "3D作品"
+  },
+  {
+   "key": "432",
+   "name": "女主人公"
+  },
+  {
+   "key": "049",
+   "name": "着衣"
+  },
+  {
+   "key": "013",
+   "name": "ほのぼの"
+  }
+ ],
+ "languages": [
+  "JPN",
+  "ENG"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [],
+ "rating": {
+  "average": null,
+  "count": null
+ },
+ "review_count": 0,
+ "dl_count": 6,
+ "wishlist_count": 35,
+ "ranking": [],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01124000/RJ01123583_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ01124000/RJ01123583_img_main_240x240.jpg",
+  "samples": [
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01124000/RJ01123583_img_smp1.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01124000/RJ01123583_img_smp2.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01124000/RJ01123583_img_smp3.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01124000/RJ01123583_img_smp4.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01124000/RJ01123583_img_smp5.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01124000/RJ01123583_img_smp6.jpg"
+  ],
+  "sample_thumbs": [
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01124000/RJ01123583_img_smp1_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01124000/RJ01123583_img_smp2_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01124000/RJ01123583_img_smp3_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01124000/RJ01123583_img_smp4_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01124000/RJ01123583_img_smp5_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01124000/RJ01123583_img_smp6_100x100.jpg"
+  ],
+  "alt": "Yuko's O○ly Up! [コーゲン製作所]"
+ },
+ "introductions": [
+  {
+   "type": "text",
+   "title": "ゲーム概要",
+   "body": [
+    {
+     "intro": "O○ly Up!系の3Dアクションゲームです。<br />\nジャンプと壁登りで構造物を登って頂上を目指してしてください。<br />\n<br />\nマルチプレイに対応。インターネット越しにお友達と遊べます。<br />\n<br />\nマウスとキーボードでの操作に加えてVRにも対応しています。"
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "title": "対応VRデバイス",
+   "body": [
+    {
+     "intro": "Meta社製のヘッドセット<br />\r\nOculus Rift<br />\r\nMeta Quest 2<br />\r\nMeta Quest 3<br />\r\nMeta Quest Pro<br />\r\n<br />\r\nOpenXR対応のヘッドセット<br />\r\nHTC Vive<br />\r\nValve Index<br />\r\n等<br />\r\n<br />\r\nMeta社製ヘッドセットについてはMeta Quest 2で動作確認しています。Quest LinkによるPCVRとQuest単体での動作の両方をサポートします。<br />\r\n<br />\r\nOpenXRについてはHTC Viveで動作確認しています。もし動かないときはご連絡ください。"
+    }
+   ]
+  }
+ ],
+ "description": "O○ly Up!系3Dアクション。ジャンプと壁登りで頂上を目指します",
+ "short_introduction": "O○ly Up!系3Dアクション。ジャンプと壁登りで頂上を目指します",
+ "options": [
+  "VRS"
+ ],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01123583.html",
+ "site_id": "home",
+ "fetched_at": 1794951997
+}

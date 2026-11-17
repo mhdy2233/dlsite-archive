@@ -1,0 +1,212 @@
+{
+ "id": "RJ01119292",
+ "title": "[DE:]Fanastasis",
+ "title_romaji": "fwanasutashisu",
+ "circle": {
+  "id": "RG01010398",
+  "name": "もさもさ",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01010398.html"
+ },
+ "type": {
+  "code": "RPG",
+  "name": "ロールプレイング",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "all",
+ "sex": 1,
+ "price": {
+  "jpy": 2310,
+  "official_jpy": 2310,
+  "currencies": {
+   "USD": 14.476142252224532,
+   "EUR": 13.15507729035021,
+   "GBP": 10.975967857044433,
+   "TWD": 477.2431460859864,
+   "CNY": 96.6668759023288,
+   "KRW": 19330.543933054396,
+   "IDR": 264604.8109965636,
+   "VND": 372580.64516129036,
+   "THB": 490.56042812546457,
+   "SEK": 146.12946691211357,
+   "HKD": 113.59612887997167,
+   "SGD": 18.65665614571252,
+   "CAD": 20.69623570414238,
+   "MYR": 59.276518543799185,
+   "BRL": 82.36938568840839,
+   "AUD": 21.462577070163118,
+   "PHP": 925.2583513578467,
+   "MXN": 268.54532138248527,
+   "NZD": 26.2938629440931,
+   "INR": 1359.9434828682442
+  }
+ },
+ "point": {
+  "point_amount": 126,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1700665200,
+ "file": {
+  "type": "EXE",
+  "size": 803900115
+ },
+ "tags": [
+  {
+   "key": "510",
+   "name": "ツクール"
+  },
+  {
+   "key": "016",
+   "name": "ファンタジー"
+  }
+ ],
+ "languages": [
+  "JPN"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [],
+ "rating": {
+  "average": 4.78,
+  "count": 153
+ },
+ "review_count": 7,
+ "dl_count": 593,
+ "wishlist_count": 772,
+ "ranking": [],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01120000/RJ01119292_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ01120000/RJ01119292_img_main_240x240.jpg",
+  "samples": [
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01120000/RJ01119292_img_smp1.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01120000/RJ01119292_img_smp2.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01120000/RJ01119292_img_smp3.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01120000/RJ01119292_img_smp4.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01120000/RJ01119292_img_smp5.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01120000/RJ01119292_img_smp6.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01120000/RJ01119292_img_smp7.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01120000/RJ01119292_img_smp8.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01120000/RJ01119292_img_smp9.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01120000/RJ01119292_img_smp10.jpg"
+  ],
+  "sample_thumbs": [
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01120000/RJ01119292_img_smp1_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01120000/RJ01119292_img_smp2_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01120000/RJ01119292_img_smp3_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01120000/RJ01119292_img_smp4_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01120000/RJ01119292_img_smp5_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01120000/RJ01119292_img_smp6_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01120000/RJ01119292_img_smp7_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01120000/RJ01119292_img_smp8_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01120000/RJ01119292_img_smp9_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01120000/RJ01119292_img_smp10_100x100.jpg"
+  ],
+  "alt": "[DE:]Fanastasis [もさもさ]"
+ },
+ "introductions": [
+  {
+   "type": "text",
+   "title": "概要",
+   "body": [
+    {
+     "intro": "[DE:]Fanastasisは、長編マップ探索RPG「Fanastasis」の通常版(フリー)に、<br />\r\n新要素、便利機能、見た目の変更などを追加したバージョンです。<br />\r\n<br />\r\n通常版の要素はほとんど含まれているため、<br />\r\nこのバージョンが初プレイでも、問題なくプレイできます。<br />\r\n(本編のボリュームが増え、便利機能によってより遊びやすくなっています)<br />\r\n<br />\r\nストーリーやエンディングは通常版と同じなので、そちらでも大まかなストーリーは把握できます。<br />\r\nまた、通常版から[DE:]版へのセーブデータの引き継ぎができるので、<br />\r\n動作確認や体験版としても、ご利用ください。<br />\r\n<br />\r\n※通常版は以下のページから無料でDLできます。<br />\r\n　<a href=\"https://www.freem.ne.jp/win/game/21044\" target=\"_blank\">https://www.freem.ne.jp/win/game/21044</a>"
+    }
+   ]
+  },
+  {
+   "type": "text_list",
+   "title": "特徴",
+   "body": [
+    {
+     "intro": "「発見」を楽しむ、マップ探索メインの長編RPG"
+    },
+    {
+     "intro": "沢山の隠し部屋、隠し通路、隠し宝箱"
+    },
+    {
+     "intro": "断片的な情報を繋ぎ合わせて解き明かされるストーリー"
+    },
+    {
+     "intro": "謎解きやギミックのある様々なダンジョン"
+    },
+    {
+     "intro": "ボス以外の戦闘はすべて任意、ルート開拓でスルーできるボスも"
+    },
+    {
+     "intro": "互いに繋がった複雑なマップと、多様な攻略ルート"
+    }
+   ]
+  },
+  {
+   "type": "image",
+   "title": "あらすじ",
+   "body": [
+    {
+     "intro": "あなたは見知らぬ空間「牢獄の間」で目を覚ます。<br />\r\n<br />\r\nそこで一人の少女「エメルダ」と出会う。<br />\r\n<br />\r\n彼女が言うには、あなたの肉体は既に死に、<br />\r\n今は記憶を失った「スピリット」のようだ。<br />\r\n<br />\r\nそして、すべての記憶を取り戻した時、<br />\r\n「復活の儀式」は完遂し、あなたは「真の姿」を取り戻すという。<br />\r\n<br />\r\nあなたは少女から「転送のオーブ」を受け取り、<br />\r\n小国カノン王国に降り立ち、記憶を探し始める。",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ01120000/RJ01119292/222466a922867d729c51ea9481c15858.jpg",
+      "alt": "[DE:]Fanastasis [もさもさ]",
+      "title": "[DE:]Fanastasis [もさもさ]"
+     },
+     "position": "left"
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "title": "内容の詳細",
+   "body": [
+    {
+     "intro": "〇プレイ時間<br />\n<br />\n　　本編:20～35時間(最速で数時間、隅々まで探索すると55時間くらい)<br />\n　　追加シナリオ:15～20時間(最速で数時間、隅々まで探索すると30時間くらい)<br />\n　　合計:35～85時間<br />\n<br />\n　　※どのエンディングまでプレイするかによっても変わります。<br />\n　　※追加シナリオは本編の特定のエンディング後に、自動的に開始します。<br />\n　　　(この追加シナリオは[DE:]で追加されたものではなく、通常版に更新で追加されたものです)<br />\n<br />\n〇探索<br />\n<br />\n　・隠し部屋や隠し通路が沢山あります。また、ほとんどの隠し要素には手掛かりがあります。<br />\n　・各ダンジョンには謎解きやギミックがあります。謎解きは他の方法でスルーできる場合も。<br />\n　・死者の「残留思念」から人々の記憶の断片を覗くことで、情報を得ることができます。<br />\n　・道中で仲間を発見することができ、主人公以外に3人まで旅ができます。(拠点で自由に入れ替え可能)<br />\n　・余剰アイテムを自動で倉庫転送、重要な情報の自動メモなど、探索に注力できる機能が複数あります。<br />\n<br />\n〇戦闘<br />\n<br />\n　・敵を避けて進んでも、探索で得た仲間や装備でボスに立ち向かえます。<br />\n　・レベルを上げると、ゴリ押し可能なサクサク気味の難易度になります。<br />\n　・通常敵の固有ドロップや討伐クエストなどはないため、通常戦闘は強○されません。<br />\n　・攻略必須ボスは存在しますが、ギミックやルート開拓でスルーできるボスもいます。<br />\n　・ゲームを進行すると、探索で得たリソースを使って仲間のレベルを揃える機能が登場します。<br />\n　・ハクスラ、トレハン、「育成自体を目的とした育成」などの要素はありません。<br />\n<br />\n〇ストーリー進行<br />\n<br />\n　・すべての要素をクリアしなくても結末を迎えることができます。<br />\n　・エンディングが複数ありますが、重要な決断の前にセーブを分けておけば1周ですべて見ることができます。<br />\n　・プレイ時間や通常敵の撃破数、図鑑の進行度、難易度などによるエンド分岐はありません。<br />\n　・ストーリー進行で取れなくなるアイテムはありません。クリア後に全て回収可能です。<br />\n　・周回要素や「強くてニューゲーム」はなく、2周目以降でないと出現しないイベントやアイテムもないため、<br />\n　　各要素の回収のために周回が強○されることはありません。<br />\n<br />\n〇その他<br />\n<br />\n　・エンディングを除き、操作できない強○イベントがほぼありません。<br />\n　・少しアクション要素がありますが、アクションがメインのマップはありません。<br />\n　・一部ダンジョンやイベントに流血表現があります。<br />\n　　(ホラーやグロ、脅かしをメインに意図したものではありませんが、苦手な方はご注意ください)<br />\n　・通常版(フリー)と違い、更新で新しいアイテム、魔物が追加される(図鑑が変動する)可能性があります。"
+    }
+   ]
+  },
+  {
+   "type": "image",
+   "title": "通常版(フリー)からの変更点",
+   "body": [
+    {
+     "intro": "〇[DE:]の主な方針<br />\r\n<br />\r\n　・通常版のテイストを過度に崩さず、<br />\r\n　　見た目、構成などをよりイメージに合ったものにする。<br />\r\n　・ボリューム過多などの理由で追加を控えていた要素を追加する。<br />\r\n　・制作時期が早い「本編」の質を「追加シナリオ」に近づける。<br />\r\n　・探索により集中できる機能を追加する。<br />\r\n　・あくまでも別バージョンであり、<br />\r\n　　メインストーリーやエンディングは変更しない。<br />\r\n<br />\r\n〇主な変更点<br />\r\n<br />\r\n　・ほとんどのマップの見た目を変更<br />\r\n　・本編に新しい寄り道マップを追加。また、既存のマップをリメイク。<br />\r\n　　(エリアの境目が曖昧などの理由で正確な数字は不明。<br />\r\n　　合計するとだいたい新マップ3個、大幅リメイク3個くらいのボリューム)<br />\r\n　・新マップ、既存マップの両方に残留思念を追加。<br />\r\n　・本編に12体のオマケボスを追加。<br />\r\n　・新しいアイテムを100個ほど追加。<br />\r\n　・メモやステート情報など探索や戦闘時に役立つ便利機能を追加。<br />\r\n　・オプション機能の追加など、メニュー画面を幾つか変更。<br />\r\n<br />\r\n　　※ほとんどの追加や変更は本編部分になります。<br />\r\n<br />\r\n〇詳細<br />\r\n<br />\r\n　以下のリンク先(ブログ)をご参照ください。<br />\r\n　<a href=\"https://mosamosary.hatenablog.jp/draft/entry/B1z8-wBA71opN0P6r4mcg-cg2Fw\" target=\"_blank\">https://mosamosary.hatenablog.jp/draft/entry/B1z8-wBA71opN0P6r4mcg-cg2Fw</a>",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ01120000/RJ01119292/ad2ed638deae5c9cc0e28fd7801aa2fc.jpg",
+      "alt": "[DE:]Fanastasis [もさもさ]",
+      "title": "[DE:]Fanastasis [もさもさ]"
+     },
+     "position": "right"
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "title": "その他",
+   "body": [
+    {
+     "intro": "◆制作者<br />\r\n　　ほとんど全部:もさもさ<br />\r\n　　サポート:ている<br />\r\n<br />\r\n◆リンク<br />\r\n　・X(旧Twitter)<br />\r\n　　<a href=\"https://twitter.com/mosamosary\" target=\"_blank\">https://twitter.com/mosamosary</a><br />\r\n　・ホームページ<br />\r\n　　<a href=\"https://aidman6.wixsite.com/mosamosa\" target=\"_blank\">https://aidman6.wixsite.com/mosamosa</a><br />\r\n　・ブログ<br />\r\n　　<a href=\"https://mosamosary.hatenablog.jp\" target=\"_blank\">https://mosamosary.hatenablog.jp</a><br />\r\n<br />\r\n◆補足<br />\r\n　このゲームはフィクションです。実在の人物や団体などとは関係ありません。"
+    }
+   ]
+  }
+ ],
+ "description": "多様な「発見」が散りばめられたマップ探索メインの長編RPG。残留思念から過去を探り、失われた記憶を集めて再誕を目指す。",
+ "short_introduction": "多様な「発見」が散りばめられたマップ探索メインの長編RPG。残留思念から過去を探り、失われた記憶を集めて再誕を目指す。",
+ "options": [
+  "MS2",
+  "REV",
+  "ORW"
+ ],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01119292.html",
+ "site_id": "home",
+ "fetched_at": 1794952068
+}

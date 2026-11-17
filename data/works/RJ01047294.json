@@ -1,0 +1,108 @@
+{
+ "id": "RJ01047294",
+ "title": "就算資本主義論、2重構想、下地構想、天変地位",
+ "title_romaji": "shuusanshihonshugironnijuukousoushitajikousoutenpenchii",
+ "circle": {
+  "id": "RG12639",
+  "name": "うたたね地和",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG12639.html"
+ },
+ "type": {
+  "code": "DNV",
+  "name": "デジタルノベル",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "all",
+ "sex": 1,
+ "price": {
+  "jpy": 1980,
+  "official_jpy": 1980,
+  "currencies": {
+   "USD": 12.40812193047817,
+   "EUR": 11.275780534585895,
+   "GBP": 9.407972448895228,
+   "TWD": 409.06555378798834,
+   "CNY": 82.85732220199611,
+   "KRW": 16569.037656903765,
+   "IDR": 226804.12371134022,
+   "VND": 319354.83870967745,
+   "THB": 420.4803669646839,
+   "SEK": 125.25382878181162,
+   "HKD": 97.36811046854714,
+   "SGD": 15.991419553467876,
+   "CAD": 17.739630603550612,
+   "MYR": 50.808444466113585,
+   "BRL": 70.60233059006433,
+   "AUD": 18.396494631568384,
+   "PHP": 793.0785868781543,
+   "MXN": 230.1817040421302,
+   "NZD": 22.53759680922266,
+   "INR": 1165.6658424584953
+  }
+ },
+ "point": {
+  "point_amount": 108,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1681542000,
+ "file": {
+  "type": "EXE",
+  "size": 27903942
+ },
+ "tags": [],
+ "languages": [
+  "JPN"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [],
+ "rating": {
+  "average": null,
+  "count": null
+ },
+ "review_count": 0,
+ "dl_count": 1,
+ "wishlist_count": 13,
+ "ranking": [],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01048000/RJ01047294_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ01048000/RJ01047294_img_main_240x240.jpg",
+  "samples": [],
+  "sample_thumbs": [],
+  "alt": "就算資本主義論、2重構想、下地構想、天変地位 [うたたね地和]"
+ },
+ "introductions": [
+  {
+   "type": "text",
+   "title": "就算資本主義論、2重構想、下地構想、天変地位",
+   "body": [
+    {
+     "intro": "私が書いた本ですが、誰でも入手可能なようにするのが目的です。<br />\nJANコードは、まだ、取得していません。<br />\n製本屋さんで、製本してもらった本です。B5、62ページです。<br />\n一部、中国語、韓国語、英語、ヒンディー語、アラビア語、に翻訳してあります。<br />\n中国語に翻訳するのに、30万円程かかるので(予定)、売れると助かります。<br />\n孔子平和賞、鳳仙花を狙っている本です。<br />\n<br />\n宜しくお願いします。"
+    }
+   ]
+  }
+ ],
+ "description": "アプリケーションですが、本として、販売しようとしているものです。ジャンルは、「人文、社会」です。",
+ "short_introduction": "アプリケーションですが、本として、販売しようとしているものです。ジャンルは、「人文、社会」です。",
+ "options": [
+  "TRI",
+  "ORW"
+ ],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01047294.html",
+ "site_id": "home",
+ "fetched_at": 1794953327
+}

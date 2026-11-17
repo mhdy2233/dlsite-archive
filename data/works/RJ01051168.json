@@ -1,0 +1,142 @@
+{
+ "id": "RJ01051168",
+ "title": "スクミズチカンレンダ",
+ "title_romaji": "sukumizuchikanrenda",
+ "circle": {
+  "id": "RG41562",
+  "name": "flexible",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG41562.html"
+ },
+ "type": {
+  "code": "SLN",
+  "name": "シミュレーション",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "r18",
+ "sex": 1,
+ "price": {
+  "jpy": 2310,
+  "official_jpy": 2310,
+  "currencies": {
+   "USD": 14.476142252224532,
+   "EUR": 13.15507729035021,
+   "GBP": 10.975967857044433,
+   "TWD": 477.2431460859864,
+   "CNY": 96.6668759023288,
+   "KRW": 19330.543933054396,
+   "IDR": 264604.8109965636,
+   "VND": 372580.64516129036,
+   "THB": 490.56042812546457,
+   "SEK": 146.12946691211357,
+   "HKD": 113.59612887997167,
+   "SGD": 18.65665614571252,
+   "CAD": 20.69623570414238,
+   "MYR": 59.276518543799185,
+   "BRL": 82.36938568840839,
+   "AUD": 21.462577070163118,
+   "PHP": 925.2583513578467,
+   "MXN": 268.54532138248527,
+   "NZD": 26.2938629440931,
+   "INR": 1359.9434828682442
+  }
+ },
+ "point": {
+  "point_amount": 126,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1682262000,
+ "file": {
+  "type": "EXE",
+  "size": 37578226
+ },
+ "tags": [
+  {
+   "key": "509",
+   "name": "3D作品"
+  },
+  {
+   "key": "311",
+   "name": "おさわり"
+  },
+  {
+   "key": "400",
+   "name": "学生"
+  },
+  {
+   "key": "104",
+   "name": "スクール水着"
+  },
+  {
+   "key": "077",
+   "name": "水着"
+  },
+  {
+   "key": "182",
+   "name": "巨乳/爆乳"
+  },
+  {
+   "key": "170",
+   "name": "金髪"
+  },
+  {
+   "key": "174",
+   "name": "ツインテール"
+  }
+ ],
+ "languages": [
+  "JPN"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [],
+ "rating": {
+  "average": 2.36,
+  "count": 11
+ },
+ "review_count": 0,
+ "dl_count": 22,
+ "wishlist_count": 98,
+ "ranking": [],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01052000/RJ01051168_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ01052000/RJ01051168_img_main_240x240.jpg",
+  "samples": [],
+  "sample_thumbs": [],
+  "alt": "スクミズチカンレンダ [flexible]"
+ },
+ "introductions": [
+  {
+   "type": "text",
+   "title": "取扱説明書",
+   "body": [
+    {
+     "intro": "&lt;注意&gt;<br />\nこのゲームは、3Dを多く使用しています。<br />\nご使用されるパソコンによっては正常に動かない場合があります。<br />\n必ず、体験版をダウンロードして、プレイできるか確認をお願いいたします。<br />\nまた、長時間のプレイはパソコンへの負荷がかかりすぎる恐れがあります。<br />\n<br />\n&lt;プレイ方法&gt;<br />\n学校のプールに次々に入ってくる女の子をおさわりするゲームです。<br />\n<br />\n&lt;操作方法&gt;<br />\nキーボードのWASDで前後左右移動<br />\n右ドラッグでカメラ回転<br />\nホイールでカメラ上下<br />\nホイールボタンで視点移動<br />\n左クリック・ドラッグでおさわり<br />\n女の子のそばでキーボードのRでターゲットロックオン<br />\nターゲットから少し離れて、Rキーでロックオン解除<br />\n<br />\n&lt;必須環境&gt;<br />\nUnityが動作するパソコン<br />\nホイール付きマウス、キーボード"
+    }
+   ]
+  }
+ ],
+ "description": "夏休みに学校のプールでスクール水着の女の子におさわりした思い出をゲームにしてみました。",
+ "short_introduction": "夏休みに学校のプールでスクール水着の女の子におさわりした思い出をゲームにしてみました。",
+ "options": [
+  "SND",
+  "TRI",
+  "RegionHiddenFilter"
+ ],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01051168.html",
+ "site_id": "maniax",
+ "fetched_at": 1794953286
+}

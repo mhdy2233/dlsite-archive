@@ -1,0 +1,220 @@
+{
+ "id": "RJ404020",
+ "title": "ソラナと陽の工房",
+ "title_romaji": "soranatohinatanokoubou",
+ "circle": {
+  "id": "RG67273",
+  "name": "もなかGAMES",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG67273.html"
+ },
+ "type": {
+  "code": "RPG",
+  "name": "ロールプレイング",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "all",
+ "sex": 1,
+ "price": {
+  "jpy": 550,
+  "official_jpy": 550,
+  "currencies": {
+   "USD": 3.4467005362439362,
+   "EUR": 3.1321612596071926,
+   "GBP": 2.6133256802486744,
+   "TWD": 113.62932049666342,
+   "CNY": 23.015922833887807,
+   "KRW": 4602.510460251046,
+   "IDR": 63001.14547537228,
+   "VND": 88709.67741935485,
+   "THB": 116.80010193463441,
+   "SEK": 34.7927302171699,
+   "HKD": 27.046697352374206,
+   "SGD": 4.44206098707441,
+   "CAD": 4.927675167652948,
+   "MYR": 14.113456796142662,
+   "BRL": 19.611758497240093,
+   "AUD": 5.110137397657885,
+   "PHP": 220.299607466154,
+   "MXN": 63.93936223392506,
+   "NZD": 6.260443558117405,
+   "INR": 323.79606734958196
+  }
+ },
+ "point": {
+  "point_amount": 30,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1665673200,
+ "file": {
+  "type": "EXE",
+  "size": 1257152637
+ },
+ "tags": [
+  {
+   "key": "007",
+   "name": "コメディ"
+  },
+  {
+   "key": "008",
+   "name": "日常/生活"
+  },
+  {
+   "key": "016",
+   "name": "ファンタジー"
+  }
+ ],
+ "languages": [
+  "JPN"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [],
+ "rating": {
+  "average": 4.39,
+  "count": 85
+ },
+ "review_count": 6,
+ "dl_count": 242,
+ "wishlist_count": 652,
+ "ranking": [
+  {
+   "category": "game",
+   "period": "day",
+   "rank": 28,
+   "date": "2022-10-15"
+  },
+  {
+   "category": "game",
+   "period": "week",
+   "rank": 48,
+   "date": "2022-10-20"
+  },
+  {
+   "category": "game",
+   "period": "month",
+   "rank": 88,
+   "date": "2022-10-31"
+  }
+ ],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ405000/RJ404020_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ405000/RJ404020_img_main_240x240.jpg",
+  "samples": [
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ405000/RJ404020_img_smp1.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ405000/RJ404020_img_smp2.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ405000/RJ404020_img_smp3.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ405000/RJ404020_img_smp4.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ405000/RJ404020_img_smp5.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ405000/RJ404020_img_smp6.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ405000/RJ404020_img_smp7.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ405000/RJ404020_img_smp8.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ405000/RJ404020_img_smp9.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ405000/RJ404020_img_smp10.jpg"
+  ],
+  "sample_thumbs": [
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ405000/RJ404020_img_smp1_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ405000/RJ404020_img_smp2_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ405000/RJ404020_img_smp3_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ405000/RJ404020_img_smp4_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ405000/RJ404020_img_smp5_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ405000/RJ404020_img_smp6_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ405000/RJ404020_img_smp7_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ405000/RJ404020_img_smp8_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ405000/RJ404020_img_smp9_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ405000/RJ404020_img_smp10_100x100.jpg"
+  ],
+  "alt": "ソラナと陽の工房 [もなかGAMES]"
+ },
+ "introductions": [
+  {
+   "type": "image_list",
+   "title": "世界は救わない系錬金シミュレータ",
+   "body": [
+    {
+     "intro": "「ソラナと陽の工房」はアイテム合成がメインのオールドチックなRPGです。<br />\nジャンルとしてRPGとはなっていますが、強大な魔王との闘い、国や世界を救うと言った壮大なテーマは一切ありません。<br />\nあなたは駆け出しの錬金術師「ソラナ」として日々アイテム合成と錬金術の修行に明け暮れます。",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ405000/RJ404020/fa9d1e37983298de3108ac146e17fdcb.jpg",
+      "alt": "ソラナと陽の工房 [もなかGAMES]",
+      "title": "ソラナと陽の工房 [もなかGAMES]"
+     }
+    }
+   ]
+  },
+  {
+   "type": "image_list",
+   "title": "複数の調合システムを使い分けよう",
+   "body": [
+    {
+     "intro": "・スワップ調合<br />\n材料が不足しているときに本来の材料とは異なるもので代用したり、組み合わせによっては全く別のアイテムを生み出せます。",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ405000/RJ404020/893742e52492b791f738d953121f21a4.jpg",
+      "alt": "ソラナと陽の工房 [もなかGAMES]",
+      "title": "ソラナと陽の工房 [もなかGAMES]"
+     }
+    },
+    {
+     "intro": "・レシオ調合<br />\n使用する材料の分量を細かく調整し、アイテムの性能や価値を変化させることができます。<br />\nやりこみ派も安心。",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ405000/RJ404020/3d8005a202f9c2c6efef3cb9690d5ed8.jpg",
+      "alt": "ソラナと陽の工房 [もなかGAMES]",
+      "title": "ソラナと陽の工房 [もなかGAMES]"
+     }
+    }
+   ]
+  },
+  {
+   "type": "image_list",
+   "title": "調合以外の面倒な要素は排除",
+   "body": [
+    {
+     "intro": "敵との戦闘などは一定のレベル差がある場合スキップできます。<br />\nまたシンボルエンカウント方式の為、不要な戦闘をする必要はありません。<br />\n敵がなかなか素材を落とさなくて進めない……<br />\nそんなことは一切ありません、進行に必要なアイテムのほぼ全てはフィールドでの採取のみで取得できます。",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ405000/RJ404020/55cc5c9709c464127a89044fa63f6bf0.jpg",
+      "alt": "ソラナと陽の工房 [もなかGAMES]",
+      "title": "ソラナと陽の工房 [もなかGAMES]"
+     }
+    },
+    {
+     "intro": "ゲームがある程度進行するとフィールドを歩き回る必要すらなくなります、面倒な素材集めも楽々です。<br />\nお手伝いに採取に行かせる、代わりに調合をさせ依頼品を作らせるなど、<br />\n自身がアイテム合成にのめり込んで頂く為の快適な要素が入っております。",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ405000/RJ404020/9cb255d2b1990596b14963ab0628a348.jpg",
+      "alt": "ソラナと陽の工房 [もなかGAMES]",
+      "title": "ソラナと陽の工房 [もなかGAMES]"
+     }
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "title": "その他",
+   "body": [
+    {
+     "intro": "■ジャンル■<br />\n錬金調合シミュレータ<br />\n<br />\n■プレイ時間■<br />\n15～30時間以上(プレイスタイルによります)<br />\n<br />\n■体験版■<br />\n1時間程度プレイ可能です。<br />\nゲーム性の確認や、ご自身のPCでの起動確認などにお使いください。<br />\n体験版のセーブデータを引き継いで製品版でプレイすることが可能です、<br />\n詳しくは体験版に同梱しているtxtファイルをご参照ください。<br />\n<br />\n■ソラナと陽の工房公式サイト■<br />\n<a href=\"https://monakagames1.wixsite.com/solana\" target=\"_blank\">https://monakagames1.wixsite.com/solana</a><br />\n<br />\n■作者連絡先■<br />\n<a href=\"https://twitter.com/milkmonaka_1\" target=\"_blank\">https://twitter.com/milkmonaka_1</a><br />\n<a href=\"https://ci-en.net/creator/9472\" target=\"_blank\">https://ci-en.net/creator/9472</a><br />\nご意見や不具合報告なども上記3か所から"
+    }
+   ]
+  }
+ ],
+ "description": "「ソラナと陽の工房」はアイテムクラフトに特化したオールドチックなRPGです。",
+ "short_introduction": "「ソラナと陽の工房」はアイテムクラフトに特化したオールドチックなRPGです。",
+ "options": [
+  "REV",
+  "TRI"
+ ],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ404020.html",
+ "site_id": "home",
+ "fetched_at": 1794955511
+}

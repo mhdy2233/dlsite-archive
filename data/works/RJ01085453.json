@@ -1,0 +1,196 @@
+{
+ "id": "RJ01085453",
+ "title": "夢を確かめる リニューアル版(DL版)",
+ "title_romaji": "yumewotashikamerurinyuuaruban",
+ "circle": {
+  "id": "RG01006887",
+  "name": "ヤプシ街道",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01006887.html"
+ },
+ "type": {
+  "code": "DNV",
+  "name": "デジタルノベル",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "all",
+ "sex": 1,
+ "price": {
+  "jpy": 550,
+  "official_jpy": 550,
+  "currencies": {
+   "USD": 3.4467005362439362,
+   "EUR": 3.1321612596071926,
+   "GBP": 2.6133256802486744,
+   "TWD": 113.62932049666342,
+   "CNY": 23.015922833887807,
+   "KRW": 4602.510460251046,
+   "IDR": 63001.14547537228,
+   "VND": 88709.67741935485,
+   "THB": 116.80010193463441,
+   "SEK": 34.7927302171699,
+   "HKD": 27.046697352374206,
+   "SGD": 4.44206098707441,
+   "CAD": 4.927675167652948,
+   "MYR": 14.113456796142662,
+   "BRL": 19.611758497240093,
+   "AUD": 5.110137397657885,
+   "PHP": 220.299607466154,
+   "MXN": 63.93936223392506,
+   "NZD": 6.260443558117405,
+   "INR": 323.79606734958196
+  }
+ },
+ "point": {
+  "point_amount": 30,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1691478000,
+ "file": {
+  "type": "EXE",
+  "size": 578473813
+ },
+ "tags": [
+  {
+   "key": "053",
+   "name": "健全"
+  },
+  {
+   "key": "015",
+   "name": "シリアス"
+  }
+ ],
+ "languages": [
+  "JPN"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [],
+ "rating": {
+  "average": 4.6,
+  "count": 113
+ },
+ "review_count": 3,
+ "dl_count": 852,
+ "wishlist_count": 861,
+ "ranking": [
+  {
+   "category": "game",
+   "period": "day",
+   "rank": 26,
+   "date": "2023-08-10"
+  }
+ ],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01086000/RJ01085453_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ01086000/RJ01085453_img_main_240x240.jpg",
+  "samples": [
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01086000/RJ01085453_img_smp1.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01086000/RJ01085453_img_smp2.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01086000/RJ01085453_img_smp3.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01086000/RJ01085453_img_smp4.jpg"
+  ],
+  "sample_thumbs": [
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01086000/RJ01085453_img_smp1_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01086000/RJ01085453_img_smp2_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01086000/RJ01085453_img_smp3_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01086000/RJ01085453_img_smp4_100x100.jpg"
+  ],
+  "alt": "夢を確かめる リニューアル版(DL版) [ヤプシ街道]"
+ },
+ "introductions": [
+  {
+   "type": "text",
+   "title": "【注意事項】",
+   "body": [
+    {
+     "intro": "本作は、2010年12月に頒布された後、入手困難な状態になっておりました『夢を確かめる』(以下旧版)の内容に、新規要素を追加したものとなります。<br />\n制作ツール(Nscripter)は2010年の旧版制作時に準拠しており、2023年現在に一般的なものとして流通しているシステムとは差があることをご承知ください。<br />\n本作のリニューアルに関する背景や詳細について、ご関心のある方は下記サイトでも説明しております。<br />\n<br />\n【サークル「ヤプシ街道」サイト】<br />\n<a href=\"https://note.com/yapushikaido\" target=\"_blank\">https://note.com/yapushikaido</a><br />\n<br />\n【代表・士戸ナオミSNSアカウント】<br />\n<a href=\"https://twitter.com/shidonaomi\" target=\"_blank\">https://twitter.com/shidonaomi</a>"
+    }
+   ]
+  },
+  {
+   "type": "image",
+   "title": "【紹介】",
+   "body": [
+    {
+     "intro": "3人のヒロイン、<br />\n3つの世界、<br />\nそして物語は1つに“収束しない”――!<br />\n<br />\nYTIシステム搭載、選択肢の結果を「確かめる」ことができる!<br />\n1日ごとにエンドマークの打たれる物語、どこで読み終えるかはあなた次第!<br />\n<br />\nジャンル:ノベルゲーム<br />\nプレイ人数:1人用<br />\nプレイ時間:3分～∞(あくまで目安のため、プレイヤーによって変動します)",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ01086000/RJ01085453/e46e0a6cd053b6515ed48bbd33b467d3.jpg",
+      "alt": "夢を確かめる リニューアル版(DL版) [ヤプシ街道]",
+      "title": "夢を確かめる リニューアル版(DL版) [ヤプシ街道]"
+     },
+     "position": "left"
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "title": "【ストーリー】",
+   "body": [
+    {
+     "intro": "日々モンモンとしているオトコの子たちにとって<br />\n一年で最も気が気じゃない日、バレンタイン・デー。<br />\n<br />\nウッハウッハを夢見て、敗れた者もいた。<br />\n夢見ることを最初から諦め、しかし幸運が訪れた者も。<br />\n「夢」は「夢」のままにしておくべきだと、シニカルを決め込む者も。<br />\n<br />\nここに性格も年齢も違う3人の愛すべきバカ野郎たちがいる。<br />\n果たして彼らは、オンナの子たちから夢をもらうことができるのか?<br />\n<br />\nそれは、どんな「夢」なんだろう……?<br />\n<br />\n時を同じくして、街には露出狂の出る噂が――<br />\n<br />\n説明不可能、衝撃のノンジャンル・ノベル、色々な珍騒動を経て2023年に奇跡の復活!!<br />\n【参加ゲスト】あしたのーと様(高岡兼時×RYUNKA)、歩サラ様、餅月ひまり様、大槻涼樹様、うつろあくた様"
+    }
+   ]
+  },
+  {
+   "type": "text_list",
+   "title": "旧版からの修正事項",
+   "body": [
+    {
+     "intro": "(1)誤字脱字の修正、テキストを微妙に追加"
+    },
+    {
+     "intro": "(2)BGMの一部変更"
+    },
+    {
+     "intro": "(3)セーブ&amp;ロード機能の実装"
+    },
+    {
+     "intro": "(4)ジャケット・マニュアルの新規描きおろし"
+    }
+   ]
+  },
+  {
+   "type": "text_list",
+   "title": "リニューアル版の追加要素",
+   "body": [
+    {
+     "intro": "(1)歩サラさんのボイスによる「「声」を確かめる」コーナーの追加"
+    },
+    {
+     "intro": "(2)おまけシナリオ「プロトタイプ・サンシロー」の追加"
+    },
+    {
+     "intro": "(3)音楽ユニット・あしたのーとさんからの楽曲提供"
+    },
+    {
+     "intro": "(4)スタッフルームのゲストメッセージ(あしたのーと・RYUNKA様、歩サラ様、餅月ひまり様、大槻涼樹様、うつろあくた様)"
+    }
+   ]
+  }
+ ],
+ "description": "2010年12月の完成以降、長らく入手不可能になっていた\"幻\"のノベルゲーム『夢を確かめる』を新規ジャケット・追加要素ありでリニューアルしました。追加シナリオは本編以上の約36万字、本編クリア後には豪華ゲストからの応援メッセージも!",
+ "short_introduction": "2010年12月の完成以降、長らく入手不可能になっていた\"幻\"のノベルゲーム『夢を確かめる』を新規ジャケット・追加要素ありでリニューアルしました。追加シナリオは本編以上の約36万字、本編クリア後には豪華ゲストからの応援メッセージも!",
+ "options": [
+  "MS2",
+  "SND",
+  "REV",
+  "ORW"
+ ],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01085453.html",
+ "site_id": "home",
+ "fetched_at": 1794952707
+}

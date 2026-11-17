@@ -1,0 +1,192 @@
+{
+ "id": "RJ01040732",
+ "title": "QUESTER(インディーズ版)",
+ "title_romaji": "kuesutaa",
+ "circle": {
+  "id": "RG72453",
+  "name": "Thousand Games",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG72453.html"
+ },
+ "type": {
+  "code": "RPG",
+  "name": "ロールプレイング",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "all",
+ "sex": 1,
+ "price": {
+  "jpy": 2200,
+  "official_jpy": 2200,
+  "currencies": {
+   "USD": 13.786802144975745,
+   "EUR": 12.52864503842877,
+   "GBP": 10.453302720994698,
+   "TWD": 454.5172819866537,
+   "CNY": 92.06369133555123,
+   "KRW": 18410.041841004186,
+   "IDR": 252004.58190148912,
+   "VND": 354838.7096774194,
+   "THB": 467.20040773853765,
+   "SEK": 139.1709208686796,
+   "HKD": 108.18678940949682,
+   "SGD": 17.76824394829764,
+   "CAD": 19.710700670611793,
+   "MYR": 56.45382718457065,
+   "BRL": 78.44703398896037,
+   "AUD": 20.44054959063154,
+   "PHP": 881.198429864616,
+   "MXN": 255.75744893570024,
+   "NZD": 25.04177423246962,
+   "INR": 1295.1842693983278
+  }
+ },
+ "point": {
+  "point_amount": 120,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1679583600,
+ "file": {
+  "type": "EXE",
+  "size": 150242268
+ },
+ "tags": [
+  {
+   "key": "431",
+   "name": "ドット"
+  }
+ ],
+ "languages": [
+  "JPN",
+  "ENG"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [],
+ "rating": {
+  "average": 4.55,
+  "count": 259
+ },
+ "review_count": 6,
+ "dl_count": 1033,
+ "wishlist_count": 2232,
+ "ranking": [
+  {
+   "category": "game",
+   "period": "day",
+   "rank": 16,
+   "date": "2023-03-25"
+  },
+  {
+   "category": "game",
+   "period": "week",
+   "rank": 24,
+   "date": "2023-03-30"
+  },
+  {
+   "category": "game",
+   "period": "month",
+   "rank": 55,
+   "date": "2023-04-13"
+  }
+ ],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01041000/RJ01040732_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ01041000/RJ01040732_img_main_240x240.jpg",
+  "samples": [
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01041000/RJ01040732_img_smp1.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01041000/RJ01040732_img_smp2.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01041000/RJ01040732_img_smp3.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01041000/RJ01040732_img_smp4.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01041000/RJ01040732_img_smp5.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01041000/RJ01040732_img_smp6.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01041000/RJ01040732_img_smp7.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01041000/RJ01040732_img_smp8.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01041000/RJ01040732_img_smp9.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01041000/RJ01040732_img_smp10.jpg"
+  ],
+  "sample_thumbs": [
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01041000/RJ01040732_img_smp1_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01041000/RJ01040732_img_smp2_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01041000/RJ01040732_img_smp3_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01041000/RJ01040732_img_smp4_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01041000/RJ01040732_img_smp5_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01041000/RJ01040732_img_smp6_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01041000/RJ01040732_img_smp7_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01041000/RJ01040732_img_smp8_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01041000/RJ01040732_img_smp9_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01041000/RJ01040732_img_smp10_100x100.jpg"
+  ],
+  "alt": "QUESTER(インディーズ版) [Thousand Games]"
+ },
+ "introductions": [
+  {
+   "type": "text",
+   "title": "『QUESTER』はハックアンドスラッシュに特化したダンジョン探索RPGです。",
+   "body": [
+    {
+     "intro": "・漫画家・萩原一至が構築した退廃未来の世界観<br />\n・加藤ヒロノリが設計した奥深いゲームシステム<br />\n・80年代のパソコンゲームに感じたワクワクと驚き<br />\n<br />\n多彩な24キャラクター・大量の武装品(改造可能)・コンボを楽しめるスキル・クリーチャー図鑑・周回プレイが楽しめる「NEW GAME+」など、やり込み要素満載!!"
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "title": "『失われた世界の真実を探究する物語』",
+   "body": [
+    {
+     "intro": "20XX年。<br />\n某国から人体に害のあるウィルスが蔓延。<br />\n示し合わせたかのように、各地で天変地異が発生。<br />\n世界は文明を維持することができなくなってしまった。<br />\n<br />\n大気はけがれ、水はよどみ、<br />\n生きることにさえ「適性」が必要になった。<br />\n<br />\n地下より<br />\n不気味なクリーチャーたちが這いずり出す。<br />\n<br />\n人々はその大半を失ってしまう。<br />\n<br />\n引きちぎられた空の下、<br />\n生きるために文明跡――ダンジョンに潜り、<br />\nなにかを「探索」する。<br />\n<br />\nクエスターとは<br />\nそんな廃世界を生き抜く、一握りの者たち。"
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "title": "メインスタッフ",
+   "body": [
+    {
+     "intro": "萩原一至(原案・キャラクターデザイン)<br />\n代表作:『BASTARD!! -暗黒の破壊神-』等<br />\n<br />\n加藤ヒロノリ(ゲームデザイン)<br />\n代表作:『DARK SOULS TRPG』『モンスター・コレクションTCG』等<br />\n<br />\n桑原敏道(プロデューサー)<br />\n代表作:『蒼穹のスカイガレオン』『フライハイトクラウディア』等"
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "title": "関連情報",
+   "body": [
+    {
+     "intro": "公式サイト(オンラインマニュアル)<br />\n<a href=\"https://www.thousandgames.net/quester/indies-version/\" target=\"_blank\">https://www.thousandgames.net/quester/indies-version/</a><br />\n<br />\n公式Twitter<br />\n<a href=\"https://twitter.com/1000games_pr\" target=\"_blank\">https://twitter.com/1000games_pr</a><br />\n<br />\n不具合投稿フォーム<br />\n<a href=\"https://form.run/@tk-1666013680\" target=\"_blank\">https://form.run/@tk-1666013680</a>"
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "title": "更新情報 [Ver.2.0.0]",
+   "body": [
+    {
+     "intro": "『QUESTER』正式リリース1周年記念の大型アップデートを行いました。<br />\n武装品図鑑・ロック機能などを実装し、操作性を改善しました。<br />\nNEW GAME+の仕様を変更しました。<br />\nゲームバランスの調整を行いました。<br />\nあらたなイベント(結晶蟲など)を実装しました。<br />\n初期パーティが選択できるようになりました。<br />\n不具合の修正を行いました。"
+    }
+   ]
+  }
+ ],
+ "description": "ハクスラに特化! 懐かしくて新しいダンジョン探索RPGです。漫画家・萩原一至が構築した退廃未来の世界観。加藤ヒロノリが設計した奥深いゲームシステム。80年代のパソコンゲームに感じたワクワクと驚き。多彩な24キャラクター・大量の武装品(改造可能)・コンボを楽しめるスキル・クリーチャー図鑑・周回プレイが楽しめる「NEW GAME+」など、やり込み要素満載!!",
+ "short_introduction": "ハクスラに特化! 懐かしくて新しいダンジョン探索RPGです。漫画家・萩原一至が構築した退廃未来の世界観。加藤ヒロノリが設計した奥深いゲームシステム。80年代のパソコンゲームに感じたワクワクと驚き。多彩な24キャラクター・大量の武装品(改造可能)・コンボを楽しめるスキル・クリーチャー図鑑・周回プレイが楽しめる「NEW GAME+」など、やり込み要素満載!!",
+ "options": [
+  "MS2",
+  "REV",
+  "ORW"
+ ],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01040732.html",
+ "site_id": "home",
+ "fetched_at": 1794953483
+}

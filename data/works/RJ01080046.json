@@ -1,0 +1,117 @@
+{
+ "id": "RJ01080046",
+ "title": "Ballad 11 阿修羅のその後 Mac版",
+ "title_romaji": "baraddoirebunashuranosonogomakkuban",
+ "circle": {
+  "id": "RG57636",
+  "name": "遊勇舎",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG57636.html"
+ },
+ "type": {
+  "code": "RPG",
+  "name": "ロールプレイング",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "all",
+ "sex": 1,
+ "price": {
+  "jpy": 220,
+  "official_jpy": 220,
+  "currencies": {
+   "USD": 1.3786802144975745,
+   "EUR": 1.2528645038428772,
+   "GBP": 1.0453302720994697,
+   "TWD": 45.45172819866537,
+   "CNY": 9.206369133555123,
+   "KRW": 1841.0041841004186,
+   "IDR": 25200.45819014891,
+   "VND": 35483.87096774194,
+   "THB": 46.72004077385377,
+   "SEK": 13.917092086867958,
+   "HKD": 10.818678940949683,
+   "SGD": 1.776824394829764,
+   "CAD": 1.9710700670611792,
+   "MYR": 5.645382718457065,
+   "BRL": 7.844703398896036,
+   "AUD": 2.044054959063154,
+   "PHP": 88.11984298646159,
+   "MXN": 25.575744893570025,
+   "NZD": 2.504177423246962,
+   "INR": 129.5184269398328
+  }
+ },
+ "point": {
+  "point_amount": 12,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1690009200,
+ "file": {
+  "type": "EXE",
+  "size": 334037819
+ },
+ "tags": [
+  {
+   "key": "510",
+   "name": "ツクール"
+  },
+  {
+   "key": "016",
+   "name": "ファンタジー"
+  }
+ ],
+ "languages": [
+  "JPN"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [],
+ "rating": {
+  "average": null,
+  "count": null
+ },
+ "review_count": 0,
+ "dl_count": 1,
+ "wishlist_count": 3,
+ "ranking": [],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01081000/RJ01080046_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ01081000/RJ01080046_img_main_240x240.jpg",
+  "samples": [],
+  "sample_thumbs": [],
+  "alt": "Ballad 11 阿修羅のその後 Mac版 [遊勇舎]"
+ },
+ "introductions": [
+  {
+   "type": "text",
+   "title": "拳闘士ターマルスのその後",
+   "body": [
+    {
+     "intro": "拳闘士として闘い続ける「ターマルス」。<br />\n<br />\nそのターマルスが初めて敗北した日、<br />\n怪我の手当てに訪れた「マリネッティ」と出会う。<br />\n<br />\n拳闘士人生を捨て、旅に出たターマルスは<br />\n旅の途中でマリネッティと再会する。<br />\n<br />\n再会したマリネッティが<br />\n阿修羅の生き方をするターマルスを変えてゆく・・・。<br />\n<br />\n<br />\n****************************<br />\n<br />\nプレーヤーは様々な武器の技「秘技」と<br />\n多彩な魔法「花魔術」「神聖魔法」「召喚術」を使いながら<br />\nルティア大陸を旅していく、剣と魔法の短編RPG。<br />\n<br />\nクリアするまでのプレイ時間:1時間程度<br />\n<br />\n※ゲームの起動時にエラーメッセージが表示される場合は下記URLをご参照ください。<br />\n<a href=\"https://zawazawa.jp/ballad/\" target=\"_blank\">https://zawazawa.jp/ballad/</a><br />\n<br />\n****************************"
+    }
+   ]
+  }
+ ],
+ "description": "頂点を極めた闘技士ターマルスのその後",
+ "short_introduction": "頂点を極めた闘技士ターマルスのその後",
+ "options": [
+  "MS2",
+  "ORW"
+ ],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01080046.html",
+ "site_id": "home",
+ "fetched_at": 1794952809
+}

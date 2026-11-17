@@ -1,0 +1,207 @@
+{
+ "id": "RJ01043173",
+ "title": "カルデア異文録 レクイエム",
+ "title_romaji": "karudeaibunrokurekuiemu",
+ "circle": {
+  "id": "RG38086",
+  "name": "DDD産業",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG38086.html"
+ },
+ "type": {
+  "code": "DNV",
+  "name": "デジタルノベル",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "r18",
+ "sex": 1,
+ "price": {
+  "jpy": 1100,
+  "official_jpy": 1100,
+  "currencies": {
+   "USD": 6.8934010724878725,
+   "EUR": 6.264322519214385,
+   "GBP": 5.226651360497349,
+   "TWD": 227.25864099332685,
+   "CNY": 46.03184566777561,
+   "KRW": 9205.020920502093,
+   "IDR": 126002.29095074456,
+   "VND": 177419.3548387097,
+   "THB": 233.60020386926882,
+   "SEK": 69.5854604343398,
+   "HKD": 54.09339470474841,
+   "SGD": 8.88412197414882,
+   "CAD": 9.855350335305896,
+   "MYR": 28.226913592285324,
+   "BRL": 39.223516994480185,
+   "AUD": 10.22027479531577,
+   "PHP": 440.599214932308,
+   "MXN": 127.87872446785012,
+   "NZD": 12.52088711623481,
+   "INR": 647.5921346991639
+  }
+ },
+ "point": {
+  "point_amount": 60,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1679900400,
+ "file": {
+  "type": "EXE",
+  "size": 180627543
+ },
+ "tags": [
+  {
+   "key": "153",
+   "name": "くすぐり"
+  }
+ ],
+ "languages": [
+  "JPN"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [],
+ "rating": {
+  "average": 4.78,
+  "count": 98
+ },
+ "review_count": 0,
+ "dl_count": 342,
+ "wishlist_count": 179,
+ "ranking": [
+  {
+   "category": "game",
+   "period": "day",
+   "rank": 14,
+   "date": "2023-03-28"
+  }
+ ],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01044000/RJ01043173_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ01044000/RJ01043173_img_main_240x240.jpg",
+  "samples": [
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01044000/RJ01043173_img_smp1.jpg"
+  ],
+  "sample_thumbs": [
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01044000/RJ01043173_img_smp1_100x100.jpg"
+  ],
+  "alt": "カルデア異文録 レクイエム [DDD産業]"
+ },
+ "introductions": [
+  {
+   "type": "text",
+   "title": "運命をくすぐり墜とすノベルゲーム第三弾出来ました",
+   "body": [
+    {
+     "intro": "TTが作りだしたくすぐり施設から脱出を図るカル〇アのエリ○のくすぐり物語です。<br />\r\n(今作は前作【カルデア異文録 惑星治安維持管理局特別くすぐり捜査編】からの続きモノとなっております<br />\r\n　前作をプレイして頂けますとより楽しめます)<br />\r\n<br />\r\nゲームとご一緒に高画質版のCG集も同封しております。<br />\r\n体験版につきましては内容紹介の最後にてご説明させて頂きます。<br />\r\n<br />\r\n文章執筆<br />\r\nポポイ(たむ)様<br />\r\n<a href=\"https://twitter.com/popoiseikenn\" target=\"_blank\">https://twitter.com/popoiseikenn</a>"
+    }
+   ]
+  },
+  {
+   "type": "image",
+   "title": "サンプルシーン【牢獄】",
+   "body": [
+    {
+     "intro": "",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ01044000/RJ01043173/32bc2118d285751f45816e8a4a5a803c.jpg",
+      "alt": "カルデア異文録 レクイエム [DDD産業]",
+      "title": "カルデア異文録 レクイエム [DDD産業]"
+     },
+     "position": "over"
+    }
+   ]
+  },
+  {
+   "type": "image",
+   "title": "サンプルシーン【知育】",
+   "body": [
+    {
+     "intro": "",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ01044000/RJ01043173/94bfc24178b2556aedcf3d44b656dafe.jpg",
+      "alt": "カルデア異文録 レクイエム [DDD産業]",
+      "title": "カルデア異文録 レクイエム [DDD産業]"
+     },
+     "position": "over"
+    }
+   ]
+  },
+  {
+   "type": "image",
+   "title": "???",
+   "body": [
+    {
+     "intro": "挿絵協力<br />\r\n七光徳明様<br />\r\n<a href=\"https://twitter.com/rTjAHY5EYtofdgK\" target=\"_blank\">https://twitter.com/rTjAHY5EYtofdgK</a>",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ01044000/RJ01043173/db6cd7f7a89f494f2d796b95a9fd934e.jpg",
+      "alt": "カルデア異文録 レクイエム [DDD産業]",
+      "title": "カルデア異文録 レクイエム [DDD産業]"
+     },
+     "position": "over"
+    }
+   ]
+  },
+  {
+   "type": "image_list",
+   "title": "いつもの回想シーンをより豊かに【感想モード】実装",
+   "body": [
+    {
+     "intro": "ある程度物語を進めると解放される回想部屋。<br />\r\nそこではエリ○と共に過去のくすぐりシーンを振り返ることが出来ます。",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ01044000/RJ01043173/3e907b02ebef40cc7cf478d123028429.jpg",
+      "alt": "カルデア異文録 レクイエム [DDD産業]",
+      "title": "カルデア異文録 レクイエム [DDD産業]"
+     }
+    },
+    {
+     "intro": "感想モードを起動するとくすぐりシーン再生中に時折エリセが当時のくすぐられたときの心境を赤裸々に告白します。<br />\r\n回想中いつでも切り替えが出来るので感想が不要な場合も即対応できます。",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ01044000/RJ01043173/25591add34572b9c8f5e937c60a88d80.jpg",
+      "alt": "カルデア異文録 レクイエム [DDD産業]",
+      "title": "カルデア異文録 レクイエム [DDD産業]"
+     }
+    },
+    {
+     "intro": "今作からバックログ機能も実装しました。<br />\r\n是非ご活用ください。",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ01044000/RJ01043173/2aa14fccbed59237b58cfaa179d9e6f5.jpg",
+      "alt": "カルデア異文録 レクイエム [DDD産業]",
+      "title": "カルデア異文録 レクイエム [DDD産業]"
+     }
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "title": "",
+   "body": [
+    {
+     "intro": "くすぐりCG　6枚<br />\r\n<br />\r\n私のTwitter【 <a href=\"https://twitter.com/ddd_dhr\" target=\"_blank\">https://twitter.com/ddd_dhr</a> 】にて近状報告等もさせて頂いております。<br />\r\n体験版もこちらからプレイ出来ます!↑スマホでもプレイ可能です。<br />\r\n<br />\r\n<br />\r\nこの施設に来てくださった皆様と同じ時間を共有出来ましたら幸いです✨"
+    }
+   ]
+  }
+ ],
+ "description": "運命をくすぐり墜とす二次創作ノベルゲーム第三段です。今回から一人のキャラに絞ってくすぐり堕としました",
+ "short_introduction": "運命をくすぐり墜とす二次創作ノベルゲーム第三段です。今回から一人のキャラに絞ってくすぐり堕としました",
+ "options": [
+  "MS2"
+ ],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01043173.html",
+ "site_id": "maniax",
+ "fetched_at": 1794953435
+}

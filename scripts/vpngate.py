@@ -27,8 +27,8 @@ NETNS = "dlsitevpn"
 VETH_H, VETH_N = "veth-dl0", "veth-dl1"
 HOST_IP, NS_IP = "10.201.0.1", "10.201.0.2"
 SUBNET = "10.201.0.0/24"
-OVPN_PATH = "/var/lib/dlsite-vpn/current.ovpn"
-OVPN_LOG = "/var/lib/dlsite-vpn/openvpn.log"
+OVPN_PATH = "/tmp/dlsite-vpn/current.ovpn"
+OVPN_LOG = "/tmp/dlsite-vpn/openvpn.log"
 
 
 def log(msg):
@@ -52,10 +52,14 @@ def wan_iface():
 
 
 def setup_netns():
+    # NOTE: this runs as the unprivileged runner user; everything under /etc and
+    # the netns plumbing must go through sudo, while our own files live in /tmp.
     os.makedirs(os.path.dirname(OVPN_PATH), exist_ok=True)
-    os.makedirs(f"/etc/netns/{NETNS}", exist_ok=True)
-    with open(f"/etc/netns/{NETNS}/resolv.conf", "w") as f:
+    sh(["sudo", "mkdir", "-p", f"/etc/netns/{NETNS}"], check=True)
+    resolv = os.path.join(os.path.dirname(OVPN_PATH), "resolv.conf")
+    with open(resolv, "w") as f:
         f.write("nameserver 1.1.1.1\nnameserver 8.8.8.8\n")
+    sh(["sudo", "cp", resolv, f"/etc/netns/{NETNS}/resolv.conf"], check=True)
 
     teardown_netns()
     for cmd in (
@@ -209,7 +213,7 @@ def egress(using_ns=True):
         return False, {"error": f"{type(e).__name__}"}
 
 
-def connect(min_speed_mbps=1, tries=6, ready_timeout=40):
+def connect(min_speed_mbps=1, tries=25, ready_timeout=22):
     """Bring up a JP tunnel. Returns (node, info, mode) with mode in {netns, host}."""
     using_ns = True
     try:

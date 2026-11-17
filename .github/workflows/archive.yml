@@ -40,10 +40,11 @@ jobs:
 
       - name: Archive new works
         run: |
+          set -o pipefail
           LIMIT="${{ github.event.inputs.limit || '50' }}"
           FLAGS=""
           if [ "${{ github.event.inputs.skip_vpn }}" = "true" ]; then FLAGS="--no-vpn"; fi
-          python3 scripts/run.py --limit "$LIMIT" $FLAGS
+          python3 scripts/run.py --limit "$LIMIT" $FLAGS 2>&1 | tee /tmp/archive.log
 
       - name: Diagnose tunnel (on failure)
         if: failure()
@@ -61,6 +62,32 @@ jobs:
             echo "-- iptables --";      sudo iptables -S 2>&1 | head -15
             echo '```'
           } >> "$GITHUB_STEP_SUMMARY" 2>/dev/null || true
+
+      - name: Persist failure log (readable from CI)
+        if: failure()
+        continue-on-error: true
+        run: |
+          mkdir -p .diag
+          {
+            echo "run: $GITHUB_RUN_ID  $(date -u)"
+            echo; echo "===== archive.log =====";
+            tail -120 /tmp/archive.log 2>&1
+            echo; echo "===== netns =====";
+            sudo ip netns list 2>&1
+            echo; echo "===== tun0 (host) =====";
+            ip -brief addr show tun0 2>&1
+            echo; echo "===== openvpn =====";
+            sudo tail -60 /tmp/dlsite-vpn/openvpn.log 2>&1
+            echo; echo "===== iptables =====";
+            sudo iptables -S 2>&1 | head -20
+            echo; echo "===== capabilities =====";
+            ls -l /dev/net/tun 2>&1
+          } > .diag/last-failure.txt 2>&1 || true
+          git config user.name  "dlsite-archive-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -f .diag/last-failure.txt
+          git commit -m "diag: tunnel failure [skip ci]" || true
+          git push || true
 
       - name: Build static site
         run: python3 scripts/build_site.py

@@ -225,6 +225,53 @@ def cmd_down(args):
     return 0
 
 
+def cmd_watch(args):
+    """Keep N tunnels alive: probe, rebuild dead ones, repeat forever."""
+    os.makedirs(RUNDIR, exist_ok=True)
+    while True:
+        st = {"tunnels": []}
+        if os.path.exists(STATE):
+            try:
+                st = json.load(open(STATE))
+            except Exception:
+                pass
+        by_index = {t["index"]: t for t in st.get("tunnels", [])}
+        nodes = None
+        changed = False
+        for i in range(1, args.count + 1):
+            if ns_egress(i, timeout=8):
+                print(f"[{i}] ok", flush=True)
+                continue
+            print(f"[{i}] dead -> rebuilding", flush=True)
+            if nodes is None:
+                nodes = vg.fetch_nodes()
+            used = {t["node"] for t in by_index.values() if t["index"] != i}
+            ok = None
+            for node in nodes[: args.tries_per_tunnel]:
+                if node["ip"] in used:
+                    continue
+                info = bring_up(i, node)
+                if info:
+                    _, ns_ip, _ = addrs(i)
+                    ok = {"index": i, "node": node["ip"], "port": node["port"],
+                          "proto": node["proto"],
+                          "endpoint": f"socks5h://{ns_ip}:{port(i)}", **info}
+                    print(f"[{i}] UP {ok['endpoint']} -> {info['ip']} "
+                          f"{info.get('city')}", flush=True)
+                    break
+                teardown(i)
+            if ok:
+                by_index[i] = ok
+                changed = True
+            else:
+                print(f"[{i}] rebuild failed", flush=True)
+        if changed:
+            st["tunnels"] = [by_index[k] for k in sorted(by_index)]
+            with open(STATE, "w") as f:
+                json.dump(st, f, ensure_ascii=False, indent=1)
+        time.sleep(args.interval)
+
+
 if __name__ == "__main__":
     ap = argparse.ArgumentParser()
     sub = ap.add_subparsers(dest="cmd", required=True)
@@ -236,6 +283,11 @@ if __name__ == "__main__":
     up.set_defaults(func=cmd_up)
     stp = sub.add_parser("status")
     stp.set_defaults(func=cmd_status)
+    w = sub.add_parser("watch")
+    w.add_argument("--count", type=int, default=3)
+    w.add_argument("--interval", type=int, default=120)
+    w.add_argument("--tries-per-tunnel", type=int, default=8)
+    w.set_defaults(func=cmd_watch)
     dn = sub.add_parser("down")
     dn.set_defaults(func=cmd_down)
     a = ap.parse_args()

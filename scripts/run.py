@@ -83,9 +83,15 @@ def main():
 
         def work_one(item):
             idx, pid = item
-            proxy = proxies[idx % len(proxies)]
             t0 = time.time()
-            work, err = scraper.fetch_work(pid, proxy=proxy, netns=netns)
+            work, err = None, "no attempt"
+            # a tunnel can drop mid-run: retry on another endpoint from the pool
+            for attempt in range(min(len(proxies), 3)):
+                proxy = proxies[(idx + attempt) % len(proxies)]
+                work, err = scraper.fetch_work(pid, proxy=proxy, netns=netns)
+                if work:
+                    break
+                time.sleep(1)
             if not work:
                 return pid, None, err
             if args.with_images:

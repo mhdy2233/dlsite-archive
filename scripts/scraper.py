@@ -87,16 +87,19 @@ def list_page(page, proxy=None, netns=None):
 
 
 def collect_ids(want, proxy=None, start_page=1, max_pages=200, existing=(),
-                netns=None, stop_on_old=True):
+                netns=None, stop_on_old=True, proxies=None):
     """Walk listing pages until `want` unseen ids are collected.
 
     stop_on_old=True is the incremental mode: a full page of already-archived ids
     means we have caught up. Backfills pass False to keep walking older pages.
+    `proxies` rotates the egress per page (a single `proxy` still works).
     """
+    plist = proxies or ([proxy] if proxy else [None])
     out, page, total = [], start_page, None
     misses = 0
     while len(out) < want and page <= max_pages:
-        ids, total_pages, html = list_page(page, proxy=proxy, netns=netns)
+        p = plist[(page - start_page) % len(plist)]
+        ids, total_pages, html = list_page(page, proxy=p, netns=netns)
         total = total_pages
         if not ids:
             log(f"page {page}: no ids (blocked or end)")

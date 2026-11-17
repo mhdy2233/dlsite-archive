@@ -76,8 +76,8 @@ def main():
 
     try:
         ids, page, total_pages = scraper.collect_ids(
-            args.limit, proxy=args.proxy, existing=done, max_pages=args.max_pages,
-            netns=netns, start_page=args.start_page,
+            args.limit, existing=done, max_pages=args.max_pages,
+            netns=netns, start_page=args.start_page, proxies=proxies,
             stop_on_old=(args.start_page == 1 and not args.no_stop))
         scraper.log(f"{len(ids)} new ids to fetch (listing page {page}/{total_pages})")
 

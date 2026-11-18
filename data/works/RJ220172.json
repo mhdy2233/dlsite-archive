@@ -1,0 +1,178 @@
+{
+ "id": "RJ220172",
+ "title": "ぱんぷとりっく!",
+ "title_romaji": "panputorikku",
+ "circle": {
+  "id": "RG30874",
+  "name": "木工用ノスタルジィ",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG30874.html"
+ },
+ "type": {
+  "code": "RPG",
+  "name": "ロールプレイング",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "r18",
+ "sex": 1,
+ "price": {
+  "jpy": 1430,
+  "official_jpy": 1430,
+  "currencies": {
+   "USD": 8.972104284713103,
+   "EUR": 8.158188996143402,
+   "GBP": 6.796057906215351,
+   "TWD": 295.4911765921395,
+   "CNY": 59.899803964277936,
+   "KRW": 11986.58843252305,
+   "IDR": 164009.63413235464,
+   "VND": 230719.5869635366,
+   "THB": 303.57711495594947,
+   "SEK": 90.77693631013972,
+   "HKD": 70.39757399129631,
+   "SGD": 11.564049875827981,
+   "CAD": 12.826400499422364,
+   "MYR": 36.72759680803795,
+   "BRL": 51.934090917344896,
+   "AUD": 13.318357166673186,
+   "PHP": 571.9313682358116,
+   "MXN": 165.46138270176453,
+   "NZD": 16.319916003788958,
+   "INR": 838.9557054854797
+  }
+ },
+ "point": {
+  "point_amount": 78,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1522162800,
+ "file": {
+  "type": "EXE",
+  "size": 172504515
+ },
+ "tags": [
+  {
+   "key": "317",
+   "name": "人外娘/モンスター娘"
+  },
+  {
+   "key": "008",
+   "name": "日常/生活"
+  },
+  {
+   "key": "016",
+   "name": "ファンタジー"
+  },
+  {
+   "key": "004",
+   "name": "ラブラブ/あまあま"
+  }
+ ],
+ "languages": [
+  "JPN"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [],
+ "rating": {
+  "average": 4.54,
+  "count": 3261
+ },
+ "review_count": 28,
+ "dl_count": 5405,
+ "wishlist_count": 5280,
+ "ranking": [
+  {
+   "category": "all",
+   "period": "day",
+   "rank": 1,
+   "date": "2018-03-28"
+  },
+  {
+   "category": "all",
+   "period": "week",
+   "rank": 5,
+   "date": "2018-04-01"
+  },
+  {
+   "category": "all",
+   "period": "month",
+   "rank": 14,
+   "date": "2018-04-20"
+  },
+  {
+   "category": "game",
+   "period": "day",
+   "rank": 27,
+   "date": "2018-10-29"
+  },
+  {
+   "category": "game",
+   "period": "week",
+   "rank": 42,
+   "date": "2018-11-01"
+  },
+  {
+   "category": "game",
+   "period": "month",
+   "rank": 87,
+   "date": "2018-11-22"
+  },
+  {
+   "category": "game",
+   "period": "year",
+   "rank": 152,
+   "date": "2018"
+  }
+ ],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ221000/RJ220172_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ221000/RJ220172_img_main_240x240.jpg",
+  "samples": [
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ221000/RJ220172_img_smp1.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ221000/RJ220172_img_smp2.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ221000/RJ220172_img_smp3.jpg"
+  ],
+  "sample_thumbs": [
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ221000/RJ220172_img_smp1_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ221000/RJ220172_img_smp2_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ221000/RJ220172_img_smp3_100x100.jpg"
+  ],
+  "alt": "ぱんぷとりっく! [木工用ノスタルジィ]"
+ },
+ "introductions": [
+  {
+   "type": "text",
+   "title": "",
+   "body": [
+    {
+     "intro": "■更新情報<br />\r\n○ver1.03<br />\r\n・軽微な不具合の修正を行いました。<br />\r\n<br />\r\n○ver1.02<br />\r\n・エンディング後の回想モードにCG回想を追加しました。<br />\r\n・マップに現在位置の表示を追加しました。<br />\r\n・占い部屋(ヒント部屋)を追加しました。203号室より、魂のヒントを入手できます。<br />\r\n・アイテム「ロストドール」を手放してもそのうち戻ってくるように変更しました。<br />\r\n・グールの部屋での会話を一部修正、追加しました。<br />\r\n・その他、軽微な不具合の修正を行いました。<br />\r\n<br />\r\n*これより以前の更新情報につきましては付属の更新履歴をご覧下さい。<br />\r\n<br />\r\n<br />\r\n○イントロダクション<br />\r\n　ようこそいらっしゃいました……。<br />\r\n　このホテルは、お客様の見る夢の裡に建つホテル……。<br />\r\n　お客様の魂を誘い、囚え、癒やすことを至上とするホテルでございます。<br />\r\n　ふふ……そんなに怯える必要などございません……。<br />\r\n　他の宿泊客の方々……それから、当ホテルの従業員に至るまで、皆がお客様のご宿泊を喜んでおります。<br />\r\n　それでは、よいご滞在を……。<br />\r\n<br />\r\n■ゲーム概要<br />\r\n　ふとしたことから、怪しげな森のなかのホテルに迷い込んだあなた。<br />\r\n　そのホテルは従業員、宿泊客ともに魔物娘の不思議なホテルでした。<br />\r\n　あなたと彼女たちの少しえっちな共同生活が始まります。<br />\r\n<br />\r\n○コミュニケーション&amp;バトルふぁっくRPG<br />\r\n　あなたはホテルの住人たちと自由に交流を深めることができます。<br />\r\n　もちろん、二人っきりで仲良く“ふぁっく”することも……。<br />\r\n　魔物娘たちと逢瀬を繰り返すも、ホテルから脱出するために奮闘するのもあなた次第です。<br />\r\n<br />\r\n　登場ヒロインは8キャラクター、基本CG枚数は24枚となります。<br />\r\n<br />\r\n　期日制限や明確なクリア目標はありません。<br />\r\n　ゆったり自由にプレイしてみて下さい。<br />\r\n<br />\r\n<br />\r\n■みどころ<br />\r\n○新たなるえっちの形「コミュニケーションふぁっく」<br />\r\n　せめれます。<br />\r\n　おねだりできます。<br />\r\n　脱がせられます。<br />\r\n　押し倒されたりもします。<br />\r\n　ゲームオーバーもなければ消費ゲージもない、自由なふぁっくシステムです。<br />\r\n　好みの娘と好みのプレイを、好みのシチュエーションでお楽しみください。<br />\r\n<br />\r\n　さらに今回はお互いの魂を賭けたバトル方式のふぁっくもお楽しみ頂けます。<br />\r\n　勝てばホテル脱出に近づきますが、負けてしまうと……。<br />\r\n<br />\r\n○あなたを待つ魔物娘たち<br />\r\n　今回のヒロインのテーマは「ホラー」。<br />\r\n　メイド服のウィル・オ・ウィスプ、ライダースーツのサラマンダー、スク水姿のマンドラゴラ……。<br />\r\n　奇妙かつ蠱惑的な組み合わせが満載です。<br />\r\n<br />\r\n<br />\r\n<br />\r\n【キャラクターグラフィック】<br />\r\nみかん 様<br />\r\n<a href=\"http://mikabe186.tumblr.com/\" target=\"_blank\">http://mikabe186.tumblr.com/</a><br />\r\n<br />\r\n【グラフィックデザイン】<br />\r\n夏木千夏 様<br />\r\n<a href=\"http://www.pixiv.net/member.php?id=1405243\" target=\"_blank\">http://www.pixiv.net/member.php?id=1405243</a><br />\r\n<br />\r\n【ボイスエフェクト】<br />\r\n一之瀬りと 様<br />\r\n<a href=\"https://ichirito.jimdo.com/\" target=\"_blank\">https://ichirito.jimdo.com/</a><br />\r\n<br />\r\n<br />\r\n*追加、修正等によりデータを差し替える可能性がありますので、<br />\r\n会員登録後のご購入を推奨します。"
+    }
+   ]
+  }
+ ],
+ "description": "魔物娘たちとのホテル生活コミュニケーション&BFRPG",
+ "short_introduction": "魔物娘たちとのホテル生活コミュニケーション&BFRPG",
+ "options": [
+  "MS2",
+  "TRI",
+  "REV",
+  "OLY"
+ ],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ220172.html",
+ "site_id": "maniax",
+ "fetched_at": 1794964237
+}

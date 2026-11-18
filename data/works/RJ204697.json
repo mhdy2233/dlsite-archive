@@ -1,0 +1,161 @@
+{
+ "id": "RJ204697",
+ "title": "エンジェリック・フォース・ユキver1.02",
+ "title_romaji": "enjyerikkufwoosuyukibaajonichitenzeroni",
+ "circle": {
+  "id": "RG19680",
+  "name": "enuemu",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG19680.html"
+ },
+ "type": {
+  "code": "RPG",
+  "name": "ロールプレイング",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "r18",
+ "sex": 1,
+ "price": {
+  "jpy": 1650,
+  "official_jpy": 1650,
+  "currencies": {
+   "USD": 10.35242802082281,
+   "EUR": 9.413294995550078,
+   "GBP": 7.841605276402329,
+   "TWD": 340.9513576063148,
+   "CNY": 69.1151584203207,
+   "KRW": 13830.67896060352,
+   "IDR": 189241.88553733227,
+   "VND": 266214.9080348499,
+   "THB": 350.281286487634,
+   "SEK": 104.74261881939198,
+   "HKD": 81.22796998995727,
+   "SGD": 13.34313447210921,
+   "CAD": 14.79969288394888,
+   "MYR": 42.377996316966865,
+   "BRL": 59.92395105847488,
+   "AUD": 15.367335192315215,
+   "PHP": 659.9208095028596,
+   "MXN": 190.91698004049755,
+   "NZD": 18.830672312064184,
+   "INR": 968.0258140217073
+  }
+ },
+ "point": {
+  "point_amount": 90,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1501513200,
+ "file": {
+  "type": "EXE",
+  "size": 403161890
+ },
+ "tags": [
+  {
+   "key": "065",
+   "name": "おっぱい"
+  },
+  {
+   "key": "269",
+   "name": "変身ヒロイン"
+  },
+  {
+   "key": "325",
+   "name": "悪堕ち"
+  }
+ ],
+ "languages": [
+  "JPN"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [],
+ "rating": {
+  "average": 4.36,
+  "count": 3343
+ },
+ "review_count": 18,
+ "dl_count": 5812,
+ "wishlist_count": 4778,
+ "ranking": [
+  {
+   "category": "all",
+   "period": "day",
+   "rank": 2,
+   "date": "2017-08-02"
+  },
+  {
+   "category": "all",
+   "period": "week",
+   "rank": 3,
+   "date": "2017-08-05"
+  },
+  {
+   "category": "all",
+   "period": "month",
+   "rank": 9,
+   "date": "2017-08-14"
+  },
+  {
+   "category": "all",
+   "period": "year",
+   "rank": 125,
+   "date": "2017"
+  },
+  {
+   "category": "game",
+   "period": "year",
+   "rank": 102,
+   "date": "2017"
+  }
+ ],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ205000/RJ204697_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ205000/RJ204697_img_main_240x240.jpg",
+  "samples": [
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ205000/RJ204697_img_smp1.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ205000/RJ204697_img_smp2.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ205000/RJ204697_img_smp3.jpg"
+  ],
+  "sample_thumbs": [
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ205000/RJ204697_img_smp1_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ205000/RJ204697_img_smp2_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ205000/RJ204697_img_smp3_100x100.jpg"
+  ],
+  "alt": "エンジェリック・フォース・ユキver1.02 [enuemu]"
+ },
+ "introductions": [
+  {
+   "type": "text",
+   "title": "",
+   "body": [
+    {
+     "intro": "※この作品をプレイするにはRPGツクールVXAce RTPが必要となります。<br />\r\nRTPとはRPGツクールVXAceをお持ちでないユーザーが、RPGツクールVX<br />\r\nAceで作成されたゲームを遊ぶのに必要なランタイムパッケージです。<br />\r\nRTPは下記サイトにてダウンロードすることができます。<br />\r\n<a href=\"https://tkool.jp/support/download/index\" target=\"_blank\">https://tkool.jp/support/download/index</a><br />\r\n<br />\r\n※動作確認の為、体験版をプレイしてからの購入をおすすめします。<br />\r\n※バージョンアップなど再ダウンロードが必要な場合がありますので<br />\r\n、販売サイト様への会員登録をお願いいたします。<br />\r\n<br />\r\n■ver1.02修正情報(2017/8/30)<br />\r\n・銭湯-花の魔物に背後からバトルを仕掛けて勝った場合、動けなくなる不具合の修正。<br />\r\n・カメラ小僧のHイベント(夜の公園)後、自宅から出ると昼になってしまう不具合の修正。<br />\r\n<br />\r\n■ver1.01修正情報(2017/8/5)<br />\r\n・回想部屋フリーバトルにて敵が挿入H攻撃をリピートするバトルを追加。<br />\r\n・回想部屋バトルにてスキル「オナニー」が　未習得になる不具合を修正。<br />\r\n・戦闘エロ、イビルのぶっかけ演出時CGが別のものになっていたのを修正。<br />\r\n<br />\r\n●この作品は戦闘エロが好きな方にオススメです!<br />\r\n<br />\r\n★街の平和のためにエンジェル・フィーリアに変身し、<br />\r\n悪魔と闘う正義のヒロインゆきの物語!!<br />\r\n<br />\r\n★フィーリアの能力は\"エロをチカラ\"に変えて闘うのだ!<br />\r\n<br />\r\n★戦闘中にエッチな攻撃を受けるとEP(エロパワー)が<br />\r\n溜まり、強力なスキルを使用することができる!<br />\r\n<br />\r\n淫乱値を高めれば戦闘中にオナニーしてEPをチャージ!<br />\r\n<br />\r\n★\"次元のひずみ\"に侵入し、悪魔を倒せ!<br />\r\n戦闘エロやエッチな罠がフィーリアを待ち受ける!<br />\r\n<br />\r\n■戦闘エロ15シーン!(差分・魔物化逆レ○プ含む)<br />\r\n<br />\r\n■ダンジョン罠H4シーン<br />\r\n<br />\r\n★街の人達の悩みを聞いて\"負の念\"を解消しよう!<br />\r\nもちろんエッチな事に絡む要求も・・・<br />\r\n<br />\r\n■立ち絵エロ7シーン<br />\r\n■街中でのHイベント、淫乱値で進行するエロイベントもあり<br />\r\n<br />\r\n★四魔将の刺客が街を襲う!<br />\r\n<br />\r\n■二段階敗北エロイベント8シーン<br />\r\n<br />\r\n★四魔将に負けると敗北エロ&amp;バッドエンド<br />\r\n★魔物化、悪堕ち、催○フタナリなど<br />\r\n<br />\r\n★日数制、負の念を養分に成長する魔獣の卵が30日目にふ化!?<br />\r\n<br />\r\n■基本HCG32枚、戦闘エロ・立ち絵エロ・イベントエロ全62+没1シーン。<br />\r\nプレイ時間約2～3時間。<br />\r\n<br />\r\n■二週目引継ぎ、回想、グッドEND、バッドEND等あり。"
+    }
+   ]
+  }
+ ],
+ "description": "★街の平和のためにエンジェル・フィーリアに変身し、\r\n悪魔と闘う正義のヒロインゆきの物語!!",
+ "short_introduction": "★街の平和のためにエンジェル・フィーリアに変身し、\r\n悪魔と闘う正義のヒロインゆきの物語!!",
+ "options": [
+  "MS2",
+  "TRI",
+  "REV"
+ ],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ204697.html",
+ "site_id": "maniax",
+ "fetched_at": 1794964850
+}

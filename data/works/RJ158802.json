@@ -1,0 +1,182 @@
+{
+ "id": "RJ158802",
+ "title": "WWII英雄列伝 最強の虎 クルト・クニスペル",
+ "title_romaji": "daburyuudaburyuutsuueiyuuretsudensaikyounotorakurutokunisuperu",
+ "circle": {
+  "id": "RG12248",
+  "name": "ふらいんぐパンジャンドラム",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG12248.html"
+ },
+ "type": {
+  "code": "SLN",
+  "name": "シミュレーション",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "all",
+ "sex": 1,
+ "price": {
+  "jpy": 2640,
+  "official_jpy": 2640,
+  "currencies": {
+   "USD": 16.563884833316497,
+   "EUR": 15.061271992880126,
+   "GBP": 12.546568442243725,
+   "TWD": 545.5221721701037,
+   "CNY": 110.58425347251311,
+   "KRW": 22129.086336965633,
+   "IDR": 302787.01685973164,
+   "VND": 425943.8528557599,
+   "THB": 560.4500583802145,
+   "SEK": 167.58819011102716,
+   "HKD": 129.96475198393165,
+   "SGD": 21.349015155374737,
+   "CAD": 23.67950861431821,
+   "MYR": 67.80479410714699,
+   "BRL": 95.87832169355981,
+   "AUD": 24.587736307704343,
+   "PHP": 1055.8732952045755,
+   "MXN": 305.46716806479606,
+   "NZD": 30.129075699302692,
+   "INR": 1548.8413024347317
+  }
+ },
+ "point": {
+  "point_amount": 144,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1437750000,
+ "file": {
+  "type": "EXE",
+  "size": 559509661
+ },
+ "tags": [
+  {
+   "key": "055",
+   "name": "感動"
+  },
+  {
+   "key": "052",
+   "name": "燃え"
+  },
+  {
+   "key": "304",
+   "name": "おやじ"
+  },
+  {
+   "key": "081",
+   "name": "軍服"
+  },
+  {
+   "key": "034",
+   "name": "戦場"
+  },
+  {
+   "key": "009",
+   "name": "ミリタリー"
+  }
+ ],
+ "languages": [
+  "JPN"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [],
+ "rating": {
+  "average": 4.7,
+  "count": 179
+ },
+ "review_count": 2,
+ "dl_count": 377,
+ "wishlist_count": 208,
+ "ranking": [],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ159000/RJ158802_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ159000/RJ158802_img_main_240x240.jpg",
+  "samples": [
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ159000/RJ158802_img_smp1.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ159000/RJ158802_img_smp2.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ159000/RJ158802_img_smp3.jpg"
+  ],
+  "sample_thumbs": [
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ159000/RJ158802_img_smp1_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ159000/RJ158802_img_smp2_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ159000/RJ158802_img_smp3_100x100.jpg"
+  ],
+  "alt": "WWII英雄列伝 最強の虎 クルト・クニスペル [ふらいんぐパンジャンドラム]"
+ },
+ "introductions": [
+  {
+   "type": "text",
+   "title": "",
+   "body": [
+    {
+     "intro": "その男を超える者は歴史上二度と現れないであろう。<br />\r\n敵戦車撃破数公式記録168両、非公式を含めると190両を超える戦車を撃破したとされ、その驚異的な記録とは裏腹に謎に包まれた伝説の戦車エース、クルト・クニスペルの戦歴を追体験する歴史戦術SLG。<br />\r\n<br />\r\n<br />\r\n◆システム<br />\r\n「へべれけ! ～すすめ 赤軍少女旅団!～」をベースに改良を加え、リアルよりに調整したシステムを採用。<br />\r\n<br />\r\n・移動や射撃で変化するステルス値を元にしたリアルな発見判定。<br />\r\n・戦況に応じた部隊の投入が勝利への近道。<br />\r\n・部隊の装備をカスタマイズ可能。<br />\r\n・技術ツリーを進めて兵器開発。<br />\r\n・制空権の高低によって航空攻撃が発生。<br />\r\n・装甲値が命中角度で変化。<br />\r\n・レベルやスキルといったRPG的な要素を採用。<br />\r\n・高速化モードなど快適性の向上。<br />\r\n・3Dアニメによる演出。<br />\r\n<br />\r\n<br />\r\n◆シナリオ<br />\r\n・アドベンチャーパートがステージ間に挿入され、主人公クニスペルはじめ仲間達との会話、当時の悲喜交々のエピソードを楽しむことができる。 <br />\r\n<br />\r\n<br />\r\n◆約30項目に及ぶ史実解説<br />\r\n複雑な歴史背景や兵器に関する解説を用意。本作のオリジナルヒロインがゲストキャラも交えて丁寧に解説。<br />\r\n<br />\r\n<br />\r\n◆大ボリューム<br />\r\n製品版はクリアまで約20時間の大ボリューム。<br />\r\n体験板もかなりのボリューム。"
+    }
+   ]
+  },
+  {
+   "type": "text_list",
+   "title": "主要参考文献（文字数制限のため一部切れているものあり）",
+   "body": [
+    {
+     "intro": "Feldwebel Kurt Knispel: Der erfolgreichste Panzerschuetze und Panzerkommandant des 2. Weltkrieges"
+    },
+    {
+     "intro": "Panzer Aces II: Battle Stories of German Tank Commanders in World War II"
+    },
+    {
+     "intro": "Im Panzer IV und Tiger an der Ostfront: Das persoenliche Kriegstagebuch des Alfred Rubbel Dezember "
+    },
+    {
+     "intro": "The Tiger Project: A Series Devoted to Germanys World War II Tiger Tank Crews: Book One - Alfred Rub"
+    },
+    {
+     "intro": "The Combat History of German Tiger Tank Battalion 503 in World War II"
+    },
+    {
+     "intro": "ドイツ戦車発達史 (戦車ものしり大百科)"
+    },
+    {
+     "intro": "PANZERGRENADIER DIVISIONS―1939-45 装甲擲弾兵師団 THE SPELLMOUNT VEHICLE IDENTIFICATION GUIDE"
+    },
+    {
+     "intro": "重戦車大隊記録集〈1〉陸軍編"
+    },
+    {
+     "intro": "ティーガー―無敵戦車の伝説 1942~45〈上巻〉"
+    },
+    {
+     "intro": "ティーガー―無敵戦車の伝説 1942~45〈下巻〉"
+    },
+    {
+     "intro": "Combat History of Schwere Panzer-Abteilung 503: In Action in the East and West with the Tiger I and "
+    }
+   ]
+  }
+ ],
+ "description": "第二次大戦で最大の戦車撃破数をあげた英雄クルト・クニスペルの戦歴を描くSLG。",
+ "short_introduction": "第二次大戦で最大の戦車撃破数をあげた英雄クルト・クニスペルの戦歴を描くSLG。",
+ "options": [
+  "MS2",
+  "TRI",
+  "REV",
+  "ORW"
+ ],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ158802.html",
+ "site_id": "home",
+ "fetched_at": 1794966506
+}

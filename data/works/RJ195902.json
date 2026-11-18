@@ -1,0 +1,139 @@
+{
+ "id": "RJ195902",
+ "title": "GravityFighter～retry",
+ "title_romaji": "gurabithiifwaitaaritorai",
+ "circle": {
+  "id": "RG05683",
+  "name": "DigitalDimension",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG05683.html"
+ },
+ "type": {
+  "code": "ACN",
+  "name": "アクション",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "r18",
+ "sex": 1,
+ "price": {
+  "jpy": 1760,
+  "official_jpy": 1760,
+  "currencies": {
+   "USD": 11.042589888877664,
+   "EUR": 10.040847995253419,
+   "GBP": 8.364378961495817,
+   "TWD": 363.68144811340244,
+   "CNY": 73.72283564834207,
+   "KRW": 14752.724224643754,
+   "IDR": 201858.0112398211,
+   "VND": 283962.5685705066,
+   "THB": 373.6333722534763,
+   "SEK": 111.72546007401812,
+   "HKD": 86.64316798928776,
+   "SGD": 14.232676770249824,
+   "CAD": 15.78633907621214,
+   "MYR": 45.20319607143133,
+   "BRL": 63.918881129039875,
+   "AUD": 16.39182420513623,
+   "PHP": 703.9155301363836,
+   "MXN": 203.64477870986406,
+   "NZD": 20.086050466201794,
+   "INR": 1032.5608682898212
+  }
+ },
+ "point": {
+  "point_amount": 96,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1488812400,
+ "file": {
+  "type": "EXE",
+  "size": 380465513
+ },
+ "tags": [
+  {
+   "key": "509",
+   "name": "3D作品"
+  }
+ ],
+ "languages": [
+  "JPN"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [],
+ "rating": {
+  "average": 4.24,
+  "count": 166
+ },
+ "review_count": 3,
+ "dl_count": 394,
+ "wishlist_count": 373,
+ "ranking": [
+  {
+   "category": "all",
+   "period": "day",
+   "rank": 21,
+   "date": "2017-03-08"
+  }
+ ],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ196000/RJ195902_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ196000/RJ195902_img_main_240x240.jpg",
+  "samples": [
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ196000/RJ195902_img_smp1.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ196000/RJ195902_img_smp2.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ196000/RJ195902_img_smp3.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ196000/RJ195902_img_smp4.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ196000/RJ195902_img_smp5.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ196000/RJ195902_img_smp6.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ196000/RJ195902_img_smp7.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ196000/RJ195902_img_smp8.jpg"
+  ],
+  "sample_thumbs": [
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ196000/RJ195902_img_smp1_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ196000/RJ195902_img_smp2_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ196000/RJ195902_img_smp3_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ196000/RJ195902_img_smp4_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ196000/RJ195902_img_smp5_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ196000/RJ195902_img_smp6_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ196000/RJ195902_img_smp7_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ196000/RJ195902_img_smp8_100x100.jpg"
+  ],
+  "alt": "GravityFighter～retry [DigitalDimension]"
+ },
+ "introductions": [
+  {
+   "type": "text",
+   "title": "",
+   "body": [
+    {
+     "intro": "前作GravityFighterのリメイク版です。<br />\r\n<br />\r\n内容は前作GravityFighterの紹介画面をご覧下さい。<br />\r\n<br />\r\nGravityFighterからの変更点<br />\r\n<br />\r\n○キャラクターエディット機能の振り幅を増加。<br />\r\n<br />\r\n○首めり込み防止。<br />\r\n<br />\r\n○ゲームパット対応。<br />\r\n<br />\r\n○チチ揺れの強化。<br />\r\n<br />\r\n○自キャラ飛行機能(静止可)。<br />\r\n<br />\r\n○ゲームパッドでの操作対応。<br />\r\n<br />\r\n○ゲームパッド対応に伴い一部操作性の変更。<br />\r\n・格闘時正面ではなく自分が向いている方向に攻撃を繰り出す<br />\r\n・格闘中もジャンプ可能<br />\r\n・ダッシュ中クイックターン可能<br />\r\n・落下時も方向転換可能<br />\r\n・攻撃ヒット当たり判定の緩和<br />\r\n・離れてる場所からの攻撃可能<br />\r\n・離れてる場所からの攻撃可能<br />\r\n<br />\r\n○各部所に標識を設置。(方角が分からなくならないための対策)<br />\r\n<br />\r\n○ピストンの速さ調節機能。<br />\r\n<br />\r\n○股間周り、尻の動作制御の見直し。モデリング一部修正。<br />\r\n<br />\r\n○チチ揺れロジック見直し。<br />\r\n<br />\r\n○トイレ、チェックポイントを追加。<br />\r\n<br />\r\n○攻略ルートの大幅変更<br />\r\n<br />\r\n○見えない壁で吹っ飛び防止。<br />\r\n<br />\r\n○便意の概念を追加。<br />\r\n<br />\r\n○敵の大きさを色の違いでわかるようにしました。黄色い肌の巨人や、緑の巨人が現れます。<br />\r\n<br />\r\n○自キャラの連続気弾発射武器を追加。<br />\r\n<br />\r\n○ミニゲームを追加。<br />\r\n・無双組手　20人、40人、60人、80人、100人。<br />\r\n・ラグスタジアム　Lv1～4　(女体をゴールポストに放り込むゲーム)<br />\r\n・タイムトライアル　4ステージX4レベル(女体を倒してタイムを稼ぐレース)<br />\r\n・ラグゴルフ(女体をゴルフクラブでなぐるゲーム。1ステージ6ホール)<br />\r\n<br />\r\n○外壁の透明な壁を近づいた時だけ可視化。<br />\r\n<br />\r\n○一度通ったチェックポイントはクリア前でも移動可能<br />\r\n<br />\r\n○ラストステージの最後にシーンを追加。<br />\r\n<br />\r\n○衣装の追加(11セット)<br />\r\n<br />\r\n○衣装がセットでしか選択できなかったのを、ばらばらでコーディネート可能。<br />\r\n<br />\r\n○衣装クローゼット機能を追加。<br />\r\n<br />\r\nクリア後<br />\r\n○クリア後トラップや敵を好きな場所、好きな大きさで設置可能。<br />\r\n<br />\r\n○配置する敵の動作を、気絶しっぱなし、気絶なしで突っ立ったまま、罠に引っかかったら解除なし、など選択可能。<br />\r\n<br />\r\n○服の破壊レベルをスライドバーで設定可能<br />\r\n<br />\r\n○便意の頻度を調節、垂れ流し、表示時間、物理挙動時間範囲を設定可能<br />\r\n<br />\r\n<br />\r\n<br />\r\nバグ関連<br />\r\n○エスケープ画面のバグ修正。<br />\r\n<br />\r\n○乗車時、ラジコン視点になってしまうバグを修正。<br />\r\n<br />\r\n○武器の弾がセーブされないバグを修正。　<br />\r\n<br />\r\n○セーブデータが壊れるバグを修正。<br />\r\n※(セーブデータ改善のため、旧セーブデータとの互換性がなくなってしまいました。)<br />\r\n<br />\r\n<br />\r\n真のGravityFighterをご体感下さい。<br />\r\n<br />\r\n<br />\r\nバージョン更新履歴<br />\r\n<br />\r\nver1.11<br />\r\n空中浮遊中便意が100になった時制御不能に陥るバグを修正。<br />\r\nトラップで制御不能に陥るバグを修正。<br />\r\nゲーム開始時、セーブデータが読み込めないバグを修正。<br />\r\n物理挙動全般の見直し。<br />\r\n丸太責めトラップでの暴れ軽減処置。<br />\r\n道場で外に飛ばされるバグを修正。<br />\r\nゲームオプションでライティング固定を選択可能。<br />\r\n動作を軽くするため、死んだがん細胞がフィールドにとどまる時間を軽減。<br />\r\n中途半端な設置オプションを修正、ボトムとパンツも選択可能。<br />\r\n乗車トリガーの拡大。<br />\r\nタイムトライアル中のデイオプション追加。<br />\r\n乗車時エスケープを押してから車を降りたとき制御不能に陥るバグを修正。<br />\r\nがん細胞出現数上限を設定可能。ローエンド対応。<br />\r\nタイムトライアルでリトライ機能を追加。<br />\r\nロケットランチャーが近くの敵に当てにくかったのですが、もう少し近くで反応するようにしました。<br />\r\nゲームオプションで、がん細胞の肌設定を3種選択可能(肌色、旧バージョン、新バージョン)。<br />\r\nBGMの音量調節機能。<br />\r\n格闘攻撃ヒット検出ロジックの見直し。<br />\r\nXBOXコントローラーの対応。<br />\r\nオプションメニューから。XBOXコントローラー対応、非対応を選択可能。<br />\r\n<br />\r\n<br />\r\nver1.11’<br />\r\n<br />\r\nver1.11の変更により、ミニゲームステージでの敵の出現数が極端に減少する不具合を修正。<br />\r\n降車中エスケープを押すと制御不能になるバグを修正。<br />\r\n一部がん細胞の服の表示がおかしい不具合を修正。<br />\r\nカメラの角度によって巨大がん細胞が禿るバグを修正。<br />\r\nがん細胞死亡時の設定、昇天、土還の選択機能追加(土に埋める処理の方が処理が軽くなります)。<br />\r\nがん細胞死亡時のフィールドにとどまる時間を設定可能。<br />\r\n トラップでがん細胞が死んだ時、「いく～～～」をすべてのサイズに反映(昇天固定)<br />\r\nボリューム変更をセーブに反映させる。<br />\r\nセーブ初期読み込みの変更。初期配布時はGameData.txtを削除し、GameDataフォルダごと上書きで前データを読み込めるようにしました。<br />\r\nラストステージで巨大女体出現時の不具合を修正。<br />\r\n<br />\r\n<br />\r\nver1.12<br />\r\n一定レベルから、気絶中の自キャラ誘導を本ステージでも可能。<br />\r\n空中で地上のトラップに引っかからない。<br />\r\n誘導ロケットのターゲットを2秒で解除。<br />\r\n本ステージに2箇所のゲートを設け、一定条件を満たしてないと通れないようにしました。<br />\r\n強引推し進めプレイにより後半クリアが困難になる事の防止策として<br />\r\n上記の二つのゲートさえクリアしましたらラストステージ手前まで敵を無視してダッシュでもクリアできるようにしました。<br />\r\n ※レベルが上がらないので推奨はしませんが、「ミニゲームも要らん、さっさとエロを見せろ」という方向けです。本ゲーム最大の9600メートルの女体を見ることもできません<br />\r\n強引推し進めプレイ防止策に伴い武器強化必須レベルの緩和。<br />\r\n敵の出現数の縮小により、本ステージでのレベル上げが遅くなったため、ミニゲームを含め全体的な、レベル設定の見直し。<br />\r\n(武器の購入必須レベルを大幅引き下げ)<br />\r\n<br />\r\n【バグ対応】<br />\r\n蹴り飛ばしが失敗しにくい様に検出範囲の見直し。<br />\r\nタイムトライアルステージで水面下、または地面の下にカメラが潜った時照準が合わないバグを修正。<br />\r\n1.11’の物理変更により一部の敵が不自然な飛び方をするバグ。<br />\r\n巨大女体の上を移動中ポーズが変わる時振り落とされない処置。<br />\r\nエリアジャンプボタンを押した時の反応を軽くしました。<br />\r\n全エリアおよびミニゲームステージでエリア外へ出ないための処置。<br />\r\n踏み込みボタン式の橋で最後まで渡りきる手前で上げてたのをやめました。<br />\r\n(ほかの部分のコードの変更により普通より早く起き上がってしまい、緩和したつもりが逆に渡れなくなってしまってた為、ボタンに置かれたがん細胞は強○気絶しっぱなしにしました)<br />\r\n<br />\r\n<br />\r\n<br />\r\n【セーブデータにつきまして。】<br />\r\nバージョンアップの際は、お手数ですが、前バージョンの[GravityFighter_retry_Data]内の[GameData]フォルダごと、新しいバージョンの[GravityFighter_retry_Data]フォルダ内に上書きしてお使いください。<br />\r\n<br />\r\n[modelData]フォルダを追加してありますが、変更済みのモデルデータは操作しなくても自動で反映します。<br />\r\n<br />\r\n<br />\r\n※素人による個人作品ですので、サポートしきれない場合があります。<br />\r\n　必ず体験版で動作確認を行ってください。"
+    }
+   ]
+  }
+ ],
+ "description": "前作GravityFighterのリメイク版です。",
+ "short_introduction": "前作GravityFighterのリメイク版です。",
+ "options": [
+  "MS2",
+  "TRI",
+  "REV"
+ ],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ195902.html",
+ "site_id": "maniax",
+ "fetched_at": 1794965096
+}

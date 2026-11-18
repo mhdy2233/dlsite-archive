@@ -1,0 +1,141 @@
+{
+ "id": "RJ174658",
+ "title": "グリズリーのいる日常",
+ "title_romaji": "gurizuriinoirunichijou",
+ "circle": {
+  "id": "RG33327",
+  "name": "すたじおレギオン",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG33327.html"
+ },
+ "type": {
+  "code": "DNV",
+  "name": "デジタルノベル",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "all",
+ "sex": 1,
+ "price": {
+  "jpy": 770,
+  "official_jpy": 770,
+  "currencies": {
+   "USD": 4.831133076383979,
+   "EUR": 4.39287099792337,
+   "GBP": 3.6594157956544198,
+   "TWD": 159.11063354961357,
+   "CNY": 32.253740596149655,
+   "KRW": 6454.316848281643,
+   "IDR": 88312.87991742173,
+   "VND": 124233.62374959663,
+   "THB": 163.46460036089587,
+   "SEK": 48.87988878238293,
+   "HKD": 37.90638599531339,
+   "SGD": 6.226796086984298,
+   "CAD": 6.906523345842811,
+   "MYR": 19.776398281251204,
+   "BRL": 27.964510493954943,
+   "AUD": 7.1714230897471,
+   "PHP": 307.96304443466784,
+   "MXN": 89.09459068556552,
+   "NZD": 8.787647078963285,
+   "INR": 451.74537987679673
+  }
+ },
+ "point": {
+  "point_amount": 42,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1459522800,
+ "file": {
+  "type": "EXE",
+  "size": 49343476
+ },
+ "tags": [
+  {
+   "key": "056",
+   "name": "癒し"
+  },
+  {
+   "key": "232",
+   "name": "OL"
+  },
+  {
+   "key": "304",
+   "name": "おやじ"
+  },
+  {
+   "key": "210",
+   "name": "少年"
+  },
+  {
+   "key": "438",
+   "name": "同棲"
+  },
+  {
+   "key": "008",
+   "name": "日常/生活"
+  }
+ ],
+ "languages": [
+  "JPN"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [],
+ "rating": {
+  "average": 3.64,
+  "count": 14
+ },
+ "review_count": 0,
+ "dl_count": 18,
+ "wishlist_count": 22,
+ "ranking": [],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ175000/RJ174658_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ175000/RJ174658_img_main_240x240.jpg",
+  "samples": [
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ175000/RJ174658_img_smp1.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ175000/RJ174658_img_smp2.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ175000/RJ174658_img_smp3.jpg"
+  ],
+  "sample_thumbs": [
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ175000/RJ174658_img_smp1_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ175000/RJ174658_img_smp2_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ175000/RJ174658_img_smp3_100x100.jpg"
+  ],
+  "alt": "グリズリーのいる日常 [すたじおレギオン]"
+ },
+ "introductions": [
+  {
+   "type": "text",
+   "title": "",
+   "body": [
+    {
+     "intro": "◆◆◆メインシナリオ◆◆◆◆◆<br />\r\n新しい服なんて何シーズンも買っていない、買ったところで会社と家の行き来だけの生活では意味がない。<br />\r\n積まれていくのはコンビニ弁当のパックだけ。<br />\r\n疲れた生活に転がり込んできたのは、厄介でお節介な同居人だった。<br />\r\n無職で、ぐうたらで、そのくせ紳士的で。<br />\r\nそんな彼を見捨てることは何となく憚られ、なし崩し的に同居生活を始めたのだった。<br />\r\n<br />\r\n▼メインルートとなる社会人「アキラ」ルート<br />\r\n<br />\r\n▼その他、ある「同居人」によるルート×2<br />\r\n<br />\r\n<br />\r\n◆◆◆システム◆◆◆◆◆<br />\r\n・システムはティラノスクリプトをベースとし、昨今勢いを増しているLive2Dを試験的に導入した一本道ノベルゲーム。<br />\r\n<br />\r\n・常に新しい刺激を求めるプレイヤーの方々は勿論の事、常日頃よりゲーム開発を行うデベロッパーの方々にも一度触れていただきたい。<br />\r\n<br />\r\n・各シナリオをプレイ毎に新規シナリオが解放される仕様で、同時間軸上の物語を3人の目線から楽しむことができる。<br />\r\n<br />\r\n<br />\r\n◆◆◆動作環境◆◆◆◆◆<br />\r\n本ゲームはティラノスクリプトをベースとして開発されており、動作環境はティラノスクリプトの動作基準に準じています。<br />\r\nまた、windows7・8・8.1・10で動作確認済みです。<br />\r\n<br />\r\n<br />\r\n◆◆◆制作機関概要◆◆◆◆◆<br />\r\n新進気鋭のゲームスタジオ「すたじおレギオン」<br />\r\nその中の理系タッグが送る処女作。<br />\r\n<br />\r\n≪すたじおレギオン理系タッグ≫<br />\r\n・久遠未季<br />\r\n本ゲームではメインシナリオとメインスクリプターを担当。プログラマーとしての実務をこなす他、経理面や機能の実装においてもレギオンの生命線を握る人物。<br />\r\nエンジニアとしての素養に加え'90年代～'00年代前半へのライトノベル界隈への造詣も深く、レギオンの引き出しを充実させるのに一役買っている。<br />\r\n<br />\r\n・有葉米太<br />\r\n本ゲームでは公式サイト制作とイラスト・その他素材などの制作を担当。現役高専生でありながら、多くの作品を並行して手掛けている。<br />\r\n彼自身が主としているのはメカや装飾などの無機物のデザインであり、強い拘りから練られたパーツ群はそのまま彼自身の培ったセンスを表している。"
+    }
+   ]
+  }
+ ],
+ "description": "転がり込んできたのは、厄介でお節介な同居人だった。無職で、ぐうたらで、けれども紳士的で。そんな彼を見捨てることは何となく憚られ、なし崩し的に同居生活を始めたのだった。",
+ "short_introduction": "転がり込んできたのは、厄介でお節介な同居人だった。無職で、ぐうたらで、けれども紳士的で。そんな彼を見捨てることは何となく憚られ、なし崩し的に同居生活を始めたのだった。",
+ "options": [
+  "MS2",
+  "OLY"
+ ],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ174658.html",
+ "site_id": "home",
+ "fetched_at": 1794965926
+}

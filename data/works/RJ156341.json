@@ -1,0 +1,179 @@
+{
+ "id": "RJ156341",
+ "title": "SoulErosion",
+ "title_romaji": "souruiroojon",
+ "circle": {
+  "id": "RG11610",
+  "name": "バッドエンドカンパニー",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG11610.html"
+ },
+ "type": {
+  "code": "RPG",
+  "name": "ロールプレイング",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "r18",
+ "sex": 1,
+ "price": {
+  "jpy": 440,
+  "official_jpy": 440,
+  "currencies": {
+   "USD": 2.760647472219416,
+   "EUR": 2.5102119988133547,
+   "GBP": 2.091094740373954,
+   "TWD": 90.92036202835061,
+   "CNY": 18.430708912085517,
+   "KRW": 3688.1810561609386,
+   "IDR": 50464.50280995527,
+   "VND": 70990.64214262665,
+   "THB": 93.40834306336907,
+   "SEK": 27.93136501850453,
+   "HKD": 21.66079199732194,
+   "SGD": 3.558169192562456,
+   "CAD": 3.946584769053035,
+   "MYR": 11.300799017857832,
+   "BRL": 15.979720282259969,
+   "AUD": 4.097956051284058,
+   "PHP": 175.9788825340959,
+   "MXN": 50.911194677466014,
+   "NZD": 5.0215126165504484,
+   "INR": 258.1402170724553
+  }
+ },
+ "point": {
+  "point_amount": 24,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1433084400,
+ "file": {
+  "type": "EXE",
+  "size": 233056551
+ },
+ "tags": [
+  {
+   "key": "015",
+   "name": "シリアス"
+  },
+  {
+   "key": "048",
+   "name": "寝取られ"
+  },
+  {
+   "key": "016",
+   "name": "ファンタジー"
+  },
+  {
+   "key": "323",
+   "name": "アヘ顔"
+  },
+  {
+   "key": "325",
+   "name": "悪堕ち"
+  }
+ ],
+ "languages": [
+  "JPN"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [],
+ "rating": {
+  "average": 4.12,
+  "count": 497
+ },
+ "review_count": 6,
+ "dl_count": 965,
+ "wishlist_count": 611,
+ "ranking": [
+  {
+   "category": "all",
+   "period": "day",
+   "rank": 5,
+   "date": "2015-06-02"
+  },
+  {
+   "category": "all",
+   "period": "week",
+   "rank": 21,
+   "date": "2015-06-07"
+  }
+ ],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ157000/RJ156341_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ157000/RJ156341_img_main_240x240.jpg",
+  "samples": [
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ157000/RJ156341_img_smp1.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ157000/RJ156341_img_smp2.jpg"
+  ],
+  "sample_thumbs": [
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ157000/RJ156341_img_smp1_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ157000/RJ156341_img_smp2_100x100.jpg"
+  ],
+  "alt": "SoulErosion [バッドエンドカンパニー]"
+ },
+ "introductions": [
+  {
+   "type": "text",
+   "title": "",
+   "body": [
+    {
+     "intro": "いつも自分を想ってくれる大切な妹が、快楽に堕ち、魔に染まり、牙を向く。<br />\r\nそんなシチュエーションを描きたいが為だけに作った、寝取られ・悪堕ちもののRPGです。<br />\r\n<br />\r\n特に難しい謎解き等ははありません。<br />\r\nラストのみ一箇所、選択肢による分岐あり。<br />\r\nハッピーエンドはありませんのでご注意ください。<br />\r\n<br />\r\nプレイ時間:1時間30分～2時間程度<br />\r\nHCG枚数:基本19枚 + 差分19枚　計38枚<br />\r\n<br />\r\n本作品は「RPGツクールVX Ace」を使用して作成しております。<br />\r\n動作環境は「RPGツクールVX Ace」の製品仕様に準じます。<br />\r\n<br />\r\n●更新履歴<br />\r\n・Ver1.01　2015/06/03　シナリオ終了後に入れる、回想ルームを追加しました。<br />\r\n・Ver1.02　2015/06/21　教会の十字架を調べるとメッセージが表示されて、ストーリー進行が不可になる不具合を修正しました。<br />\r\n<br />\r\n●ストーリー<br />\r\n家を失い、各地を転々としながら寄り添うように二人で生きてきたベルフ(名前変更可能)とエルナ。<br />\r\nふと立ち寄ったのは、既に廃墟となった街。<br />\r\nそこで出会ったのは、行方不明者の捜索に来ていたカリスとティア。<br />\r\n二人と一緒に行方不明者を捜索する事になるが、<br />\r\nそれは苦しいながらも幸せな生活を送っていた二人への、破滅の合図だった。"
+    }
+   ]
+  },
+  {
+   "type": "image_list",
+   "title": "●キャラクター",
+   "body": [
+    {
+     "intro": "・エルナ<br />\r\n本作のヒロイン。ベルフの妹。<br />\r\n家を追われて以来、兄であるベルフだけを頼りに生きてきた。<br />\r\nベルフを誰よりも大切に思っている。",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ157000/RJ156341/RJ156341_PTS0000008212_1.jpg",
+      "alt": "SoulErosion [バッドエンドカンパニー]",
+      "title": "SoulErosion [バッドエンドカンパニー]"
+     }
+    },
+    {
+     "intro": "・ティア<br />\r\nもう一人のヒロイン。<br />\r\n廃墟となった街で出会った少女。",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ157000/RJ156341/RJ156341_PTS0000008212_2.jpg",
+      "alt": "SoulErosion [バッドエンドカンパニー]",
+      "title": "SoulErosion [バッドエンドカンパニー]"
+     }
+    },
+    {
+     "intro": "・ベルフ(名前変更可能)<br />\r\n本作の主人公。<br />\r\n元貴族だが、父親が敵国と通じていた疑いで家を追われ、<br />\r\nそれ以来妹のエルナと二人きりで生きてきた。<br />\r\nエルナを何よりも大切に思っている。",
+     "image_info": null
+    },
+    {
+     "intro": "・カリス<br />\r\n行方不明者捜索の依頼を受けて、<br />\r\nティアと共に廃墟の街に訪れた傭兵。<br />\r\n自分の腕には絶対の自信を持っている。",
+     "image_info": null
+    }
+   ]
+  }
+ ],
+ "description": "いつも自分を想ってくれる大切な妹が、快楽に堕ち、魔に染まり、牙を向く。\r\nそんなシチュエーションを描きたいが為だけに作った、寝取られ・悪堕ちもののRPGです。",
+ "short_introduction": "いつも自分を想ってくれる大切な妹が、快楽に堕ち、魔に染まり、牙を向く。\r\nそんなシチュエーションを描きたいが為だけに作った、寝取られ・悪堕ちもののRPGです。",
+ "options": [
+  "MS2",
+  "REV",
+  "ORW"
+ ],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ156341.html",
+ "site_id": "maniax",
+ "fetched_at": 1794966629
+}

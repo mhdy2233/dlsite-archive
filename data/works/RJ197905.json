@@ -1,0 +1,108 @@
+{
+ "id": "RJ197905",
+ "title": "バレットリポート",
+ "title_romaji": "barettoripooto",
+ "circle": {
+  "id": "RG22222",
+  "name": "AQUA STYLE",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG22222.html"
+ },
+ "type": {
+  "code": "ACN",
+  "name": "アクション",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "all",
+ "sex": 1,
+ "price": {
+  "jpy": 1100,
+  "official_jpy": 1100,
+  "currencies": {
+   "USD": 6.90161868054854,
+   "EUR": 6.275529997033386,
+   "GBP": 5.227736850934885,
+   "TWD": 227.30090507087652,
+   "CNY": 46.076772280213795,
+   "KRW": 9220.452640402347,
+   "IDR": 126161.25702488818,
+   "VND": 177476.60535656664,
+   "THB": 233.5208576584227,
+   "SEK": 69.82841254626132,
+   "HKD": 54.15197999330485,
+   "SGD": 8.89542298140614,
+   "CAD": 9.866461922632588,
+   "MYR": 28.251997544644578,
+   "BRL": 39.94930070564992,
+   "AUD": 10.244890128210143,
+   "PHP": 439.94720633523974,
+   "MXN": 127.27798669366503,
+   "NZD": 12.553781541376122,
+   "INR": 645.3505426811382
+  }
+ },
+ "point": {
+  "point_amount": 60,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1493218800,
+ "file": {
+  "type": "EXE",
+  "size": 318964829
+ },
+ "tags": [],
+ "languages": [
+  "JPN"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [],
+ "rating": {
+  "average": 4.58,
+  "count": 69
+ },
+ "review_count": 1,
+ "dl_count": 178,
+ "wishlist_count": 198,
+ "ranking": [],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ198000/RJ197905_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ198000/RJ197905_img_main_240x240.jpg",
+  "samples": [],
+  "sample_thumbs": [],
+  "alt": "バレットリポート [AQUA STYLE]"
+ },
+ "introductions": [
+  {
+   "type": "text",
+   "title": "",
+   "body": [
+    {
+     "intro": "東方Projectのダンジョン探索アクションゲームです。<br />\r\n<br />\r\n<br />\r\nここは、幻想郷の魑魅魍魎があつまる危険処―「妖怪の山」<br />\r\n<br />\r\n<br />\r\nその山に住む「天狗」の射命丸文は日夜この山は元より、幻想郷の事件を記事にして「文々。新聞」を発行している。<br />\r\n今日はいつものように、事件は無いか、ないなら何を捏造してネタにしようか考えていた。<br />\r\n<br />\r\nそんな折、白狼天狗の犬走椛が慌てて文の元へやって来た。<br />\r\n<br />\r\n哨戒天狗曰く、最近この妖怪の山では頭に花が生えた奇妙な妖怪が増えているという。<br />\r\nそれも新種の妖怪ではなく、山に居る見慣れた妖怪たちばかりだとか。<br />\r\n<br />\r\n白狼天狗は山の警備をするのが仕事であるものの戦闘能力に関して天狗の中でも下っ端。<br />\r\n得体の知れない異変に一人立ち向かうのでは危険なので、<br />\r\n鴉天狗の文にネタを提供する代わりに仕事を引き受けて欲しいという。<br />\r\n<br />\r\n<br />\r\n―かくして2人の天狗の弾丸調査―バレットリポートが始まった<br />\r\n<br />\r\n<br />\r\n―ゲーム概要―<br />\r\n<br />\r\n1.全ては文さんの部屋から始まります!<br />\r\nキャラ強化やセーブなどを行い取材の準備を整えましょう<br />\r\n<br />\r\n2.取材クエストを選択しましょう!<br />\r\n中には異変の原因が掴める鍵クエストも…<br />\r\n<br />\r\n3.いざ、弾丸取材慣行です!<br />\r\n天狗として妖精なんかに負けないでくださいね!<br />\r\n<br />\r\n4.取材お疲れ様でした!<br />\r\n今回のリポートチェックをしましょう<br />\r\n<br />\r\n5.文さんを強化しましょう!<br />\r\nゲットした経験値とアクセサリで次に備えましょう"
+    }
+   ]
+  }
+ ],
+ "description": "東方Projectのダンジョン探索アクションゲームです。\r\n射命丸文が妖怪の山の異変に挑む!",
+ "short_introduction": "東方Projectのダンジョン探索アクションゲームです。\r\n射命丸文が妖怪の山の異変に挑む!",
+ "options": [
+  "MS2",
+  "REV"
+ ],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ197905.html",
+ "site_id": "home",
+ "fetched_at": 1794965017
+}

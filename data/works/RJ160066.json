@@ -1,0 +1,178 @@
+{
+ "id": "RJ160066",
+ "title": "ミッシングリンク",
+ "title_romaji": "misshingurinku",
+ "circle": {
+  "id": "RG12837",
+  "name": "キューピッドアイス",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG12837.html"
+ },
+ "type": {
+  "code": "RPG",
+  "name": "ロールプレイング",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "r18",
+ "sex": 1,
+ "price": {
+  "jpy": 1980,
+  "official_jpy": 1980,
+  "currencies": {
+   "USD": 12.422913624987373,
+   "EUR": 11.295953994660096,
+   "GBP": 9.409926331682794,
+   "TWD": 409.14162912757774,
+   "CNY": 82.93819010438483,
+   "KRW": 16596.814752724225,
+   "IDR": 227090.26264479873,
+   "VND": 319457.88964181993,
+   "THB": 420.33754378516085,
+   "SEK": 125.69114258327038,
+   "HKD": 97.47356398794874,
+   "SGD": 16.01176136653105,
+   "CAD": 17.759631460738657,
+   "MYR": 50.85359558036024,
+   "BRL": 71.90874127016986,
+   "AUD": 18.440802230778257,
+   "PHP": 791.9049714034315,
+   "MXN": 229.10037604859704,
+   "NZD": 22.59680677447702,
+   "INR": 1161.6309768260487
+  }
+ },
+ "point": {
+  "point_amount": 108,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1448982000,
+ "file": {
+  "type": "EXE",
+  "size": 475648776
+ },
+ "tags": [
+  {
+   "key": "400",
+   "name": "学生"
+  },
+  {
+   "key": "317",
+   "name": "人外娘/モンスター娘"
+  },
+  {
+   "key": "001",
+   "name": "学校/学園"
+  },
+  {
+   "key": "016",
+   "name": "ファンタジー"
+  }
+ ],
+ "languages": [
+  "JPN"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [],
+ "rating": {
+  "average": 4.61,
+  "count": 5497
+ },
+ "review_count": 57,
+ "dl_count": 9389,
+ "wishlist_count": 6455,
+ "ranking": [
+  {
+   "category": "all",
+   "period": "day",
+   "rank": 1,
+   "date": "2015-12-02"
+  },
+  {
+   "category": "all",
+   "period": "week",
+   "rank": 1,
+   "date": "2015-12-04"
+  },
+  {
+   "category": "all",
+   "period": "month",
+   "rank": 2,
+   "date": "2015-12-29"
+  },
+  {
+   "category": "all",
+   "period": "year",
+   "rank": 37,
+   "date": "2015"
+  },
+  {
+   "category": "all",
+   "period": "total",
+   "rank": 454,
+   "date": "2019-02-12"
+  },
+  {
+   "category": "game",
+   "period": "year",
+   "rank": 34,
+   "date": "2015"
+  },
+  {
+   "category": "game",
+   "period": "total",
+   "rank": 413,
+   "date": "2019-01-31"
+  }
+ ],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ161000/RJ160066_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ161000/RJ160066_img_main_240x240.jpg",
+  "samples": [
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ161000/RJ160066_img_smp1.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ161000/RJ160066_img_smp2.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ161000/RJ160066_img_smp3.jpg"
+  ],
+  "sample_thumbs": [
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ161000/RJ160066_img_smp1_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ161000/RJ160066_img_smp2_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ161000/RJ160066_img_smp3_100x100.jpg"
+  ],
+  "alt": "ミッシングリンク [キューピッドアイス]"
+ },
+ "introductions": [
+  {
+   "type": "text",
+   "title": "",
+   "body": [
+    {
+     "intro": "2016/8/25 不具合を修正しました(Ver.1.51)<br />\r\n2016/8/24 追加シナリオ「アナザーワールド」を追加しました。多数のCGシーンを追加しました(Ver.1.50)<br />\r\n2015/12/19 メッセージスキップ機能を追加し、様々なバグ修正、調整を施しました(Ver1.02)<br />\r\n2015/12/9 様々なバグを修正しました(Ver1.01)<br />\r\n<br />\r\n-----------------------------------------------------<br />\r\n当作品は、RPGツクールVXACEを使用して製作されています。<br />\r\nプレイには、あらかじめ「PRGツクールVXACE RTP」のインストール(無料)が必要です。<br />\r\n-----------------------------------------------------<br />\r\n発売後、追加要素やバグ修正などを含めたバージョンアップを予定しております。<br />\r\nゲスト購入をされてしまうと、バージョンアップを含む再ダウンロードが購入後より7日間のみとなってしまうため、ご購入前に、必ずDLsite様への会員登録(無料)をお願いいたします。<br />\r\n-----------------------------------------------------<br />\r\nお買い求めをいただく際、まずは体験版での動作確認をお願いいたします。<br />\r\n-----------------------------------------------------<br />\r\n<br />\r\n<br />\r\n『ミッシングリンク』は、アダルト向け学園ファンタジーRPGです。<br />\r\n<br />\r\n基本CG63枚+ハプニングシーンCG13枚、差分込み計281枚、総プレイ時間30～40時間のボリュームでお届けします。<br />\r\n※追加アップデートにより、基本CG7枚(差分込み29枚)が新たに追加されました!<br />\r\n<br />\r\n<br />\r\n6人のヒロイン、10人のサブキャラクター、数々の女の子モンスターなど、<br />\r\nたくさんの女の子たちと繰り広げられる日常と冒険とエッチを、たっぷりお楽しみください!<br />\r\n<br />\r\n<br />\r\n☆テンポ良くスピーディーなフロントビュー戦闘<br />\r\n当作品では、フロントビュー戦闘を採用しています。<br />\r\n設定可能なオートバトル、早送りなど、快適で爽快感のある戦闘をお楽しみいただけます。<br />\r\n登場する女の子モンスターは全て書きおろしの117種類+α!<br />\r\n<br />\r\n<br />\r\n☆コスチュームチェンジシステム<br />\r\nヒロインたちは、衣装を変更することにより、一部立ち絵や戦闘グラフィックが変化します。<br />\r\n他のキャラクターたちも、季節や状況に応じて衣装が変化し、豊富な立ち絵で物語を盛り上げてくれます。<br />\r\nキャラ×衣装×表情の立ち絵総数は、全858枚!<br />\r\n<br />\r\n<br />\r\n☆ピンチグラフィック<br />\r\n戦闘中ピンチになると、衣装が派手に破れてしまいます!(人間キャラのみ)<br />\r\n<br />\r\n<br />\r\n☆キャラコミュニティ<br />\r\nヒロイン6人と、サブキャラクターの5人とは、日々の交流を重ねる事により、<br />\r\nコミュニティレベルがアップ。<br />\r\nレベルが上がってデートを重ねれば、エッチなイベントが続々発生します。<br />\r\n寮や学園内ではもちろん、海やクリスマスなど、数々のシチュエーションがお楽しみいただけます。<br />\r\n<br />\r\n<br />\r\n☆女の子モンスターともできちゃう<br />\r\n一部の女の子モンスターとは、専用クエストをクリアすることによりエッチができます。<br />\r\nおしおきだったり、逆にモンスター主体にやられちゃったり・・・?<br />\r\n<br />\r\n<br />\r\n☆エロハプニング<br />\r\n着替え中に突入、胸チラ、スカートめくりなど、日常の中で様々なハプニングに遭遇することも・・・<br />\r\n<br />\r\n<br />\r\n☆他にも、<br />\r\n・CGギャラリーモード<br />\r\n・立ち絵が裸に見えちゃう「みるみるメガネ」<br />\r\n・悪魔図鑑<br />\r\n・ミニゲームとして「対戦カードゲーム」<br />\r\nなどなど、豊富な要素が盛りだくさんです!"
+    }
+   ]
+  }
+ ],
+ "description": "Hな要素が盛りだくさんのアダルト向け学園ファンタジーRPGです!",
+ "short_introduction": "Hな要素が盛りだくさんのアダルト向け学園ファンタジーRPGです!",
+ "options": [
+  "MS2",
+  "TRI",
+  "REV",
+  "RegionHiddenFilter"
+ ],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ160066.html",
+ "site_id": "maniax",
+ "fetched_at": 1794966214
+}

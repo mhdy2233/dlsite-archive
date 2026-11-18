@@ -1,0 +1,142 @@
+{
+ "id": "RJ192354",
+ "title": "Dei Gratia in the fifth day: Dei Gratia no Rashinban",
+ "title_romaji": "",
+ "circle": {
+  "id": "RG36322",
+  "name": "カタリスト",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG36322.html"
+ },
+ "type": {
+  "code": "ADV",
+  "name": "アドベンチャー",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "all",
+ "sex": 1,
+ "price": {
+  "jpy": 2200,
+  "official_jpy": 2200,
+  "currencies": {
+   "USD": 13.80323736109708,
+   "EUR": 12.551059994066772,
+   "GBP": 10.45547370186977,
+   "TWD": 454.60181014175305,
+   "CNY": 92.15354456042759,
+   "KRW": 18440.905280804694,
+   "IDR": 252322.51404977636,
+   "VND": 354953.2107131333,
+   "THB": 467.0417153168454,
+   "SEK": 139.65682509252264,
+   "HKD": 108.3039599866097,
+   "SGD": 17.79084596281228,
+   "CAD": 19.732923845265177,
+   "MYR": 56.503995089289155,
+   "BRL": 79.89860141129984,
+   "AUD": 20.489780256420286,
+   "PHP": 879.8944126704795,
+   "MXN": 254.55597338733006,
+   "NZD": 25.107563082752243,
+   "INR": 1290.7010853622764
+  }
+ },
+ "point": {
+  "point_amount": 120,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1484060400,
+ "file": {
+  "type": "EXE",
+  "size": 1481991344
+ },
+ "tags": [
+  {
+   "key": "010",
+   "name": "SF"
+  },
+  {
+   "key": "022",
+   "name": "サスペンス"
+  },
+  {
+   "key": "298",
+   "name": "ミステリー"
+  }
+ ],
+ "languages": [
+  "JPN"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [],
+ "rating": {
+  "average": 4.77,
+  "count": 13
+ },
+ "review_count": 0,
+ "dl_count": 122,
+ "wishlist_count": 122,
+ "ranking": [],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ193000/RJ192354_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ193000/RJ192354_img_main_240x240.jpg",
+  "samples": [
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ193000/RJ192354_img_smp1.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ193000/RJ192354_img_smp2.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ193000/RJ192354_img_smp3.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ193000/RJ192354_img_smp4.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ193000/RJ192354_img_smp5.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ193000/RJ192354_img_smp6.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ193000/RJ192354_img_smp7.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ193000/RJ192354_img_smp8.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ193000/RJ192354_img_smp9.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ193000/RJ192354_img_smp10.jpg"
+  ],
+  "sample_thumbs": [
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ193000/RJ192354_img_smp1_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ193000/RJ192354_img_smp2_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ193000/RJ192354_img_smp3_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ193000/RJ192354_img_smp4_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ193000/RJ192354_img_smp5_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ193000/RJ192354_img_smp6_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ193000/RJ192354_img_smp7_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ193000/RJ192354_img_smp8_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ193000/RJ192354_img_smp9_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ193000/RJ192354_img_smp10_100x100.jpg"
+  ],
+  "alt": "Dei Gratia in the fifth day: Dei Gratia no Rashinban [カタリスト]"
+ },
+ "introductions": [
+  {
+   "type": "text",
+   "title": "",
+   "body": [
+    {
+     "intro": "Dei Gratia in the fifth day (\"Dei Gratia no Rashinban\")<br />\r\n<br />\r\n\"By what means could those girls have escaped the depths of the sea alive.<br />\r\nPerhaps, had they made other choices, the result may have been different?\"<br />\r\n<br />\r\nAugust 1st 2033<br />\r\nA deep sea cruise submarine sinks to the <br />\r\nmurky ocean floor 700m below the surface<br />\r\n<br />\r\n50 lives were lost in an instant.<br />\r\nThe remaining passengers, left to figure out the path to their survival.<br />\r\n<br />\r\nBut, at the depths of the ocean, there <br />\r\nexisted a threat they had never imagined.<br />\r\n<br />\r\nAn eternal replay of records and memories...<br />\r\nCan the fragment of \"two survivors\", save them in the end?<br />\r\n<br />\r\n\"Who lives, who dies, you are the one that decides.\"<br />\r\n<br />\r\nThis is a novel game with no correct answer."
+    }
+   ]
+  }
+ ],
+ "description": "SF suspense novel game which takes place on a sunken submarine. Who will survive, who will not. Only two......? &quot;You are the one that decides.&quot; There is no correct answer.",
+ "short_introduction": "SF suspense novel game which takes place on a sunken submarine. Who will survive, who will not. Only two......? &quot;You are the one that decides.&quot; There is no correct answer.",
+ "options": [
+  "MS2"
+ ],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ192354.html",
+ "site_id": "home",
+ "fetched_at": 1794965228
+}

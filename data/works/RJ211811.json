@@ -1,0 +1,132 @@
+{
+ "id": "RJ211811",
+ "title": "エルフたちの楽園",
+ "title_romaji": "erufutachinorakuen",
+ "circle": {
+  "id": "RG22717",
+  "name": "ネロンソフト",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG22717.html"
+ },
+ "type": {
+  "code": "RPG",
+  "name": "ロールプレイング",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "r18",
+ "sex": 1,
+ "price": {
+  "jpy": 6600,
+  "official_jpy": 6600,
+  "currencies": {
+   "USD": 41.40971208329124,
+   "EUR": 37.653179982200314,
+   "GBP": 31.366421105609316,
+   "TWD": 1363.8054304252591,
+   "CNY": 276.4606336812828,
+   "KRW": 55322.71584241408,
+   "IDR": 756967.5421493291,
+   "VND": 1064859.6321393996,
+   "THB": 1401.125145950536,
+   "SEK": 418.9704752775679,
+   "HKD": 324.9118799598291,
+   "SGD": 53.37253788843684,
+   "CAD": 59.19877153579552,
+   "MYR": 169.51198526786746,
+   "BRL": 239.6958042338995,
+   "AUD": 61.46934076926086,
+   "PHP": 2639.6832380114383,
+   "MXN": 763.6679201619902,
+   "NZD": 75.32268924825674,
+   "INR": 3872.1032560868293
+  }
+ },
+ "point": {
+  "point_amount": 360,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1510930800,
+ "file": {
+  "type": "EXE",
+  "size": 574399100
+ },
+ "tags": [
+  {
+   "key": "056",
+   "name": "癒し"
+  },
+  {
+   "key": "051",
+   "name": "萌え"
+  },
+  {
+   "key": "210",
+   "name": "少年"
+  }
+ ],
+ "languages": [
+  "JPN"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [],
+ "rating": {
+  "average": 4.04,
+  "count": 46
+ },
+ "review_count": 0,
+ "dl_count": 88,
+ "wishlist_count": 678,
+ "ranking": [],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ212000/RJ211811_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ212000/RJ211811_img_main_240x240.jpg",
+  "samples": [
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ212000/RJ211811_img_smp1.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ212000/RJ211811_img_smp2.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ212000/RJ211811_img_smp3.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ212000/RJ211811_img_smp4.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ212000/RJ211811_img_smp5.jpg"
+  ],
+  "sample_thumbs": [
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ212000/RJ211811_img_smp1_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ212000/RJ211811_img_smp2_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ212000/RJ211811_img_smp3_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ212000/RJ211811_img_smp4_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ212000/RJ211811_img_smp5_100x100.jpg"
+  ],
+  "alt": "エルフたちの楽園 [ネロンソフト]"
+ },
+ "introductions": [
+  {
+   "type": "text",
+   "title": "",
+   "body": [
+    {
+     "intro": "◆エルフたちの楽園<br />\r\nオリジナルのRPGです。<br />\r\n<br />\r\n◆ストーリー<br />\r\nエルフの里に迷い込んだ少年<br />\r\n<br />\r\n少年は、不思議な力を持っており、<br />\r\n英雄たちを召喚することが出来た。<br />\r\n<br />\r\nエルフたちはその少年を聖者として、歓迎し<br />\r\n数々の精を与えたのであった。<br />\r\n<br />\r\n◆難易度<br />\r\n難易度選択により、ボスの強さが変化します。<br />\r\n<br />\r\n◆強くてニューゲーム<br />\r\nゲーム完全クリア後には、その状態を維持したまま最初からプレイ可能になります。"
+    }
+   ]
+  }
+ ],
+ "description": "エルフの里に迷い込んだ少年は、聖者として持たなされ、数々の精を受けるのであった。",
+ "short_introduction": "エルフの里に迷い込んだ少年は、聖者として持たなされ、数々の精を受けるのであった。",
+ "options": [
+  "MS2"
+ ],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ211811.html",
+ "site_id": "maniax",
+ "fetched_at": 1794964627
+}

@@ -1,0 +1,138 @@
+{
+ "id": "RJ160963",
+ "title": "燐華",
+ "title_romaji": "ringe",
+ "circle": {
+  "id": "RG09237",
+  "name": "やすらぎ亭",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG09237.html"
+ },
+ "type": {
+  "code": "ACN",
+  "name": "アクション",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "all",
+ "sex": 1,
+ "price": {
+  "jpy": 1100,
+  "official_jpy": 1100,
+  "currencies": {
+   "USD": 6.8934010724878725,
+   "EUR": 6.264322519214385,
+   "GBP": 5.226651360497349,
+   "TWD": 227.25864099332685,
+   "CNY": 46.03184566777561,
+   "KRW": 9205.020920502093,
+   "IDR": 126002.29095074456,
+   "VND": 177419.3548387097,
+   "THB": 233.60020386926882,
+   "SEK": 69.5854604343398,
+   "HKD": 54.09339470474841,
+   "SGD": 8.88412197414882,
+   "CAD": 9.855350335305896,
+   "MYR": 28.226913592285324,
+   "BRL": 39.223516994480185,
+   "AUD": 10.22027479531577,
+   "PHP": 440.599214932308,
+   "MXN": 127.87872446785012,
+   "NZD": 12.52088711623481,
+   "INR": 647.5921346991639
+  }
+ },
+ "point": {
+  "point_amount": 60,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1440255600,
+ "file": {
+  "type": "EXE",
+  "size": 296694518
+ },
+ "tags": [
+  {
+   "key": "051",
+   "name": "萌え"
+  },
+  {
+   "key": "052",
+   "name": "燃え"
+  },
+  {
+   "key": "091",
+   "name": "着物/和服"
+  },
+  {
+   "key": "080",
+   "name": "巫女"
+  },
+  {
+   "key": "012",
+   "name": "格闘"
+  }
+ ],
+ "languages": [
+  "JPN"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [],
+ "rating": {
+  "average": 4.57,
+  "count": 7
+ },
+ "review_count": 1,
+ "dl_count": 15,
+ "wishlist_count": 43,
+ "ranking": [],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ161000/RJ160963_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ161000/RJ160963_img_main_240x240.jpg",
+  "samples": [
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ161000/RJ160963_img_smp1.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ161000/RJ160963_img_smp2.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ161000/RJ160963_img_smp3.jpg"
+  ],
+  "sample_thumbs": [
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ161000/RJ160963_img_smp1_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ161000/RJ160963_img_smp2_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ161000/RJ160963_img_smp3_100x100.jpg"
+  ],
+  "alt": "燐華 [やすらぎ亭]"
+ },
+ "introductions": [
+  {
+   "type": "text",
+   "title": "",
+   "body": [
+    {
+     "intro": "～ストーリー～<br />\r\n-------------------------------------------------------------------------------------------------------------<br />\r\nここはイルマネーゼと呼ばれる世界。<br />\r\nこの世界のとある場所に二つの国があった。<br />\r\n<br />\r\n一方は京國と呼ばれる国。<br />\r\nもう一方はアルムナーダと呼ばれる国。<br />\r\n<br />\r\n元はひとつの国であったが、些細な仲違いから国が分裂した。<br />\r\n時を経るごとに、二国間の溝は深まっていき、今でも争いが絶えない。<br />\r\n<br />\r\nそんな憎悪の念が渦巻く場所に、二つの華があった…<br />\r\n-------------------------------------------------------------------------------------------------------------<br />\r\n<br />\r\n相棒と協力して、迫り来る敵を斬りまくる!<br />\r\nファンタジー風近接型横スクロール2Dアクションゲーム!!<br />\r\n<br />\r\n可愛い女の子達が懐かしのドット絵で細かく動く!<br />\r\n巻物を集めて奥義を取得、敵将を撃破し目覚める力!!<br />\r\n奥義を駆使し強敵をなぎ倒し、いざ突き進め!!<br />\r\n<br />\r\n全12ステージ、全11ボスのストーリモード、<br />\r\n大好評のボスサバイバルモードも含む大ボリュームでお送りいたしております。"
+    }
+   ]
+  }
+ ],
+ "description": "二つの華が紡ぐ、一つの物語--------------\r\n相棒と協力して、迫り来る敵を斬りまくる!\r\nファンタジー風近接型横スクロール2Dアクションゲーム!!",
+ "short_introduction": "二つの華が紡ぐ、一つの物語--------------\r\n相棒と協力して、迫り来る敵を斬りまくる!\r\nファンタジー風近接型横スクロール2Dアクションゲーム!!",
+ "options": [
+  "MS2",
+  "REV",
+  "TRI"
+ ],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ160963.html",
+ "site_id": "home",
+ "fetched_at": 1794966441
+}

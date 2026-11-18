@@ -1,0 +1,170 @@
+{
+ "id": "RJ174946",
+ "title": "Panda&Slash",
+ "title_romaji": "pandaandosurasshu",
+ "circle": {
+  "id": "RG27517",
+  "name": "OKPKCORP.LLC",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG27517.html"
+ },
+ "type": {
+  "code": "SLN",
+  "name": "シミュレーション",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "all",
+ "sex": 1,
+ "price": {
+  "jpy": 1980,
+  "official_jpy": 1980,
+  "currencies": {
+   "USD": 12.422913624987373,
+   "EUR": 11.295953994660096,
+   "GBP": 9.409926331682794,
+   "TWD": 409.14162912757774,
+   "CNY": 82.93819010438483,
+   "KRW": 16596.814752724225,
+   "IDR": 227090.26264479873,
+   "VND": 319457.88964181993,
+   "THB": 420.33754378516085,
+   "SEK": 125.69114258327038,
+   "HKD": 97.47356398794874,
+   "SGD": 16.01176136653105,
+   "CAD": 17.759631460738657,
+   "MYR": 50.85359558036024,
+   "BRL": 71.90874127016986,
+   "AUD": 18.440802230778257,
+   "PHP": 791.9049714034315,
+   "MXN": 229.10037604859704,
+   "NZD": 22.59680677447702,
+   "INR": 1161.6309768260487
+  }
+ },
+ "point": {
+  "point_amount": 108,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1460041200,
+ "file": {
+  "type": "EXE",
+  "size": 1026581681
+ },
+ "tags": [
+  {
+   "key": "312",
+   "name": "きせかえ"
+  }
+ ],
+ "languages": [
+  "JPN"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [],
+ "rating": {
+  "average": 4,
+  "count": 16
+ },
+ "review_count": 0,
+ "dl_count": 27,
+ "wishlist_count": 75,
+ "ranking": [],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ175000/RJ174946_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ175000/RJ174946_img_main_240x240.jpg",
+  "samples": [
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ175000/RJ174946_img_smp1.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ175000/RJ174946_img_smp2.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ175000/RJ174946_img_smp3.jpg"
+  ],
+  "sample_thumbs": [
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ175000/RJ174946_img_smp1_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ175000/RJ174946_img_smp2_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ175000/RJ174946_img_smp3_100x100.jpg"
+  ],
+  "alt": "Panda&Slash [OKPKCORP.LLC]"
+ },
+ "introductions": [
+  {
+   "type": "text",
+   "title": "",
+   "body": [
+    {
+     "intro": "Panda&amp;Slashはリアルタイムストラテジーにハック&amp;スラッシュRPGの要素を追加したシミュレーションゲームです。<br />\r\nプレイヤーはパンダ軍の司令官となり、次々に仲間に加わるパンダの戦士を管理して世界征服を目指します。<br />\r\n(クリアまでの総プレイ時間は20時間ほどです)<br />\r\n<br />\r\n日本語/英語　完全対応"
+    }
+   ]
+  },
+  {
+   "type": "image",
+   "title": "ストーリー",
+   "body": [
+    {
+     "intro": "時に４２世紀。かつて栄華を誇ったパンダの王国は国連の卑劣な罠により地図上から消えて無くなろうとしていた。<br />\r\n 先に二度の大戦を引き起こしたパンダ族の除名と排除がパンダのあずかり知らぬところで可決されてしまったのだ。その決定を喜びこそすれ、悲しむ者は誰もいなかった。<br />\r\n人権を剥奪され、次々に動物園送りにされるパンダたち。世界はパンダを忌まわしき大戦の記憶と共に忘れ去ろうとしているかのようだった。<br />\r\nだが、いま、全パンダの存亡と威信を賭けてひとりのパンダの若者が立ち上がろうとしている。<br />\r\n彼の前に待ち受けるものは栄光か挫折か、それとも動物園の笹か。 ",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ175000/RJ174946/RJ174946_PTS0000010057_0.jpg",
+      "alt": "Panda&Slash [OKPKCORP.LLC]",
+      "title": "Panda&Slash [OKPKCORP.LLC]"
+     },
+     "position": "bottom"
+    }
+   ]
+  },
+  {
+   "type": "image_list",
+   "title": "あなたの軍のユニフォームを作ろう",
+   "body": [
+    {
+     "intro": "同系統のアイテム３個を合成すると、それぞれの長所を統合した『ユニフォーム装備』が作成されます。<br />\r\nユニフォーム装備は量産化され、全パンダが同時に装備することができます。<br />\r\n強力なユニフォームを作成し、パンダの一斉強化を図りましょう。<br />\r\n",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ175000/RJ174946/RJ174946_PTS0000010085_1.jpg",
+      "alt": "Panda&Slash [OKPKCORP.LLC]",
+      "title": "Panda&Slash [OKPKCORP.LLC]"
+     }
+    },
+    {
+     "intro": "",
+     "image_info": null
+    },
+    {
+     "intro": "",
+     "image_info": null
+    },
+    {
+     "intro": "",
+     "image_info": null
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "title": "豊富なカスタマイズ性",
+   "body": [
+    {
+     "intro": "『仲間になるパンダの名前（最大１００匹）』『装備アイテムの名前』『軍団の名前』を好きに変更できます。<br />\r\nパンダの名前を戦艦の名前にして全員に統一規格のバズーカ砲を装備させたり、アイドルの名前にしてアイドルグループを組織したりとフリーダムな遊び方が可能です。"
+    }
+   ]
+  }
+ ],
+ "description": "パンダの軍勢を組織して目指すは世界征服!　武器防具を合成して、あなたの軍の制式ユニフォームを作成しよう!",
+ "short_introduction": "パンダの軍勢を組織して目指すは世界征服!　武器防具を合成して、あなたの軍の制式ユニフォームを作成しよう!",
+ "options": [
+  "MS2"
+ ],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ174946.html",
+ "site_id": "home",
+ "fetched_at": 1794965913
+}

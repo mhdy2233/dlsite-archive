@@ -1,0 +1,136 @@
+{
+ "id": "RJ163915",
+ "title": "Trial Fantasy 制作データ",
+ "title_romaji": "toraiarufwantajiiseisakudeeta",
+ "circle": {
+  "id": "RG31386",
+  "name": "ワタベ・プロダクトリー",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG31386.html"
+ },
+ "type": {
+  "code": "RPG",
+  "name": "ロールプレイング",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "r18",
+ "sex": 1,
+ "price": {
+  "jpy": 110,
+  "official_jpy": 110,
+  "currencies": {
+   "USD": 0.690161868054854,
+   "EUR": 0.6275529997033387,
+   "GBP": 0.5227736850934885,
+   "TWD": 22.730090507087652,
+   "CNY": 4.607677228021379,
+   "KRW": 922.0452640402347,
+   "IDR": 12616.125702488818,
+   "VND": 17747.66053565666,
+   "THB": 23.35208576584227,
+   "SEK": 6.982841254626132,
+   "HKD": 5.415197999330485,
+   "SGD": 0.889542298140614,
+   "CAD": 0.9866461922632588,
+   "MYR": 2.825199754464458,
+   "BRL": 3.994930070564992,
+   "AUD": 1.0244890128210145,
+   "PHP": 43.994720633523976,
+   "MXN": 12.727798669366504,
+   "NZD": 1.2553781541376121,
+   "INR": 64.53505426811383
+  }
+ },
+ "point": {
+  "point_amount": 6,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1446562800,
+ "file": {
+  "type": "EXE",
+  "size": 20151267
+ },
+ "tags": [
+  {
+   "key": "509",
+   "name": "3D作品"
+  },
+  {
+   "key": "016",
+   "name": "ファンタジー"
+  },
+  {
+   "key": "134",
+   "name": "屈辱"
+  },
+  {
+   "key": "121",
+   "name": "回し"
+  },
+  {
+   "key": "173",
+   "name": "ポニーテール"
+  }
+ ],
+ "languages": [
+  "JPN"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [],
+ "rating": {
+  "average": 4.03,
+  "count": 34
+ },
+ "review_count": 0,
+ "dl_count": 56,
+ "wishlist_count": 151,
+ "ranking": [],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ164000/RJ163915_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ164000/RJ163915_img_main_240x240.jpg",
+  "samples": [
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ164000/RJ163915_img_smp1.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ164000/RJ163915_img_smp2.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ164000/RJ163915_img_smp3.jpg"
+  ],
+  "sample_thumbs": [
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ164000/RJ163915_img_smp1_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ164000/RJ163915_img_smp2_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ164000/RJ163915_img_smp3_100x100.jpg"
+  ],
+  "alt": "Trial Fantasy 制作データ [ワタベ・プロダクトリー]"
+ },
+ "introductions": [
+  {
+   "type": "text",
+   "title": "",
+   "body": [
+    {
+     "intro": "目指したのは、王道RPG+エロ!<br />\r\n仲間との出会い、そして戦いに、ちょっとエロを加えたオリジナル作品。<br />\r\nプレイ時間は製作者プレイで7時間。<br />\r\nエロシーン数10、差分含む全CG枚数は98枚です。<br />\r\n※ゲームをプレイするには、PRGツクールVX RTPが必要です。<br />\r\n<br />\r\n完全無料で遊べるエロRPG『Trial Fantasy』。<br />\r\n体験版からダウンロードしていただければ、エンディングまで制限なくプレイできます。<br />\r\n作品詳細は下記の公式ページで、ご確認ください。<br />\r\n<a href=\"http://myuu-freeeroga.com/game/title/crossroad/trial-fantasy.html\" target=\"_blank\">http://myuu-freeeroga.com/game/title/crossroad/trial-fantasy.html</a><br />\r\n<br />\r\n本作品は、この『Trial Fantasy』を制作したRPGツクールVXのプロジェクトデータを販売するものです。<br />\r\nマップデータなどは著作権フリーにしますので、貴方様の作品で御自由に利用下さい。<br />\r\nまた主人公(アクター)のLVアップにおける能力変化、被ダメージや与ダメージ算出に用いた計算式、バランス調整の目安などのデータも公開。<br />\r\nイベント制作の参考にしたり、戦闘バランスを流用することも可能です。<br />\r\nただし、下記の事項にご注意ください。<br />\r\n●『Trial Fantasy』をプレイしたい方は、体験版よりダウンロードしてください。<br />\r\n　エンディングまで何の制約もなしにプレイ可能です。<br />\r\n●本作品は『RPGツクールVX』を所持し、使用できる環境でなければ読み取りでないファイルがあります。<br />\r\n●本作品は『Microsoft Office Excel』を所持し、使用できる環境になければ読み取りでないファイルがあります。<br />\r\n●『RPGツクールVX』のデフォルト素材以外は、二次配布に当たるため内封しておりません。<br />\r\n　このため、本作品を購入しても『Trial Fantasy』の全データを確認できるわけではありません。<br />\r\n●『Trial Fantasy』で使用しているデフォルト以外のスクリプトは、二次配布に当たるため内封しておりません。"
+    }
+   ]
+  }
+ ],
+ "description": "無料でプレイ可能な王道エロRPG『Trial Fantasy』の制作データを大公開!\r\nこれでエロRPG制作も、上手くいく!?",
+ "short_introduction": "無料でプレイ可能な王道エロRPG『Trial Fantasy』の制作データを大公開!\r\nこれでエロRPG制作も、上手くいく!?",
+ "options": [
+  "TRI"
+ ],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ163915.html",
+ "site_id": "maniax",
+ "fetched_at": 1794966281
+}

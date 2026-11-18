@@ -1,0 +1,116 @@
+{
+ "id": "RJ165561",
+ "title": "ワグナイアの迷宮",
+ "title_romaji": "wagunaianomeikyuu",
+ "circle": {
+  "id": "RG30502",
+  "name": "くるくるどーめい",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG30502.html"
+ },
+ "type": {
+  "code": "RPG",
+  "name": "ロールプレイング",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "all",
+ "sex": 1,
+ "price": {
+  "jpy": 660,
+  "official_jpy": 660,
+  "currencies": {
+   "USD": 4.140971208329124,
+   "EUR": 3.7653179982200315,
+   "GBP": 3.1366421105609312,
+   "TWD": 136.38054304252591,
+   "CNY": 27.646063368128278,
+   "KRW": 5532.271584241408,
+   "IDR": 75696.75421493291,
+   "VND": 106485.96321393998,
+   "THB": 140.11251459505363,
+   "SEK": 41.89704752775679,
+   "HKD": 32.49118799598291,
+   "SGD": 5.337253788843684,
+   "CAD": 5.919877153579552,
+   "MYR": 16.951198526786747,
+   "BRL": 23.969580423389953,
+   "AUD": 6.146934076926086,
+   "PHP": 263.96832380114387,
+   "MXN": 76.36679201619901,
+   "NZD": 7.532268924825673,
+   "INR": 387.2103256086829
+  }
+ },
+ "point": {
+  "point_amount": 36,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1446390000,
+ "file": {
+  "type": "EXE",
+  "size": 26773241
+ },
+ "tags": [],
+ "languages": [
+  "JPN"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [],
+ "rating": {
+  "average": null,
+  "count": null
+ },
+ "review_count": 0,
+ "dl_count": 10,
+ "wishlist_count": 40,
+ "ranking": [],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ166000/RJ165561_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ166000/RJ165561_img_main_240x240.jpg",
+  "samples": [
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ166000/RJ165561_img_smp1.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ166000/RJ165561_img_smp2.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ166000/RJ165561_img_smp3.jpg"
+  ],
+  "sample_thumbs": [
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ166000/RJ165561_img_smp1_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ166000/RJ165561_img_smp2_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ166000/RJ165561_img_smp3_100x100.jpg"
+  ],
+  "alt": "ワグナイアの迷宮 [くるくるどーめい]"
+ },
+ "introductions": [
+  {
+   "type": "text",
+   "title": "",
+   "body": [
+    {
+     "intro": "3Dダンジョンゲームです。<br />\r\n昔やりこんだゲームに似ているものがあるかもしれませんが気のせいです。<br />\r\n自分でマッピングしながらプレイするあの時の感動が返ってきた感じですね。<br />\r\n自分で作ったキャラでダンジョンに臨みましょう。<br />\r\nちなみにダンジョン内で全滅すると、別パーティを結成して探しに行かないといけなくなります。<br />\r\n無理は禁物ですぞ。<br />\r\n<br />\r\n※本作品は修正とかする可能性があるので、ユーザー登録して購入してください。<br />\r\n※体験版のセーブデータは製品版でも使えます。<br />\r\n※マニュアルは「 <a href=\"http://kurukurudomei.web.fc2.com/sw3/manual3.html\" target=\"_blank\">http://kurukurudomei.web.fc2.com/sw3/manual3.html</a> 」にあります。"
+    }
+   ]
+  }
+ ],
+ "description": "3Dダンジョンゲーム。最近はオートマッピングという便利機能がありますが本作品にはありません。ファミコンな理不尽さを再現したゲームです。",
+ "short_introduction": "3Dダンジョンゲーム。最近はオートマッピングという便利機能がありますが本作品にはありません。ファミコンな理不尽さを再現したゲームです。",
+ "options": [
+  "MS2",
+  "TRI"
+ ],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ165561.html",
+ "site_id": "home",
+ "fetched_at": 1794966284
+}

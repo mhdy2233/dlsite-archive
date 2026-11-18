@@ -1,0 +1,122 @@
+{
+ "id": "RJ186961",
+ "title": "幻想少女大戦妖",
+ "title_romaji": "gensoushoujotaisenyou",
+ "circle": {
+  "id": "RG33177",
+  "name": "さんぼん堂",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG33177.html"
+ },
+ "type": {
+  "code": "SLN",
+  "name": "シミュレーション",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "all",
+ "sex": 1,
+ "price": {
+  "jpy": 1980,
+  "official_jpy": 1980,
+  "currencies": {
+   "USD": 12.422913624987373,
+   "EUR": 11.295953994660096,
+   "GBP": 9.409926331682794,
+   "TWD": 409.14162912757774,
+   "CNY": 82.93819010438483,
+   "KRW": 16596.814752724225,
+   "IDR": 227090.26264479873,
+   "VND": 319457.88964181993,
+   "THB": 420.33754378516085,
+   "SEK": 125.69114258327038,
+   "HKD": 97.47356398794874,
+   "SGD": 16.01176136653105,
+   "CAD": 17.759631460738657,
+   "MYR": 50.85359558036024,
+   "BRL": 71.90874127016986,
+   "AUD": 18.440802230778257,
+   "PHP": 791.9049714034315,
+   "MXN": 229.10037604859704,
+   "NZD": 22.59680677447702,
+   "INR": 1161.6309768260487
+  }
+ },
+ "point": {
+  "point_amount": 108,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1477321200,
+ "file": {
+  "type": "EXE",
+  "size": 475183555
+ },
+ "tags": [
+  {
+   "key": "512",
+   "name": "東方Project"
+  }
+ ],
+ "languages": [
+  "JPN"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [],
+ "rating": {
+  "average": 4.77,
+  "count": 692
+ },
+ "review_count": 5,
+ "dl_count": 1426,
+ "wishlist_count": 815,
+ "ranking": [],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ187000/RJ186961_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ187000/RJ186961_img_main_240x240.jpg",
+  "samples": [
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ187000/RJ186961_img_smp1.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ187000/RJ186961_img_smp2.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ187000/RJ186961_img_smp3.jpg"
+  ],
+  "sample_thumbs": [
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ187000/RJ186961_img_smp1_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ187000/RJ186961_img_smp2_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ187000/RJ186961_img_smp3_100x100.jpg"
+  ],
+  "alt": "幻想少女大戦妖 [さんぼん堂]"
+ },
+ "introductions": [
+  {
+   "type": "text",
+   "title": "",
+   "body": [
+    {
+     "intro": "前作「紅」から正当進化したシミュレーションRPG!<br />\r\n味方ユニット数が倍以上に増え、「固有スキル」の登場によりカスタマイズ性もアップ。<br />\r\nボリュームアップした「弾幕」やスペルカードを、キミだけの戦略で攻略せよ!<br />\r\n<br />\r\n戦闘デモやストーリーに加え、図鑑や音楽室などのコレクター要素も更に充実。<br />\r\n廻る季節を彩る美麗な背景も必見だぞ。<br />\r\n<br />\r\n「紅」からのクリアデータ引き継ぎや、続編「永」へのデータ引き継ぎにも対応。<br />\r\nさあ、幻想郷の明日はキミのその手にかかっている!<br />\r\n<br />\r\n※前作のデータがなくても、本作だけでゲームをプレイできます。<br />\r\n<br />\r\n※記載の動作環境は、必ずしも正常な動作を保証するものではありません。<br />\r\n　Windows 7での動作に関しては、必ず体験版を用いてご確認ください。"
+    }
+   ]
+  }
+ ],
+ "description": "夢の東方二次創作SRPGの第二弾!　多彩になった仲間とスキルで、更なるドラマと戦いに挑め!",
+ "short_introduction": "夢の東方二次創作SRPGの第二弾!　多彩になった仲間とスキルで、更なるドラマと戦いに挑め!",
+ "options": [
+  "MS2",
+  "TRI",
+  "REV"
+ ],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ186961.html",
+ "site_id": "home",
+ "fetched_at": 1794965447
+}

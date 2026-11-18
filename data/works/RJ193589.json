@@ -1,0 +1,131 @@
+{
+ "id": "RJ193589",
+ "title": "きたくぶのひととき",
+ "title_romaji": "kitakubunohitotoki",
+ "circle": {
+  "id": "RG19587",
+  "name": "CREO",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG19587.html"
+ },
+ "type": {
+  "code": "DNV",
+  "name": "デジタルノベル",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "all",
+ "sex": 1,
+ "price": {
+  "jpy": 330,
+  "official_jpy": 330,
+  "currencies": {
+   "USD": 2.0680203217463617,
+   "EUR": 1.8792967557643157,
+   "GBP": 1.5679954081492047,
+   "TWD": 68.17759229799806,
+   "CNY": 13.809553700332685,
+   "KRW": 2761.506276150628,
+   "IDR": 37800.687285223365,
+   "VND": 53225.8064516129,
+   "THB": 70.08006116078064,
+   "SEK": 20.875638130301937,
+   "HKD": 16.228018411424525,
+   "SGD": 2.665236592244646,
+   "CAD": 2.956605100591769,
+   "MYR": 8.468074077685598,
+   "BRL": 11.767055098344054,
+   "AUD": 3.066082438594731,
+   "PHP": 132.17976447969238,
+   "MXN": 38.363617340355034,
+   "NZD": 3.756266134870443,
+   "INR": 194.27764040974918
+  }
+ },
+ "point": {
+  "point_amount": 18,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1485615600,
+ "file": {
+  "type": "EXE",
+  "size": 669547775
+ },
+ "tags": [
+  {
+   "key": "001",
+   "name": "学校/学園"
+  },
+  {
+   "key": "005",
+   "name": "ギャグ"
+  },
+  {
+   "key": "455",
+   "name": "ラブコメ"
+  }
+ ],
+ "languages": [
+  "JPN"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [],
+ "rating": {
+  "average": 4.5,
+  "count": 8
+ },
+ "review_count": 1,
+ "dl_count": 18,
+ "wishlist_count": 33,
+ "ranking": [],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ194000/RJ193589_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ194000/RJ193589_img_main_240x240.jpg",
+  "samples": [
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ194000/RJ193589_img_smp1.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ194000/RJ193589_img_smp2.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ194000/RJ193589_img_smp3.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ194000/RJ193589_img_smp4.jpg"
+  ],
+  "sample_thumbs": [
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ194000/RJ193589_img_smp1_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ194000/RJ193589_img_smp2_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ194000/RJ193589_img_smp3_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ194000/RJ193589_img_smp4_100x100.jpg"
+  ],
+  "alt": "きたくぶのひととき [CREO]"
+ },
+ "introductions": [
+  {
+   "type": "text",
+   "title": "",
+   "body": [
+    {
+     "intro": "～ストーリー～<br />\r\n<br />\r\n学校の突如定めた方針により帰宅一筋の主人公、北倉修一(きたくら　しゅういち)は<br />\r\n部活の入部を余儀なくされる。<br />\r\n<br />\r\n○女先輩の助言により「帰宅部」の創設を決意するも集まったのはアクの強い部員ばかり。<br />\r\n<br />\r\n彼女らの予測不能な行動に帰宅どころではなくなっていく主人公。<br />\r\n<br />\r\n帰宅部員達が繰り広げるドタバタ王道ラブコメディが今始まる!!<br />\r\n<br />\r\n～～～～～～～～～～～～～～～～～～～～～～<br />\r\n<br />\r\n『きたくぶのひととき』作品webページ<br />\r\n<a href=\"http://creo.main.jp/page/product/kitakubu/\" target=\"_blank\">http://creo.main.jp/page/product/kitakubu/</a><br />\r\n<br />\r\nCREO software(お問い合わせ等はコチラ)<br />\r\n<a href=\"http://creo.main.jp\" target=\"_blank\">http://creo.main.jp</a><br />\r\n<br />\r\nCREO software on twitter<br />\r\n<a href=\"https://twitter.com/creo_software\" target=\"_blank\">https://twitter.com/creo_software</a>"
+    }
+   ]
+  }
+ ],
+ "description": "学校の方針により部活の入部を余儀なくされた帰宅が命の主人公、北倉修一は「帰宅部」を創設する。しかし集まったのはアクの強い部員ばかり。彼女らと紡ぐ王道ラブコメディが今始まる!",
+ "short_introduction": "学校の方針により部活の入部を余儀なくされた帰宅が命の主人公、北倉修一は「帰宅部」を創設する。しかし集まったのはアクの強い部員ばかり。彼女らと紡ぐ王道ラブコメディが今始まる!",
+ "options": [
+  "MS2",
+  "REV"
+ ],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ193589.html",
+ "site_id": "home",
+ "fetched_at": 1794965172
+}

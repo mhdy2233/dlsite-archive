@@ -1,0 +1,136 @@
+{
+ "id": "RJ179988",
+ "title": "姫騎士ミネルバとオークの塔 Lite",
+ "title_romaji": "himekishiminerubatoookunotouraito",
+ "circle": {
+  "id": "RG33006",
+  "name": "八尺様",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG33006.html"
+ },
+ "type": {
+  "code": "RPG",
+  "name": "ロールプレイング",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "all",
+ "sex": 1,
+ "price": {
+  "jpy": 110,
+  "official_jpy": 110,
+  "currencies": {
+   "USD": 0.690161868054854,
+   "EUR": 0.6275529997033387,
+   "GBP": 0.5227736850934885,
+   "TWD": 22.730090507087652,
+   "CNY": 4.607677228021379,
+   "KRW": 922.0452640402347,
+   "IDR": 12616.125702488818,
+   "VND": 17747.66053565666,
+   "THB": 23.35208576584227,
+   "SEK": 6.982841254626132,
+   "HKD": 5.415197999330485,
+   "SGD": 0.889542298140614,
+   "CAD": 0.9866461922632588,
+   "MYR": 2.825199754464458,
+   "BRL": 3.994930070564992,
+   "AUD": 1.0244890128210145,
+   "PHP": 43.994720633523976,
+   "MXN": 12.727798669366504,
+   "NZD": 1.2553781541376121,
+   "INR": 64.53505426811383
+  }
+ },
+ "point": {
+  "point_amount": 6,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1466953200,
+ "file": {
+  "type": "EXE",
+  "size": 300511299
+ },
+ "tags": [
+  {
+   "key": "234",
+   "name": "女王様/お姫様"
+  },
+  {
+   "key": "317",
+   "name": "人外娘/モンスター娘"
+  },
+  {
+   "key": "233",
+   "name": "戦士"
+  },
+  {
+   "key": "086",
+   "name": "コスプレ"
+  },
+  {
+   "key": "016",
+   "name": "ファンタジー"
+  }
+ ],
+ "languages": [
+  "JPN"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [],
+ "rating": {
+  "average": 3.97,
+  "count": 211
+ },
+ "review_count": 4,
+ "dl_count": 504,
+ "wishlist_count": 461,
+ "ranking": [],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ180000/RJ179988_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ180000/RJ179988_img_main_240x240.jpg",
+  "samples": [
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ180000/RJ179988_img_smp1.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ180000/RJ179988_img_smp2.jpg"
+  ],
+  "sample_thumbs": [
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ180000/RJ179988_img_smp1_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ180000/RJ179988_img_smp2_100x100.jpg"
+  ],
+  "alt": "姫騎士ミネルバとオークの塔 Lite [八尺様]"
+ },
+ "introductions": [
+  {
+   "type": "text",
+   "title": "",
+   "body": [
+    {
+     "intro": "オークの塔に幽閉された世間知らずの「姫騎士ミネルバ」が、塔からの脱出を目指すアクションRPGです。<br />\r\n※このゲームは成人向けRPG「姫騎士ミネルバ」から過激なイベントや衣装を削除したバージョンです。<br />\r\n<br />\r\n<br />\r\n■全99種類の美少女モンスターが登場。<br />\r\n 全99種にお仕置きCGあり<br />\r\n<br />\r\n■衣装チェンジシステム<br />\r\n30種類以上のコスチュームを駆使して、塔から脱出しましょう。<br />\r\n<br />\r\n■ステージは全部で12面<br />\r\n<br />\r\n■面倒な操作は不要<br />\r\n 戦闘はフルオートで、短時間で決着。<br />\r\nクリアに必要な時間は、1～2時間程度です。<br />\r\n<br />\r\n<br />\r\n※このゲームは「RPGツクールMV」で作成されています。"
+    }
+   ]
+  }
+ ],
+ "description": "さくっと遊べるちょっぴりエッチなアクションRPG",
+ "short_introduction": "さくっと遊べるちょっぴりエッチなアクションRPG",
+ "options": [
+  "MS2",
+  "REV",
+  "OLY"
+ ],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ179988.html",
+ "site_id": "home",
+ "fetched_at": 1794965745
+}

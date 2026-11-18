@@ -1,0 +1,124 @@
+{
+ "id": "RJ185469",
+ "title": "桜が咲くときまで",
+ "title_romaji": "sakuragasakutokimade",
+ "circle": {
+  "id": "RG19587",
+  "name": "CREO",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG19587.html"
+ },
+ "type": {
+  "code": "DNV",
+  "name": "デジタルノベル",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "all",
+ "sex": 1,
+ "price": {
+  "jpy": 330,
+  "official_jpy": 330,
+  "currencies": {
+   "USD": 2.0680203217463617,
+   "EUR": 1.8792967557643157,
+   "GBP": 1.5679954081492047,
+   "TWD": 68.17759229799806,
+   "CNY": 13.809553700332685,
+   "KRW": 2761.506276150628,
+   "IDR": 37800.687285223365,
+   "VND": 53225.8064516129,
+   "THB": 70.08006116078064,
+   "SEK": 20.875638130301937,
+   "HKD": 16.228018411424525,
+   "SGD": 2.665236592244646,
+   "CAD": 2.956605100591769,
+   "MYR": 8.468074077685598,
+   "BRL": 11.767055098344054,
+   "AUD": 3.066082438594731,
+   "PHP": 132.17976447969238,
+   "MXN": 38.363617340355034,
+   "NZD": 3.756266134870443,
+   "INR": 194.27764040974918
+  }
+ },
+ "point": {
+  "point_amount": 18,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1474383600,
+ "file": {
+  "type": "EXE",
+  "size": 158719520
+ },
+ "tags": [
+  {
+   "key": "015",
+   "name": "シリアス"
+  },
+  {
+   "key": "008",
+   "name": "日常/生活"
+  }
+ ],
+ "languages": [
+  "JPN"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [],
+ "rating": {
+  "average": 3.57,
+  "count": 7
+ },
+ "review_count": 0,
+ "dl_count": 16,
+ "wishlist_count": 29,
+ "ranking": [],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ186000/RJ185469_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ186000/RJ185469_img_main_240x240.jpg",
+  "samples": [
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ186000/RJ185469_img_smp1.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ186000/RJ185469_img_smp2.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ186000/RJ185469_img_smp3.jpg"
+  ],
+  "sample_thumbs": [
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ186000/RJ185469_img_smp1_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ186000/RJ185469_img_smp2_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ186000/RJ185469_img_smp3_100x100.jpg"
+  ],
+  "alt": "桜が咲くときまで [CREO]"
+ },
+ "introductions": [
+  {
+   "type": "text",
+   "title": "",
+   "body": [
+    {
+     "intro": "～ストーリー～<br />\r\n<br />\r\n桜の花が美しく咲きそろうころ。<br />\r\n<br />\r\nイジメが原因で人間不信に陥り、家に引きこもり、<br />\r\nオンラインゲームに耽る主人公『柚希』。<br />\r\nある日、交通事故に遭い入院することになる。<br />\r\nそしてその病院で知り合った車椅子の少女『祈愛』。<br />\r\n主人公はその少女が主人公がプレイしている<br />\r\nオンラインゲームでの一番の友人だと知る。<br />\r\n入院生活を送るうちに仲良くなっていく二人。<br />\r\n<br />\r\n私……あと1年しか生きられないんです。<br />\r\n<br />\r\n少女から告げられる余命1年の宣告。<br />\r\n<br />\r\n<br />\r\nこれは、桜が再び咲き乱れるまでの1年間の物語。<br />\r\n<br />\r\n～～～～～～～～～～～～～～～～～～～～～～<br />\r\n<br />\r\nCREO software(お問い合わせ等はコチラ)<br />\r\n<a href=\"http://creo.main.jp\" target=\"_blank\">http://creo.main.jp</a><br />\r\n<br />\r\nCREO software on twitter<br />\r\n<a href=\"https://twitter.com/creo_software\" target=\"_blank\">https://twitter.com/creo_software</a>"
+    }
+   ]
+  }
+ ],
+ "description": "イジメが原因で引きこもりとなった主人公『柚希』は交通事故に遭い入院することになる。病院で知り合った車椅子の少女『祈愛』。入院生活を送るうちに仲良くなっていく二人だったが…",
+ "short_introduction": "イジメが原因で引きこもりとなった主人公『柚希』は交通事故に遭い入院することになる。病院で知り合った車椅子の少女『祈愛』。入院生活を送るうちに仲良くなっていく二人だったが…",
+ "options": [
+  "MS2"
+ ],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ185469.html",
+ "site_id": "home",
+ "fetched_at": 1794965519
+}

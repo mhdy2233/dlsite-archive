@@ -1,0 +1,226 @@
+{
+ "id": "RJ192882",
+ "title": "Asteraiser",
+ "title_romaji": "asutareiza",
+ "circle": {
+  "id": "RG19777",
+  "name": "OBLIQUEGLASS",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG19777.html"
+ },
+ "type": {
+  "code": "STG",
+  "name": "シューティング",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "all",
+ "sex": 1,
+ "price": {
+  "jpy": 1650,
+  "official_jpy": 1650,
+  "currencies": {
+   "USD": 10.340101608731809,
+   "EUR": 9.396483778821578,
+   "GBP": 7.839977040746024,
+   "TWD": 340.8879614899903,
+   "CNY": 69.04776850166343,
+   "KRW": 13807.531380753138,
+   "IDR": 189003.43642611685,
+   "VND": 266129.03225806454,
+   "THB": 350.4003058039033,
+   "SEK": 104.37819065150968,
+   "HKD": 81.14009205712263,
+   "SGD": 13.32618296122323,
+   "CAD": 14.783025502958845,
+   "MYR": 42.34037038842799,
+   "BRL": 58.835275491720274,
+   "AUD": 15.330412192973654,
+   "PHP": 660.8988223984619,
+   "MXN": 191.81808670177517,
+   "NZD": 18.781330674352215,
+   "INR": 971.3882020487459
+  }
+ },
+ "point": {
+  "point_amount": 90,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1484751600,
+ "file": {
+  "type": "EXE",
+  "size": 58057211
+ },
+ "tags": [
+  {
+   "key": "055",
+   "name": "感動"
+  },
+  {
+   "key": "052",
+   "name": "燃え"
+  },
+  {
+   "key": "010",
+   "name": "SF"
+  },
+  {
+   "key": "012",
+   "name": "格闘"
+  },
+  {
+   "key": "444",
+   "name": "時間停止"
+  }
+ ],
+ "languages": [
+  "JPN"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [],
+ "rating": {
+  "average": 4.29,
+  "count": 7
+ },
+ "review_count": 0,
+ "dl_count": 15,
+ "wishlist_count": 84,
+ "ranking": [],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ193000/RJ192882_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ193000/RJ192882_img_main_240x240.jpg",
+  "samples": [
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ193000/RJ192882_img_smp1.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ193000/RJ192882_img_smp2.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ193000/RJ192882_img_smp3.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ193000/RJ192882_img_smp4.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ193000/RJ192882_img_smp5.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ193000/RJ192882_img_smp6.jpg"
+  ],
+  "sample_thumbs": [
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ193000/RJ192882_img_smp1_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ193000/RJ192882_img_smp2_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ193000/RJ192882_img_smp3_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ193000/RJ192882_img_smp4_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ193000/RJ192882_img_smp5_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ193000/RJ192882_img_smp6_100x100.jpg"
+  ],
+  "alt": "Asteraiser [OBLIQUEGLASS]"
+ },
+ "introductions": [
+  {
+   "type": "text",
+   "title": "",
+   "body": [
+    {
+     "intro": "近接斬撃戦闘型 2DブレードアクションSTG。 <br />\r\n主な武器は一本の剣のみ。<br />\r\n接近戦に主眼を置いた「寄って斬りこむ」ゲーム性を追求。<br />\r\n多彩な必殺技を駆使し、敵の間合いを読み切って華麗な剣戟を立ち回れ!"
+    }
+   ]
+  },
+  {
+   "type": "image",
+   "title": "ストーリー",
+   "body": [
+    {
+     "intro": "　・aster 　―　星の～<br />\r\n　・raiser　―　蘇らせるもの<br />\r\n<br />\r\nむかしむかし、「星の命を切り取って永遠を与える剣」と<br />\r\n「永遠を切り取って星の命へと還す剣」の二振りの剣が作られました。<br />\r\n<br />\r\n人々は「永遠の剣」を手に取り、星の命を切り裂きました。<br />\r\nやがて、世界は永遠を持つもので溢れ、星は命を失い崩れ去ったのでした。<br />\r\n遺されたのは主を失った、滅びることのないガラクタばかり。<br />\r\n<br />\r\n永い時を経て、星の命の一欠片が「星の命の剣」と出会いました。<br />\r\nその剣を取って、全ての「永遠」を切り崩し、ふたたび星の命へと還してください。",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ193000/RJ192882/RJ192882_PTS0000012059_0.jpg",
+      "alt": "Asteraiser [OBLIQUEGLASS]",
+      "title": "Asteraiser [OBLIQUEGLASS]"
+     },
+     "position": "top"
+    }
+   ]
+  },
+  {
+   "type": "image_list",
+   "title": "操作説明",
+   "body": [
+    {
+     "intro": "十字／カーソルキー　　自機を移動します。<br />\r\n<br />\r\n１ボタン／Ｚキー　　　ブレードを振ります。押し続けて離すとタメ攻撃になります。<br />\r\n２ボタン／Ｘキー　　　消耗したブレードをリロードします。ヒット直後に押すとキャンセルリロード。<br />\r\n３ボタン／Ｃキー　　　ダッシュします。タメ中に押すとダッシュ斬りになります。<br />\r\n<br />\r\n５ボタン／Ａキー　　　オーヴァドライヴ・スピアを発動します（要1ゲージ）<br />\r\n６ボタン／Ｓキー　　　オーヴァドライヴ・ルーラーを発動します（要2ゲージ）<br />\r\n<br />\r\n９ボタン／スペース　　ゲーム中に押すとポーズがかかります。<br />\r\n10ボタン／ＥＳＣ　　　ポーズ中に押すと、ゲームを終了します。",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ193000/RJ192882/RJ192882_PTS0000012060_1.jpg",
+      "alt": "Asteraiser [OBLIQUEGLASS]",
+      "title": "Asteraiser [OBLIQUEGLASS]"
+     }
+    },
+    {
+     "intro": "",
+     "image_info": null
+    },
+    {
+     "intro": "１　スコア　　現在のスコアです。<br />\r\n２　レート　　スコアの倍率です。<br />\r\n３　活性度　　レートの上がりやすさを表します。<br />\r\n４　ブレードエネルギー<br />\r\n　　　ブレードを使うと消費し、徐々に耐久値も消耗していきます。<br />\r\n５　シールドゲージ<br />\r\n　　　被弾するとシールドが減少し、破られると残量が１つ減ります。<br />\r\n６　オーヴァドライヴゲージ<br />\r\n　　　オーヴァドライヴの発動に使用します。",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ193000/RJ192882/RJ192882_PTS0000012060_3.jpg",
+      "alt": "Asteraiser [OBLIQUEGLASS]",
+      "title": "Asteraiser [OBLIQUEGLASS]"
+     }
+    },
+    {
+     "intro": "",
+     "image_info": null
+    }
+   ]
+  },
+  {
+   "type": "image_list",
+   "title": "システム説明",
+   "body": [
+    {
+     "intro": "▲反発<br />\r\n硬い敵やレーザー・シールドを斬ると、<br />\r\nブレードはビリビリと反発を受ける。",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ193000/RJ192882/RJ192882_PTS0000012061_1.jpg",
+      "alt": "Asteraiser [OBLIQUEGLASS]",
+      "title": "Asteraiser [OBLIQUEGLASS]"
+     }
+    },
+    {
+     "intro": "▲ダッシュ<br />\r\n空間を飛び越えて瞬時に移動。<br />\r\n回数制限はないので<br />\r\n回避や接近にどんどん飛ぶべし。",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ193000/RJ192882/RJ192882_PTS0000012061_2.jpg",
+      "alt": "Asteraiser [OBLIQUEGLASS]",
+      "title": "Asteraiser [OBLIQUEGLASS]"
+     }
+    },
+    {
+     "intro": "▲オーヴァドライヴ・スピア<br />\r\n1ゲージ消費、光の槍を投擲。<br />\r\n全ての敵や弾を貫いて飛ぶ<br />\r\n切り札的な飛び道具。",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ193000/RJ192882/RJ192882_PTS0000012061_3.jpg",
+      "alt": "Asteraiser [OBLIQUEGLASS]",
+      "title": "Asteraiser [OBLIQUEGLASS]"
+     }
+    },
+    {
+     "intro": "▲オーヴァドライヴ・ルーラー<br />\r\n2ゲージ消費、周囲の時間を停止。<br />\r\n自機は無敵になり<br />\r\nブレードが無尽蔵に繰り出せる。",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ193000/RJ192882/RJ192882_PTS0000012061_4.jpg",
+      "alt": "Asteraiser [OBLIQUEGLASS]",
+      "title": "Asteraiser [OBLIQUEGLASS]"
+     }
+    }
+   ]
+  }
+ ],
+ "description": "近接斬撃戦闘型 2DブレードアクションSTG。 \r\n一本の剣を武器に「寄って斬りこむ」ゲーム性を追求。間合いを読み切り、華麗な剣戟を立ち回れ!",
+ "short_introduction": "近接斬撃戦闘型 2DブレードアクションSTG。 \r\n一本の剣を武器に「寄って斬りこむ」ゲーム性を追求。間合いを読み切り、華麗な剣戟を立ち回れ!",
+ "options": [
+  "MS2",
+  "TRI"
+ ],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ192882.html",
+ "site_id": "home",
+ "fetched_at": 1794965199
+}

@@ -153,15 +153,5 @@
  ],
  "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01771996.html",
  "site_id": "maniax",
- "fetched_at": 1794937052,
- "local_images": {
-  "main": "RJ01771996/main.jpg",
-  "thumb": "RJ01771996/thumb.jpg",
-  "samples": [
-   "RJ01771996/smp1.jpg",
-   "RJ01771996/smp2.jpg",
-   "RJ01771996/smp3.jpg",
-   "RJ01771996/smp4.jpg"
-  ]
- }
+ "fetched_at": 1794937052
 }

@@ -218,17 +218,5 @@
  ],
  "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01768108.html",
  "site_id": "maniax",
- "fetched_at": 1794940499,
- "local_images": {
-  "main": "RJ01768108/main.jpg",
-  "thumb": "RJ01768108/thumb.jpg",
-  "samples": [
-   "RJ01768108/smp1.jpg",
-   "RJ01768108/smp2.jpg",
-   "RJ01768108/smp3.jpg",
-   "RJ01768108/smp4.jpg",
-   "RJ01768108/smp5.jpg",
-   "RJ01768108/smp6.jpg"
-  ]
- }
+ "fetched_at": 1794940499
 }

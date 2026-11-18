@@ -241,17 +241,5 @@
  ],
  "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01077830.html",
  "site_id": "maniax",
- "fetched_at": 1794940479,
- "local_images": {
-  "main": "RJ01077830/main.jpg",
-  "thumb": "RJ01077830/thumb.jpg",
-  "samples": [
-   "RJ01077830/smp1.jpg",
-   "RJ01077830/smp2.jpg",
-   "RJ01077830/smp3.jpg",
-   "RJ01077830/smp4.jpg",
-   "RJ01077830/smp5.jpg",
-   "RJ01077830/smp6.jpg"
-  ]
- }
+ "fetched_at": 1794940479
 }

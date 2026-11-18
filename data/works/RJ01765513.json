@@ -193,17 +193,5 @@
  ],
  "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01765513.html",
  "site_id": "maniax",
- "fetched_at": 1794940507,
- "local_images": {
-  "main": "RJ01765513/main.jpg",
-  "thumb": "RJ01765513/thumb.jpg",
-  "samples": [
-   "RJ01765513/smp1.jpg",
-   "RJ01765513/smp2.jpg",
-   "RJ01765513/smp3.jpg",
-   "RJ01765513/smp4.jpg",
-   "RJ01765513/smp5.jpg",
-   "RJ01765513/smp6.jpg"
-  ]
- }
+ "fetched_at": 1794940507
 }

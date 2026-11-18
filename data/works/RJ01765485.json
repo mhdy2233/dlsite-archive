@@ -221,17 +221,5 @@
  ],
  "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01765485.html",
  "site_id": "maniax",
- "fetched_at": 1794937304,
- "local_images": {
-  "main": "RJ01765485/main.jpg",
-  "thumb": "RJ01765485/thumb.jpg",
-  "samples": [
-   "RJ01765485/smp1.jpg",
-   "RJ01765485/smp2.jpg",
-   "RJ01765485/smp3.jpg",
-   "RJ01765485/smp4.jpg",
-   "RJ01765485/smp5.jpg",
-   "RJ01765485/smp6.jpg"
-  ]
- }
+ "fetched_at": 1794937304
 }

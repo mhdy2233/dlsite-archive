@@ -246,17 +246,5 @@
  ],
  "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01726029.html",
  "site_id": "maniax",
- "fetched_at": 1794940438,
- "local_images": {
-  "main": "RJ01726029/main.jpg",
-  "thumb": "RJ01726029/thumb.jpg",
-  "samples": [
-   "RJ01726029/smp1.jpg",
-   "RJ01726029/smp2.jpg",
-   "RJ01726029/smp3.jpg",
-   "RJ01726029/smp4.jpg",
-   "RJ01726029/smp5.jpg",
-   "RJ01726029/smp6.jpg"
-  ]
- }
+ "fetched_at": 1794940438
 }

@@ -130,14 +130,5 @@
  ],
  "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01770289.html",
  "site_id": "maniax",
- "fetched_at": 1794937566,
- "local_images": {
-  "main": "RJ01770289/main.jpg",
-  "thumb": "RJ01770289/thumb.jpg",
-  "samples": [
-   "RJ01770289/smp1.jpg",
-   "RJ01770289/smp2.jpg",
-   "RJ01770289/smp3.jpg"
-  ]
- }
+ "fetched_at": 1794937566
 }

@@ -1,0 +1,116 @@
+{
+ "id": "RJ100132",
+ "title": "Counter Spark",
+ "title_romaji": "kauntaasupaaku",
+ "circle": {
+  "id": "RG19336",
+  "name": "Elfield",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG19336.html"
+ },
+ "type": {
+  "code": "STG",
+  "name": "シューティング",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "all",
+ "sex": 1,
+ "price": {
+  "jpy": 880,
+  "official_jpy": 880,
+  "currencies": {
+   "USD": 5.521294944438832,
+   "EUR": 5.020423997626709,
+   "GBP": 4.182189480747908,
+   "TWD": 181.84072405670122,
+   "CNY": 36.861417824171035,
+   "KRW": 7376.362112321877,
+   "IDR": 100929.00561991055,
+   "VND": 141981.2842852533,
+   "THB": 186.81668612673815,
+   "SEK": 55.86273003700906,
+   "HKD": 43.32158399464388,
+   "SGD": 7.116338385124912,
+   "CAD": 7.89316953810607,
+   "MYR": 22.601598035715664,
+   "BRL": 31.959440564519937,
+   "AUD": 8.195912102568116,
+   "PHP": 351.9577650681918,
+   "MXN": 101.82238935493203,
+   "NZD": 10.043025233100897,
+   "INR": 516.2804341449106
+  }
+ },
+ "point": {
+  "point_amount": 48,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1344524400,
+ "file": {
+  "type": "EXE",
+  "size": 62742640
+ },
+ "tags": [],
+ "languages": [
+  "JPN"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [],
+ "rating": {
+  "average": 4.17,
+  "count": 24
+ },
+ "review_count": 1,
+ "dl_count": 51,
+ "wishlist_count": 94,
+ "ranking": [],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ101000/RJ100132_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ101000/RJ100132_img_main_240x240.jpg",
+  "samples": [
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ101000/RJ100132_img_smp1.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ101000/RJ100132_img_smp2.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ101000/RJ100132_img_smp3.jpg"
+  ],
+  "sample_thumbs": [
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ101000/RJ100132_img_smp1_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ101000/RJ100132_img_smp2_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ101000/RJ100132_img_smp3_100x100.jpg"
+  ],
+  "alt": "Counter Spark [Elfield]"
+ },
+ "introductions": [
+  {
+   "type": "text",
+   "title": "",
+   "body": [
+    {
+     "intro": "台湾のサークル電気妖精界が送る東方シリーズの二次創作横スクロールシューティングゲームです。<br />\r\nプレイヤーは魔理沙を操縦して大量魔力流出の事件を追います。<br />\r\n九つある武装の中から四つまで選べて、状況に応じて有効な武器に切り替えましょう。<br />\r\nさらに低速モードでチャージすると、ボーダーダウン風の弾消しレーザーを使えるようになります。<br />\r\nパソコンのOSが日本語環境なら自動に日本語に切り替える機能も搭載しています。<br />\r\n<br />\r\n詳しい情報と体験版のダウンロードは作品紹介ページまでご覧ください。<br />\r\n<a href=\"http://home.so-net.net.tw/philin/pjCS/index_j.htm\" target=\"_blank\">http://home.so-net.net.tw/philin/pjCS/index_j.htm</a>"
+    }
+   ]
+  }
+ ],
+ "description": "台湾のサークル電気妖精界が送る東方シリーズの二次創作横スクロールシューティングゲームです。",
+ "short_introduction": "台湾のサークル電気妖精界が送る東方シリーズの二次創作横スクロールシューティングゲームです。",
+ "options": [
+  "MS2",
+  "REV"
+ ],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ100132.html",
+ "site_id": "home",
+ "fetched_at": 1794969529
+}

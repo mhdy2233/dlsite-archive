@@ -1,0 +1,142 @@
+{
+ "id": "RJ087528",
+ "title": "七芒星の魔法陣",
+ "title_romaji": "shichibouseinomahoujin",
+ "circle": {
+  "id": "RG13194",
+  "name": "虹猫",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG13194.html"
+ },
+ "type": {
+  "code": "ADV",
+  "name": "アドベンチャー",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "all",
+ "sex": 1,
+ "price": {
+  "jpy": 770,
+  "official_jpy": 770,
+  "currencies": {
+   "USD": 4.831133076383979,
+   "EUR": 4.39287099792337,
+   "GBP": 3.6594157956544198,
+   "TWD": 159.11063354961357,
+   "CNY": 32.253740596149655,
+   "KRW": 6454.316848281643,
+   "IDR": 88312.87991742173,
+   "VND": 124233.62374959663,
+   "THB": 163.46460036089587,
+   "SEK": 48.87988878238293,
+   "HKD": 37.90638599531339,
+   "SGD": 6.226796086984298,
+   "CAD": 6.906523345842811,
+   "MYR": 19.776398281251204,
+   "BRL": 27.964510493954943,
+   "AUD": 7.1714230897471,
+   "PHP": 307.96304443466784,
+   "MXN": 89.09459068556552,
+   "NZD": 8.787647078963285,
+   "INR": 451.74537987679673
+  }
+ },
+ "point": {
+  "point_amount": 42,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1325602800,
+ "file": {
+  "type": "EXE",
+  "size": 71498984
+ },
+ "tags": [
+  {
+   "key": "249",
+   "name": "擬人化"
+  },
+  {
+   "key": "240",
+   "name": "魔法少女"
+  },
+  {
+   "key": "241",
+   "name": "魔法使い/魔女"
+  },
+  {
+   "key": "016",
+   "name": "ファンタジー"
+  },
+  {
+   "key": "029",
+   "name": "魔法"
+  },
+  {
+   "key": "175",
+   "name": "ネコミミ"
+  }
+ ],
+ "languages": [
+  "JPN"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [],
+ "rating": {
+  "average": 4.11,
+  "count": 18
+ },
+ "review_count": 2,
+ "dl_count": 45,
+ "wishlist_count": 103,
+ "ranking": [],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ088000/RJ087528_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ088000/RJ087528_img_main_240x240.jpg",
+  "samples": [
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ088000/RJ087528_img_smp1.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ088000/RJ087528_img_smp2.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ088000/RJ087528_img_smp3.jpg"
+  ],
+  "sample_thumbs": [
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ088000/RJ087528_img_smp1_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ088000/RJ087528_img_smp2_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ088000/RJ087528_img_smp3_100x100.jpg"
+  ],
+  "alt": "七芒星の魔法陣 [虹猫]"
+ },
+ "introductions": [
+  {
+   "type": "text",
+   "title": "",
+   "body": [
+    {
+     "intro": "魔法陣による魔法という力が確立された世界。<br />\r\n惑星になぞられた魔法陣を展開することで様々な力が使える。<br />\r\n<br />\r\n屋敷から出られない女の子と召喚獣(主人公)の物語。<br />\r\nまずは体験版をプレイして頂けると幸いです。<br />\r\n<br />\r\nジャンル:魔法バトルADV。全年齢対象<br />\r\n<br />\r\nプレイ時間:2〜3時間程度<br />\r\n<br />\r\n選択肢あり。<br />\r\nイベントCG閲覧モードあり。<br />\r\n魔法陣背景完全描き下ろし全20種以上。"
+    }
+   ]
+  }
+ ],
+ "description": "屋敷から出られない女の子と召喚獣(主人公)の物語。魔法バトルADV。",
+ "short_introduction": "屋敷から出られない女の子と召喚獣(主人公)の物語。魔法バトルADV。",
+ "options": [
+  "MS2",
+  "TRI",
+  "REV"
+ ],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ087528.html",
+ "site_id": "home",
+ "fetched_at": 1794970076
+}

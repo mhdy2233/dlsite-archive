@@ -1,0 +1,107 @@
+{
+ "id": "RJ085288",
+ "title": "世にも奇妙なストーリー1～5「奇妙な日常と僕」",
+ "title_romaji": "yonimokimiunasutoorii kimiunanichijoutoboku",
+ "circle": {
+  "id": "RG15363",
+  "name": "りーじゅ",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG15363.html"
+ },
+ "type": {
+  "code": "ADV",
+  "name": "アドベンチャー",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "all",
+ "sex": 1,
+ "price": {
+  "jpy": 440,
+  "official_jpy": 440,
+  "currencies": {
+   "USD": 2.760647472219416,
+   "EUR": 2.5102119988133547,
+   "GBP": 2.091094740373954,
+   "TWD": 90.92036202835061,
+   "CNY": 18.430708912085517,
+   "KRW": 3688.1810561609386,
+   "IDR": 50464.50280995527,
+   "VND": 70990.64214262665,
+   "THB": 93.40834306336907,
+   "SEK": 27.93136501850453,
+   "HKD": 21.66079199732194,
+   "SGD": 3.558169192562456,
+   "CAD": 3.946584769053035,
+   "MYR": 11.300799017857832,
+   "BRL": 15.979720282259969,
+   "AUD": 4.097956051284058,
+   "PHP": 175.9788825340959,
+   "MXN": 50.911194677466014,
+   "NZD": 5.0215126165504484,
+   "INR": 258.1402170724553
+  }
+ },
+ "point": {
+  "point_amount": 24,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1319209200,
+ "file": {
+  "type": "EXE",
+  "size": 5532176
+ },
+ "tags": [],
+ "languages": [
+  "JPN"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [],
+ "rating": {
+  "average": null,
+  "count": null
+ },
+ "review_count": 0,
+ "dl_count": 2,
+ "wishlist_count": 9,
+ "ranking": [],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ086000/RJ085288_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ086000/RJ085288_img_main_240x240.jpg",
+  "samples": [],
+  "sample_thumbs": [],
+  "alt": "世にも奇妙なストーリー1～5「奇妙な日常と僕」 [りーじゅ]"
+ },
+ "introductions": [
+  {
+   "type": "text",
+   "title": "",
+   "body": [
+    {
+     "intro": "奇妙な日常はいつの間にか僕に襲いかかった。<br />\r\n——その扉が開くともう戻れない。<br />\r\n<br />\r\n※世にも奇妙なストーリー1から5までのストーリーをまるごとひとつにしました。"
+    }
+   ]
+  }
+ ],
+ "description": "大人気某テレビ局ドラマ「世にも奇妙な○○」ゲーム化第1段〜第5段をまとめて!",
+ "short_introduction": "大人気某テレビ局ドラマ「世にも奇妙な○○」ゲーム化第1段〜第5段をまとめて!",
+ "options": [
+  "MS2"
+ ],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ085288.html",
+ "site_id": "home",
+ "fetched_at": 1794970186
+}

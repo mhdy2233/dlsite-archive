@@ -1,0 +1,164 @@
+{
+ "id": "RJ089457",
+ "title": "くまの記憶",
+ "title_romaji": "kumanokioku",
+ "circle": {
+  "id": "RG17110",
+  "name": "くまげプロジェクト",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG17110.html"
+ },
+ "type": {
+  "code": "ADV",
+  "name": "アドベンチャー",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "all",
+ "sex": 1,
+ "price": {
+  "jpy": 440,
+  "official_jpy": 440,
+  "currencies": {
+   "USD": 2.760647472219416,
+   "EUR": 2.5102119988133547,
+   "GBP": 2.091094740373954,
+   "TWD": 90.92036202835061,
+   "CNY": 18.430708912085517,
+   "KRW": 3688.1810561609386,
+   "IDR": 50464.50280995527,
+   "VND": 70990.64214262665,
+   "THB": 93.40834306336907,
+   "SEK": 27.93136501850453,
+   "HKD": 21.66079199732194,
+   "SGD": 3.558169192562456,
+   "CAD": 3.946584769053035,
+   "MYR": 11.300799017857832,
+   "BRL": 15.979720282259969,
+   "AUD": 4.097956051284058,
+   "PHP": 175.9788825340959,
+   "MXN": 50.911194677466014,
+   "NZD": 5.0215126165504484,
+   "INR": 258.1402170724553
+  }
+ },
+ "point": {
+  "point_amount": 24,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1327503600,
+ "file": {
+  "type": "EXE",
+  "size": 237529072
+ },
+ "tags": [
+  {
+   "key": "541",
+   "name": "獣人"
+  },
+  {
+   "key": "008",
+   "name": "日常/生活"
+  },
+  {
+   "key": "016",
+   "name": "ファンタジー"
+  },
+  {
+   "key": "013",
+   "name": "ほのぼの"
+  }
+ ],
+ "languages": [
+  "JPN"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [],
+ "rating": {
+  "average": null,
+  "count": null
+ },
+ "review_count": 0,
+ "dl_count": 20,
+ "wishlist_count": 12,
+ "ranking": [],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ090000/RJ089457_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ090000/RJ089457_img_main_240x240.jpg",
+  "samples": [
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ090000/RJ089457_img_smp1.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ090000/RJ089457_img_smp2.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ090000/RJ089457_img_smp3.jpg"
+  ],
+  "sample_thumbs": [
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ090000/RJ089457_img_smp1_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ090000/RJ089457_img_smp2_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ090000/RJ089457_img_smp3_100x100.jpg"
+  ],
+  "alt": "くまの記憶 [くまげプロジェクト]"
+ },
+ "introductions": [
+  {
+   "type": "text",
+   "title": "",
+   "body": [
+    {
+     "intro": "本ゲームはケモノたちが登場する不思議な世界を冒険する<br />\r\nケモノ系ポイントクリックアドベンチャーゲームです。<br />\r\n<br />\r\n登場するケモノは20種類以上!<br />\r\n<br />\r\n扉をひらけば、冒険ははじまります。<br />\r\n<br />\r\nさあ出発しよう!<br />\r\n<br />\r\n------<br />\r\n<br />\r\n「あらすじ」<br />\r\nここには決められた道筋はありません。<br />\r\n先を急ぐようにせかすものもありません。<br />\r\nただ思うままに足を向ければ<br />\r\nそこに世界は広がるでしょう。<br />\r\n<br />\r\n誰と出会い、何を見るのか。<br />\r\nあなた自身の手で確かめてみて下さい。<br />\r\n<br />\r\n「ポイントクリックアドベンチャー」とは<br />\r\nマウス操作にて画面の気になるところをクリックしていくことにより、<br />\r\n冒険を進めていくアドベンチャーゲームです。<br />\r\n<br />\r\n「ゲームの目的」<br />\r\n基本的に決められた目的はありません。<br />\r\n形式上のゴールはありますが、ゴールを目指すのが目的ではありません。<br />\r\n雰囲気をお楽しみください。<br />\r\n<br />\r\n「操作方法」<br />\r\n操作は簡単かつ直感的です。<br />\r\nマウスのみにてゲームを楽しむことができます。<br />\r\nマウスを動かして画面の好きなところでマウスの左のボタンを<br />\r\nクリックすると絵が切りかわったり、音が聞こえてきたり・・・・・・。<br />\r\n自分の好きなようにゲーム(物語)を進めることができます。<br />\r\n<br />\r\n●公式ホームページ<br />\r\n<a href=\"http://www.kumage.jp\" target=\"_blank\">http://www.kumage.jp</a><br />\r\n<br />\r\n------<br />\r\n<br />\r\n制作スタッフ<br />\r\n<br />\r\nシナリオ 音楽演出 絵コンテ<br />\r\nsinth<br />\r\n<br />\r\n声<br />\r\nデスボイス<br />\r\n<br />\r\n音楽 効果音<br />\r\nnaccle<br />\r\n<br />\r\nイラスト<br />\r\nひとみ<br />\r\n<br />\r\nディレクター プログラミング 効果音<br />\r\n地震くま"
+    }
+   ]
+  },
+  {
+   "type": "image",
+   "title": "ゲームの操作説明",
+   "body": [
+    {
+     "intro": "ゲームはいたってシンプル<br />\r\n気になるところをクリックするだけ。<br />\r\n動物の姿をした住人がいます。<br />\r\n彼らの言葉に、あなたは何を感じるでしょう。<br />\r\nあなたを急かすような煩わしい要素はありません。<br />\r\nただ、ゆったりと、あたたかな世界をお楽しみください。<br />\r\nすべての、疲れている現代人へ。",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ090000/RJ089457/RJ089457_PTS0000001444_0.jpg",
+      "alt": "くまの記憶 [くまげプロジェクト]",
+      "title": "くまの記憶 [くまげプロジェクト]"
+     },
+     "position": "right"
+    }
+   ]
+  },
+  {
+   "type": "image",
+   "title": "キャラクター一部紹介",
+   "body": [
+    {
+     "intro": "〜キャラクター紹介〜<br />\r\nこの世界に住んでいる動物たち<br />\r\nその一部を紹介いたします。<br />\r\n<br />\r\n・くま(CV　デスボイス)<br />\r\n主人公(あなた)と共に不思議な世界を旅します。<br />\r\nクリックすれば、おっとりした声で語りかけてくれます。<br />\r\n<br />\r\n・ネコ<br />\r\n路地裏でたそがれている、少しグレたネコ。<br />\r\n口は悪いですが、けっして悪い子ではないようです。<br />\r\n<br />\r\n・キツネ<br />\r\n森のどこかで独り、笛を吹いています。<br />\r\n静かな所を求めて迷い込んだのでしょうか。<br />\r\n<br />\r\n・ヤギ<br />\r\n彼は一心不乱に地平線を描き続ける画家。<br />\r\n少々危なっかしい場所でキャンバスを構えています。",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ090000/RJ089457/RJ089457_PTS0000001445_0.jpg",
+      "alt": "くまの記憶 [くまげプロジェクト]",
+      "title": "くまの記憶 [くまげプロジェクト]"
+     },
+     "position": "right"
+    }
+   ]
+  }
+ ],
+ "description": "登場するケモノは20種類以上!ケモノ系ポイントクリックアドベンチャーゲーム",
+ "short_introduction": "登場するケモノは20種類以上!ケモノ系ポイントクリックアドベンチャーゲーム",
+ "options": [
+  "SND",
+  "MS2",
+  "TRI"
+ ],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ089457.html",
+ "site_id": "home",
+ "fetched_at": 1794970052
+}

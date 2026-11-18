@@ -1,0 +1,117 @@
+{
+ "id": "RJ108561",
+ "title": "SPACE MARISAR",
+ "title_romaji": "supeesumarisaa",
+ "circle": {
+  "id": "RG11032",
+  "name": "Y.G.C.",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG11032.html"
+ },
+ "type": {
+  "code": "STG",
+  "name": "シューティング",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "all",
+ "sex": 1,
+ "price": {
+  "jpy": 1650,
+  "official_jpy": 1650,
+  "currencies": {
+   "USD": 10.35242802082281,
+   "EUR": 9.413294995550078,
+   "GBP": 7.841605276402329,
+   "TWD": 340.9513576063148,
+   "CNY": 69.1151584203207,
+   "KRW": 13830.67896060352,
+   "IDR": 189241.88553733227,
+   "VND": 266214.9080348499,
+   "THB": 350.281286487634,
+   "SEK": 104.74261881939198,
+   "HKD": 81.22796998995727,
+   "SGD": 13.34313447210921,
+   "CAD": 14.79969288394888,
+   "MYR": 42.377996316966865,
+   "BRL": 59.92395105847488,
+   "AUD": 15.367335192315215,
+   "PHP": 659.9208095028596,
+   "MXN": 190.91698004049755,
+   "NZD": 18.830672312064184,
+   "INR": 968.0258140217073
+  }
+ },
+ "point": {
+  "point_amount": 90,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1357398000,
+ "file": {
+  "type": "EXE",
+  "size": 63508228
+ },
+ "tags": [],
+ "languages": [
+  "JPN"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [],
+ "rating": {
+  "average": 4.34,
+  "count": 38
+ },
+ "review_count": 1,
+ "dl_count": 110,
+ "wishlist_count": 133,
+ "ranking": [],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ109000/RJ108561_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ109000/RJ108561_img_main_240x240.jpg",
+  "samples": [
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ109000/RJ108561_img_smp1.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ109000/RJ108561_img_smp2.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ109000/RJ108561_img_smp3.jpg"
+  ],
+  "sample_thumbs": [
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ109000/RJ108561_img_smp1_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ109000/RJ108561_img_smp2_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ109000/RJ108561_img_smp3_100x100.jpg"
+  ],
+  "alt": "SPACE MARISAR [Y.G.C.]"
+ },
+ "introductions": [
+  {
+   "type": "text",
+   "title": "",
+   "body": [
+    {
+     "intro": "ミニ八卦炉を盗まれた霧雨魔理沙が、盗んだ犯人を捜して駆ける!　飛ぶ!　撃つ!<br />\r\n<br />\r\n東方二次創作　擬似3D奥スクロールSTGです。<br />\r\n擬似3D空間で眼前に迫る敵、敵弾、障害物を避けつつ、ショットで敵を倒していきます。<br />\r\n<br />\r\n立ちふさがる敵は、東方でおなじみのキャラ達が中ボス含めて20体以上。<br />\r\n当作品向けにアレンジされた敵のスペカ攻撃は43種。<br />\r\nさまざまな攻撃パターンがあり、ただ撃つだけでは攻略は難しいでしょう。<br />\r\n<br />\r\n17ステージ+ボスステージの全18ステージ。<br />\r\n<br />\r\nシンプルな爽快感とボリュームをお楽しみください。"
+    }
+   ]
+  }
+ ],
+ "description": "東方二次 擬似3D奥スクロールSTG",
+ "short_introduction": "東方二次 擬似3D奥スクロールSTG",
+ "options": [
+  "MS2",
+  "TRI",
+  "REV"
+ ],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ108561.html",
+ "site_id": "home",
+ "fetched_at": 1794969011
+}

@@ -1,0 +1,155 @@
+{
+ "id": "RJ104652",
+ "title": "ロストラディアント",
+ "title_romaji": "rosutoradhianto",
+ "circle": {
+  "id": "RG16289",
+  "name": "Talon.company",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG16289.html"
+ },
+ "type": {
+  "code": "RPG",
+  "name": "ロールプレイング",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "r18",
+ "sex": 1,
+ "price": {
+  "jpy": 1100,
+  "official_jpy": 1100,
+  "currencies": {
+   "USD": 6.90161868054854,
+   "EUR": 6.275529997033386,
+   "GBP": 5.227736850934885,
+   "TWD": 227.30090507087652,
+   "CNY": 46.076772280213795,
+   "KRW": 9220.452640402347,
+   "IDR": 126161.25702488818,
+   "VND": 177476.60535656664,
+   "THB": 233.5208576584227,
+   "SEK": 69.82841254626132,
+   "HKD": 54.15197999330485,
+   "SGD": 8.89542298140614,
+   "CAD": 9.866461922632588,
+   "MYR": 28.251997544644578,
+   "BRL": 39.94930070564992,
+   "AUD": 10.244890128210143,
+   "PHP": 439.94720633523974,
+   "MXN": 127.27798669366503,
+   "NZD": 12.553781541376122,
+   "INR": 645.3505426811382
+  }
+ },
+ "point": {
+  "point_amount": 60,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1368111600,
+ "file": {
+  "type": "EXE",
+  "size": 219838617
+ },
+ "tags": [
+  {
+   "key": "206",
+   "name": "少女"
+  },
+  {
+   "key": "233",
+   "name": "戦士"
+  },
+  {
+   "key": "219",
+   "name": "人妻"
+  },
+  {
+   "key": "241",
+   "name": "魔法使い/魔女"
+  },
+  {
+   "key": "078",
+   "name": "メイド"
+  },
+  {
+   "key": "016",
+   "name": "ファンタジー"
+  }
+ ],
+ "languages": [
+  "JPN"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [],
+ "rating": {
+  "average": 4.11,
+  "count": 485
+ },
+ "review_count": 2,
+ "dl_count": 850,
+ "wishlist_count": 1369,
+ "ranking": [
+  {
+   "category": "all",
+   "period": "day",
+   "rank": 6,
+   "date": "2013-05-10"
+  },
+  {
+   "category": "all",
+   "period": "week",
+   "rank": 18,
+   "date": "2013-05-16"
+  }
+ ],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ105000/RJ104652_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ105000/RJ104652_img_main_240x240.jpg",
+  "samples": [
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ105000/RJ104652_img_smp1.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ105000/RJ104652_img_smp2.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ105000/RJ104652_img_smp3.jpg"
+  ],
+  "sample_thumbs": [
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ105000/RJ104652_img_smp1_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ105000/RJ104652_img_smp2_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ105000/RJ104652_img_smp3_100x100.jpg"
+  ],
+  "alt": "ロストラディアント [Talon.company]"
+ },
+ "introductions": [
+  {
+   "type": "text",
+   "title": "",
+   "body": [
+    {
+     "intro": "■ストーリー<br />\r\n都市フォークスで、広大なダンジョンが発見される。王は冒険者を募り探索に当たらせることになった。<br />\r\n<br />\r\n主人公ルーカスは、ダンジョンに目的があるという少女ネルと共にダンジョン探検の許可をもらいにいき、<br />\r\nさらに最深部には莫大な財宝があるという話を聞きだす。<br />\r\n<br />\r\nギルドで同じく駆け出しの冒険者を仲間にして、彼らは冒険に繰り出す———<br />\r\n<br />\r\n■システム<br />\r\nこのゲームは『世界樹』をリスペクトして作られた、本格ダンジョンRPGです。<br />\r\n主人公を中心にギルドで五つの職から四人パーティを編成し、ダンジョンを攻略します。<br />\r\n<br />\r\n五つの職にはそれぞれ上級職が二つあり、プレイヤーは自分のパーティバランスやプレイスタイルから<br />\r\n最適なパーティを編成、育成していきます。<br />\r\n<br />\r\n戦闘は通常のコマンド式です。しかし、ダンジョンを進んでいくと『F.O.E』と呼ばれる、<br />\r\nシンボルエンカウント型の強力な敵も出現します。<br />\r\nうまくかいくぐるもよし、危険を承知で戦いを挑んで大量の経験値を得るのもよしです。<br />\r\n<br />\r\n■えっちなイベント<br />\r\nダンジョンを攻略していくにつれ、主人公は名声を得るでしょう。<br />\r\nヒロイン以外にも、街には魅力的な女性がたくさんいます。<br />\r\n<br />\r\n道具屋の娘、武器屋の人妻、置屋の奴○、王宮のメイドなどなど……。<br />\r\nダンジョン攻略を進めて王に認められればお姫様に近づくこともできるでしょう。<br />\r\nまた、時にはダンジョンの中でモンスターに襲われている女冒険者がいるかもしれません。<br />\r\n<br />\r\nすべてはあなたの行動次第です。<br />\r\n<br />\r\n【追記】女剣士や魔法使い、コックのイベントももちろん用意しています!<br />\r\nその際、多少イベントに変化がありますが、パーティメンバーかどうかはイベント発生条件と関係ありません。<br />\r\n女性メンバーを選ばなくてもその子のイベントを見ることができます。<br />\r\n<br />\r\n<br />\r\n★総プレイ時間はおよそ8時間前後、基本CGは20枚です。<br />\r\n★音楽は全て自作となっています。<br />\r\n<br />\r\n※開発ブログやってます!本作品に関する情報はそちらでどうぞ。<br />\r\n<br />\r\n★Ver1.3にアップデートしました。バグ修正と店売り、ステータス上方修正がアップデート内容です。お手数ですが、再ダウンロードをお願いします。<br />\r\n■バージョンアップ修正履歴<br />\r\n【Ver1.1】<br />\r\n・戦神マスタリー取得時しても剣が装備できないバグ修正<br />\r\n・お姫様のCGが消えなかったバグ修正<br />\r\n・地下6階で舟で渡った後に帰還すると進行不能になるバグ修正<br />\r\n・スキル「毒見」の効果が出ていなかったバグ修正<br />\r\n・上級職取得時にキャンセルを押すと進行不能になるバグ修正<br />\r\n・コッククエストを再度受けられるバグを修正<br />\r\n・11階-10階の扉からエンディングに飛ぶバグを修正<br />\r\n【Ver1.2】<br />\r\n・メイドのロゼとのイベント後、暗転したままのバグ修正<br />\r\n・エルフ解放後、奴○商人の家に行くと出られなくなるバグ修正<br />\r\n・回想でネルを見ると画面が真っ黒になるバグ修正<br />\r\n【Ver1.3】<br />\r\n・魔法使いの精神力ステータス上方修正<br />\r\n・店売りにリフレッシュハーブを追加<br />\r\n・スキル「リカバー」がレベル5で効果範囲が拡大されていなかったバグ修正"
+    }
+   ]
+  }
+ ],
+ "description": "たくさんの女の子が登場する本格ダンジョンRPG。パーティをどう強くしていくかはあなた次第!",
+ "short_introduction": "たくさんの女の子が登場する本格ダンジョンRPG。パーティをどう強くしていくかはあなた次第!",
+ "options": [
+  "MS2",
+  "TRI",
+  "REV"
+ ],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ104652.html",
+ "site_id": "maniax",
+ "fetched_at": 1794968737
+}

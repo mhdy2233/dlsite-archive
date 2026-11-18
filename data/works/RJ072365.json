@@ -1,0 +1,121 @@
+{
+ "id": "RJ072365",
+ "title": "operation micro nurse",
+ "title_romaji": "opereeshon maikuro naasu",
+ "circle": {
+  "id": "RG07141",
+  "name": "カリン島ネットワーク",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG07141.html"
+ },
+ "type": {
+  "code": "STG",
+  "name": "シューティング",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "all",
+ "sex": 1,
+ "price": {
+  "jpy": 1100,
+  "official_jpy": 1100,
+  "currencies": {
+   "USD": 6.90161868054854,
+   "EUR": 6.275529997033386,
+   "GBP": 5.227736850934885,
+   "TWD": 227.30090507087652,
+   "CNY": 46.076772280213795,
+   "KRW": 9220.452640402347,
+   "IDR": 126161.25702488818,
+   "VND": 177476.60535656664,
+   "THB": 233.5208576584227,
+   "SEK": 69.82841254626132,
+   "HKD": 54.15197999330485,
+   "SGD": 8.89542298140614,
+   "CAD": 9.866461922632588,
+   "MYR": 28.251997544644578,
+   "BRL": 39.94930070564992,
+   "AUD": 10.244890128210143,
+   "PHP": 439.94720633523974,
+   "MXN": 127.27798669366503,
+   "NZD": 12.553781541376122,
+   "INR": 645.3505426811382
+  }
+ },
+ "point": {
+  "point_amount": 60,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1295017200,
+ "file": {
+  "type": "EXE",
+  "size": 75174375
+ },
+ "tags": [
+  {
+   "key": "010",
+   "name": "SF"
+  }
+ ],
+ "languages": [
+  "JPN"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [],
+ "rating": {
+  "average": 4.17,
+  "count": 6
+ },
+ "review_count": 0,
+ "dl_count": 16,
+ "wishlist_count": 53,
+ "ranking": [],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ073000/RJ072365_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ073000/RJ072365_img_main_240x240.jpg",
+  "samples": [
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ073000/RJ072365_img_smp1.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ073000/RJ072365_img_smp2.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ073000/RJ072365_img_smp3.jpg"
+  ],
+  "sample_thumbs": [
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ073000/RJ072365_img_smp1_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ073000/RJ072365_img_smp2_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ073000/RJ072365_img_smp3_100x100.jpg"
+  ],
+  "alt": "operation micro nurse [カリン島ネットワーク]"
+ },
+ "introductions": [
+  {
+   "type": "text",
+   "title": "",
+   "body": [
+    {
+     "intro": "人体循環器系を舞台にしたオリジナル縦スクロールシューティングゲーム。<br />\r\n現代医学、科学をベースにした、リアリティーのある世界設定。<br />\r\n<br />\r\n弾幕だけに頼らない、撃って避けての醍醐味を今の時代にこそもう一度。<br />\r\n30〜40代の大人ゲーマーにとっては思わず「ニヤリ」なギミックも<br />\r\nてんこもり。DxLib を使った高速描画で 60FPS ぐりぐり動く本格派。<br />\r\n全8ステージ+エクストラステージ3ステージの超豪華ボリューム!<br />\r\n<br />\r\n「ゲームセンターと100円玉のロマン」を最新の作品として<br />\r\n今またあなたに!"
+    }
+   ]
+  }
+ ],
+ "description": "人体循環器系を舞台にしたオリジナル縦スクロールシューティングゲーム。",
+ "short_introduction": "人体循環器系を舞台にしたオリジナル縦スクロールシューティングゲーム。",
+ "options": [
+  "MS2",
+  "TRI"
+ ],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ072365.html",
+ "site_id": "home",
+ "fetched_at": 1794970566
+}

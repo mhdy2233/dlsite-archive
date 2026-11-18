@@ -1,0 +1,133 @@
+{
+ "id": "RJ094763",
+ "title": "奴○剣闘士",
+ "title_romaji": "doreikentoushi",
+ "circle": {
+  "id": "RG18224",
+  "name": "右斜め",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG18224.html"
+ },
+ "type": {
+  "code": "RPG",
+  "name": "ロールプレイング",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "r18",
+ "sex": 1,
+ "price": {
+  "jpy": 1430,
+  "official_jpy": 1430,
+  "currencies": {
+   "USD": 8.972104284713103,
+   "EUR": 8.158188996143402,
+   "GBP": 6.796057906215351,
+   "TWD": 295.4911765921395,
+   "CNY": 59.899803964277936,
+   "KRW": 11986.58843252305,
+   "IDR": 164009.63413235464,
+   "VND": 230719.5869635366,
+   "THB": 303.57711495594947,
+   "SEK": 90.77693631013972,
+   "HKD": 70.39757399129631,
+   "SGD": 11.564049875827981,
+   "CAD": 12.826400499422364,
+   "MYR": 36.72759680803795,
+   "BRL": 51.934090917344896,
+   "AUD": 13.318357166673186,
+   "PHP": 571.9313682358116,
+   "MXN": 165.46138270176453,
+   "NZD": 16.319916003788958,
+   "INR": 838.9557054854797
+  }
+ },
+ "point": {
+  "point_amount": 78,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1335366000,
+ "file": {
+  "type": "EXE",
+  "size": 46373247
+ },
+ "tags": [
+  {
+   "key": "206",
+   "name": "少女"
+  },
+  {
+   "key": "209",
+   "name": "年上"
+  },
+  {
+   "key": "207",
+   "name": "つるぺた"
+  },
+  {
+   "key": "017",
+   "name": "歴史/時代物"
+  },
+  {
+   "key": "147",
+   "name": "下僕"
+  }
+ ],
+ "languages": [
+  "JPN"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [],
+ "rating": {
+  "average": 3.51,
+  "count": 87
+ },
+ "review_count": 0,
+ "dl_count": 143,
+ "wishlist_count": 295,
+ "ranking": [],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ095000/RJ094763_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ095000/RJ094763_img_main_240x240.jpg",
+  "samples": [
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ095000/RJ094763_img_smp1.jpg"
+  ],
+  "sample_thumbs": [
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ095000/RJ094763_img_smp1_100x100.jpg"
+  ],
+  "alt": "奴○剣闘士 [右斜め]"
+ },
+ "introductions": [
+  {
+   "type": "text",
+   "title": "",
+   "body": [
+    {
+     "intro": "帝国の侵略戦争によって生まれた奴○剣闘士とコロセウムが舞台の剣闘士RPG。<br />\r\n無慈悲に訪れる剣闘試合とその勝者に与えられる報酬。<br />\r\n<br />\r\n「金か、名誉か、欲望か」<br />\r\n<br />\r\n金を選んで生き残るために必要な物を買うのか。<br />\r\n<br />\r\n名誉を選んで市民の関心を買うのか。<br />\r\n<br />\r\n欲望を選んで女奴○と一時の快楽に耽るのか。<br />\r\n<br />\r\nあなたは奴○の鎖を断ち切り、自由を勝ち取ることができるのか。<br />\r\n選んだ選択によって結末が変化するマルチエンドを採用。"
+    }
+   ]
+  }
+ ],
+ "description": "勝者に告げられる言葉。「金か、名誉か、欲望か」。死と欲望渦巻くコロセウムであなたは自由を手に入れられるのか?",
+ "short_introduction": "勝者に告げられる言葉。「金か、名誉か、欲望か」。死と欲望渦巻くコロセウムであなたは自由を手に入れられるのか?",
+ "options": [
+  "MS2",
+  "RegionHiddenFilter"
+ ],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ094763.html",
+ "site_id": "maniax",
+ "fetched_at": 1794969791
+}

@@ -1,0 +1,130 @@
+{
+ "id": "RJ119496",
+ "title": "成恵の日記",
+ "title_romaji": "naruenonikki",
+ "circle": {
+  "id": "RG02491",
+  "name": "I-Raf-you",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG02491.html"
+ },
+ "type": {
+  "code": "DNV",
+  "name": "デジタルノベル",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "r18",
+ "sex": 1,
+ "price": {
+  "jpy": 2200,
+  "official_jpy": 2200,
+  "currencies": {
+   "USD": 13.80323736109708,
+   "EUR": 12.551059994066772,
+   "GBP": 10.45547370186977,
+   "TWD": 454.60181014175305,
+   "CNY": 92.15354456042759,
+   "KRW": 18440.905280804694,
+   "IDR": 252322.51404977636,
+   "VND": 354953.2107131333,
+   "THB": 467.0417153168454,
+   "SEK": 139.65682509252264,
+   "HKD": 108.3039599866097,
+   "SGD": 17.79084596281228,
+   "CAD": 19.732923845265177,
+   "MYR": 56.503995089289155,
+   "BRL": 79.89860141129984,
+   "AUD": 20.489780256420286,
+   "PHP": 879.8944126704795,
+   "MXN": 254.55597338733006,
+   "NZD": 25.107563082752243,
+   "INR": 1290.7010853622764
+  }
+ },
+ "point": {
+  "point_amount": 120,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1375628400,
+ "file": {
+  "type": "EXE",
+  "size": 474939939
+ },
+ "tags": [
+  {
+   "key": "194",
+   "name": "巨大化"
+  }
+ ],
+ "languages": [
+  "JPN"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [],
+ "rating": {
+  "average": 4.42,
+  "count": 170
+ },
+ "review_count": 2,
+ "dl_count": 861,
+ "wishlist_count": 388,
+ "ranking": [
+  {
+   "category": "all",
+   "period": "day",
+   "rank": 13,
+   "date": "2013-08-06"
+  }
+ ],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ120000/RJ119496_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ120000/RJ119496_img_main_240x240.jpg",
+  "samples": [
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ120000/RJ119496_img_smp1.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ120000/RJ119496_img_smp2.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ120000/RJ119496_img_smp3.jpg"
+  ],
+  "sample_thumbs": [
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ120000/RJ119496_img_smp1_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ120000/RJ119496_img_smp2_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ120000/RJ119496_img_smp3_100x100.jpg"
+  ],
+  "alt": "成恵の日記 [I-Raf-you]"
+ },
+ "introductions": [
+  {
+   "type": "text",
+   "title": "",
+   "body": [
+    {
+     "intro": "■内容<br />\n　縮小○園の二次創作ノベルゲームです!<br />\n<br />\n　前作縮小○園は高校生探偵・地仁田の活躍により解決された。<br />\n　部長による歴史の改変により、縮小人間たちを虐○・虐殺した事実は消えた。<br />\n　が、事件に関わった人物たちには“かつてこういうコトがあった”という記憶だけはきちんと残っている。<br />\n<br />\n　ヒロイン、大紀○成恵。前作で巨大化したまま、調査員として活躍中。<br />\n　巨大娘になってからの生活には恥ずかしさがあるものの、自分でも正体の掴めない喜びを感じてしまって、戸惑っている。<br />\n　巨大娘になってからは地仁田とコンビを組むコトが減ってしまい、残念に思っている。<br />\n　怪しい密輸船が出入りしている海域の調査を依頼され、ハンパネー島の調査に向かった後、消息を絶つ──。<br />\n<br />\n　前作・縮小○園をプレイしていると、より楽しめます!<br />\n<br />\n■スタッフ<br />\n<br />\nイラスト:ふなくら さん<br />\nシナリオ:AN-J さん<br />\n声優 ──<br />\n　　　　大紀○成恵 ── 湊むつみ さん<br />\n　　　　新科研会長 ── 綾奈まりあ さん<br />\n<br />\nプロデューサー(という名の雑用) ── 西九条きたらふ<br />\n<br />\n■動作環境<br />\n<br />\nOS:Windows/Mac OS Xで動作します。(Adobe AIR 環境)<br />\n環境:Adobe AIR( <a href=\"https://airsdk.harman.com/runtime\" target=\"_blank\">https://airsdk.harman.com/runtime</a> )がインストールされている必要があります。<br />\n<br />\n<br />\n・ホームページでも詳細を紹介しています。<br />\n<a href=\"http://irafyou.blog21.fc2.com/blog-entry-993.html\" target=\"_blank\">http://irafyou.blog21.fc2.com/blog-entry-993.html</a>"
+    }
+   ]
+  }
+ ],
+ "description": "縮小○園の二次創作ノベルゲームです!ヒロイン、大紀○成恵。前作で巨大化したまま、調査員として活躍中。巨大娘になってからの生活には恥ずかしさがあるもの、正体の掴めない喜びを感じてしまって、戸惑っている。",
+ "short_introduction": "縮小○園の二次創作ノベルゲームです!ヒロイン、大紀○成恵。前作で巨大化したまま、調査員として活躍中。巨大娘になってからの生活には恥ずかしさがあるもの、正体の掴めない喜びを感じてしまって、戸惑っている。",
+ "options": [
+  "SND",
+  "MS2",
+  "TRI",
+  "REV"
+ ],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ119496.html",
+ "site_id": "maniax",
+ "fetched_at": 1794968565
+}

@@ -1,0 +1,169 @@
+{
+ "id": "RJ071772",
+ "title": "ロマンス・オブ・ファンタジー",
+ "title_romaji": "romansuobufwantajii",
+ "circle": {
+  "id": "RG12837",
+  "name": "キューピッドアイス",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG12837.html"
+ },
+ "type": {
+  "code": "RPG",
+  "name": "ロールプレイング",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "r18",
+ "sex": 1,
+ "price": {
+  "jpy": 1650,
+  "official_jpy": 1650,
+  "currencies": {
+   "USD": 10.35242802082281,
+   "EUR": 9.413294995550078,
+   "GBP": 7.841605276402329,
+   "TWD": 340.9513576063148,
+   "CNY": 69.1151584203207,
+   "KRW": 13830.67896060352,
+   "IDR": 189241.88553733227,
+   "VND": 266214.9080348499,
+   "THB": 350.281286487634,
+   "SEK": 104.74261881939198,
+   "HKD": 81.22796998995727,
+   "SGD": 13.34313447210921,
+   "CAD": 14.79969288394888,
+   "MYR": 42.377996316966865,
+   "BRL": 59.92395105847488,
+   "AUD": 15.367335192315215,
+   "PHP": 659.9208095028596,
+   "MXN": 190.91698004049755,
+   "NZD": 18.830672312064184,
+   "INR": 968.0258140217073
+  }
+ },
+ "point": {
+  "point_amount": 90,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1304089200,
+ "file": {
+  "type": "EXE",
+  "size": 152175873
+ },
+ "tags": [
+  {
+   "key": "510",
+   "name": "ツクール"
+  },
+  {
+   "key": "016",
+   "name": "ファンタジー"
+  }
+ ],
+ "languages": [
+  "JPN"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [],
+ "rating": {
+  "average": 4.41,
+  "count": 7103
+ },
+ "review_count": 87,
+ "dl_count": 12224,
+ "wishlist_count": 4908,
+ "ranking": [
+  {
+   "category": "all",
+   "period": "day",
+   "rank": 1,
+   "date": "2011-04-30"
+  },
+  {
+   "category": "all",
+   "period": "week",
+   "rank": 1,
+   "date": "2011-05-02"
+  },
+  {
+   "category": "all",
+   "period": "month",
+   "rank": 1,
+   "date": "2011-05-11"
+  },
+  {
+   "category": "all",
+   "period": "year",
+   "rank": 11,
+   "date": "2011"
+  },
+  {
+   "category": "all",
+   "period": "total",
+   "rank": 125,
+   "date": "2013-11-12"
+  },
+  {
+   "category": "game",
+   "period": "year",
+   "rank": 7,
+   "date": "2011"
+  },
+  {
+   "category": "game",
+   "period": "total",
+   "rank": 176,
+   "date": "2018-10-11"
+  }
+ ],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ072000/RJ071772_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ072000/RJ071772_img_main_240x240.jpg",
+  "samples": [
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ072000/RJ071772_img_smp1.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ072000/RJ071772_img_smp2.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ072000/RJ071772_img_smp3.jpg"
+  ],
+  "sample_thumbs": [
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ072000/RJ071772_img_smp1_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ072000/RJ071772_img_smp2_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ072000/RJ071772_img_smp3_100x100.jpg"
+  ],
+  "alt": "ロマンス・オブ・ファンタジー [キューピッドアイス]"
+ },
+ "introductions": [
+  {
+   "type": "text",
+   "title": "",
+   "body": [
+    {
+     "intro": "---------------------------------------------------------<br />\r\n※現バージョン(Ver1.55)には、追加コンテンツ「放たれし記憶」が含まれています。<br />\r\n「放たれし記憶」につきましては、当サークルホームページ内特設ページをご覧下さい。<br />\r\n<a href=\"http://cupid-ice.sakura.ne.jp/\" target=\"_blank\">http://cupid-ice.sakura.ne.jp/</a><br />\r\n--------------------------------------------------------<br />\r\n※お買い求めをいただく際、まずは必ず体験版での動作確認をお願いいたします。<br />\r\n--------------------------------------------------------<br />\r\n※長く楽しんでいただくため、発売後も様々なバージョンアップを予定しております。<br />\r\nご購入前に、必ずDLSite様への会員登録をお願いします。<br />\r\nゲストとしてご購入されてしまうと、アップデートを含む再ダウンロードが購入後より7日間のみとなってしまいます。<br />\r\n-------------------------------------------------------<br />\r\n<br />\r\n<br />\r\n『ロマンス・オブ・ファンタジー』は、サイドビュー戦闘のRPGです。<br />\r\n<br />\r\n様々な武器や術法、属性要素といった、オーソドックスなRPGのシステムだけでなく、ちょっと変わったシステムを導入しています。<br />\r\n<br />\r\n<br />\r\n☆『性欲システム』<br />\r\n主人公であるあなたは、健全な男の子。<br />\r\n当然、女の子たちと冒険していれば、自然と性欲がむらむらっと溜まってくるわけです。<br />\r\n性欲が溜まってくるとステータスがダウンするなど、徐々に調子が悪くなってしまいます・・・<br />\r\nそこで、あなたは、実に様々な方法で性欲解消を試みることができます。<br />\r\n<br />\r\n・宿屋に泊まり、夜中に起きて・・・<br />\r\n→寝ている仲間をネタに・・・<br />\r\n→寝ている仲間に気づかれないように脱がせて・・・<br />\r\n→むしろ寝ている仲間を強引に・・・<br />\r\n→起きている仲間に性欲処理を頼み込んでみたり・・・<br />\r\n→お風呂を覗いて仲間の裸を・・・<br />\r\n→好感度が高い仲間と同意のエッチを・・・<br />\r\n<br />\r\n・性風俗「スッキリランド」でスッキリ!<br />\r\n<br />\r\n・クエストで捕まえた女の子モンスターを相手に・・・<br />\r\n<br />\r\nなどなど、あなたの思い通りの方法で性欲を解消してください。<br />\r\n性欲が解消されれば、クリティカル率アップ、ステータスアップなどいいことずくめ!<br />\r\n<br />\r\n<br />\r\n☆『アーマーブレイク!』<br />\r\nあなたの行く手をさえぎるモンスターたちは、全て女の子モンスター(全119種)!<br />\r\n戦闘中、瀕死状態にすることで「アーマーブレイク」が発生!<br />\r\n女の子モンスターの服は破れ、普段の1.5倍の経験値とお金が入手でき、さらにはレアなアイテムをゲットできるチャンスもでてきます。<br />\r\n<br />\r\n<br />\r\n☆『好感度システム』<br />\r\n旅の途中に起こるイベントから、日々の雑談まで、あなたは色々な選択を迫られることになります。<br />\r\nあなたの選んだ選択肢によって、仲間の女の子たちの好感度は変化してゆきます。<br />\r\n好感度によって、同意の上でのエッチができたり、特別な恋人イベントが発生したり、エンディングに影響する他、宿屋で性欲処理を頼み込む際の成功率にも影響してきます。<br />\r\n<br />\r\n☆基本CG45枚・差分含め180枚、クリア時間約15〜25時間のボリュームになります。<br />\r\n<br />\r\n他にも、<br />\r\n☆『性風俗スッキリランド』<br />\r\n☆『マルチエンディング』<br />\r\n☆『CG閲覧モード』<br />\r\n☆『実績アーカイブ』<br />\r\n☆『魔物図鑑』<br />\r\n☆『女の子モンスター捕獲クエスト』<br />\r\n<br />\r\nなどなど、冒険を盛り上げるシステムが豊富に盛り込んであります。<br />\r\n詳しくはホームページをご覧下さい。<br />\r\n<br />\r\n※この作品をプレイするには、RPGツクールVX RTPが必要になります。<br />\r\nダウンロード方法は、同梱のReadmeをお読み下さい。"
+    }
+   ]
+  }
+ ],
+ "description": "性欲システムやアーマーブレイクといった、エッチなシステムが満載のファンタジーRPG",
+ "short_introduction": "性欲システムやアーマーブレイクといった、エッチなシステムが満載のファンタジーRPG",
+ "options": [
+  "MS2",
+  "TRI",
+  "REV"
+ ],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ071772.html",
+ "site_id": "maniax",
+ "fetched_at": 1794970438
+}

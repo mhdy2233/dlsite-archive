@@ -1,0 +1,112 @@
+{
+ "id": "RJ077345",
+ "title": "スーパーヒロイン大戦 東方スタート版2",
+ "title_romaji": "suupaahirointaisentouhousutaatobantsuu",
+ "circle": {
+  "id": "RG03683",
+  "name": "レズ萌え!",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG03683.html"
+ },
+ "type": {
+  "code": "SLN",
+  "name": "シミュレーション",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "all",
+ "sex": 1,
+ "price": {
+  "jpy": 880,
+  "official_jpy": 880,
+  "currencies": {
+   "USD": 5.521294944438832,
+   "EUR": 5.020423997626709,
+   "GBP": 4.182189480747908,
+   "TWD": 181.84072405670122,
+   "CNY": 36.861417824171035,
+   "KRW": 7376.362112321877,
+   "IDR": 100929.00561991055,
+   "VND": 141981.2842852533,
+   "THB": 186.81668612673815,
+   "SEK": 55.86273003700906,
+   "HKD": 43.32158399464388,
+   "SGD": 7.116338385124912,
+   "CAD": 7.89316953810607,
+   "MYR": 22.601598035715664,
+   "BRL": 31.959440564519937,
+   "AUD": 8.195912102568116,
+   "PHP": 351.9577650681918,
+   "MXN": 101.82238935493203,
+   "NZD": 10.043025233100897,
+   "INR": 516.2804341449106
+  }
+ },
+ "point": {
+  "point_amount": 48,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1305471600,
+ "file": {
+  "type": "ET1",
+  "size": 237804356
+ },
+ "tags": [
+  {
+   "key": "512",
+   "name": "東方Project"
+  }
+ ],
+ "languages": [
+  "JPN"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [],
+ "rating": {
+  "average": 4.15,
+  "count": 34
+ },
+ "review_count": 0,
+ "dl_count": 89,
+ "wishlist_count": 160,
+ "ranking": [],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ078000/RJ077345_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ078000/RJ077345_img_main_240x240.jpg",
+  "samples": [],
+  "sample_thumbs": [],
+  "alt": "スーパーヒロイン大戦 東方スタート版2 [レズ萌え!]"
+ },
+ "introductions": [
+  {
+   "type": "text",
+   "title": "",
+   "body": [
+    {
+     "intro": "スーパーヒロイン大戦　東方スタート版2です。<br />\r\n本編とは異なり、シナリオと戦闘ボイス(東方キャラのみ)全編フルボイスを実施!<br />\r\ncomic1新刊です!<br />\r\n<br />\r\n<br />\r\n【2019/08/18追記】<br />\r\n<br />\r\n本ゲームを作動させるには<br />\r\nフリーソフトが必要です。<br />\r\n以下のアドレスよりダウンロードをお願い致します。<br />\r\n<br />\r\n<a href=\"http://www.src-srpg.jpn.org/play_newinstall.shtml\" target=\"_blank\">http://www.src-srpg.jpn.org/play_newinstall.shtml</a><br />\r\n<br />\r\n<br />\r\n<br />\r\n作品内の説明書に書かれたお問い合わせ先や<br />\r\nホームページは現在機能していません(&gt;&lt;;)<br />\r\n<br />\r\nお問い合わせはaperitif.itou@gmail.comまでご連絡下さい。"
+    }
+   ]
+  }
+ ],
+ "description": "スーパーヒロイン大戦　東方スタート版2です。\r\n本編とは異なり、シナリオと戦闘ボイス(東方キャラのみ)全編フルボイスを実施!",
+ "short_introduction": "スーパーヒロイン大戦　東方スタート版2です。\r\n本編とは異なり、シナリオと戦闘ボイス(東方キャラのみ)全編フルボイスを実施!",
+ "options": [
+  "MS2"
+ ],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ077345.html",
+ "site_id": "home",
+ "fetched_at": 1794970427
+}

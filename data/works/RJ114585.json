@@ -1,0 +1,116 @@
+{
+ "id": "RJ114585",
+ "title": "亜紀と星の妖精",
+ "title_romaji": "akitohoshinoyousei",
+ "circle": {
+  "id": "RG07920",
+  "name": "モチックス",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG07920.html"
+ },
+ "type": {
+  "code": "ADV",
+  "name": "アドベンチャー",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "r18",
+ "sex": 1,
+ "price": {
+  "jpy": 1430,
+  "official_jpy": 1430,
+  "currencies": {
+   "USD": 8.972104284713103,
+   "EUR": 8.158188996143402,
+   "GBP": 6.796057906215351,
+   "TWD": 295.4911765921395,
+   "CNY": 59.899803964277936,
+   "KRW": 11986.58843252305,
+   "IDR": 164009.63413235464,
+   "VND": 230719.5869635366,
+   "THB": 303.57711495594947,
+   "SEK": 90.77693631013972,
+   "HKD": 70.39757399129631,
+   "SGD": 11.564049875827981,
+   "CAD": 12.826400499422364,
+   "MYR": 36.72759680803795,
+   "BRL": 51.934090917344896,
+   "AUD": 13.318357166673186,
+   "PHP": 571.9313682358116,
+   "MXN": 165.46138270176453,
+   "NZD": 16.319916003788958,
+   "INR": 838.9557054854797
+  }
+ },
+ "point": {
+  "point_amount": 78,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1367334000,
+ "file": {
+  "type": "EXE",
+  "size": 299393669
+ },
+ "tags": [],
+ "languages": [
+  "JPN"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [],
+ "rating": {
+  "average": 2.63,
+  "count": 8
+ },
+ "review_count": 0,
+ "dl_count": 17,
+ "wishlist_count": 79,
+ "ranking": [],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ115000/RJ114585_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ115000/RJ114585_img_main_240x240.jpg",
+  "samples": [
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ115000/RJ114585_img_smp1.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ115000/RJ114585_img_smp2.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ115000/RJ114585_img_smp3.jpg"
+  ],
+  "sample_thumbs": [
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ115000/RJ114585_img_smp1_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ115000/RJ114585_img_smp2_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ115000/RJ114585_img_smp3_100x100.jpg"
+  ],
+  "alt": "亜紀と星の妖精 [モチックス]"
+ },
+ "introductions": [
+  {
+   "type": "text",
+   "title": "",
+   "body": [
+    {
+     "intro": "突如として目の前に現れた時空管理局員。<br />\r\n聞けば妖精世界に危機が迫っているという。<br />\r\n<br />\r\n平和な世界を内◯亜紀ワールドに変えようと企む<br />\r\n黒い影、彼らは一体何者なのか!<br />\r\n<br />\r\nもちろん<br />\r\nぼくらのヒーロー『星の妖精』は<br />\r\n世界を救うべく立ち上がります。<br />\r\n<br />\r\n頑張れ星の妖精!<br />\r\n<br />\r\n負けるな星の妖精!!<br />\r\n<br />\r\n<br />\r\nゲームジャンル:アドベンチャーゲーム<br />\r\n<br />\r\nプレイ人数:一人用<br />\r\n<br />\r\n<br />\r\n<br />\r\n※不具合等があった場合、出来る範囲で<br />\r\n作品を差し替えて対応致します。<br />\r\nダウンロードサイト様への会員登録をお勧め致します。<br />\r\n<br />\r\n<br />\r\nお手持ちのパソコンで動作可能かどうか、<br />\r\n体験版をダウンロードしてお確かめ下さいませ。<br />\r\n<br />\r\n<br />\r\n_____________<br />\r\n更新情報<br />\r\n_____________<br />\r\n2023.03.27　WOLFRPGエディターに移植、Hデモ閲覧モード搭載<br />\r\n2013.08.26　洞窟内で一部ボスが発生せず、先に進まないのを修正<br />\r\n2013.05.05　イベントが無限ループになるバグを修正<br />\r\n　　　　　　セーブ機能追加<br />\r\n2017.05.11　微かにゲーム速度修正<br />\r\n<br />\r\nご迷惑をおかけしてすいません。<br />\r\nバグの報告ありがとうございました。<br />\r\n引き続きご愛顧のほど宜しくお願い致しますm(_ _)m"
+    }
+   ]
+  }
+ ],
+ "description": "妖精の世界を内◯亜紀化から救うアドベンチャーゲーム",
+ "short_introduction": "妖精の世界を内◯亜紀化から救うアドベンチャーゲーム",
+ "options": [
+  "MS2",
+  "TRI"
+ ],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ114585.html",
+ "site_id": "maniax",
+ "fetched_at": 1794968737
+}

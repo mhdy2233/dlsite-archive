@@ -1,0 +1,109 @@
+{
+ "id": "RJ076323",
+ "title": "THE BURDEN",
+ "title_romaji": "zabaaden",
+ "circle": {
+  "id": "RG14566",
+  "name": "SC TROOP",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG14566.html"
+ },
+ "type": {
+  "code": "ADV",
+  "name": "アドベンチャー",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "all",
+ "sex": 1,
+ "price": {
+  "jpy": 330,
+  "official_jpy": 330,
+  "currencies": {
+   "USD": 2.070485604164562,
+   "EUR": 1.8826589991100158,
+   "GBP": 1.5683210552804656,
+   "TWD": 68.19027152126296,
+   "CNY": 13.823031684064139,
+   "KRW": 2766.135792120704,
+   "IDR": 37848.377107466455,
+   "VND": 53242.98160696999,
+   "THB": 70.05625729752681,
+   "SEK": 20.948523763878395,
+   "HKD": 16.245593997991456,
+   "SGD": 2.668626894421842,
+   "CAD": 2.959938576789776,
+   "MYR": 8.475599263393374,
+   "BRL": 11.984790211694976,
+   "AUD": 3.073467038463043,
+   "PHP": 131.98416190057193,
+   "MXN": 38.18339600809951,
+   "NZD": 3.7661344624128366,
+   "INR": 193.60516280434146
+  }
+ },
+ "point": {
+  "point_amount": 18,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1303916400,
+ "file": {
+  "type": "EXE",
+  "size": 2083746
+ },
+ "tags": [],
+ "languages": [
+  "JPN"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [],
+ "rating": {
+  "average": null,
+  "count": null
+ },
+ "review_count": 0,
+ "dl_count": 1,
+ "wishlist_count": 4,
+ "ranking": [],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ077000/RJ076323_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ077000/RJ076323_img_main_240x240.jpg",
+  "samples": [
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ077000/RJ076323_img_smp1.jpg"
+  ],
+  "sample_thumbs": [
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ077000/RJ076323_img_smp1_100x100.jpg"
+  ],
+  "alt": "THE BURDEN [SC TROOP]"
+ },
+ "introductions": [
+  {
+   "type": "text",
+   "title": "",
+   "body": [
+    {
+     "intro": "英単語入力で動詞＋名詞。<br />\r\n移動は前＝F、右＝R、左＝L、後＝B<br />\r\n基本、LOOKとTALKで情報は集められるような仕様です。<br />\r\n<br />\r\nストーリー設定として、主人公は左目に人工知能コンピュータ（サラ＝SALA）を埋め込んでいますので、<br />\r\n知りたい情報はサラにTALKするとわかるようになっています。<br />\r\nグラフィックは当時の物に近づけた為かなり荒く、現代的ではありません。仕様です（笑）<br />\r\nプレイ時間は短いので、今回はSAVE機能は実装してないのであしからず。<br />\r\n最後に、入力は大文字でも小文字でも対応しております。<br />\r\nなお、このゲームはHSP（ホットスーププロセッサー）を使用して作りました。"
+    }
+   ]
+  }
+ ],
+ "description": "昔懐かしいコマンド入力式アドベンチャーゲームです。",
+ "short_introduction": "昔懐かしいコマンド入力式アドベンチャーゲームです。",
+ "options": [],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ076323.html",
+ "site_id": "home",
+ "fetched_at": 1794970447
+}

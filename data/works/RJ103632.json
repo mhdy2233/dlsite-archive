@@ -1,0 +1,220 @@
+{
+ "id": "RJ103632",
+ "title": "五十少女漂流記",
+ "title_romaji": "gojuushoujohyouryuuki",
+ "circle": {
+  "id": "RG18099",
+  "name": "もえゆきそふと",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG18099.html"
+ },
+ "type": {
+  "code": "RPG",
+  "name": "ロールプレイング",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "r18",
+ "sex": 1,
+ "price": {
+  "jpy": 1100,
+  "official_jpy": 1100,
+  "currencies": {
+   "USD": 6.90161868054854,
+   "EUR": 6.275529997033386,
+   "GBP": 5.227736850934885,
+   "TWD": 227.30090507087652,
+   "CNY": 46.076772280213795,
+   "KRW": 9220.452640402347,
+   "IDR": 126161.25702488818,
+   "VND": 177476.60535656664,
+   "THB": 233.5208576584227,
+   "SEK": 69.82841254626132,
+   "HKD": 54.15197999330485,
+   "SGD": 8.89542298140614,
+   "CAD": 9.866461922632588,
+   "MYR": 28.251997544644578,
+   "BRL": 39.94930070564992,
+   "AUD": 10.244890128210143,
+   "PHP": 439.94720633523974,
+   "MXN": 127.27798669366503,
+   "NZD": 12.553781541376122,
+   "INR": 645.3505426811382
+  }
+ },
+ "point": {
+  "point_amount": 60,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1349794800,
+ "file": {
+  "type": "EXE",
+  "size": 340495724
+ },
+ "tags": [
+  {
+   "key": "215",
+   "name": "娘"
+  },
+  {
+   "key": "207",
+   "name": "つるぺた"
+  },
+  {
+   "key": "003",
+   "name": "屋外"
+  },
+  {
+   "key": "120",
+   "name": "近親もの"
+  },
+  {
+   "key": "129",
+   "name": "妊娠/孕ませ"
+  },
+  {
+   "key": "186",
+   "name": "ぼて腹/妊婦"
+  }
+ ],
+ "languages": [
+  "JPN"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [],
+ "rating": {
+  "average": 4.1,
+  "count": 4036
+ },
+ "review_count": 38,
+ "dl_count": 6922,
+ "wishlist_count": 4076,
+ "ranking": [
+  {
+   "category": "all",
+   "period": "day",
+   "rank": 1,
+   "date": "2012-10-11"
+  },
+  {
+   "category": "all",
+   "period": "week",
+   "rank": 3,
+   "date": "2012-10-12"
+  },
+  {
+   "category": "all",
+   "period": "month",
+   "rank": 6,
+   "date": "2012-10-23"
+  },
+  {
+   "category": "all",
+   "period": "year",
+   "rank": 82,
+   "date": "2012"
+  },
+  {
+   "category": "game",
+   "period": "year",
+   "rank": 52,
+   "date": "2012"
+  }
+ ],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ104000/RJ103632_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ104000/RJ103632_img_main_240x240.jpg",
+  "samples": [
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ104000/RJ103632_img_smp1.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ104000/RJ103632_img_smp2.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ104000/RJ103632_img_smp3.jpg"
+  ],
+  "sample_thumbs": [
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ104000/RJ103632_img_smp1_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ104000/RJ103632_img_smp2_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ104000/RJ103632_img_smp3_100x100.jpg"
+  ],
+  "alt": "五十少女漂流記 [もえゆきそふと]"
+ },
+ "introductions": [
+  {
+   "type": "text",
+   "title": "",
+   "body": [
+    {
+     "intro": "・バージョン変更情報<br />\n最新バージョンはVer1.11です。以降のバージョン情報は、Readmeテキストでご確認になれます。<br />\n<br />\nバージョンアップにともなってセーブデータを移し替える場合は、<br />\n『PublicData』も新しいセーブデータと同じ場所に移し替えてください。<br />\nその際、念のため、『低地の洞窟入口以外』かつ『海辺の洞窟以外』かつ『海底の洞窟以外』でセーブしたデータを移し替えてください。<br />\n【【【体験版のセーブデータとの互換性はございません。】】】<br />\nバージョンの違う体験版同士のセーブデータの互換性はございません。<br />\n<br />\nバージョン情報:Ver1.11<br />\nVer1.01からの変更点:低地の洞窟入口地形、命中率の大幅上昇、逃走成功率を上方修正、暗号化<br />\nVer1.02からの変更点:毒攻撃成功率を下方修正、部屋の切り株を目立たせる説明を追加、その他バランス調整<br />\nVer1.03からの変更点:海辺の洞窟の地形、技に消費MPを追加、切り株に簡易地図を追加、その他バランス調整<br />\nVer1.04からの変更点:海底の洞窟の地形、序盤の毒消し入手率を上方修正、命名フラグ修正、<br />\n　　　　　　　　　　　指輪が手に入る条件フラグを修正、その他バランス調整<br />\nVer1.05からの変更点:その周回でのラスボス討伐後のみ、主人公の部屋の水晶から見られる特殊アルバムモードを追加、<br />\n　　　　　　　　　　　その他微調整<br />\nVer1.06からの変更点:特定のボスを最後に倒すと移動速度が速くなる不具合を修正、ハーブティーに関するシナリオを追加<br />\n　　　　　　　　　　　その他微調整<br />\nVer1.07からの変更点:一定条件で全ての合成レシピが揃わない不具合を修正、その他微調整<br />\nVer1.08からの変更点:指輪の取得条件を緩和、一定条件でゴローと話すと迷いの森に飛べるように変更、その他微調整<br />\nVer1.09からの変更点:クリア後はエンディングを飛ばせるように変更、その他微調整<br />\nVer1.10からの変更点:一定条件で倉庫完成前にもかぐらの部屋に入れるように変更、その他微調整<br />\n<br />\n・告知<br />\n<br />\nキャラクター相性診断!<br />\n<a href=\"http://moeyukisoft.sblo.jp/article/72324519.html\" target=\"_blank\">http://moeyukisoft.sblo.jp/article/72324519.html</a><br />\n第1回人気投票結果発表中!<br />\n<a href=\"http://moeyukisoft.sblo.jp/article/60695600.html\" target=\"_blank\">http://moeyukisoft.sblo.jp/article/60695600.html</a><br />\n第2回人気投票結果発表中!<br />\n<a href=\"http://moeyukisoft.sblo.jp/article/77854411.html\" target=\"_blank\">http://moeyukisoft.sblo.jp/article/77854411.html</a><br />\nファンディスク発売中!<br />\n最新情報はもえゆきそふと公式ブログでご覧ください。<br />\n<a href=\"http://moeyukisoft.sblo.jp/\" target=\"_blank\">http://moeyukisoft.sblo.jp/</a><br />\n<br />\nなお、同じお客様の応援コメントは、最終のもののみ有効な仕様です。<br />\n(それ以前のものは、消えてしまって見えなくなります。)<br />\n<br />\n・作品紹介<br />\n<br />\n主人公は、とある学園に通う学生。<br />\n彼は、各種の部活や委員会のリーダーが集う合宿に、<br />\n帰宅部部長として強○的に参加させられます。<br />\n今年の合宿は帆船での南海クルーズ。<br />\nしかし、船が難破し、主人公たちは無人島に流れ着くことに。<br />\nそこで、10人の女の子たちに囲まれた、無人島での冒険が始まります。<br />\n<br />\nやりこみ、周回プレイ要素もありの孕ませRPG。<br />\nほとんどのダンジョンが自由な順番で攻略可能なフリーシナリオシステムを採用。<br />\n最初の選択や攻略順によって難度が大幅に変わりますが、<br />\n同じ場所でも攻略順によって敵の強さが変わってきます。<br />\n主人公の成長タイプは4パターン、どの派閥に属するかが4パターンで、<br />\nスタートの状況だけで合計16パターン。<br />\n冒険で手に入れた素材を使って、村を大きくするのも装備を強くするのも自由。<br />\n村をほとんど開発しないままでのクリアも可能な自由度の高さです。<br />\nマルチエンディングで、エンディング数は10オーバー。<br />\n攻略可能人数は30人で、30人とも仲間にできます。<br />\nエッチシーン数は長短合わせて80オーバー。<br />\n製作期間6か月。1作目記念価格でお送りするRPGです。<br />\n<br />\n<br />\n・動作環境等<br />\n <br />\n動作環境を満たしていても、機器の相性により正常に動作しない場合があります。<br />\n予めご了承ください。<br />\n特に、PCスペックによっては、村の中での動きが鈍くなる場合があります。<br />\n必ず体験版でご確認ください。<br />\n <br />\n当作品をプレイする際には、RPGツクールVXaceのRTP<br />\n (ランタイムパッケージ)が必要になります。<br />\n 下記のURLから無料でダウンロードできます。<br />\n RTPはサイズが185MBありますので、<br />\n 未インストールの方はご注意ください。<br />\n <br />\n<a href=\"https://rpgmakerofficial.com/support/rtp/\" target=\"_blank\">https://rpgmakerofficial.com/support/rtp/</a><br />\n <br />\nバージョンアップは公式販売サイト様でのみ行う予定です。<br />\n 必ず販売サイト様での会員登録をお願いします。<br />\n<br />\n<br />\n本作品の2012年中の収益の一部は、東日本大震災の復興のために寄付させていただきます。<br />\n<br />\n追記:<br />\n寄付が完了しましたのでご報告申し上げます。<br />\n<a href=\"http://moeyukisoft.sblo.jp/article/60223454.html\" target=\"_blank\">http://moeyukisoft.sblo.jp/article/60223454.html</a><br />\nご協力ありがとうございました。m(_　_)m"
+    }
+   ]
+  },
+  {
+   "type": "image",
+   "title": "親子で",
+   "body": [
+    {
+     "intro": "条件を満たせば、親子で楽しむことも可能です。",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ104000/RJ103632/RJ103632_PTS0000002682_0.jpg",
+      "alt": "五十少女漂流記 [もえゆきそふと]",
+      "title": "五十少女漂流記 [もえゆきそふと]"
+     },
+     "position": "over"
+    }
+   ]
+  },
+  {
+   "type": "image",
+   "title": "親子で",
+   "body": [
+    {
+     "intro": "条件を満たせば、親子で楽しむことも可能です。",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ104000/RJ103632/RJ103632_PTS0000002683_0.jpg",
+      "alt": "五十少女漂流記 [もえゆきそふと]",
+      "title": "五十少女漂流記 [もえゆきそふと]"
+     },
+     "position": "right"
+    }
+   ]
+  },
+  {
+   "type": "image",
+   "title": "娘と",
+   "body": [
+    {
+     "intro": "孕ませた娘と……。",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ104000/RJ103632/RJ103632_PTS0000002684_0.jpg",
+      "alt": "五十少女漂流記 [もえゆきそふと]",
+      "title": "五十少女漂流記 [もえゆきそふと]"
+     },
+     "position": "over"
+    }
+   ]
+  }
+ ],
+ "description": "無人島で冒険するRPGツクールVXace製孕ませRPGです。AVGパートもありますが、テキストはボタン1つで飛ばせます。",
+ "short_introduction": "無人島で冒険するRPGツクールVXace製孕ませRPGです。AVGパートもありますが、テキストはボタン1つで飛ばせます。",
+ "options": [
+  "MS2",
+  "REV",
+  "TRI",
+  "ORW",
+  "RegionHiddenFilter"
+ ],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ103632.html",
+ "site_id": "maniax",
+ "fetched_at": 1794969227
+}

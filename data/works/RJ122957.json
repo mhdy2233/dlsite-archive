@@ -1,0 +1,164 @@
+{
+ "id": "RJ122957",
+ "title": "Dragon Explorer - ドラゴン・エクスプローラー",
+ "title_romaji": "doragonekusupurooraa",
+ "circle": {
+  "id": "RG12196",
+  "name": "ハルニセン",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG12196.html"
+ },
+ "type": {
+  "code": "RPG",
+  "name": "ロールプレイング",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "r18",
+ "sex": 1,
+ "price": {
+  "jpy": 1430,
+  "official_jpy": 1430,
+  "currencies": {
+   "USD": 8.972104284713103,
+   "EUR": 8.158188996143402,
+   "GBP": 6.796057906215351,
+   "TWD": 295.4911765921395,
+   "CNY": 59.899803964277936,
+   "KRW": 11986.58843252305,
+   "IDR": 164009.63413235464,
+   "VND": 230719.5869635366,
+   "THB": 303.57711495594947,
+   "SEK": 90.77693631013972,
+   "HKD": 70.39757399129631,
+   "SGD": 11.564049875827981,
+   "CAD": 12.826400499422364,
+   "MYR": 36.72759680803795,
+   "BRL": 51.934090917344896,
+   "AUD": 13.318357166673186,
+   "PHP": 571.9313682358116,
+   "MXN": 165.46138270176453,
+   "NZD": 16.319916003788958,
+   "INR": 838.9557054854797
+  }
+ },
+ "point": {
+  "point_amount": 78,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1383231600,
+ "file": {
+  "type": "EXE",
+  "size": 94882837
+ },
+ "tags": [
+  {
+   "key": "431",
+   "name": "ドット"
+  },
+  {
+   "key": "016",
+   "name": "ファンタジー"
+  },
+  {
+   "key": "204",
+   "name": "血液/流血"
+  }
+ ],
+ "languages": [
+  "JPN"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [],
+ "rating": {
+  "average": 4.17,
+  "count": 733
+ },
+ "review_count": 7,
+ "dl_count": 1148,
+ "wishlist_count": 1711,
+ "ranking": [
+  {
+   "category": "all",
+   "period": "day",
+   "rank": 9,
+   "date": "2013-11-02"
+  },
+  {
+   "category": "all",
+   "period": "week",
+   "rank": 23,
+   "date": "2013-11-07"
+  },
+  {
+   "category": "all",
+   "period": "month",
+   "rank": 86,
+   "date": "2013-11-30"
+  }
+ ],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ123000/RJ122957_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ123000/RJ122957_img_main_240x240.jpg",
+  "samples": [
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ123000/RJ122957_img_smp1.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ123000/RJ122957_img_smp2.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ123000/RJ122957_img_smp3.jpg"
+  ],
+  "sample_thumbs": [
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ123000/RJ122957_img_smp1_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ123000/RJ122957_img_smp2_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ123000/RJ122957_img_smp3_100x100.jpg"
+  ],
+  "alt": "Dragon Explorer - ドラゴン・エクスプローラー [ハルニセン]"
+ },
+ "introductions": [
+  {
+   "type": "text",
+   "title": "",
+   "body": [
+    {
+     "intro": "■更新履歴■<br />\r\n<br />\r\n体験版の内容を更新しました!　お試しください!<br />\r\n<br />\r\nver1.05 不具合修正、防具2種追加、ゲストCG追加<br />\r\n(ゲストCGはデバグルームで閲覧できます)<br />\r\nver1.04 不具合修正、裏ボス追加、デバッグルーム追加<br />\r\n(裏ボスは魔王をある場所で倒す事で出現します。<br />\r\n　クリア後、最初の城にデバグルームの入口が出現します)<br />\r\nver1.03 各種不具合修正、イベント追加、CG1枚追加<br />\r\n(プルナとメガトン、森の鍛冶屋にイベント用のNPCが追加)<br />\r\nver1.02 解放の石、メガトン城のイベント修正、CG1枚追加<br />\r\nver1.01 クリア後のギャラリーメニューの修正、CG1枚追加<br />\r\n<br />\r\n----------------------------------------------------------------------<br />\r\n<br />\r\n昔、勇者だった君へ…あの世界が君を待っている!<br />\r\n<br />\r\n懐かしのロールプレイングゲームよ再び!<br />\r\nシンプルなドットで構成された世界で再び冒険の旅に出てみませんか?<br />\r\n<br />\r\nしかし、君が大人になったように、あの世界も大人の世界になって帰ってきました。<br />\r\nダメージを受ければ血は流れ、女は容赦なく犯されてしまいます。<br />\r\n魔物に襲われた街は滅んでしまうし、死んだ人々は生き返りません(勇者である君だけは別です!)<br />\r\nあの頃、想像でおぎなうしかなかった、エロと死にまみれた世界がそこにあります!<br />\r\n<br />\r\nさぁ、勇者よ、再びを剣を取れ!<br />\r\n<br />\r\n----------------------------------------------------------------------<br />\r\n<br />\r\n■ストーリー<br />\r\n<br />\r\n伝説の勇者が魔王を倒してから百年…<br />\r\n何者かによって魔物の封印は解かれ、<br />\r\n世界は再び、悪の手に落ちようとしていた<br />\r\n<br />\r\n伝説の勇者の血を引く者、それがあなたです!<br />\r\nこの地に跋扈する魔物を封印し、秘宝を見つけ、<br />\r\n魔物に襲われている人々を助け…<br />\r\nそして、魔王を倒し世界を救ってください。<br />\r\n<br />\r\nあなたの冒険は…今、はじまったのです!<br />\r\n<br />\r\n----------------------------------------------------------------------<br />\r\n<br />\r\nCGは基本18枚、差分込で46枚です。<br />\r\n<br />\r\n----------------------------------------------------------------------<br />\r\n<br />\r\n■システム<br />\r\n<br />\r\nレトロRPGの面白いところを凝縮!<br />\r\n昔のゲームの面倒な要素は徹底的に省きました!<br />\r\n<br />\r\n・すぐに覚えられる!　徹底的に無駄を排したシンプルなシステム<br />\r\n・面倒なレベル上げ無し!　超高速オートバトル搭載<br />\r\n・どこでもセーブ&amp;ロード可能!<br />\r\n・マップの広さを最適化!　無駄に迷いすぎるマップはありません!<br />\r\n・ステータス割り振り成長システム!　自分好みのキャラに育てよう!<br />\r\n・すべての鎧に個別のグラフィック&amp;ダメージ差分<br />\r\n・血が苦手でも安心!　流血描画のオン・オフ<br />\r\n・さくさくレベルアップ!<br />\r\n・歩くスピードが早い!<br />\r\n・無駄な戦闘は避けて通れる。シンボルエンカウント!<br />\r\n<br />\r\n----------------------------------------------------------------------<br />\r\n<br />\r\n■作者より<br />\r\n<br />\r\nRPGマニアだった自分が満足いくように作っています。<br />\r\n何度も繰り返しレベル上げしないと進めなかったり<br />\r\nずーっとフィールドが続くだけだったりなどなど、<br />\r\n退屈な時間が続かないように、<br />\r\nちょこちょこ何かが起きるように仕組んでみました。<br />\r\n<br />\r\n自分が面白いと思った物を作る!<br />\r\nというのが当サークル(僕しかいませんが!)のモットーなので<br />\r\n今回のRPGも楽しんでいただけると思います!<br />\r\n<br />\r\n----------------------------------------------------------------------<br />\r\n体験版で起動確認してみてください!<br />\r\n<br />\r\nブログに今までの開発情報が載ってます!<br />\r\n<a href=\"http://b.dlsite.net/RG12196/\" target=\"_blank\">http://b.dlsite.net/RG12196/</a><br />\r\n----------------------------------------------------------------------"
+    }
+   ]
+  },
+  {
+   "type": "image",
+   "title": "これが君の冒険の地、ミズガルド全図だ!!",
+   "body": [
+    {
+     "intro": "ドラゴン・エクスプローラーの冒険の舞台となるミズガルド世界の地図です。<br />\r\n（主な城と街、序盤のダンジョンのみ記されています）<br />\r\n150*150マスの大きさを持つこの世界にはさまざまな出来事が待っています。<br />\r\nあなたは、そのすべてを体験する事ができるでしょうか？",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ123000/RJ122957/RJ122957_PTS0000004953_0.jpg",
+      "alt": "Dragon Explorer - ドラゴン・エクスプローラー [ハルニセン]",
+      "title": "Dragon Explorer - ドラゴン・エクスプローラー [ハルニセン]"
+     },
+     "position": "top"
+    }
+   ]
+  }
+ ],
+ "description": "DQ風なエロ&レトロRPG! 懐かしの,あの世界が君を待っている! あの頃の思い出が蘇る8bit風RPG!",
+ "short_introduction": "DQ風なエロ&レトロRPG! 懐かしの,あの世界が君を待っている! あの頃の思い出が蘇る8bit風RPG!",
+ "options": [
+  "MS2",
+  "TRI",
+  "REV"
+ ],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ122957.html",
+ "site_id": "maniax",
+ "fetched_at": 1794968400
+}

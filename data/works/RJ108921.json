@@ -1,0 +1,189 @@
+{
+ "id": "RJ108921",
+ "title": "魔法爽快アクション 魔女SAYURI",
+ "title_romaji": "mahousoukaiakushonmajosayuri",
+ "circle": {
+  "id": "RG21074",
+  "name": "Alkanet",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG21074.html"
+ },
+ "type": {
+  "code": "ACN",
+  "name": "アクション",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "all",
+ "sex": 1,
+ "price": {
+  "jpy": 880,
+  "official_jpy": 880,
+  "currencies": {
+   "USD": 5.521294944438832,
+   "EUR": 5.020423997626709,
+   "GBP": 4.182189480747908,
+   "TWD": 181.84072405670122,
+   "CNY": 36.861417824171035,
+   "KRW": 7376.362112321877,
+   "IDR": 100929.00561991055,
+   "VND": 141981.2842852533,
+   "THB": 186.81668612673815,
+   "SEK": 55.86273003700906,
+   "HKD": 43.32158399464388,
+   "SGD": 7.116338385124912,
+   "CAD": 7.89316953810607,
+   "MYR": 22.601598035715664,
+   "BRL": 31.959440564519937,
+   "AUD": 8.195912102568116,
+   "PHP": 351.9577650681918,
+   "MXN": 101.82238935493203,
+   "NZD": 10.043025233100897,
+   "INR": 516.2804341449106
+  }
+ },
+ "point": {
+  "point_amount": 48,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1357657200,
+ "file": {
+  "type": "EXE",
+  "size": 139249426
+ },
+ "tags": [
+  {
+   "key": "029",
+   "name": "魔法"
+  }
+ ],
+ "languages": [
+  "JPN"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [],
+ "rating": {
+  "average": 4.08,
+  "count": 24
+ },
+ "review_count": 0,
+ "dl_count": 38,
+ "wishlist_count": 170,
+ "ranking": [],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ109000/RJ108921_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ109000/RJ108921_img_main_240x240.jpg",
+  "samples": [
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ109000/RJ108921_img_smp1.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ109000/RJ108921_img_smp2.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ109000/RJ108921_img_smp3.jpg"
+  ],
+  "sample_thumbs": [
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ109000/RJ108921_img_smp1_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ109000/RJ108921_img_smp2_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ109000/RJ108921_img_smp3_100x100.jpg"
+  ],
+  "alt": "魔法爽快アクション 魔女SAYURI [Alkanet]"
+ },
+ "introductions": [
+  {
+   "type": "text",
+   "title": "",
+   "body": [
+    {
+     "intro": "Alkanet開発第一弾!!　完全オリジナルアクションゲーム<br />\r\n<br />\r\nその少女の名はSAYURI　その力ゆえに人々に恐れられた。<br />\r\n<br />\r\n〜あらすじ〜<br />\r\n少女は魔法という人とは異なる力を持っていた。<br />\r\nそのため、人々に迫害されひっそりと村から離れた場所で自分の存在を隠すように暮らしていた。<br />\r\nところがある日、そこに村人たちが押し寄せ、自分たちを助けて欲しいと懇願される。<br />\r\nSAYURIはその声に耳を傾けるのであった……<br />\r\n<br />\r\n誰もが簡単に楽しめる、アクションゲーム。<br />\r\nステージ上に登場するモンスターたちをSAYURIの魔法を駆使してなぎたおせ!<br />\r\n<br />\r\n魔法は全7種類。さまざまな攻撃範囲と特徴を持ち、状況に応じて切り替え使い分けよう<br />\r\nSAYURIの魔力と体力が充実すれば全てのモンスターを一瞬に葬り去れる。<br />\r\n<br />\r\nステージ数は全25ステージ。<br />\r\n全てのステージをクリアした先のSAYURIの運命は……<br />\r\nSAYURIの物語がここに今始まる!"
+    }
+   ]
+  },
+  {
+   "type": "image",
+   "title": "SAYURIが歩む道のり",
+   "body": [
+    {
+     "intro": "ステージ選択画面では一歩一歩ステージを進めていきます。<br />\r\n全25ステージにはびこるモンスターをSAYURIの魔法で退治します。<br />\r\nクリアしたステージは何度でも楽しめます。<br />\r\nクリアタイムに応じて、ランク付けがされてメダルも獲得できます。<br />\r\n",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ109000/RJ108921/RJ108921_PTS0000003220_0.jpg",
+      "alt": "魔法爽快アクション 魔女SAYURI [Alkanet]",
+      "title": "魔法爽快アクション 魔女SAYURI [Alkanet]"
+     },
+     "position": "top"
+    }
+   ]
+  },
+  {
+   "type": "image",
+   "title": "最強魔法の発動",
+   "body": [
+    {
+     "intro": "SAYURIの魔力・体力が充実している時には、最強の魔法を発動できます。<br />\r\n最強魔法発動で一瞬にして画面上の敵を退治し、<br />\r\nステージをクリアすることができます。",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ109000/RJ108921/RJ108921_PTS0000003221_0.jpg",
+      "alt": "魔法爽快アクション 魔女SAYURI [Alkanet]",
+      "title": "魔法爽快アクション 魔女SAYURI [Alkanet]"
+     },
+     "position": "top"
+    }
+   ]
+  },
+  {
+   "type": "image_list",
+   "title": "魔女SAYURIの登場キャラクター",
+   "body": [
+    {
+     "intro": "〜SAYURI〜<br />\r\n幼いころより人とは違う力を持つ少女。<br />\r\nそのため、人々から迫害を受け、人に対して疑いを持つようになる。村里はなれた場所に一人さびしく暮らす。<br />\r\n自分を良く見せるため基本笑顔を絶やさないが、心の奥底には醜い自分がいることを自覚している。",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ109000/RJ108921/RJ108921_PTS0000003222_1.jpg",
+      "alt": "魔法爽快アクション 魔女SAYURI [Alkanet]",
+      "title": "魔法爽快アクション 魔女SAYURI [Alkanet]"
+     }
+    },
+    {
+     "intro": "〜ウイック〜<br />\r\n傷ついていたところをSAYURIに助けられたふくろう。<br />\r\nそのときに受けた治療（魔法）の後遺症？で何故か人間の言葉が話せるように。SAYURIのよき理解者であり、唯一の家族でもある。",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ109000/RJ108921/RJ108921_PTS0000003222_2.jpg",
+      "alt": "魔法爽快アクション 魔女SAYURI [Alkanet]",
+      "title": "魔法爽快アクション 魔女SAYURI [Alkanet]"
+     }
+    },
+    {
+     "intro": "〜メルティ〜<br />\r\nSAYURIと同じように魔法を扱える能力を持つ。<br />\r\n自身の力を世界各地にあわられるモンスター退治の為に使っている。SAYURIを理解する唯一の人間でいつもSAYURIを心配する保護者のような存在。",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ109000/RJ108921/RJ108921_PTS0000003222_3.jpg",
+      "alt": "魔法爽快アクション 魔女SAYURI [Alkanet]",
+      "title": "魔法爽快アクション 魔女SAYURI [Alkanet]"
+     }
+    },
+    {
+     "intro": "〜アディ〜<br />\r\nSAYURIの前に現れた謎の少女。<br />\r\n人ではないようだが……",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ109000/RJ108921/RJ108921_PTS0000003222_4.jpg",
+      "alt": "魔法爽快アクション 魔女SAYURI [Alkanet]",
+      "title": "魔法爽快アクション 魔女SAYURI [Alkanet]"
+     }
+    }
+   ]
+  }
+ ],
+ "description": "その少女の名はSAYURI その力故に人々に恐れられた。Alkanet作品第一弾。完全オリジナルアクションゲーム。魔法を駆使して敵を殲滅するアクションゲーム。",
+ "short_introduction": "その少女の名はSAYURI その力故に人々に恐れられた。Alkanet作品第一弾。完全オリジナルアクションゲーム。魔法を駆使して敵を殲滅するアクションゲーム。",
+ "options": [
+  "MS2",
+  "TRI"
+ ],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ108921.html",
+ "site_id": "home",
+ "fetched_at": 1794969005
+}

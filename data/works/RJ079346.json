@@ -1,0 +1,115 @@
+{
+ "id": "RJ079346",
+ "title": "Battle Days",
+ "title_romaji": "batorudeizu",
+ "circle": {
+  "id": "RG11142",
+  "name": "MGnet",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG11142.html"
+ },
+ "type": {
+  "code": "SLN",
+  "name": "シミュレーション",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "all",
+ "sex": 1,
+ "price": {
+  "jpy": 660,
+  "official_jpy": 660,
+  "currencies": {
+   "USD": 4.140971208329124,
+   "EUR": 3.7653179982200315,
+   "GBP": 3.1366421105609312,
+   "TWD": 136.38054304252591,
+   "CNY": 27.646063368128278,
+   "KRW": 5532.271584241408,
+   "IDR": 75696.75421493291,
+   "VND": 106485.96321393998,
+   "THB": 140.11251459505363,
+   "SEK": 41.89704752775679,
+   "HKD": 32.49118799598291,
+   "SGD": 5.337253788843684,
+   "CAD": 5.919877153579552,
+   "MYR": 16.951198526786747,
+   "BRL": 23.969580423389953,
+   "AUD": 6.146934076926086,
+   "PHP": 263.96832380114387,
+   "MXN": 76.36679201619901,
+   "NZD": 7.532268924825673,
+   "INR": 387.2103256086829
+  }
+ },
+ "point": {
+  "point_amount": 36,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1308582000,
+ "file": {
+  "type": "EXE",
+  "size": 34614783
+ },
+ "tags": [],
+ "languages": [
+  "JPN"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [],
+ "rating": {
+  "average": 3.74,
+  "count": 77
+ },
+ "review_count": 1,
+ "dl_count": 131,
+ "wishlist_count": 69,
+ "ranking": [],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ080000/RJ079346_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ080000/RJ079346_img_main_240x240.jpg",
+  "samples": [
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ080000/RJ079346_img_smp1.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ080000/RJ079346_img_smp2.jpg"
+  ],
+  "sample_thumbs": [
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ080000/RJ079346_img_smp1_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ080000/RJ079346_img_smp2_100x100.jpg"
+  ],
+  "alt": "Battle Days [MGnet]"
+ },
+ "introductions": [
+  {
+   "type": "text",
+   "title": "",
+   "body": [
+    {
+     "intro": "今日から君が先生だ!<br />\r\n<br />\r\n初めて入った学校はいきなり廃校危機に!<br />\r\n<br />\r\n乗り切るためには学生武術大会に出場して名前を売るしかない!<br />\r\n<br />\r\n育てられる生徒は全部で3万7818通り!<br />\r\n<br />\r\n入学してくる生徒の中から育てる生徒を選び、Let's育成!<br />\r\n<br />\r\n目指せ大陸一の強育者!<br />\r\n<br />\r\nもちろんお約束のやりこみ要素あり!<br />\r\n<br />\r\n卒業まで生徒を徹底的に苛め抜け!<br />\r\n<br />\r\n<br />\r\n<br />\r\n注1)このゲームによってMに目覚めたとしても当方は一切責任を負いません<br />\r\n<br />\r\n　　　当ゲームのプレイ時には用法用量を正しく守ってプレイしてください<br />\r\n<br />\r\n<br />\r\n<br />\r\n*動作には【RPGツクールVX RTP】が必要です。<br />\r\n以下のページから無償でダウンロードできます。<br />\r\n<a href=\"http://www.famitsu.com/freegame/rtp/vx_rtp.html\" target=\"_blank\">http://www.famitsu.com/freegame/rtp/vx_rtp.html</a>"
+    }
+   ]
+  }
+ ],
+ "description": "MGnetからの新たな学生育成シミュレーション発売!\r\n学生たちを育てて、学校を再興させること!\r\nそれが君の使命だ!",
+ "short_introduction": "MGnetからの新たな学生育成シミュレーション発売!\r\n学生たちを育てて、学校を再興させること!\r\nそれが君の使命だ!",
+ "options": [
+  "MS2",
+  "TRI",
+  "REV"
+ ],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ079346.html",
+ "site_id": "home",
+ "fetched_at": 1794970367
+}

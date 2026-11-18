@@ -1,0 +1,117 @@
+{
+ "id": "RJ113876",
+ "title": "SPACE MARISAR EX",
+ "title_romaji": "supeesumarisaaiiekkusu",
+ "circle": {
+  "id": "RG11032",
+  "name": "Y.G.C.",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG11032.html"
+ },
+ "type": {
+  "code": "STG",
+  "name": "シューティング",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "all",
+ "sex": 1,
+ "price": {
+  "jpy": 660,
+  "official_jpy": 660,
+  "currencies": {
+   "USD": 4.140971208329124,
+   "EUR": 3.7653179982200315,
+   "GBP": 3.1366421105609312,
+   "TWD": 136.38054304252591,
+   "CNY": 27.646063368128278,
+   "KRW": 5532.271584241408,
+   "IDR": 75696.75421493291,
+   "VND": 106485.96321393998,
+   "THB": 140.11251459505363,
+   "SEK": 41.89704752775679,
+   "HKD": 32.49118799598291,
+   "SGD": 5.337253788843684,
+   "CAD": 5.919877153579552,
+   "MYR": 16.951198526786747,
+   "BRL": 23.969580423389953,
+   "AUD": 6.146934076926086,
+   "PHP": 263.96832380114387,
+   "MXN": 76.36679201619901,
+   "NZD": 7.532268924825673,
+   "INR": 387.2103256086829
+  }
+ },
+ "point": {
+  "point_amount": 36,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1365865200,
+ "file": {
+  "type": "EXE",
+  "size": 39938602
+ },
+ "tags": [],
+ "languages": [
+  "JPN"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [],
+ "rating": {
+  "average": 4.29,
+  "count": 35
+ },
+ "review_count": 2,
+ "dl_count": 109,
+ "wishlist_count": 123,
+ "ranking": [],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ114000/RJ113876_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ114000/RJ113876_img_main_240x240.jpg",
+  "samples": [
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ114000/RJ113876_img_smp1.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ114000/RJ113876_img_smp2.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ114000/RJ113876_img_smp3.jpg"
+  ],
+  "sample_thumbs": [
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ114000/RJ113876_img_smp1_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ114000/RJ113876_img_smp2_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ114000/RJ113876_img_smp3_100x100.jpg"
+  ],
+  "alt": "SPACE MARISAR EX [Y.G.C.]"
+ },
+ "introductions": [
+  {
+   "type": "text",
+   "title": "",
+   "body": [
+    {
+     "intro": "東方二次創作　擬似3D奥スクロールSTG「SPACE MARISAR」の追加データです。<br />\r\n追加データですが、単体でも遊ぶ事ができます。<br />\r\n<br />\r\nSPACE MARISAR EX 単体で遊ぶ場合は、全5ステージ、<br />\r\nSPACE MARISAR に追加して遊ぶ場合は、SPACE MARISAR 18ステージに<br />\r\nSPACE MARISAR EX の5ステージ+2ステージが追加され、全25ステージをプレイする事ができます。<br />\r\n<br />\r\nさらにボリュームアップした SPACE MARISAR をお楽しみください。"
+    }
+   ]
+  }
+ ],
+ "description": "前作 SPACE MARISAR の追加データです。単体のプレイも可能です。",
+ "short_introduction": "前作 SPACE MARISAR の追加データです。単体のプレイも可能です。",
+ "options": [
+  "MS2",
+  "TRI",
+  "REV"
+ ],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ113876.html",
+ "site_id": "home",
+ "fetched_at": 1794968782
+}

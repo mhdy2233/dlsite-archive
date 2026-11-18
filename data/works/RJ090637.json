@@ -1,0 +1,138 @@
+{
+ "id": "RJ090637",
+ "title": "だぶだぶカルテット!3",
+ "title_romaji": "dabudabukarutettosurii",
+ "circle": {
+  "id": "RG11319",
+  "name": "Marinecat",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG11319.html"
+ },
+ "type": {
+  "code": "SLN",
+  "name": "シミュレーション",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "all",
+ "sex": 1,
+ "price": {
+  "jpy": 1100,
+  "official_jpy": 1100,
+  "currencies": {
+   "USD": 6.90161868054854,
+   "EUR": 6.275529997033386,
+   "GBP": 5.227736850934885,
+   "TWD": 227.30090507087652,
+   "CNY": 46.076772280213795,
+   "KRW": 9220.452640402347,
+   "IDR": 126161.25702488818,
+   "VND": 177476.60535656664,
+   "THB": 233.5208576584227,
+   "SEK": 69.82841254626132,
+   "HKD": 54.15197999330485,
+   "SGD": 8.89542298140614,
+   "CAD": 9.866461922632588,
+   "MYR": 28.251997544644578,
+   "BRL": 39.94930070564992,
+   "AUD": 10.244890128210143,
+   "PHP": 439.94720633523974,
+   "MXN": 127.27798669366503,
+   "NZD": 12.553781541376122,
+   "INR": 645.3505426811382
+  }
+ },
+ "point": {
+  "point_amount": 60,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1328108400,
+ "file": {
+  "type": "EXE",
+  "size": 139724253
+ },
+ "tags": [
+  {
+   "key": "052",
+   "name": "燃え"
+  },
+  {
+   "key": "234",
+   "name": "女王様/お姫様"
+  },
+  {
+   "key": "208",
+   "name": "ぷに"
+  },
+  {
+   "key": "240",
+   "name": "魔法少女"
+  },
+  {
+   "key": "016",
+   "name": "ファンタジー"
+  }
+ ],
+ "languages": [
+  "JPN"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [],
+ "rating": {
+  "average": 4.11,
+  "count": 54
+ },
+ "review_count": 0,
+ "dl_count": 89,
+ "wishlist_count": 182,
+ "ranking": [],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ091000/RJ090637_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ091000/RJ090637_img_main_240x240.jpg",
+  "samples": [
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ091000/RJ090637_img_smp1.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ091000/RJ090637_img_smp2.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ091000/RJ090637_img_smp3.jpg"
+  ],
+  "sample_thumbs": [
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ091000/RJ090637_img_smp1_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ091000/RJ090637_img_smp2_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ091000/RJ090637_img_smp3_100x100.jpg"
+  ],
+  "alt": "だぶだぶカルテット!3 [Marinecat]"
+ },
+ "introductions": [
+  {
+   "type": "text",
+   "title": "",
+   "body": [
+    {
+     "intro": "ステージクリア型のターン制シミュレーションRPGです!<br />\r\n<br />\r\nお金を稼ぎ、ステータスやスキルを購入して自分好みに育てよう!<br />\r\n<br />\r\n<br />\r\n【育成の特徴】<br />\r\n■お金で買えるもの<br />\r\n・HPやMPなどのパラメータ<br />\r\n・ファイアやヒールなどの魔法<br />\r\n・必殺技<br />\r\n・持っているだけで効果のあるパッシブスキル<br />\r\n　※攻撃力が向上する、など<br />\r\n<br />\r\n■AP(経験値)で強化できるもの<br />\r\n・魔法と必殺技<br />\r\n・パッシブスキル<br />\r\n<br />\r\n■上位スキルや上位魔法<br />\r\nクエストを進めていったり、特定スキルを最高LVまで強化すると<br />\r\n上位スキルを購入できるようになります。<br />\r\n<br />\r\n<br />\r\n【その他の特徴】<br />\r\n個人の潜在能力を呼び覚ますコマンド『覚醒』が使用可能になりました。<br />\r\nHPを25%消費してさまざまな能力を発動させます。<br />\r\n<br />\r\n例)<br />\r\n必ずクリティカル攻撃になる<br />\r\n必ず敵の攻撃を回避する<br />\r\nMPを使わずに魔法を使用する<br />\r\n<br />\r\nさあ、自分が育てたキャラクタでセカイを冒険しましょう!<br />\r\n<br />\r\n<br />\r\n※本作は『だぶだぶカルテット!!』の続編ですが、<br />\r\n　前作をプレイしていなくても楽しめます。<br />\r\n<br />\r\n作品紹介ページ:<br />\r\n<a href=\"http://www.marinecat.net/dojin/2009s/srpg_dbq3.html\" target=\"_blank\">http://www.marinecat.net/dojin/2009s/srpg_dbq3.html</a>"
+    }
+   ]
+  }
+ ],
+ "description": "ターン制SRPGです。お金を稼ぎ、ステータスやスキルを購入して自分好みに育てよう!",
+ "short_introduction": "ターン制SRPGです。お金を稼ぎ、ステータスやスキルを購入して自分好みに育てよう!",
+ "options": [
+  "SND",
+  "MS2",
+  "TRI"
+ ],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ090637.html",
+ "site_id": "home",
+ "fetched_at": 1794970037
+}

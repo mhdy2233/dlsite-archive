@@ -1,0 +1,121 @@
+{
+ "id": "RJ123712",
+ "title": "個人向け野球チームをつくろう!",
+ "title_romaji": "kojinmukeyakyuuchiimuwotsukurou",
+ "circle": {
+  "id": "RG24117",
+  "name": "ワークサーチャー",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG24117.html"
+ },
+ "type": {
+  "code": "SLN",
+  "name": "シミュレーション",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "all",
+ "sex": 1,
+ "price": {
+  "jpy": 880,
+  "official_jpy": 880,
+  "currencies": {
+   "USD": 5.521294944438832,
+   "EUR": 5.020423997626709,
+   "GBP": 4.182189480747908,
+   "TWD": 181.84072405670122,
+   "CNY": 36.861417824171035,
+   "KRW": 7376.362112321877,
+   "IDR": 100929.00561991055,
+   "VND": 141981.2842852533,
+   "THB": 186.81668612673815,
+   "SEK": 55.86273003700906,
+   "HKD": 43.32158399464388,
+   "SGD": 7.116338385124912,
+   "CAD": 7.89316953810607,
+   "MYR": 22.601598035715664,
+   "BRL": 31.959440564519937,
+   "AUD": 8.195912102568116,
+   "PHP": 351.9577650681918,
+   "MXN": 101.82238935493203,
+   "NZD": 10.043025233100897,
+   "INR": 516.2804341449106
+  }
+ },
+ "point": {
+  "point_amount": 48,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1381935600,
+ "file": {
+  "type": "EXE",
+  "size": 45934301
+ },
+ "tags": [
+  {
+   "key": "011",
+   "name": "スポーツ"
+  }
+ ],
+ "languages": [
+  "JPN"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [],
+ "rating": {
+  "average": 2.6,
+  "count": 5
+ },
+ "review_count": 0,
+ "dl_count": 12,
+ "wishlist_count": 39,
+ "ranking": [],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ124000/RJ123712_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ124000/RJ123712_img_main_240x240.jpg",
+  "samples": [
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ124000/RJ123712_img_smp1.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ124000/RJ123712_img_smp2.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ124000/RJ123712_img_smp3.jpg"
+  ],
+  "sample_thumbs": [
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ124000/RJ123712_img_smp1_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ124000/RJ123712_img_smp2_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ124000/RJ123712_img_smp3_100x100.jpg"
+  ],
+  "alt": "個人向け野球チームをつくろう! [ワークサーチャー]"
+ },
+ "introductions": [
+  {
+   "type": "text",
+   "title": "",
+   "body": [
+    {
+     "intro": "シミュレーション部分であるチーム編成モードで強い野球チームを作り、その育てた野球チームでアドベンチャーモードを勝ち進んでいく!<br />\r\n<br />\r\n・ストーリー<br />\r\n一人の少年は雛のような弱いチームを受け取り、旅へ出る。<br />\r\n旅の途中に東浜・巽・大石といった人物と出会い、彼女らの争いに巻き込まれていく。<br />\r\n待っているのは悲劇的な結末か、それとも…。<br />\r\n<br />\r\n主人公の名前は変えられます。<br />\r\n<br />\r\nデータの殆どをテキストファイルやjpgなどで用意しているため、色々弄って楽しむことができます。<br />\r\n中でもドラフト会議に出てくる候補者達を増やすのはお手軽で、やり方の説明を載せたpngファイルを用意しています。<br />\r\n<br />\r\n是非、あなただけの野球チームを作ってください。"
+    }
+   ]
+  }
+ ],
+ "description": "RPGのような冒険に、野球チーム経営が組み合わさった新感覚ゲーム!",
+ "short_introduction": "RPGのような冒険に、野球チーム経営が組み合わさった新感覚ゲーム!",
+ "options": [
+  "MS2",
+  "TRI"
+ ],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ123712.html",
+ "site_id": "home",
+ "fetched_at": 1794968431
+}

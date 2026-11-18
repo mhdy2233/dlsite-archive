@@ -1,0 +1,144 @@
+{
+ "id": "RJ088896",
+ "title": "けもの道-六-",
+ "title_romaji": "kemonomichiroku",
+ "circle": {
+  "id": "RG05452",
+  "name": "らすこう",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG05452.html"
+ },
+ "type": {
+  "code": "ADV",
+  "name": "アドベンチャー",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "r18",
+ "sex": 1,
+ "price": {
+  "jpy": 1650,
+  "official_jpy": 1650,
+  "currencies": {
+   "USD": 10.35242802082281,
+   "EUR": 9.413294995550078,
+   "GBP": 7.841605276402329,
+   "TWD": 340.9513576063148,
+   "CNY": 69.1151584203207,
+   "KRW": 13830.67896060352,
+   "IDR": 189241.88553733227,
+   "VND": 266214.9080348499,
+   "THB": 350.281286487634,
+   "SEK": 104.74261881939198,
+   "HKD": 81.22796998995727,
+   "SGD": 13.34313447210921,
+   "CAD": 14.79969288394888,
+   "MYR": 42.377996316966865,
+   "BRL": 59.92395105847488,
+   "AUD": 15.367335192315215,
+   "PHP": 659.9208095028596,
+   "MXN": 190.91698004049755,
+   "NZD": 18.830672312064184,
+   "INR": 968.0258140217073
+  }
+ },
+ "point": {
+  "point_amount": 90,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1325775600,
+ "file": {
+  "type": "EXE",
+  "size": 490045106
+ },
+ "tags": [
+  {
+   "key": "233",
+   "name": "戦士"
+  },
+  {
+   "key": "048",
+   "name": "寝取られ"
+  },
+  {
+   "key": "016",
+   "name": "ファンタジー"
+  },
+  {
+   "key": "059",
+   "name": "ツンデレ"
+  }
+ ],
+ "languages": [
+  "JPN"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [],
+ "rating": {
+  "average": 4.49,
+  "count": 1133
+ },
+ "review_count": 4,
+ "dl_count": 2185,
+ "wishlist_count": 629,
+ "ranking": [
+  {
+   "category": "all",
+   "period": "day",
+   "rank": 5,
+   "date": "2012-01-07"
+  },
+  {
+   "category": "all",
+   "period": "week",
+   "rank": 23,
+   "date": "2012-01-13"
+  }
+ ],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ089000/RJ088896_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ089000/RJ088896_img_main_240x240.jpg",
+  "samples": [
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ089000/RJ088896_img_smp1.jpg"
+  ],
+  "sample_thumbs": [
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ089000/RJ088896_img_smp1_100x100.jpg"
+  ],
+  "alt": "けもの道-六- [らすこう]"
+ },
+ "introductions": [
+  {
+   "type": "text",
+   "title": "",
+   "body": [
+    {
+     "intro": "「けもの道」シリーズの続編第六弾!<br />\r\n今回は雷の魔法戦士メインのマルチエンディングシナリオ!<br />\r\n普段の日常で過ごす中、突然起きた事件…。<br />\r\n恋のライバルも出現で、その巧妙な策に墜ちていく…。<br />\r\n脅迫の中、仕方なく体を開き、覆面の男に汚されていく魔法戦士…。<br />\r\n<br />\r\n八方塞がりの魔法戦士。切り抜ける事ができるのか!?<br />\r\nそれとも…!?<br />\r\n<br />\r\nヒロインフルボイス、BGM、効果音、シーンプレイ機能、<br />\r\nオートシナリオ機能、既読スキップ、バックログ機能、<br />\r\n簡単選択肢機能「ルートガイド」あり。<br />\r\nCGだけ見たい方用にJPG画像も添付しています。<br />\r\n<br />\r\n【更新情報】<br />\r\n今改定版は以前のセーブデータの移行はできません。<br />\r\n詳しくはテキストファイルを参照ください。"
+    }
+   ]
+  }
+ ],
+ "description": "「けもの道」シリーズの続編第六弾!雷の魔法戦士メインのマルチエンディングシナリオ!\r\n恋のライバルも出現し、その巧妙な策に墜ちていく…。",
+ "short_introduction": "「けもの道」シリーズの続編第六弾!雷の魔法戦士メインのマルチエンディングシナリオ!\r\n恋のライバルも出現し、その巧妙な策に墜ちていく…。",
+ "options": [
+  "SND",
+  "MS2",
+  "TRI",
+  "REV"
+ ],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ088896.html",
+ "site_id": "maniax",
+ "fetched_at": 1794970080
+}

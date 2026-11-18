@@ -1,0 +1,141 @@
+{
+ "id": "RJ112723",
+ "title": "アルカナアヴァターアカリ",
+ "title_romaji": "arukanaavataaakari",
+ "circle": {
+  "id": "RG21841",
+  "name": "nyaatrap",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG21841.html"
+ },
+ "type": {
+  "code": "ADV",
+  "name": "アドベンチャー",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "r18",
+ "sex": 1,
+ "price": {
+  "jpy": 770,
+  "official_jpy": 770,
+  "currencies": {
+   "USD": 4.831133076383979,
+   "EUR": 4.39287099792337,
+   "GBP": 3.6594157956544198,
+   "TWD": 159.11063354961357,
+   "CNY": 32.253740596149655,
+   "KRW": 6454.316848281643,
+   "IDR": 88312.87991742173,
+   "VND": 124233.62374959663,
+   "THB": 163.46460036089587,
+   "SEK": 48.87988878238293,
+   "HKD": 37.90638599531339,
+   "SGD": 6.226796086984298,
+   "CAD": 6.906523345842811,
+   "MYR": 19.776398281251204,
+   "BRL": 27.964510493954943,
+   "AUD": 7.1714230897471,
+   "PHP": 307.96304443466784,
+   "MXN": 89.09459068556552,
+   "NZD": 8.787647078963285,
+   "INR": 451.74537987679673
+  }
+ },
+ "point": {
+  "point_amount": 42,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1364569200,
+ "file": {
+  "type": "EXE",
+  "size": 320061809
+ },
+ "tags": [
+  {
+   "key": "052",
+   "name": "燃え"
+  },
+  {
+   "key": "240",
+   "name": "魔法少女"
+  },
+  {
+   "key": "207",
+   "name": "つるぺた"
+  },
+  {
+   "key": "158",
+   "name": "百合"
+  },
+  {
+   "key": "136",
+   "name": "SM"
+  },
+  {
+   "key": "162",
+   "name": "触手"
+  }
+ ],
+ "languages": [
+  "JPN"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [],
+ "rating": {
+  "average": 4.08,
+  "count": 279
+ },
+ "review_count": 1,
+ "dl_count": 599,
+ "wishlist_count": 823,
+ "ranking": [],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ113000/RJ112723_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ113000/RJ112723_img_main_240x240.jpg",
+  "samples": [
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ113000/RJ112723_img_smp1.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ113000/RJ112723_img_smp2.jpg"
+  ],
+  "sample_thumbs": [
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ113000/RJ112723_img_smp1_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ113000/RJ112723_img_smp2_100x100.jpg"
+  ],
+  "alt": "アルカナアヴァターアカリ [nyaatrap]"
+ },
+ "introductions": [
+  {
+   "type": "text",
+   "title": "",
+   "body": [
+    {
+     "intro": "アルカナアヴァターアカリは、テンポの良い対話とスピーディーな戦闘演出で語られる、 <br />\r\n燃えあり笑いあり陵○ありの変身魔法少女ヴィジュアルストーリーです。 <br />\r\n<br />\r\nデモビデオはこちら:<a href=\"http://youtu.be/eulKInNZpeQ\" target=\"_blank\">http://youtu.be/eulKInNZpeQ</a> <br />\r\n<br />\r\nMacOSXは10.6以降のみ対応です。 <br />\r\nお使いのGPUによっては上手く動作しないことがあります。 <br />\r\nご購入前に、必ず体験版による動作確認をお願いします。 <br />\r\n<br />\r\n更新履歴<br />\r\nv1.01 (2013/04/07) 立ち絵鑑賞、変身シーン回想の追加と、メモリークラッシュ等のバグを修正しました。<br />\r\n旧バージョンからの以降は、フォルダごと上書きするか、saves フォルダーをコピーして下さい。<br />\r\n<br />\r\n【ストーリー】 <br />\r\n主人公、春日緋璃はちょっと負けず嫌いな女の子。 <br />\r\n幼馴染の真仲七華や委員長の美作聖羽らと、ごく普通のまったりした日常を送っていた。 <br />\r\nそんなある日の授業中、彼女は自分が紅蓮の装束を身に纏い、焔を召喚している不思議な夢を見る。 <br />\r\nそれは、これから始まるアルカナアヴァターとしての、長い戦いの予兆であった。 <br />\r\n<br />\r\nアニメを意識した全六話構成の物語。総プレイ時間は2〜3時間ほどになります。 <br />\r\n<br />\r\n【特徴】 <br />\r\n立ち絵と戦闘エフェクトによる動的演出を生かしたスピード感のあるビジュアルノベルです。 <br />\r\nシステム環境も高速で快適なプレイができるようにデザインされています。 <br />\r\n<br />\r\n【バトルシステム】 <br />\r\n戦闘のクライマックスでは、ジャンケンに似たルールによる、1対1のバトルが挿入されます。 <br />\r\nヒロインたちには Armor というパラメータがあり、0になると服が脱げます。 <br />\r\n難易度変更から二周目以降のスキップ、更にはフリーバトルも用意されています。 <br />\r\n面倒な場合はイージーモードで適当に連打してるとたいてい勝てます。 <br />\r\n<br />\r\n【エッチシーン】 <br />\r\nコメディタッチなものからハードなものまで、全部で10シーン。 <br />\r\nバッドエンド等はなく、全てがストーリーの一部として展開されます。"
+    }
+   ]
+  }
+ ],
+ "description": "テンポの良い対話とスピーディーな戦闘演出で語られる、燃えあり笑いあり陵○ありの変身魔法少女ヴィジュアルストーリー。Mac、Linuxでも遊べます。",
+ "short_introduction": "テンポの良い対話とスピーディーな戦闘演出で語られる、燃えあり笑いあり陵○ありの変身魔法少女ヴィジュアルストーリー。Mac、Linuxでも遊べます。",
+ "options": [
+  "MS2",
+  "TRI",
+  "REV",
+  "RegionHiddenFilter"
+ ],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ112723.html",
+ "site_id": "maniax",
+ "fetched_at": 1794968796
+}

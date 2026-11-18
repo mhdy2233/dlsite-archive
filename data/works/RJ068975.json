@@ -1,0 +1,120 @@
+{
+ "id": "RJ068975",
+ "title": "『夢か現か幻か』第二章",
+ "title_romaji": "yumekautsutsukamaboroshika dainishou",
+ "circle": {
+  "id": "RG13212",
+  "name": "表現者衆団GeminiArts",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG13212.html"
+ },
+ "type": {
+  "code": "DNV",
+  "name": "デジタルノベル",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "all",
+ "sex": 1,
+ "price": {
+  "jpy": 1100,
+  "official_jpy": 1100,
+  "currencies": {
+   "USD": 6.90161868054854,
+   "EUR": 6.275529997033386,
+   "GBP": 5.227736850934885,
+   "TWD": 227.30090507087652,
+   "CNY": 46.076772280213795,
+   "KRW": 9220.452640402347,
+   "IDR": 126161.25702488818,
+   "VND": 177476.60535656664,
+   "THB": 233.5208576584227,
+   "SEK": 69.82841254626132,
+   "HKD": 54.15197999330485,
+   "SGD": 8.89542298140614,
+   "CAD": 9.866461922632588,
+   "MYR": 28.251997544644578,
+   "BRL": 39.94930070564992,
+   "AUD": 10.244890128210143,
+   "PHP": 439.94720633523974,
+   "MXN": 127.27798669366503,
+   "NZD": 12.553781541376122,
+   "INR": 645.3505426811382
+  }
+ },
+ "point": {
+  "point_amount": 60,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1288105200,
+ "file": {
+  "type": "EXE",
+  "size": 81353147
+ },
+ "tags": [
+  {
+   "key": "223",
+   "name": "双子"
+  }
+ ],
+ "languages": [
+  "JPN"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [],
+ "rating": {
+  "average": null,
+  "count": null
+ },
+ "review_count": 0,
+ "dl_count": 1,
+ "wishlist_count": 16,
+ "ranking": [],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ069000/RJ068975_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ069000/RJ068975_img_main_240x240.jpg",
+  "samples": [
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ069000/RJ068975_img_smp1.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ069000/RJ068975_img_smp2.jpg"
+  ],
+  "sample_thumbs": [
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ069000/RJ068975_img_smp1_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ069000/RJ068975_img_smp2_100x100.jpg"
+  ],
+  "alt": "『夢か現か幻か』第二章 [表現者衆団GeminiArts]"
+ },
+ "introductions": [
+  {
+   "type": "text",
+   "title": "",
+   "body": [
+    {
+     "intro": "『双子の双子』をテーマに据えた、日本神話ベースの長編ビジュアルノベル。<br />\r\n『信疑』『表裏』という対義語の名を持つ双子を中心に、日本神話において『国産み』を行ったとされる二大神、その片割れであるイザナミノミコトの復活をめぐる戦いを描いた物語。声優は自給自足で、企画自体はむしろ声優が主体という怪作。<br />\r\nGeminiArtsの処女作となる、夢か現か幻か。全四章構成、第一章は無料配信中。<br />\r\n(HPより引用)<br />\r\nもちろん全編フルボイスです。<br />\r\n伝奇に興味のある方は是非!"
+    }
+   ]
+  }
+ ],
+ "description": "『双子の双子』をテーマに据えた、日本神話ベースの長編ビジュアルノベル。同人では珍しいフルボイス。",
+ "short_introduction": "『双子の双子』をテーマに据えた、日本神話ベースの長編ビジュアルノベル。同人では珍しいフルボイス。",
+ "options": [
+  "SND",
+  "MS2",
+  "TRI"
+ ],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ068975.html",
+ "site_id": "home",
+ "fetched_at": 1794970694
+}

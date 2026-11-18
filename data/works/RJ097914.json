@@ -1,0 +1,155 @@
+{
+ "id": "RJ097914",
+ "title": "錬金ファンタジー",
+ "title_romaji": "renkinfwantajii",
+ "circle": {
+  "id": "RG17434",
+  "name": "みじいし",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG17434.html"
+ },
+ "type": {
+  "code": "RPG",
+  "name": "ロールプレイング",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "r18",
+ "sex": 1,
+ "price": {
+  "jpy": 770,
+  "official_jpy": 770,
+  "currencies": {
+   "USD": 4.831133076383979,
+   "EUR": 4.39287099792337,
+   "GBP": 3.6594157956544198,
+   "TWD": 159.11063354961357,
+   "CNY": 32.253740596149655,
+   "KRW": 6454.316848281643,
+   "IDR": 88312.87991742173,
+   "VND": 124233.62374959663,
+   "THB": 163.46460036089587,
+   "SEK": 48.87988878238293,
+   "HKD": 37.90638599531339,
+   "SGD": 6.226796086984298,
+   "CAD": 6.906523345842811,
+   "MYR": 19.776398281251204,
+   "BRL": 27.964510493954943,
+   "AUD": 7.1714230897471,
+   "PHP": 307.96304443466784,
+   "MXN": 89.09459068556552,
+   "NZD": 8.787647078963285,
+   "INR": 451.74537987679673
+  }
+ },
+ "point": {
+  "point_amount": 42,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1343574000,
+ "file": {
+  "type": "EXE",
+  "size": 301934697
+ },
+ "tags": [
+  {
+   "key": "241",
+   "name": "魔法使い/魔女"
+  },
+  {
+   "key": "086",
+   "name": "コスプレ"
+  },
+  {
+   "key": "048",
+   "name": "寝取られ"
+  },
+  {
+   "key": "324",
+   "name": "異種えっち"
+  },
+  {
+   "key": "121",
+   "name": "回し"
+  },
+  {
+   "key": "182",
+   "name": "巨乳/爆乳"
+  }
+ ],
+ "languages": [
+  "JPN"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [],
+ "rating": {
+  "average": 4.3,
+  "count": 882
+ },
+ "review_count": 12,
+ "dl_count": 1355,
+ "wishlist_count": 809,
+ "ranking": [
+  {
+   "category": "all",
+   "period": "day",
+   "rank": 6,
+   "date": "2012-07-31"
+  },
+  {
+   "category": "all",
+   "period": "week",
+   "rank": 48,
+   "date": "2012-08-06"
+  }
+ ],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ098000/RJ097914_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ098000/RJ097914_img_main_240x240.jpg",
+  "samples": [
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ098000/RJ097914_img_smp1.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ098000/RJ097914_img_smp2.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ098000/RJ097914_img_smp3.jpg"
+  ],
+  "sample_thumbs": [
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ098000/RJ097914_img_smp1_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ098000/RJ097914_img_smp2_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ098000/RJ097914_img_smp3_100x100.jpg"
+  ],
+  "alt": "錬金ファンタジー [みじいし]"
+ },
+ "introductions": [
+  {
+   "type": "text",
+   "title": "",
+   "body": [
+    {
+     "intro": "■更新履歴<br />\r\n 現在のバージョンは1.5です。<br />\r\n 1.5では一部イベントの回想を追加しました。<br />\r\n 1.4での更新内容は以下のようになっています。<br />\r\n ・イベントの追加<br />\r\n ・特定のコスプレで街の人に話した際に反応が変化<br />\r\n ・アクセサリーショップの追加<br />\r\n ・特殊ショップの追加<br />\r\n<br />\r\n■物語<br />\r\n とある村に住む主人公が、ヒロインと一緒に行方不明になった先生を探すお話です。<br />\r\n 物語が進むとヒロインや、他の女性とイベントが発生します。<br />\r\n <br />\r\n■システム概要<br />\r\n ヒロインはホムンクルスを作ることができます。<br />\r\n 作ったホムンクルスは一緒に戦ってくれます。<br />\r\n ホムンクルスを作るためには魔物や人間からある液体を採取する必要があります。<br />\r\n また、ホムンクルスは戦闘ではレベルが上がりません。<br />\r\n とある液体を用いて作った薬を使用することでレベルが上がります。<br />\r\n <br />\r\n ヒロインはコスプレで服装を変更することができます。<br />\r\n 会話時や、戦闘時に表示されるヒロインの絵が変わります。<br />\r\n 戦闘中に性魔術を使用することで、ヒロインと…。<br />\r\n <br />\r\n 戦闘の高速化機能あり。<br />\r\n 文章のスキップ機能あり。<br />\r\n あらすじで次の目的地がわかるようになっています。<br />\r\n <br />\r\n■戦闘<br />\r\n シンボルエンカウントで、負けてもゲームオーバーなしです。<br />\r\n 一部の魔物を除き、負けると敗北イベントが起きます。<br />\r\n 負けまくっても特に物語に影響はありません。<br />\r\n 魔物からあるものを採取するために、魔物を捕獲する必要があります。<br />\r\n 魔物の体力を減らして捕獲のスキルを使うことで捕獲できます。<br />\r\n また、捕獲時にもイベントが発生します。<br />\r\n <br />\r\n■イベント<br />\r\n 物語が進むとヒロインを売春させてお金を稼げるようになります。<br />\r\n その時主人公は、他の女性と関係を持つことも…。<br />\r\n 働いているヒロインを覗き見ることも出来ます。<br />\r\n イベントCGは基本29枚、差分を含めると200枚近くになります。<br />\r\n 他にエロ立ち絵が基本5枚で、戦闘中と簡単なイベントで使用します。<br />\r\n <br />\r\n■その他<br />\r\n このゲームはRPGツクールVX Aceを用いて作っています。<br />\r\n 購入前に体験版で動作確認をお願いします。<br />\r\n 体験版のデータは製品版に引継ぎが可能になっています。<br />\r\n <br />\r\n■修正について<br />\r\n 不具合があった場合、修正ファイルの配布には<br />\r\n DLsite様の再ダウンロードで行います。<br />\r\n ご購入の前に、DLsite様への会員登録を<br />\r\n お願い致します。"
+    }
+   ]
+  }
+ ],
+ "description": "ヒロインとホムンクルスを作りながら、行方不明になった先生を探すRPGです。ホムンクルスはヒロインの胎内で合成します。",
+ "short_introduction": "ヒロインとホムンクルスを作りながら、行方不明になった先生を探すRPGです。ホムンクルスはヒロインの胎内で合成します。",
+ "options": [
+  "MS2",
+  "TRI",
+  "REV"
+ ],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ097914.html",
+ "site_id": "maniax",
+ "fetched_at": 1794969519
+}

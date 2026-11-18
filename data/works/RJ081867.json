@@ -1,0 +1,159 @@
+{
+ "id": "RJ081867",
+ "title": "vol.02 DAGGER 点を支えし者達",
+ "title_romaji": "dagaatenwosasaeshimonotachi",
+ "circle": {
+  "id": "RG06083",
+  "name": "The sense of sight",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG06083.html"
+ },
+ "type": {
+  "code": "DNV",
+  "name": "デジタルノベル",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "all",
+ "sex": 1,
+ "price": {
+  "jpy": 660,
+  "official_jpy": 660,
+  "currencies": {
+   "USD": 4.140971208329124,
+   "EUR": 3.7653179982200315,
+   "GBP": 3.1366421105609312,
+   "TWD": 136.38054304252591,
+   "CNY": 27.646063368128278,
+   "KRW": 5532.271584241408,
+   "IDR": 75696.75421493291,
+   "VND": 106485.96321393998,
+   "THB": 140.11251459505363,
+   "SEK": 41.89704752775679,
+   "HKD": 32.49118799598291,
+   "SGD": 5.337253788843684,
+   "CAD": 5.919877153579552,
+   "MYR": 16.951198526786747,
+   "BRL": 23.969580423389953,
+   "AUD": 6.146934076926086,
+   "PHP": 263.96832380114387,
+   "MXN": 76.36679201619901,
+   "NZD": 7.532268924825673,
+   "INR": 387.2103256086829
+  }
+ },
+ "point": {
+  "point_amount": 36,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1313247600,
+ "file": {
+  "type": "EXE",
+  "size": 169845893
+ },
+ "tags": [
+  {
+   "key": "304",
+   "name": "おやじ"
+  },
+  {
+   "key": "213",
+   "name": "母親"
+  },
+  {
+   "key": "016",
+   "name": "ファンタジー"
+  }
+ ],
+ "languages": [
+  "JPN"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [],
+ "rating": {
+  "average": 4.36,
+  "count": 44
+ },
+ "review_count": 3,
+ "dl_count": 144,
+ "wishlist_count": 79,
+ "ranking": [],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ082000/RJ081867_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ082000/RJ081867_img_main_240x240.jpg",
+  "samples": [
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ082000/RJ081867_img_smp1.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ082000/RJ081867_img_smp2.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ082000/RJ081867_img_smp3.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ082000/RJ081867_img_smp4.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ082000/RJ081867_img_smp5.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ082000/RJ081867_img_smp6.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ082000/RJ081867_img_smp7.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ082000/RJ081867_img_smp8.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ082000/RJ081867_img_smp9.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ082000/RJ081867_img_smp10.jpg"
+  ],
+  "sample_thumbs": [
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ082000/RJ081867_img_smp1_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ082000/RJ081867_img_smp2_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ082000/RJ081867_img_smp3_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ082000/RJ081867_img_smp4_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ082000/RJ081867_img_smp5_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ082000/RJ081867_img_smp6_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ082000/RJ081867_img_smp7_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ082000/RJ081867_img_smp8_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ082000/RJ081867_img_smp9_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ082000/RJ081867_img_smp10_100x100.jpg"
+  ],
+  "alt": "vol.02 DAGGER 点を支えし者達 [The sense of sight]"
+ },
+ "introductions": [
+  {
+   "type": "text",
+   "title": "弟子への想いを胸に、戦場へと駆けつける老女の話",
+   "body": [
+    {
+     "intro": "オリジナル感動系ファンタジーノベルゲーム DAGGERシリーズvol.02<br />\n<br />\n本作品はvol.01の裏側を語る作品です<br />\n<br />\nvol.01 DAGGER 戦場の最前点(アイシス・リンダント編)<br />\n<a href=\"https://www.dlsite.com/home/work/=/product_id/RJ065904.html\" target=\"_blank\">https://www.dlsite.com/home/work/=/product_id/RJ065904.html</a><br />\nを未プレイの場合、そちらを先にプレイしてください<br />\n<br />\n■作品のあらすじ<br />\n<br />\n◆点を支えし者達(クレア視点・レジ視点)<br />\n<br />\n「絶対に、あの子を死なせはしない。死なせて、なるものか」<br />\n<br />\nガイ・ブラスタとの決戦に、ティストとアイシスが向かう前日。<br />\nクレア・セイルスは、不安のあまり眠れぬ夜を過ごしていた。<br />\n<br />\n思い出すのは遠い過去。<br />\nティストの武器であるダガーを作ることになった、懐かしくてあたたかな思い出。<br />\nそれを糧に、大人たちは今日も戦い続ける。<br />\n<br />\n二人の師匠が弟子へ注ぐ、たくさんの愛。<br />\nだからこそ、弟子への悪意を許せない大人たちは、熾烈な戦いを繰り広げる。<br />\n<br />\n「戦場の最前点」の最終決戦のとき。<br />\n<br />\n孤軍奮闘のアイシスを救うために、クレア師匠が一番に駆け付けた理由。<br />\nそして、その後ろでレジ師匠がしていたことは?<br />\n<br />\n大団円の裏側を語る、もう一つの物語。<br />\n<br />\n<br />\n◆私の贅沢(アイシス視点)<br />\n<br />\n「贅沢してみるのも悪くない」<br />\n<br />\nその約束を果たすため、ティスト、アイシス、ユイの三人は<br />\n仕事の報酬を持って、ロアイスの街へと繰り出す。<br />\n<br />\n戦い抜いた戦士たちに訪れた、束の間の休息。<br />\nほとんど金を使わない二人が、戸惑いながら、その使い道を考えていく。<br />\n<br />\n洋服を試着して、買い食いをして、胸当てや手袋を買って。<br />\nそれは、今までに考えたこともなかったほど、穏やかな時間だった。<br />\n<br />\n■作品情報<br />\n選択肢　　　　:なし<br />\n想定プレイ時間:2時間程度<br />\nシナリオ量　　:2,800行(約7万字)<br />\n背景　　　　　:12枚(差分含めると53枚)　新規追加なし<br />\n立ち絵数　　　:15枚(差分含めると312枚)　新規追加なし<br />\nイベントCG数　:06枚(差分含めると24枚)　描きおろし5枚、ジャケット流用1枚<br />\n音楽　　　　　:20曲(うち19曲は作曲依頼のオリジナル)　新規追加なし<br />\n効果音　　　　:24個<br />\n音声　　　　　:なし<br />\n作成ツール　　:Nscripter<br />\n対象年齢　　　:全年齢(18禁要素なし)<br />\n<br />\n■推奨環境<br />\nWindows2000,XP,7,Vista,8,10で動作確認済<br />\nWindows環境なら問題ありません"
+    }
+   ]
+  },
+  {
+   "type": "image",
+   "title": "【次回作】DAGGER 有色の戦人",
+   "body": [
+    {
+     "intro": "セレノア・グレイスに命を助けられた借りを返すために、ティストとアイシスは、魔族の領地を訪れる。<br />\n<br />\n見たこともない作りの部屋、床で暮らすという生活スタイル。<br />\n文化の違いに戸惑う二人を待っていたのは、手荒い歓迎と、魔族の命運を賭けた依頼だった。<br />\n<br />\n「食糧難の魔族は、人間からの援助を求める」<br />\n「そのために必要ならば、我々魔族は人間に服従を誓おう」<br />\n<br />\n魔族の王の依頼をティストとアイシスの兄妹が受けるとき、物語が次の展開へと向けて、大きく脈動する。<br />\n<a href=\"https://www.dlsite.com/maniax/work/=/product_id/RJ095507.html\" target=\"_blank\">https://www.dlsite.com/maniax/work/=/product_id/RJ095507.html</a>",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ082000/RJ081867/b9a919ccd201932f11347a76cc3dd0d6.jpg",
+      "alt": "vol.02 DAGGER 点を支えし者達 [The sense of sight]",
+      "title": "vol.02 DAGGER 点を支えし者達 [The sense of sight]"
+     },
+     "position": "over"
+    }
+   ]
+  }
+ ],
+ "description": "子供たちが戦う裏で、大人たちもまた、武器を握っていた。『戦場の最前点』の裏側で動いた、老夫婦の短かい物語。",
+ "short_introduction": "子供たちが戦う裏で、大人たちもまた、武器を握っていた。『戦場の最前点』の裏側で動いた、老夫婦の短かい物語。",
+ "options": [
+  "MS2",
+  "REV",
+  "ORW"
+ ],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ081867.html",
+ "site_id": "home",
+ "fetched_at": 1794970297
+}

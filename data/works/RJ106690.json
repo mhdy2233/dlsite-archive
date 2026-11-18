@@ -1,0 +1,131 @@
+{
+ "id": "RJ106690",
+ "title": "イブン・アンナフィース",
+ "title_romaji": "ibunannafwiisu",
+ "circle": {
+  "id": "RG20624",
+  "name": "ラマダン・ソフト",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG20624.html"
+ },
+ "type": {
+  "code": "DNV",
+  "name": "デジタルノベル",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "all",
+ "sex": 1,
+ "price": {
+  "jpy": 440,
+  "official_jpy": 440,
+  "currencies": {
+   "USD": 2.760647472219416,
+   "EUR": 2.5102119988133547,
+   "GBP": 2.091094740373954,
+   "TWD": 90.92036202835061,
+   "CNY": 18.430708912085517,
+   "KRW": 3688.1810561609386,
+   "IDR": 50464.50280995527,
+   "VND": 70990.64214262665,
+   "THB": 93.40834306336907,
+   "SEK": 27.93136501850453,
+   "HKD": 21.66079199732194,
+   "SGD": 3.558169192562456,
+   "CAD": 3.946584769053035,
+   "MYR": 11.300799017857832,
+   "BRL": 15.979720282259969,
+   "AUD": 4.097956051284058,
+   "PHP": 175.9788825340959,
+   "MXN": 50.911194677466014,
+   "NZD": 5.0215126165504484,
+   "INR": 258.1402170724553
+  }
+ },
+ "point": {
+  "point_amount": 24,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1354374000,
+ "file": {
+  "type": "EXE",
+  "size": 148280679
+ },
+ "tags": [
+  {
+   "key": "425",
+   "name": "アラブ"
+  },
+  {
+   "key": "017",
+   "name": "歴史/時代物"
+  }
+ ],
+ "languages": [
+  "JPN"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [],
+ "rating": {
+  "average": 4.6,
+  "count": 155
+ },
+ "review_count": 4,
+ "dl_count": 354,
+ "wishlist_count": 276,
+ "ranking": [
+  {
+   "category": "all",
+   "period": "day",
+   "rank": 21,
+   "date": "2012-12-09"
+  }
+ ],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ107000/RJ106690_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ107000/RJ106690_img_main_240x240.jpg",
+  "samples": [
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ107000/RJ106690_img_smp1.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ107000/RJ106690_img_smp2.jpg"
+  ],
+  "sample_thumbs": [
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ107000/RJ106690_img_smp1_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ107000/RJ106690_img_smp2_100x100.jpg"
+  ],
+  "alt": "イブン・アンナフィース [ラマダン・ソフト]"
+ },
+ "introductions": [
+  {
+   "type": "text",
+   "title": "",
+   "body": [
+    {
+     "intro": "今までになかったアラブの歴史のビジュアルノベル。偉大な科学者であり医者のイブン・アンナフィースの物語。<br />\r\n<br />\r\nカイロ、ヒジュラ暦671年・西暦1271年 <br />\r\n.................<br />\r\n本当に全てが変わってしまった。人はこの道をどう歩いているのか・・町の空気は憂慮で重くなり、町の中は冷たくなってしまった。暗黒がこの町を覆い、ひとつまたひとつと家の中にまで侵入している。この伝染病にかかってしまった人々とこの病気によって愛する人をなくしてしまった人々の間に。おおアッラーよ、私たちに御慈悲を。この伝染病から私たちをお守りください。<br />\r\n.................<br />\r\n<br />\r\nアンドロイド体験版<br />\r\n<a href=\"https://play.google.com/store/apps/details?id=com.ramadansoft.ibn.jp.ia\" target=\"_blank\">https://play.google.com/store/apps/details?id=com.ramadansoft.ibn.jp.ia</a><br />\r\n<br />\r\niPhone/iPod touch/iPad体験版<br />\r\n<a href=\"https://itunes.apple.com/app/id827445661\" target=\"_blank\">https://itunes.apple.com/app/id827445661</a>"
+    }
+   ]
+  }
+ ],
+ "description": "今までになかったアラブの歴史のビジュアルノベル。偉大な科学者であり医者のイブン・アンナフィースの物語。舞台はエジプト、1271年(ヒジュラ暦671年)。",
+ "short_introduction": "今までになかったアラブの歴史のビジュアルノベル。偉大な科学者であり医者のイブン・アンナフィースの物語。舞台はエジプト、1271年(ヒジュラ暦671年)。",
+ "options": [
+  "MS2",
+  "TRI",
+  "REV"
+ ],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ106690.html",
+ "site_id": "home",
+ "fetched_at": 1794969118
+}

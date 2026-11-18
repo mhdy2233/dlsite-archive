@@ -1,0 +1,117 @@
+{
+ "id": "RJ069909",
+ "title": "ソラ -sora-",
+ "title_romaji": "sora",
+ "circle": {
+  "id": "RG13402",
+  "name": "橙汁",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG13402.html"
+ },
+ "type": {
+  "code": "STG",
+  "name": "シューティング",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "all",
+ "sex": 1,
+ "price": {
+  "jpy": 1980,
+  "official_jpy": 1980,
+  "currencies": {
+   "USD": 12.422913624987373,
+   "EUR": 11.295953994660096,
+   "GBP": 9.409926331682794,
+   "TWD": 409.14162912757774,
+   "CNY": 82.93819010438483,
+   "KRW": 16596.814752724225,
+   "IDR": 227090.26264479873,
+   "VND": 319457.88964181993,
+   "THB": 420.33754378516085,
+   "SEK": 125.69114258327038,
+   "HKD": 97.47356398794874,
+   "SGD": 16.01176136653105,
+   "CAD": 17.759631460738657,
+   "MYR": 50.85359558036024,
+   "BRL": 71.90874127016986,
+   "AUD": 18.440802230778257,
+   "PHP": 791.9049714034315,
+   "MXN": 229.10037604859704,
+   "NZD": 22.59680677447702,
+   "INR": 1161.6309768260487
+  }
+ },
+ "point": {
+  "point_amount": 108,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1290265200,
+ "file": {
+  "type": "EXE",
+  "size": 330596651
+ },
+ "tags": [],
+ "languages": [
+  "JPN"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [],
+ "rating": {
+  "average": 4.75,
+  "count": 409
+ },
+ "review_count": 4,
+ "dl_count": 1040,
+ "wishlist_count": 472,
+ "ranking": [],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ070000/RJ069909_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ070000/RJ069909_img_main_240x240.jpg",
+  "samples": [
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ070000/RJ069909_img_smp1.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ070000/RJ069909_img_smp2.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ070000/RJ069909_img_smp3.jpg"
+  ],
+  "sample_thumbs": [
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ070000/RJ069909_img_smp1_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ070000/RJ069909_img_smp2_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ070000/RJ069909_img_smp3_100x100.jpg"
+  ],
+  "alt": "ソラ -sora- [橙汁]"
+ },
+ "introductions": [
+  {
+   "type": "text",
+   "title": "",
+   "body": [
+    {
+     "intro": "ハイスピードシューティング、「スグリ」の続編。<br />\r\nパワーアップしたゲームシステムとグラフィック。<br />\r\nトランスサウンドと共に繰り広げられる、息もつかせぬ高速戦闘。<br />\r\n物語を彩るイベント処理。<br />\r\n<br />\r\nボロボロになった星の最後の戦争。<br />\r\n戦いの果てに彼女が観るものは・・・。"
+    }
+   ]
+  }
+ ],
+ "description": "ハイスピードシューティング、「スグリ」の続編。",
+ "short_introduction": "ハイスピードシューティング、「スグリ」の続編。",
+ "options": [
+  "MS2",
+  "TRI",
+  "REV"
+ ],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ069909.html",
+ "site_id": "home",
+ "fetched_at": 1794970649
+}

@@ -1,0 +1,122 @@
+{
+ "id": "RJ120961",
+ "title": "天乃巫女 -あまのみこ-",
+ "title_romaji": "amanomiko",
+ "circle": {
+  "id": "RG19629",
+  "name": "ブラックサブマリン",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG19629.html"
+ },
+ "type": {
+  "code": "ACN",
+  "name": "アクション",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "all",
+ "sex": 1,
+ "price": {
+  "jpy": 550,
+  "official_jpy": 550,
+  "currencies": {
+   "USD": 3.45080934027427,
+   "EUR": 3.137764998516693,
+   "GBP": 2.6138684254674427,
+   "TWD": 113.65045253543826,
+   "CNY": 23.038386140106898,
+   "KRW": 4610.226320201174,
+   "IDR": 63080.62851244409,
+   "VND": 88738.30267828332,
+   "THB": 116.76042882921135,
+   "SEK": 34.91420627313066,
+   "HKD": 27.075989996652424,
+   "SGD": 4.44771149070307,
+   "CAD": 4.933230961316294,
+   "MYR": 14.125998772322289,
+   "BRL": 19.97465035282496,
+   "AUD": 5.122445064105071,
+   "PHP": 219.97360316761987,
+   "MXN": 63.638993346832514,
+   "NZD": 6.276890770688061,
+   "INR": 322.6752713405691
+  }
+ },
+ "point": {
+  "point_amount": 30,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1377183600,
+ "file": {
+  "type": "EXE",
+  "size": 45164126
+ },
+ "tags": [
+  {
+   "key": "509",
+   "name": "3D作品"
+  },
+  {
+   "key": "080",
+   "name": "巫女"
+  }
+ ],
+ "languages": [
+  "JPN"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [],
+ "rating": {
+  "average": null,
+  "count": null
+ },
+ "review_count": 1,
+ "dl_count": 6,
+ "wishlist_count": 68,
+ "ranking": [],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ121000/RJ120961_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ121000/RJ120961_img_main_240x240.jpg",
+  "samples": [
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ121000/RJ120961_img_smp1.jpg"
+  ],
+  "sample_thumbs": [
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ121000/RJ120961_img_smp1_100x100.jpg"
+  ],
+  "alt": "天乃巫女 -あまのみこ- [ブラックサブマリン]"
+ },
+ "introductions": [
+  {
+   "type": "text",
+   "title": "",
+   "body": [
+    {
+     "intro": "一定時間、中央の女の子を守ればクリアです。1ステージ1分で7ステージ有ります。<br />\r\n妖怪や天使、悪魔を退治し、神社の平和を守りましょう。<br />\r\n<br />\r\nステージセレクトも出来るので、行き詰っても途中から出来ます。<br />\r\nジョイスティックでも遊べます。"
+    }
+   ]
+  }
+ ],
+ "description": "防衛型3D巫女アクションゲームです。",
+ "short_introduction": "防衛型3D巫女アクションゲームです。",
+ "options": [
+  "MS2",
+  "TRI",
+  "REV"
+ ],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ120961.html",
+ "site_id": "home",
+ "fetched_at": 1794968522
+}

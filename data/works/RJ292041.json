@@ -1,0 +1,116 @@
+{
+ "id": "RJ292041",
+ "title": "超うっとうしい動画再生ソフト",
+ "title_romaji": "chouuttoushiidougasaiseisofuto",
+ "circle": {
+  "id": "RG51094",
+  "name": "Aoneカンパニー",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG51094.html"
+ },
+ "type": {
+  "code": "TYP",
+  "name": "タイピング",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "all",
+ "sex": 1,
+ "price": {
+  "jpy": 110,
+  "official_jpy": 110,
+  "currencies": {
+   "USD": 0.6893401072487872,
+   "EUR": 0.6264322519214386,
+   "GBP": 0.5226651360497349,
+   "TWD": 22.725864099332686,
+   "CNY": 4.6031845667775615,
+   "KRW": 920.5020920502093,
+   "IDR": 12600.229095074455,
+   "VND": 17741.93548387097,
+   "THB": 23.360020386926884,
+   "SEK": 6.958546043433979,
+   "HKD": 5.409339470474841,
+   "SGD": 0.888412197414882,
+   "CAD": 0.9855350335305896,
+   "MYR": 2.8226913592285325,
+   "BRL": 3.922351699448018,
+   "AUD": 1.022027479531577,
+   "PHP": 44.059921493230796,
+   "MXN": 12.787872446785013,
+   "NZD": 1.252088711623481,
+   "INR": 64.7592134699164
+  }
+ },
+ "point": {
+  "point_amount": 6,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1593097200,
+ "file": {
+  "type": "ET1",
+  "size": 197777
+ },
+ "tags": [
+  {
+   "key": "053",
+   "name": "健全"
+  }
+ ],
+ "languages": [
+  "JPN"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [],
+ "rating": {
+  "average": 3.36,
+  "count": 11
+ },
+ "review_count": 0,
+ "dl_count": 37,
+ "wishlist_count": 12,
+ "ranking": [],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ293000/RJ292041_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ293000/RJ292041_img_main_240x240.jpg",
+  "samples": [
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ293000/RJ292041_img_smp1.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ293000/RJ292041_img_smp2.jpg"
+  ],
+  "sample_thumbs": [
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ293000/RJ292041_img_smp1_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ293000/RJ292041_img_smp2_100x100.jpg"
+  ],
+  "alt": "超うっとうしい動画再生ソフト [Aoneカンパニー]"
+ },
+ "introductions": [
+  {
+   "type": "text",
+   "title": "正解しないと動画の続きが見られないうっとうしいタイピングゲーム",
+   "body": [
+    {
+     "intro": "お好きな動画を使用したタイピングゲームです。<br />\n<br />\n一定時間動画が再生されると一時停止し問題が出題されます。<br />\n正確に入力できれば動画の続きを見ることができますが、失敗すると動画は最初から再生されてしまいます。<br />\n※判定は「続きを再生」ボタン押下時です。タイプ中にどれだけ間違えても大丈夫です。<br />\n<br />\n<br />\n10回連続で正確にタイピングでクリアです。ただし、1回でもミスしてしまうと0からカウントし直しです。"
+    }
+   ]
+  }
+ ],
+ "description": "お好きな動画を使用してタイピング練習",
+ "short_introduction": "お好きな動画を使用してタイピング練習",
+ "options": [],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ292041.html",
+ "site_id": "home",
+ "fetched_at": 1794961379
+}

@@ -1,0 +1,120 @@
+{
+ "id": "RJ250883",
+ "title": "チチェスターへようこそ:ザ ビーチ",
+ "title_romaji": "chichesutaaheyoukosozabiichi",
+ "circle": {
+  "id": "RG44013",
+  "name": "Triority",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG44013.html"
+ },
+ "type": {
+  "code": "DNV",
+  "name": "デジタルノベル",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "all",
+ "sex": 1,
+ "price": {
+  "jpy": 110,
+  "official_jpy": 110,
+  "currencies": {
+   "USD": 0.6893401072487872,
+   "EUR": 0.6264322519214386,
+   "GBP": 0.5226651360497349,
+   "TWD": 22.725864099332686,
+   "CNY": 4.6031845667775615,
+   "KRW": 920.5020920502093,
+   "IDR": 12600.229095074455,
+   "VND": 17741.93548387097,
+   "THB": 23.360020386926884,
+   "SEK": 6.958546043433979,
+   "HKD": 5.409339470474841,
+   "SGD": 0.888412197414882,
+   "CAD": 0.9855350335305896,
+   "MYR": 2.8226913592285325,
+   "BRL": 3.922351699448018,
+   "AUD": 1.022027479531577,
+   "PHP": 44.059921493230796,
+   "MXN": 12.787872446785013,
+   "NZD": 1.252088711623481,
+   "INR": 64.7592134699164
+  }
+ },
+ "point": {
+  "point_amount": 6,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1555657200,
+ "file": {
+  "type": "EXE",
+  "size": 756088818
+ },
+ "tags": [
+  {
+   "key": "007",
+   "name": "コメディ"
+  }
+ ],
+ "languages": [
+  "JPN"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [],
+ "rating": {
+  "average": 4.09,
+  "count": 46
+ },
+ "review_count": 24,
+ "dl_count": 179,
+ "wishlist_count": 30,
+ "ranking": [],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ251000/RJ250883_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ251000/RJ250883_img_main_240x240.jpg",
+  "samples": [
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ251000/RJ250883_img_smp1.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ251000/RJ250883_img_smp3.jpg"
+  ],
+  "sample_thumbs": [
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ251000/RJ250883_img_smp1_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ251000/RJ250883_img_smp3_100x100.jpg"
+  ],
+  "alt": "チチェスターへようこそ:ザ ビーチ [Triority]"
+ },
+ "introductions": [
+  {
+   "type": "text",
+   "title": "",
+   "body": [
+    {
+     "intro": "残念な事に、ミスを冒してしまった女のコ達はホーンテッドバンガローにあるプライベートビーチに行きつく。<br />\nそこで3つの剣を見つけなければならない。果たしてそれは見つかるのか?　<br />\n<br />\nゲーム内には報酬等が用意され、完了するとシーンジャンプが出来たりギャラリーが閲覧できるビジュアルノベルです。<br />\n<br />\n<br />\n2019年5月アップデート:<br />\n不具合を修正しました。<br />\n<br />\n2019年9月アップデート:<br />\n主人公のグラフィック、音響効果、ストーリー追加<br />\n<br />\n2019年10月アップデート:<br />\nアチーブメント追加、不具合修正<br />\n<br />\n2020年2月アップデート:<br />\n物語修正およびグラフィック追加<br />\n不具合修正<br />\n<br />\n2020年4月アップデート:<br />\nアクション順序とエンドクレジットアップデート<br />\n<br />\n2020年5月アップデート:<br />\nゲーム機能をアップグレード<br />\n<br />\n2020年6月アップデート:<br />\nタイトルメニューオプション追加及びテキストの不具合修正<br />\nグラフィック追加<br />\n機能追加及び不具合修正<br />\n<br />\n2021年12月アップデート:<br />\nGUI、性別選択スクリーン、ゲームオーバースクリーン追加"
+    }
+   ]
+  }
+ ],
+ "description": "ミスを冒してしまった女のコ達はホーンテッドバンガローにあるプライベートビーチに行きつく。そこで3つの剣を見つけなければならない。果たしてそれは見つかるのか?",
+ "short_introduction": "ミスを冒してしまった女のコ達はホーンテッドバンガローにあるプライベートビーチに行きつく。そこで3つの剣を見つけなければならない。果たしてそれは見つかるのか?",
+ "options": [
+  "MS2",
+  "REV",
+  "TRI"
+ ],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ250883.html",
+ "site_id": "home",
+ "fetched_at": 1794962280
+}

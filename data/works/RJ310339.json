@@ -1,0 +1,134 @@
+{
+ "id": "RJ310339",
+ "title": "アイドル抱いたら敵が増えて絶体絶命のピンチに!～みんなが僕を攻撃する～",
+ "title_romaji": "aidorudaitaratekidarake",
+ "circle": {
+  "id": "RG27275",
+  "name": "ブリーフアワー",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG27275.html"
+ },
+ "type": {
+  "code": "DNV",
+  "name": "デジタルノベル",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "r18",
+ "sex": 1,
+ "price": {
+  "jpy": 110,
+  "official_jpy": 110,
+  "currencies": {
+   "USD": 0.6893401072487872,
+   "EUR": 0.6264322519214386,
+   "GBP": 0.5226651360497349,
+   "TWD": 22.725864099332686,
+   "CNY": 4.6031845667775615,
+   "KRW": 920.5020920502093,
+   "IDR": 12600.229095074455,
+   "VND": 17741.93548387097,
+   "THB": 23.360020386926884,
+   "SEK": 6.958546043433979,
+   "HKD": 5.409339470474841,
+   "SGD": 0.888412197414882,
+   "CAD": 0.9855350335305896,
+   "MYR": 2.8226913592285325,
+   "BRL": 3.922351699448018,
+   "AUD": 1.022027479531577,
+   "PHP": 44.059921493230796,
+   "MXN": 12.787872446785013,
+   "NZD": 1.252088711623481,
+   "INR": 64.7592134699164
+  }
+ },
+ "point": {
+  "point_amount": 6,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1607756400,
+ "file": {
+  "type": "EXE",
+  "size": 80771359
+ },
+ "tags": [
+  {
+   "key": "061",
+   "name": "鬱"
+  },
+  {
+   "key": "502",
+   "name": "男主人公"
+  },
+  {
+   "key": "002",
+   "name": "オフィス/職場"
+  },
+  {
+   "key": "015",
+   "name": "シリアス"
+  },
+  {
+   "key": "008",
+   "name": "日常/生活"
+  },
+  {
+   "key": "016",
+   "name": "ファンタジー"
+  }
+ ],
+ "languages": [
+  "JPN"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [],
+ "rating": {
+  "average": 4.2,
+  "count": 30
+ },
+ "review_count": 12,
+ "dl_count": 173,
+ "wishlist_count": 18,
+ "ranking": [],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ311000/RJ310339_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ311000/RJ310339_img_main_240x240.jpg",
+  "samples": [],
+  "sample_thumbs": [],
+  "alt": "アイドル抱いたら敵が増えて絶体絶命のピンチに!～みんなが僕を攻撃する～ [ブリーフアワー]"
+ },
+ "introductions": [
+  {
+   "type": "text",
+   "title": "四面楚歌とはまさにこのこと",
+   "body": [
+    {
+     "intro": "悪口を言われていても無視していたら、いつの間にかどんどん敵が増えて行った。<br />\nそれでも女を抱き続けた。<br />\n町中の人が彼の敵に!?<br />\nはたして彼に一発逆転の手はあるのか?<br />\n<br />\n体験版で動作確認をしてから購入してください。"
+    }
+   ]
+  }
+ ],
+ "description": "四面楚歌!",
+ "short_introduction": "四面楚歌!",
+ "options": [
+  "MS2",
+  "TRI",
+  "REV"
+ ],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ310339.html",
+ "site_id": "maniax",
+ "fetched_at": 1794960977
+}

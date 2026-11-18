@@ -1,0 +1,167 @@
+{
+ "id": "RJ337106",
+ "title": "しろくろのぼうけん",
+ "title_romaji": "shirokuronobouken",
+ "circle": {
+  "id": "RG57919",
+  "name": "きねっとわーくす",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG57919.html"
+ },
+ "type": {
+  "code": "ACN",
+  "name": "アクション",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "all",
+ "sex": 1,
+ "price": {
+  "jpy": 440,
+  "official_jpy": 440,
+  "currencies": {
+   "USD": 2.757360428995149,
+   "EUR": 2.5057290076857544,
+   "GBP": 2.0906605441989394,
+   "TWD": 90.90345639733074,
+   "CNY": 18.412738267110246,
+   "KRW": 3682.008368200837,
+   "IDR": 50400.91638029782,
+   "VND": 70967.74193548388,
+   "THB": 93.44008154770754,
+   "SEK": 27.834184173735917,
+   "HKD": 21.637357881899366,
+   "SGD": 3.553648789659528,
+   "CAD": 3.9421401341223583,
+   "MYR": 11.29076543691413,
+   "BRL": 15.689406797792072,
+   "AUD": 4.088109918126308,
+   "PHP": 176.23968597292318,
+   "MXN": 51.15148978714005,
+   "NZD": 5.008354846493924,
+   "INR": 259.0368538796656
+  }
+ },
+ "point": {
+  "point_amount": 24,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1629558000,
+ "file": {
+  "type": "EXE",
+  "size": 1208312440
+ },
+ "tags": [
+  {
+   "key": "053",
+   "name": "健全"
+  },
+  {
+   "key": "223",
+   "name": "双子"
+  }
+ ],
+ "languages": [
+  "JPN",
+  "ENG"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [],
+ "rating": {
+  "average": 4.5,
+  "count": 10
+ },
+ "review_count": 1,
+ "dl_count": 46,
+ "wishlist_count": 127,
+ "ranking": [],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ338000/RJ337106_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ338000/RJ337106_img_main_240x240.jpg",
+  "samples": [],
+  "sample_thumbs": [],
+  "alt": "しろくろのぼうけん [きねっとわーくす]"
+ },
+ "introductions": [
+  {
+   "type": "text",
+   "title": "小さな双子の小さな冒険",
+   "body": [
+    {
+     "intro": "「しろくろのぼうけん」は2人のキャラクターを同時に操作する見下ろし型のアクションミニゲームです。<br />\r\nかわいい双子のキャラクターである「しろ」と「くろ」を操作して島の奥地を目指そう!<br />\r\n<br />\r\n- シンプルなアクションゲーム<br />\r\n- 1つのコントローラーで2人のキャラクターを同時に操作<br />\r\n- 脳トレ &amp; リアルタイムアタック"
+    }
+   ]
+  },
+  {
+   "type": "image_list",
+   "title": "",
+   "body": [
+    {
+     "intro": "2人で一緒に冒険!",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ338000/RJ337106/9b21d9f4dd83a7742b3c2c2163913c8e.jpg",
+      "alt": "しろくろのぼうけん [きねっとわーくす]",
+      "title": "しろくろのぼうけん [きねっとわーくす]"
+     }
+    },
+    {
+     "intro": "時にはバラバラに冒険!",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ338000/RJ337106/8b29a9ef070700114ff87a385ceeab2e.jpg",
+      "alt": "しろくろのぼうけん [きねっとわーくす]",
+      "title": "しろくろのぼうけん [きねっとわーくす]"
+     }
+    },
+    {
+     "intro": "2人で息を合わせて振り回す超大型武器!",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ338000/RJ337106/438109a11321f0e38c6aa461aba63c59.jpg",
+      "alt": "しろくろのぼうけん [きねっとわーくす]",
+      "title": "しろくろのぼうけん [きねっとわーくす]"
+     }
+    },
+    {
+     "intro": "異なる特性を持つ2人を活用してギミックを攻略!",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ338000/RJ337106/665f488a9bc4a3d846d3a791fee8f29d.jpg",
+      "alt": "しろくろのぼうけん [きねっとわーくす]",
+      "title": "しろくろのぼうけん [きねっとわーくす]"
+     }
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "title": "",
+   "body": [
+    {
+     "intro": "#ShiroKuroAdv<br />\r\n#ShiroKuroAdvRTA<br />\r\n<br />\r\n※ ゲームパッド操作推奨です(キーボードでも操作自体は可能です)<br />\r\n※ 必ず体験版で動作確認を行ってください(マシンスペックが要求されます)<br />\r\n※ 日本語&amp;英語の2言語に対応しています(ゲーム内で切り替えが行えます)"
+    }
+   ]
+  }
+ ],
+ "description": "「しろくろのぼうけん」は2人のキャラクターを同時に操作する見下ろし型のアクションミニゲームです。 かわいい双子のキャラクターである「しろ」と「くろ」を操作して島の奥地を目指そう!",
+ "short_introduction": "「しろくろのぼうけん」は2人のキャラクターを同時に操作する見下ろし型のアクションミニゲームです。 かわいい双子のキャラクターである「しろ」と「くろ」を操作して島の奥地を目指そう!",
+ "options": [
+  "MS2",
+  "TRI",
+  "REV",
+  "ORW"
+ ],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ337106.html",
+ "site_id": "home",
+ "fetched_at": 1794960391
+}

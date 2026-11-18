@@ -1,0 +1,285 @@
+{
+ "id": "RJ325689",
+ "title": "コーエン冒険記",
+ "title_romaji": "kooenboukenki",
+ "circle": {
+  "id": "RG54180",
+  "name": "ゲンゲン&ヨッシー",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG54180.html"
+ },
+ "type": {
+  "code": "SLN",
+  "name": "シミュレーション",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "all",
+ "sex": 1,
+ "price": {
+  "jpy": 990,
+  "official_jpy": 990,
+  "currencies": {
+   "USD": 6.204060965239085,
+   "EUR": 5.637890267292947,
+   "GBP": 4.703986224447614,
+   "TWD": 204.53277689399417,
+   "CNY": 41.428661100998056,
+   "KRW": 8284.518828451883,
+   "IDR": 113402.06185567011,
+   "VND": 159677.41935483873,
+   "THB": 210.24018348234196,
+   "SEK": 62.62691439090581,
+   "HKD": 48.68405523427357,
+   "SGD": 7.995709776733938,
+   "CAD": 8.869815301775306,
+   "MYR": 25.404222233056792,
+   "BRL": 35.30116529503216,
+   "AUD": 9.198247315784192,
+   "PHP": 396.53929343907714,
+   "MXN": 115.0908520210651,
+   "NZD": 11.26879840461133,
+   "INR": 582.8329212292476
+  }
+ },
+ "point": {
+  "point_amount": 54,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1620025200,
+ "file": {
+  "type": "EXE",
+  "size": 403891713
+ },
+ "tags": [
+  {
+   "key": "502",
+   "name": "男主人公"
+  },
+  {
+   "key": "432",
+   "name": "女主人公"
+  },
+  {
+   "key": "055",
+   "name": "感動"
+  },
+  {
+   "key": "053",
+   "name": "健全"
+  },
+  {
+   "key": "296",
+   "name": "シリーズもの"
+  },
+  {
+   "key": "034",
+   "name": "戦場"
+  },
+  {
+   "key": "016",
+   "name": "ファンタジー"
+  },
+  {
+   "key": "029",
+   "name": "魔法"
+  }
+ ],
+ "languages": [
+  "JPN"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [],
+ "rating": {
+  "average": 4.69,
+  "count": 13
+ },
+ "review_count": 2,
+ "dl_count": 33,
+ "wishlist_count": 37,
+ "ranking": [],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ326000/RJ325689_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ326000/RJ325689_img_main_240x240.jpg",
+  "samples": [
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ326000/RJ325689_img_smp1.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ326000/RJ325689_img_smp2.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ326000/RJ325689_img_smp3.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ326000/RJ325689_img_smp4.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ326000/RJ325689_img_smp5.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ326000/RJ325689_img_smp6.jpg"
+  ],
+  "sample_thumbs": [
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ326000/RJ325689_img_smp1_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ326000/RJ325689_img_smp2_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ326000/RJ325689_img_smp3_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ326000/RJ325689_img_smp4_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ326000/RJ325689_img_smp5_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ326000/RJ325689_img_smp6_100x100.jpg"
+  ],
+  "alt": "コーエン冒険記 [ゲンゲン&ヨッシー]"
+ },
+ "introductions": [
+  {
+   "type": "text",
+   "title": "お知らせ",
+   "body": [
+    {
+     "intro": "現在、コーエン冒険記は以下内容で改良中です。後日のメジャーアップデートをお待ちください。<br />\n(1)解像度up<br />\n(2)グラフィック向上(キャラクター、背景、戦闘マップなど)<br />\n(3)セリフ追加、ストーリー調整<br />\n(4)スキル、武器、ステートの追加および調整<br />\n(5)戦闘バランス調整"
+    }
+   ]
+  },
+  {
+   "type": "image",
+   "title": "ストーリー",
+   "body": [
+    {
+     "intro": "武神が九人の英雄達に倒されてから15年後。<br />\nガディオン王国のサームと王都、二人の考古学者が「ティラード・サーガ」編集の為に調査の旅に出る。<br />\nガディオン王ザロックによって各地から史家を中心に王都に集められ、ティラード大陸の歴史書「ティラード・サーガ」の近現代史部分の編集が成されようとしていた。<br />\n二人がこれから調査して集める情報や体験する事は、果たしてどのようにそこに盛り込まれるのか?<br />\n<br />\n※行き詰まった場合など、お気軽に連絡いただければ幸いです。<br />\n　<a href=\"https://mobile.twitter.com/gengenyoxtushii\" target=\"_blank\">https://mobile.twitter.com/gengenyoxtushii</a>",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ326000/RJ325689/c33aa40aa48f2145d6aac89005a8e1cb.jpg",
+      "alt": "コーエン冒険記 [ゲンゲン&ヨッシー]",
+      "title": "コーエン冒険記 [ゲンゲン&ヨッシー]"
+     },
+     "position": "over"
+    }
+   ]
+  },
+  {
+   "type": "image",
+   "title": "物語の舞台",
+   "body": [
+    {
+     "intro": "舞台はティラード大陸。<br />\n主人公はコーエンとヘムリーゼ。<br />\n二人を中心に仲間を加えながらと共に世界の旅に出ます。<br />\n基本的に主人公達以外は戦場で死ぬと復活しませんので、慎重に戦いを進めてください。<br />\n(難易度は高めです)<br />\n仲間に出来るキャラも選択があったり、雇用金を支払う必要がある場合もあります。<br />\n<br />\n尚、本作のベースストーリーである「SilverEnigma」や「烈火の剣士」をプレイいただいてから遊ばれることをオススメします。<br />\n思わずニヤリとしてしまうキャラが登場したり、両作品での出来事がより深く理解出来る話が出てくるかもしれませんので、楽しめます。<br />\n<br />\nプレイ時間:17時間程度<br />\nプレイ人数:1人<br />\nジャンル:シミュレーションRPG",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ326000/RJ325689/cf7cb7ce4b4b8a764c66b8790a070351.jpg",
+      "alt": "コーエン冒険記 [ゲンゲン&ヨッシー]",
+      "title": "コーエン冒険記 [ゲンゲン&ヨッシー]"
+     },
+     "position": "over"
+    }
+   ]
+  },
+  {
+   "type": "image_list",
+   "title": "主な登場人物",
+   "body": [
+    {
+     "intro": "[コーエン]<br />\nサームの町に住む考古学者。<br />\nもっぱら薬草等から薬を作ることを得意とするので、自嘲気味に薬草学者も名乗っている。<br />\nかつてハロルドやオルファ達に迷子になった洞窟から救い出された。",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ326000/RJ325689/3a144d2d1cf2e612ebf9379a9fc08adb.jpg",
+      "alt": "コーエン冒険記 [ゲンゲン&ヨッシー]",
+      "title": "コーエン冒険記 [ゲンゲン&ヨッシー]"
+     }
+    },
+    {
+     "intro": "[ヘムリーゼ]<br />\nガディオン王都に住む考古学者。<br />\nとある事情でサームのコーエンの元を訪れる。",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ326000/RJ325689/6c127dc3e3c579d9fd5cc1d636c7f527.jpg",
+      "alt": "コーエン冒険記 [ゲンゲン&ヨッシー]",
+      "title": "コーエン冒険記 [ゲンゲン&ヨッシー]"
+     }
+    },
+    {
+     "intro": "[クレオ]<br />\nサームの町に住む司教。<br />\nチェイニーを姉と慕い仲が良い。<br />\n魔法と杖を使える。",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ326000/RJ325689/2b30ee877c802d14d4698ef36990b71b.jpg",
+      "alt": "コーエン冒険記 [ゲンゲン&ヨッシー]",
+      "title": "コーエン冒険記 [ゲンゲン&ヨッシー]"
+     }
+    },
+    {
+     "intro": "[ラクロミス]<br />\nサームの町の守衛隊長。<br />\n剣技に優れ、サームでは彼女に敵う剣使いはいない。",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ326000/RJ325689/0a9e80f382188ecd4c6272d550e69afc.jpg",
+      "alt": "コーエン冒険記 [ゲンゲン&ヨッシー]",
+      "title": "コーエン冒険記 [ゲンゲン&ヨッシー]"
+     }
+    }
+   ]
+  },
+  {
+   "type": "image_list",
+   "title": "",
+   "body": [
+    {
+     "intro": "[リコ]<br />\n港町グストに住む自由人。<br />\n特に職に就かずにブラブラと過ごしている。<br />\n九人の英雄ヒュー、戦死したマグニクスとは同じ孤児院出身。",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ326000/RJ325689/825a287b7e31904ad6f50dab72508dca.jpg",
+      "alt": "コーエン冒険記 [ゲンゲン&ヨッシー]",
+      "title": "コーエン冒険記 [ゲンゲン&ヨッシー]"
+     }
+    },
+    {
+     "intro": "[キミル]<br />\nガディオン王都に住む斧使い。<br />\n守りよりも攻めを得意とする。",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ326000/RJ325689/ddcbbaf4708a95a2fe275a9de6f149aa.jpg",
+      "alt": "コーエン冒険記 [ゲンゲン&ヨッシー]",
+      "title": "コーエン冒険記 [ゲンゲン&ヨッシー]"
+     }
+    },
+    {
+     "intro": "[エヴァ―]<br />\n王都から移動中の踊り子。<br />\nその踊りにより仲間を活気づけ、自身の活力にもする。",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ326000/RJ325689/e29b06c8462ea0e7cae49d25ee0346b6.jpg",
+      "alt": "コーエン冒険記 [ゲンゲン&ヨッシー]",
+      "title": "コーエン冒険記 [ゲンゲン&ヨッシー]"
+     }
+    },
+    {
+     "intro": "[ダンディ]<br />\n自称モテ男。<br />\n王都から移動するエヴァ―を追い掛け中。<br />\nモテ過ぎて困るとは本人談。",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ326000/RJ325689/e3f3ead893d205722ecad31eeaaad2f7.jpg",
+      "alt": "コーエン冒険記 [ゲンゲン&ヨッシー]",
+      "title": "コーエン冒険記 [ゲンゲン&ヨッシー]"
+     }
+    }
+   ]
+  },
+  {
+   "type": "image_list",
+   "title": "",
+   "body": [
+    {
+     "intro": "[デリン]<br />\nトラムにいる傭兵で剣と斧を使いこなす。",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ326000/RJ325689/f3fb40f5d7281e59b71472727b29a960.jpg",
+      "alt": "コーエン冒険記 [ゲンゲン&ヨッシー]",
+      "title": "コーエン冒険記 [ゲンゲン&ヨッシー]"
+     }
+    },
+    {
+     "intro": "[ヒスラ]<br />\nトラムにいる傭兵で槍使い。",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ326000/RJ325689/54f64554216a77bc13df964ebf26a075.jpg",
+      "alt": "コーエン冒険記 [ゲンゲン&ヨッシー]",
+      "title": "コーエン冒険記 [ゲンゲン&ヨッシー]"
+     }
+    }
+   ]
+  }
+ ],
+ "description": "武神アルゴルが9人の英雄達に倒されてから15年後・・・ガディオン王国のサームと王都、二人の考古学者が「ティラード・サーガ」編集の為に調査の旅に出る",
+ "short_introduction": "武神アルゴルが9人の英雄達に倒されてから15年後・・・ガディオン王国のサームと王都、二人の考古学者が「ティラード・サーガ」編集の為に調査の旅に出る",
+ "options": [
+  "MS2",
+  "REV",
+  "OLY",
+  "ORW"
+ ],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ325689.html",
+ "site_id": "home",
+ "fetched_at": 1794960638
+}

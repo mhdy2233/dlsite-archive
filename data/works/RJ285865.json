@@ -1,0 +1,162 @@
+{
+ "id": "RJ285865",
+ "title": "何かHAZARD",
+ "title_romaji": "nanikahazaado",
+ "circle": {
+  "id": "RG50793",
+  "name": "plus-tick工房",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG50793.html"
+ },
+ "type": {
+  "code": "ACN",
+  "name": "アクション",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "all",
+ "sex": 1,
+ "price": {
+  "jpy": 330,
+  "official_jpy": 330,
+  "currencies": {
+   "USD": 2.0680203217463617,
+   "EUR": 1.8792967557643157,
+   "GBP": 1.5679954081492047,
+   "TWD": 68.17759229799806,
+   "CNY": 13.809553700332685,
+   "KRW": 2761.506276150628,
+   "IDR": 37800.687285223365,
+   "VND": 53225.8064516129,
+   "THB": 70.08006116078064,
+   "SEK": 20.875638130301937,
+   "HKD": 16.228018411424525,
+   "SGD": 2.665236592244646,
+   "CAD": 2.956605100591769,
+   "MYR": 8.468074077685598,
+   "BRL": 11.767055098344054,
+   "AUD": 3.066082438594731,
+   "PHP": 132.17976447969238,
+   "MXN": 38.363617340355034,
+   "NZD": 3.756266134870443,
+   "INR": 194.27764040974918
+  }
+ },
+ "point": {
+  "point_amount": 18,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1587884400,
+ "file": {
+  "type": "EXE",
+  "size": 69528213
+ },
+ "tags": [
+  {
+   "key": "432",
+   "name": "女主人公"
+  },
+  {
+   "key": "166",
+   "name": "ショートカット"
+  }
+ ],
+ "languages": [
+  "JPN"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [],
+ "rating": {
+  "average": null,
+  "count": null
+ },
+ "review_count": 0,
+ "dl_count": 10,
+ "wishlist_count": 39,
+ "ranking": [],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ286000/RJ285865_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ286000/RJ285865_img_main_240x240.jpg",
+  "samples": [
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ286000/RJ285865_img_smp1.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ286000/RJ285865_img_smp2.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ286000/RJ285865_img_smp3.jpg"
+  ],
+  "sample_thumbs": [
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ286000/RJ285865_img_smp1_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ286000/RJ285865_img_smp2_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ286000/RJ285865_img_smp3_100x100.jpg"
+  ],
+  "alt": "何かHAZARD [plus-tick工房]"
+ },
+ "introductions": [
+  {
+   "type": "text",
+   "title": "・説明",
+   "body": [
+    {
+     "intro": "目が覚めると、そこは…<br />\n<br />\n少女を操作して、洋館より脱出させましょう。"
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "title": "・操作方法",
+   "body": [
+    {
+     "intro": "キーボード・デフォルト<br />\n<br />\nゲームの中断:ゲーム中にesc<br />\nウィンドウとフル画面の切り替え:ゲーム中にF4<br />\n　<br />\n移動:←、→<br />\n上選択・ドア:↑<br />\n下選択:↓<br />\nダッシュ:x<br />\n撃つ:z<br />\nリロード:c<br />\n武器選択戻り:a<br />\n武器選択進む:s<br />\nドリンクを飲む:d<br />\n<br />\n<br />\nジョイパッド・デフォルト<br />\n<br />\n移動:左スティック←、左スティック→<br />\n上選択・ドア:左スティック↑<br />\n下選択:左スティック↓<br />\n(ダッシュ):A<br />\n撃つ:X<br />\nリロード:Y<br />\n武器選択戻り:LB<br />\n武器選択進む:RB<br />\nドリンクを飲む:B<br />\n<br />\n<br />\n<br />\n　※KeyConfigとゲームの中断は基本マウス操作になります。"
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "title": "・アイテム",
+   "body": [
+    {
+     "intro": "銃器:武器を選択して、リロード。後は撃ちまくろう。<br />\n<br />\n　弾薬:それぞれの武器に対応して、それぞれの弾薬があります。集めましょう。<br />\n<br />\n　鍵　:開けられなかったドアが開けられるように…。複数あり。<br />\n<br />\n　dr.ginger:使用すると体力を回復します。"
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "title": "・難易度",
+   "body": [
+    {
+     "intro": "難易度選択により、最大HPが変わります。<br />\n<br />\n　easy      .. 最大HP10<br />\n　normal    .. 最大HP7<br />\n   very hard .. 最大HP4"
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "title": "・ポイント",
+   "body": [
+    {
+     "intro": "洋館を巡って、鍵を集めよう。<br />\n　鍵によって、行動範囲が広がります。<br />\n<br />\n　弾薬は、対応する銃器を持っているときに拾うことができます。<br />\n　早めに銃器を回収しましょう。<br />\n<br />\n　敵は撃たれる位置によって通常ダメージ(黒点滅)と大ダメージ(赤点滅)があります。<br />\n　できるだけ、体の中心を狙うようにしましょう。<br />\n<br />\n　dr.gingerは、使用することでHPを3回復できます。<br />\n　HPが0にならないように気を付けてください。"
+    }
+   ]
+  }
+ ],
+ "description": "目が覚めると、そこは…  少女を操作して、洋館より脱出させましょう。",
+ "short_introduction": "目が覚めると、そこは…  少女を操作して、洋館より脱出させましょう。",
+ "options": [
+  "MS2",
+  "TRI",
+  "OLY"
+ ],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ285865.html",
+ "site_id": "home",
+ "fetched_at": 1794961507
+}

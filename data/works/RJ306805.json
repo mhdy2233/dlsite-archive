@@ -1,0 +1,247 @@
+{
+ "id": "RJ306805",
+ "title": "メンタルアンデッド",
+ "title_romaji": "mentaruandeddo",
+ "circle": {
+  "id": "RG54037",
+  "name": "袖イオンビーム",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG54037.html"
+ },
+ "type": {
+  "code": "RPG",
+  "name": "ロールプレイング",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "r18",
+ "sex": 1,
+ "price": {
+  "jpy": 1100,
+  "official_jpy": 1100,
+  "currencies": {
+   "USD": 6.8934010724878725,
+   "EUR": 6.264322519214385,
+   "GBP": 5.226651360497349,
+   "TWD": 227.25864099332685,
+   "CNY": 46.03184566777561,
+   "KRW": 9205.020920502093,
+   "IDR": 126002.29095074456,
+   "VND": 177419.3548387097,
+   "THB": 233.60020386926882,
+   "SEK": 69.5854604343398,
+   "HKD": 54.09339470474841,
+   "SGD": 8.88412197414882,
+   "CAD": 9.855350335305896,
+   "MYR": 28.226913592285324,
+   "BRL": 39.223516994480185,
+   "AUD": 10.22027479531577,
+   "PHP": 440.599214932308,
+   "MXN": 127.87872446785012,
+   "NZD": 12.52088711623481,
+   "INR": 647.5921346991639
+  }
+ },
+ "point": {
+  "point_amount": 60,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1605078000,
+ "file": {
+  "type": "EXE",
+  "size": 489285338
+ },
+ "tags": [
+  {
+   "key": "502",
+   "name": "男主人公"
+  },
+  {
+   "key": "510",
+   "name": "ツクール"
+  },
+  {
+   "key": "207",
+   "name": "つるぺた"
+  },
+  {
+   "key": "010",
+   "name": "SF"
+  },
+  {
+   "key": "504",
+   "name": "おねショタ"
+  },
+  {
+   "key": "437",
+   "name": "初体験"
+  },
+  {
+   "key": "134",
+   "name": "屈辱"
+  },
+  {
+   "key": "123",
+   "name": "和姦"
+  }
+ ],
+ "languages": [
+  "JPN"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [],
+ "rating": {
+  "average": 4.37,
+  "count": 233
+ },
+ "review_count": 9,
+ "dl_count": 498,
+ "wishlist_count": 506,
+ "ranking": [
+  {
+   "category": "game",
+   "period": "day",
+   "rank": 20,
+   "date": "2020-11-12"
+  }
+ ],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ307000/RJ306805_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ307000/RJ306805_img_main_240x240.jpg",
+  "samples": [
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ307000/RJ306805_img_smp1.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ307000/RJ306805_img_smp2.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ307000/RJ306805_img_smp3.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ307000/RJ306805_img_smp4.jpg"
+  ],
+  "sample_thumbs": [
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ307000/RJ306805_img_smp1_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ307000/RJ306805_img_smp2_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ307000/RJ306805_img_smp3_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ307000/RJ306805_img_smp4_100x100.jpg"
+  ],
+  "alt": "メンタルアンデッド [袖イオンビーム]"
+ },
+ "introductions": [
+  {
+   "type": "image",
+   "title": "■内容■",
+   "body": [
+    {
+     "intro": "現代日本で暮らす平凡な一般人達が、何の前触れもなく「大陸そのものを宇宙船にしている」という場所に召喚されます。<br />\n<br />\n自分達が生きてきた世界は、呼ばれたその「外側の世界」による仮想現実であること、そしてその外側の世界が、飛来したエイリアンによって危機に陥っており、その排除のために戦うことを要求されます。<br />\n<br />\n※本作品はRPGツクールMV ver.1.62で制作されています。<br />\n　記載の動作環境はツクール公式サイトに表記されている目安となります。",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ307000/RJ306805/38066af55c5ae7d9b1c9846f32f3dc37.jpg",
+      "alt": "メンタルアンデッド [袖イオンビーム]",
+      "title": "メンタルアンデッド [袖イオンビーム]"
+     },
+     "position": "over"
+    }
+   ]
+  },
+  {
+   "type": "image_list",
+   "title": "■システム■",
+   "body": [
+    {
+     "intro": "一般的なターン性RPGですが、主人公たちは平凡な一般人のために、<br />\nレベルが上がったり必殺技を覚えることができません。<br />\n<br />\nまた、平和ボケした現代人のために、敵を攻撃するごとにメンタル面でも消耗していきます。",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ307000/RJ306805/28825f123118f8c36279ba4cbac0004e.jpg",
+      "alt": "メンタルアンデッド [袖イオンビーム]",
+      "title": "メンタルアンデッド [袖イオンビーム]"
+     }
+    },
+    {
+     "intro": "そのため敵の攻撃で体力(バイタル)を失ってしまった時の他に、<br />\n無理な戦いを続けて精神(メンタル)の限界を迎え、倒れてしまうこともあります。",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ307000/RJ306805/fd774c88ff2821d2ecb90bef2f7696ce.jpg",
+      "alt": "メンタルアンデッド [袖イオンビーム]",
+      "title": "メンタルアンデッド [袖イオンビーム]"
+     }
+    }
+   ]
+  },
+  {
+   "type": "image_list",
+   "title": "■攻略可能なヒロイン■",
+   "body": [
+    {
+     "intro": "攻略可能なヒロインは<br />\n・ツンデレ気味なスポーツ少女",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ307000/RJ306805/46bdfc5b1a83a22742e4f3446beda00f.jpg",
+      "alt": "メンタルアンデッド [袖イオンビーム]",
+      "title": "メンタルアンデッド [袖イオンビーム]"
+     }
+    },
+    {
+     "intro": "・コケティッシュな○リ",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ307000/RJ306805/d159d197d0a019b1f68fc806fd99df8d.jpg",
+      "alt": "メンタルアンデッド [袖イオンビーム]",
+      "title": "メンタルアンデッド [袖イオンビーム]"
+     }
+    },
+    {
+     "intro": "・インテリポンコツのバリキャリ眼鏡",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ307000/RJ306805/0b088f080774e82c0e5741f72157a1af.jpg",
+      "alt": "メンタルアンデッド [袖イオンビーム]",
+      "title": "メンタルアンデッド [袖イオンビーム]"
+     }
+    },
+    {
+     "intro": "の三名がいますが、いずれも主人公との和姦の他に、<br />\n精神的な疲労につけ込まれての悪戯や、<br />\n廃人に追い込まれてからの性処理係堕ち、が存在します。<br />\n<br />\nまたver1.2で追加のHイベントを実装しました。<br />\n・仲間男キャラクターが精神的に追い詰められた際の同行ヒロインへの乱暴<br />\n・上記の精神的疲労からの悪戯イベントの後に起こる、段階的にエスカレートしていく凌○<br />\n・少年化した主人公に対して、ヒロインからの性的イタズラ<br />\nなどが追加されています。",
+     "image_info": null
+    }
+   ]
+  },
+  {
+   "type": "image",
+   "title": "■制作■",
+   "body": [
+    {
+     "intro": "袖イオンビーム<br />\ntwitter:<a href=\"https://twitter.com/sode_ionbeam\" target=\"_blank\">https://twitter.com/sode_ionbeam</a>",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ307000/RJ306805/2a76bf51af0a92447228000996d61d1b.jpg",
+      "alt": "メンタルアンデッド [袖イオンビーム]",
+      "title": "メンタルアンデッド [袖イオンビーム]"
+     },
+     "position": "under"
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "title": "■更新履歴■",
+   "body": [
+    {
+     "intro": "ver1.01<br />\n拠点ベースエントランスで、メンタルが減っていなくても警告メッセージが出てしまう不具合の修正<br />\nワールドツリータワーのダストシュート部屋で、グラフィックが消えずに残ってしまう不具合の修正<br />\nショッピングモールの戦闘で、湯川由加里以外のキャラに好感度の加算が二重に行われてしまう不具合の修正<br />\n<br />\nver1.11<br />\n追加ルート導入(新規イベント、新規グラフィック、新規モンスター、スタッフロールの実装)<br />\n汎用キャラクターの画像4種類増加、差し替え<br />\n一部キャラクター名変更<br />\n一部セリフ修正<br />\nメンタル・好感度低下用アイテム「出したて!! ザーん飯」の実装<br />\n能力低下用装備「サバイバー改」の実装<br />\n追加回復アイテム「アプリークッキー」の実装<br />\n追加武器「ティーセット」「i weapon」の実装<br />\n追加装備「アドレナリンアッパー」「ブルーリボン」の実装<br />\n攻略情報・不具合ご連絡用ページリンクの同梱<br />\nギブアップ用スキルの実装<br />\n攻略メモに〇追加ルートについて〇を追記<br />\n<br />\nver1.12<br />\n追加ルート\"陸塊航行管理棟\"難易度調整<br />\n<br />\nver1.23<br />\n追加イベント(回想あり)として、Hイベント8シーン、ミニHイベント24シーン実装<br />\n上記に使用する新規CG実装<br />\nSEとしての、喘ぎ音声データを実装、既存シーンも差し替え<br />\n追加効果音の実装(既存シーン含む)<br />\n追加アイテム「i tester」の実装<br />\n「新都心・市街地」のヒントキャラを追加<br />\n「新都心・市街地」武器屋にイベント追加<br />\n攻略メモに〇ver1.2以降の追加要素〇を追記<br />\n<br />\nver1.24<br />\n追加イベントトリガーの不具合修正<br />\n<br />\nver1.25<br />\n軽微な不具合の修正<br />\n<br />\nver2.00<br />\nバックログ表示機能の実装<br />\nイベントCG・キャラクター立ち絵・マップ上キャラチップ素材の更新<br />\n<br />\nver2.03<br />\n軽微な不具合の修正<br />\n<br />\nver2.04<br />\n一部イベント発生条件の修正<br />\n軽微な不具合の修正"
+    }
+   ]
+  }
+ ],
+ "description": "ヒロインのメンタルを守ってイチャイチャするもよし、ヒロインのメンタルを追い込んで他の男にヤラれてしまうよう仕向けてしまうもよし。現代日本に掃いて捨てるほど溢れかえっている、心砕けた恵まれない成人男性が四苦八苦する物語です。",
+ "short_introduction": "ヒロインのメンタルを守ってイチャイチャするもよし、ヒロインのメンタルを追い込んで他の男にヤラれてしまうよう仕向けてしまうもよし。現代日本に掃いて捨てるほど溢れかえっている、心砕けた恵まれない成人男性が四苦八苦する物語です。",
+ "options": [
+  "MS2",
+  "REV",
+  "TRI",
+  "ORW",
+  "RegionHiddenFilter"
+ ],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ306805.html",
+ "site_id": "maniax",
+ "fetched_at": 1794961060
+}

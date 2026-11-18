@@ -1,0 +1,161 @@
+{
+ "id": "RJ300487",
+ "title": "頻尿魔法をかけられて",
+ "title_romaji": "hinnyoumahouwokakerarete",
+ "circle": {
+  "id": "RG38048",
+  "name": "へなぽこや",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG38048.html"
+ },
+ "type": {
+  "code": "ADV",
+  "name": "アドベンチャー",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "r18",
+ "sex": 1,
+ "price": {
+  "jpy": 110,
+  "official_jpy": 110,
+  "currencies": {
+   "USD": 0.6893401072487872,
+   "EUR": 0.6264322519214386,
+   "GBP": 0.5226651360497349,
+   "TWD": 22.725864099332686,
+   "CNY": 4.6031845667775615,
+   "KRW": 920.5020920502093,
+   "IDR": 12600.229095074455,
+   "VND": 17741.93548387097,
+   "THB": 23.360020386926884,
+   "SEK": 6.958546043433979,
+   "HKD": 5.409339470474841,
+   "SGD": 0.888412197414882,
+   "CAD": 0.9855350335305896,
+   "MYR": 2.8226913592285325,
+   "BRL": 3.922351699448018,
+   "AUD": 1.022027479531577,
+   "PHP": 44.059921493230796,
+   "MXN": 12.787872446785013,
+   "NZD": 1.252088711623481,
+   "INR": 64.7592134699164
+  }
+ },
+ "point": {
+  "point_amount": 6,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1600585200,
+ "file": {
+  "type": "EXE",
+  "size": 150019325
+ },
+ "tags": [
+  {
+   "key": "509",
+   "name": "3D作品"
+  },
+  {
+   "key": "510",
+   "name": "ツクール"
+  },
+  {
+   "key": "241",
+   "name": "魔法使い/魔女"
+  },
+  {
+   "key": "159",
+   "name": "放尿/おしっこ"
+  },
+  {
+   "key": "143",
+   "name": "露出"
+  }
+ ],
+ "languages": [
+  "JPN"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [],
+ "rating": {
+  "average": 3.85,
+  "count": 127
+ },
+ "review_count": 1,
+ "dl_count": 375,
+ "wishlist_count": 129,
+ "ranking": [],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ301000/RJ300487_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ301000/RJ300487_img_main_240x240.jpg",
+  "samples": [
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ301000/RJ300487_img_smp1.jpg"
+  ],
+  "sample_thumbs": [
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ301000/RJ300487_img_smp1_100x100.jpg"
+  ],
+  "alt": "頻尿魔法をかけられて [へなぽこや]"
+ },
+ "introductions": [
+  {
+   "type": "text",
+   "title": "あらすじ",
+   "body": [
+    {
+     "intro": "授業をサボり部活動をしている「恥魔法部」に対し、<br />\n注意をしにいく主人公の魔法講師「ニディナ」。<br />\n<br />\nしかし、天才少女「エマ」の悪ふざけで、<br />\n頻尿魔法を掛けられてしまう!!<br />\n<br />\n果たして、この魔法を無事に解けるのか!?"
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "title": "システム",
+   "body": [
+    {
+     "intro": "・尿意が一定値でおもらし開始(右の立ち絵が漏らすようだ)<br />\n・しかし、尿意の力をステータス(BP)に変換可能!<br />\n・でも、水分を失ってしまう!(無くなるとゲームオーバー)<br />\n・適当にBPでステータスを振って、水分補給して、戦闘して進んでね!"
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "title": "動作環境",
+   "body": [
+    {
+     "intro": "RPGツクールMZで作っています。<br />\nWindows 64bit OSが必要になります。<br />\n操作はマウスのみで行えます。<br />\n右クリックでセーブ画面が出ます。"
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "title": "概要",
+   "body": [
+    {
+     "intro": "・短編100円シリーズだよ<br />\n・おもらし注意<br />\n・ゲームシーンで使用した高解像度版png画像CGを収録<br />\n・全シーン絶賛おもらし中(6シーン程度)"
+    }
+   ]
+  }
+ ],
+ "description": "授業をサボり部活動をしている「恥魔法部」に対し、注意をしにいく主人公の魔法講師「ニディナ」。しかし、天才少女「エマ」の悪ふざけで、頻尿魔法を掛けられてしまう!!",
+ "short_introduction": "授業をサボり部活動をしている「恥魔法部」に対し、注意をしにいく主人公の魔法講師「ニディナ」。しかし、天才少女「エマ」の悪ふざけで、頻尿魔法を掛けられてしまう!!",
+ "options": [
+  "MS2",
+  "REV",
+  "OLY"
+ ],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ300487.html",
+ "site_id": "maniax",
+ "fetched_at": 1794961196
+}

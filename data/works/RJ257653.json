@@ -1,0 +1,169 @@
+{
+ "id": "RJ257653",
+ "title": "継ぐ者のコドク",
+ "title_romaji": "tsugumononokodoku",
+ "circle": {
+  "id": "RG21044",
+  "name": "305開発部",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG21044.html"
+ },
+ "type": {
+  "code": "RPG",
+  "name": "ロールプレイング",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "r18",
+ "sex": 1,
+ "price": {
+  "jpy": 1650,
+  "official_jpy": 1650,
+  "currencies": {
+   "USD": 10.340101608731809,
+   "EUR": 9.396483778821578,
+   "GBP": 7.839977040746024,
+   "TWD": 340.8879614899903,
+   "CNY": 69.04776850166343,
+   "KRW": 13807.531380753138,
+   "IDR": 189003.43642611685,
+   "VND": 266129.03225806454,
+   "THB": 350.4003058039033,
+   "SEK": 104.37819065150968,
+   "HKD": 81.14009205712263,
+   "SGD": 13.32618296122323,
+   "CAD": 14.783025502958845,
+   "MYR": 42.34037038842799,
+   "BRL": 58.835275491720274,
+   "AUD": 15.330412192973654,
+   "PHP": 660.8988223984619,
+   "MXN": 191.81808670177517,
+   "NZD": 18.781330674352215,
+   "INR": 971.3882020487459
+  }
+ },
+ "point": {
+  "point_amount": 90,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1564066800,
+ "file": {
+  "type": "EXE",
+  "size": 3567779129
+ },
+ "tags": [
+  {
+   "key": "073",
+   "name": "アニメ"
+  },
+  {
+   "key": "502",
+   "name": "男主人公"
+  },
+  {
+   "key": "071",
+   "name": "断面図"
+  },
+  {
+   "key": "206",
+   "name": "少女"
+  },
+  {
+   "key": "129",
+   "name": "妊娠/孕ませ"
+  }
+ ],
+ "languages": [
+  "JPN"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [],
+ "rating": {
+  "average": 4.71,
+  "count": 1125
+ },
+ "review_count": 20,
+ "dl_count": 2065,
+ "wishlist_count": 2542,
+ "ranking": [
+  {
+   "category": "all",
+   "period": "day",
+   "rank": 8,
+   "date": "2019-07-26"
+  },
+  {
+   "category": "all",
+   "period": "week",
+   "rank": 23,
+   "date": "2019-07-31"
+  },
+  {
+   "category": "all",
+   "period": "month",
+   "rank": 57,
+   "date": "2019-08-12"
+  },
+  {
+   "category": "game",
+   "period": "day",
+   "rank": 6,
+   "date": "2019-07-26"
+  },
+  {
+   "category": "game",
+   "period": "week",
+   "rank": 13,
+   "date": "2019-07-31"
+  },
+  {
+   "category": "game",
+   "period": "month",
+   "rank": 22,
+   "date": "2019-08-04"
+  }
+ ],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ258000/RJ257653_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ258000/RJ257653_img_main_240x240.jpg",
+  "samples": [],
+  "sample_thumbs": [],
+  "alt": "継ぐ者のコドク [305開発部]"
+ },
+ "introductions": [
+  {
+   "type": "text",
+   "title": "",
+   "body": [
+    {
+     "intro": "ヒトはそれぞれ、何かを継ぐ者<br />\r\n世界の片隅であなたは　ツギハギの少女と出会う――<br />\r\n<br />\r\n<br />\r\n<br />\r\n■バージョン情報<br />\r\n<br />\r\n　ver1.02<br />\r\n　　→難易度「国家元首向け」を追加しました<br />\r\n　　　QTEが苦手な方でもかなりクリアしやすい難易度です!<br />\r\n　　→一部の戦闘のQTE難度を緩和しました<br />\r\n<br />\r\n<br />\r\n■ストーリー<br />\r\n<br />\r\n大陸間戦争終結から9年<br />\r\n小さな過疎村。その村外れに住む一人の青年<br />\r\n生活のため、今日も廃墟となった研究施設へと足を運ぶ<br />\r\n<br />\r\n戦争で全てを失った者<br />\r\n戦争のために作られた生物兵器<br />\r\n戦争で失われた命の記憶<br />\r\n<br />\r\n出会いと別れを経て、彼らが「継ぐ」ものとは――<br />\r\n<br />\r\n<br />\r\n■システム<br />\r\n<br />\r\n想定プレイ時間:10時間～<br />\r\nターン制コマンド式+QTEのRPG<br />\r\n難易度選択あり、全ての戦闘でリトライ可能<br />\r\n詳しくは紹介動画をご覧ください!<br />\r\n<br />\r\n<br />\r\n■Hシーン<br />\r\n<br />\r\n差分含めず25以上のシーンが全てLive2Dアニメーション!<br />\r\n回想モード完備<br />\r\nぜひ紹介動画をご覧ください!<br />\r\n<br />\r\n<br />\r\n■ご購入の前に(注意事項)<br />\r\n<br />\r\n・本作はWOLF RPGエディターで製作されています。事前に必ず体験版にて動作確認をお願いします。<br />\r\n　体験版は序盤部分がプレイ可能、Hシーンは2シーンのみ収録されています。<br />\r\n　製品版へのセーブデータの引き継ぎが可能です。<br />\r\n<br />\r\n・QTEはシステム上必須となります。QTEなしモードはありません。<br />\r\n　クリアデータ配布はありません。<br />\r\n<br />\r\n・一部、軽度な恐怖/残虐表現があります。<br />\r\n<br />\r\n・発売から半年間は割引を行いません。(販売サイト負担割引を除く)"
+    }
+   ]
+  }
+ ],
+ "description": "ヒトはそれぞれ、何かを継ぐ者  \r\n世界の片隅であなたは ツギハギの少女と出会う――",
+ "short_introduction": "ヒトはそれぞれ、何かを継ぐ者  \r\n世界の片隅であなたは ツギハギの少女と出会う――",
+ "options": [
+  "MS2",
+  "MV2",
+  "REV",
+  "TRI",
+  "ORW"
+ ],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ257653.html",
+ "site_id": "maniax",
+ "fetched_at": 1794962059
+}

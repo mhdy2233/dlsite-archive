@@ -1,0 +1,170 @@
+{
+ "id": "RJ248053",
+ "title": "女騎士と淫魔の呪い",
+ "title_romaji": "onnakishitoinmanonoroi",
+ "circle": {
+  "id": "RG32456",
+  "name": "WINDWAVE",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG32456.html"
+ },
+ "type": {
+  "code": "RPG",
+  "name": "ロールプレイング",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "r18",
+ "sex": 1,
+ "price": {
+  "jpy": 1320,
+  "official_jpy": 1320,
+  "currencies": {
+   "USD": 8.272081286985447,
+   "EUR": 7.517187023057263,
+   "GBP": 6.271981632596819,
+   "TWD": 272.71036919199224,
+   "CNY": 55.23821480133074,
+   "KRW": 11046.025104602511,
+   "IDR": 151202.74914089346,
+   "VND": 212903.2258064516,
+   "THB": 280.3202446431226,
+   "SEK": 83.50255252120775,
+   "HKD": 64.9120736456981,
+   "SGD": 10.660946368978584,
+   "CAD": 11.826420402367075,
+   "MYR": 33.87229631074239,
+   "BRL": 47.068220393376215,
+   "AUD": 12.264329754378924,
+   "PHP": 528.7190579187695,
+   "MXN": 153.45446936142014,
+   "NZD": 15.025064539481772,
+   "INR": 777.1105616389967
+  }
+ },
+ "point": {
+  "point_amount": 72,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1552575600,
+ "file": {
+  "type": "EXE",
+  "size": 172745245
+ },
+ "tags": [
+  {
+   "key": "424",
+   "name": "上司"
+  },
+  {
+   "key": "016",
+   "name": "ファンタジー"
+  },
+  {
+   "key": "115",
+   "name": "逆レ"
+  },
+  {
+   "key": "149",
+   "name": "羞恥/恥辱"
+  },
+  {
+   "key": "166",
+   "name": "ショートカット"
+  }
+ ],
+ "languages": [
+  "JPN"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [],
+ "rating": {
+  "average": 4.2,
+  "count": 1216
+ },
+ "review_count": 7,
+ "dl_count": 2357,
+ "wishlist_count": 3242,
+ "ranking": [
+  {
+   "category": "all",
+   "period": "day",
+   "rank": 17,
+   "date": "2019-03-15"
+  },
+  {
+   "category": "all",
+   "period": "week",
+   "rank": 45,
+   "date": "2019-03-22"
+  },
+  {
+   "category": "game",
+   "period": "day",
+   "rank": 5,
+   "date": "2019-03-16"
+  },
+  {
+   "category": "game",
+   "period": "week",
+   "rank": 12,
+   "date": "2019-03-21"
+  },
+  {
+   "category": "game",
+   "period": "month",
+   "rank": 34,
+   "date": "2019-04-11"
+  }
+ ],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ249000/RJ248053_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ249000/RJ248053_img_main_240x240.jpg",
+  "samples": [
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ249000/RJ248053_img_smp1.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ249000/RJ248053_img_smp2.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ249000/RJ248053_img_smp3.jpg"
+  ],
+  "sample_thumbs": [
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ249000/RJ248053_img_smp1_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ249000/RJ248053_img_smp2_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ249000/RJ248053_img_smp3_100x100.jpg"
+  ],
+  "alt": "女騎士と淫魔の呪い [WINDWAVE]"
+ },
+ "introductions": [
+  {
+   "type": "text",
+   "title": "",
+   "body": [
+    {
+     "intro": "●更新情報<br />\r\nVer1.02<br />\r\n・仲間の騎士達の強化イベントを一部追加しました<br />\r\n・使用することで強○的に敗北となるスキル「サレンダー」を追加しました<br />\r\n・敵「ルスト」の使用する治療スキルの挙動がおかしかった不具合を修正しました<br />\r\n・自身に使用する強化スキルに命中判定が発生していた不具合を修正しました<br />\r\n<br />\r\nVer1.01<br />\r\n・仲間の騎士達の戦闘能力を上方修正しました<br />\r\n・防具「グレイシャルメイル(+10)」を作成する材料が<br />\r\n　間違っていた不具合を修正しました<br />\r\n・敵「レジェンダリアインプ」が一切行動していなかった<br />\r\n　不具合を修正しました<br />\r\n・装備強化で使用する材料数を一部下方修正しました<br />\r\n・その他、微細な誤字等を修正しました<br />\r\n<br />\r\n<br />\r\n●あらすじ<br />\r\n<br />\r\n軍事国家ヴェルドグラードは、<br />\r\n諸国の中でも特に精鋭ぞろいと言われる騎士団を有していた。<br />\r\nその圧倒的な戦闘力で諸国と連携し、人間界を支配しようと目論み侵攻を進める魔族と戦いを進めてきた。<br />\r\n<br />\r\nその騎士団で女騎士でありながら剣の腕で戦績を挙げ続けた騎士セシリアは、<br />\r\n日ごろの戦いに参加する一方、見習い騎士たちの指導や特訓を行い、<br />\r\n多くの騎士たちから信頼と羨望を向けられていた。<br />\r\n<br />\r\nそんなある日、騎士団の砦に魔族が襲来する。<br />\r\nセシリアは騎士団を率いて立ち向かい、魔族を圧倒。<br />\r\nこの戦いは勝利で終わるかのように見えた。<br />\r\n<br />\r\nしかし、魔族の部隊のトップのサキュバス「ルスト」の力で、<br />\r\n騎士団に駐屯する男達に強力な呪いがかけられた。<br />\r\n<br />\r\nこの呪いは、男達の性的欲求を大幅に増幅させ、<br />\r\nその性欲によって魔族達を強化するものだった。<br />\r\n魔族達が強化されたことでセシリアの一団は返り討ちに。<br />\r\n意図せず何気ない反応で男達の下心を刺激していたセシリアに対して<br />\r\n男達は呪いにより、押さえていた欲望をぶちまけた。<br />\r\n<br />\r\nセシリアは部下を苦しみから救うため、また魔族の侵攻を食い止めるために<br />\r\n男達の性欲を吐き出させることを模索し始める。<br />\r\nはじめはすこし踏み込んだ欲求を満たすだけであったが、<br />\r\nだんだんと過激な要求にも応えていくようになっていってしまう……<br />\r\n<br />\r\n<br />\r\n●システム<br />\r\n<br />\r\n・砦と呪い<br />\r\n　砦の騎士たちはみな性欲に飲まれており、<br />\r\n　騎士たちの性欲を解消することで性欲を抑えることができます。<br />\r\n　これを行うことで、男の性欲をエネルギーとしている<br />\r\n　魔族の能力が下がり魔族に対抗していけるようになります。<br />\r\n<br />\r\n・装備強化・剣術修練システム<br />\r\n　砦の騎士たちの性欲を解消していくと、一部砦の施設が開放されます。<br />\r\n　施設ではセシリアを強化することが可能です。<br />\r\n　敵を倒して得られるアイテムを集めること以下の特典が受けられます。<br />\r\n　・物品が購入<br />\r\n　・装備品の強化<br />\r\n　・スキルツリー拡張<br />\r\n　敵砦の攻略に役立てていきましょう。<br />\r\n<br />\r\n・自動バトル<br />\r\n　ターン制コマンドバトル自動化システムを搭載。<br />\r\n　コマンド戦闘を避けたい方もお気軽にプレイできるようしました。<br />\r\n<br />\r\n<br />\r\n●シチュエーション<br />\r\n・手コキ<br />\r\n・パイズリ<br />\r\n・輪○<br />\r\n・騎乗位<br />\r\n・性具責め<br />\r\n・快楽堕ち<br />\r\n・肉便器<br />\r\netc...<br />\r\n<br />\r\n<br />\r\n●注意<br />\r\nこの製品を遊ぶにはRPGツクールVX AceのRTPが必要となります。<br />\r\n下記サイトよりダウンロードお願いします。<br />\r\n<a href=\"https://tkool.jp/products/rtp.html\" target=\"_blank\">https://tkool.jp/products/rtp.html</a><br />\r\n<br />\r\n<br />\r\n●不具合等ございましたらブログコメントまでご報告お願いします。<br />\r\n<a href=\"http://blog.livedoor.jp/windwave24/\" target=\"_blank\">http://blog.livedoor.jp/windwave24/</a>"
+    }
+   ]
+  }
+ ],
+ "description": "淫魔の呪いで性欲を持て余す呪いを受けた男達の要求に堕とされていくRPG",
+ "short_introduction": "淫魔の呪いで性欲を持て余す呪いを受けた男達の要求に堕とされていくRPG",
+ "options": [
+  "MS2",
+  "TRI",
+  "REV",
+  "OLY"
+ ],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ248053.html",
+ "site_id": "maniax",
+ "fetched_at": 1794962379
+}

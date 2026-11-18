@@ -1,0 +1,122 @@
+{
+ "id": "RJ255027",
+ "title": "デルフィニウム・アドベンチャー",
+ "title_romaji": "derufwiniumuadobenchaa",
+ "circle": {
+  "id": "RG45922",
+  "name": "レモン工房と開発室",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG45922.html"
+ },
+ "type": {
+  "code": "ACN",
+  "name": "アクション",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "all",
+ "sex": 1,
+ "price": {
+  "jpy": 660,
+  "official_jpy": 660,
+  "currencies": {
+   "USD": 4.1360406434927235,
+   "EUR": 3.7585935115286313,
+   "GBP": 3.1359908162984094,
+   "TWD": 136.35518459599612,
+   "CNY": 27.61910740066537,
+   "KRW": 5523.012552301256,
+   "IDR": 75601.37457044673,
+   "VND": 106451.6129032258,
+   "THB": 140.1601223215613,
+   "SEK": 41.75127626060387,
+   "HKD": 32.45603682284905,
+   "SGD": 5.330473184489292,
+   "CAD": 5.913210201183538,
+   "MYR": 16.936148155371196,
+   "BRL": 23.534110196688108,
+   "AUD": 6.132164877189462,
+   "PHP": 264.35952895938476,
+   "MXN": 76.72723468071007,
+   "NZD": 7.512532269740886,
+   "INR": 388.55528081949836
+  }
+ },
+ "point": {
+  "point_amount": 36,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1559545200,
+ "file": {
+  "type": "EXE",
+  "size": 76517251
+ },
+ "tags": [],
+ "languages": [
+  "JPN"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [],
+ "rating": {
+  "average": 4.48,
+  "count": 60
+ },
+ "review_count": 0,
+ "dl_count": 119,
+ "wishlist_count": 238,
+ "ranking": [],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ256000/RJ255027_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ256000/RJ255027_img_main_240x240.jpg",
+  "samples": [
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ256000/RJ255027_img_smp1.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ256000/RJ255027_img_smp2.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ256000/RJ255027_img_smp3.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ256000/RJ255027_img_smp4.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ256000/RJ255027_img_smp5.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ256000/RJ255027_img_smp6.jpg"
+  ],
+  "sample_thumbs": [
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ256000/RJ255027_img_smp1_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ256000/RJ255027_img_smp2_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ256000/RJ255027_img_smp3_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ256000/RJ255027_img_smp4_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ256000/RJ255027_img_smp5_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ256000/RJ255027_img_smp6_100x100.jpg"
+  ],
+  "alt": "デルフィニウム・アドベンチャー [レモン工房と開発室]"
+ },
+ "introductions": [
+  {
+   "type": "text",
+   "title": "",
+   "body": [
+    {
+     "intro": "親友、ラナンキュラスを探してデルフィニウムが春庭を駆け巡る!<br />\r\n横スクロールアクションゲームです。<br />\r\n<br />\r\n体験版より動作の確認をお願いします。<br />\r\n<br />\r\nサークルHP: <a href=\"https://lemonkobo.com\" target=\"_blank\">https://lemonkobo.com</a><br />\r\n製作者Twitter: <a href=\"https://twitter.com/lemonkobo\" target=\"_blank\">https://twitter.com/lemonkobo</a>"
+    }
+   ]
+  }
+ ],
+ "description": "デルフィニウムが春庭を駆け巡る横スクロールアクションゲーム!",
+ "short_introduction": "デルフィニウムが春庭を駆け巡る横スクロールアクションゲーム!",
+ "options": [
+  "MS2",
+  "TRI"
+ ],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ255027.html",
+ "site_id": "home",
+ "fetched_at": 1794962169
+}

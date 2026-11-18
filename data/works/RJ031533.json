@@ -1,0 +1,115 @@
+{
+ "id": "RJ031533",
+ "title": "AIRてに",
+ "title_romaji": "eateni",
+ "circle": {
+  "id": "RG06351",
+  "name": "周遊舎",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG06351.html"
+ },
+ "type": {
+  "code": "ACN",
+  "name": "アクション",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "all",
+ "sex": 1,
+ "price": {
+  "jpy": 330,
+  "official_jpy": 330,
+  "currencies": {
+   "USD": 2.070485604164562,
+   "EUR": 1.8826589991100158,
+   "GBP": 1.5683210552804656,
+   "TWD": 68.19027152126296,
+   "CNY": 13.823031684064139,
+   "KRW": 2766.135792120704,
+   "IDR": 37848.377107466455,
+   "VND": 53242.98160696999,
+   "THB": 70.05625729752681,
+   "SEK": 20.948523763878395,
+   "HKD": 16.245593997991456,
+   "SGD": 2.668626894421842,
+   "CAD": 2.959938576789776,
+   "MYR": 8.475599263393374,
+   "BRL": 11.984790211694976,
+   "AUD": 3.073467038463043,
+   "PHP": 131.98416190057193,
+   "MXN": 38.18339600809951,
+   "NZD": 3.7661344624128366,
+   "INR": 193.60516280434146
+  }
+ },
+ "point": {
+  "point_amount": 18,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1179500400,
+ "file": {
+  "type": "EXE",
+  "size": 40643242
+ },
+ "tags": [],
+ "languages": [
+  "JPN"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [],
+ "rating": {
+  "average": 3.82,
+  "count": 17
+ },
+ "review_count": 0,
+ "dl_count": 32,
+ "wishlist_count": 45,
+ "ranking": [],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ032000/RJ031533_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ032000/RJ031533_img_main_240x240.jpg",
+  "samples": [
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ032000/RJ031533_img_smp1.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ032000/RJ031533_img_smp2.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ032000/RJ031533_img_smp3.jpg"
+  ],
+  "sample_thumbs": [
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ032000/RJ031533_img_smp1_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ032000/RJ031533_img_smp2_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ032000/RJ031533_img_smp3_100x100.jpg"
+  ],
+  "alt": "AIRてに [周遊舎]"
+ },
+ "introductions": [
+  {
+   "type": "text",
+   "title": "",
+   "body": [
+    {
+     "intro": "痛快!快感!スーパーブロック崩し!<br />\r\nA○Rを題材にしたアクションブロック崩しです。<br />\r\nラケットで打ち返す方向を調節できる新感覚のブロック崩しです。打ち返すタイミングが良いとパワーが溜まり、さらにこのパワーが溜まった時に最もタイミングが良い状態で打ち返すことによって貫通弾のハイパーショットが発動!一気にブロックを壊していく事が出来ます。<br />\r\nスペシャルアタック(ボム)は緊急時に、またはハイパーショット時に使用することでハイパーショットの継続時間を延長できます。<br />\r\nとにかくこのブロック破壊の快感は病み付き!"
+    }
+   ]
+  }
+ ],
+ "description": "痛快!快感!スーパーブロック崩し!\r\nA○Rのキャラがラケットもってブロックをガンガン壊していくぞ!\r\nパワーを溜めてハイパーショットで貫通弾で一気に崩せ!",
+ "short_introduction": "痛快!快感!スーパーブロック崩し!\r\nA○Rのキャラがラケットもってブロックをガンガン壊していくぞ!\r\nパワーを溜めてハイパーショットで貫通弾で一気に崩せ!",
+ "options": [
+  "TRI"
+ ],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ031533.html",
+ "site_id": "home",
+ "fetched_at": 1794972372
+}

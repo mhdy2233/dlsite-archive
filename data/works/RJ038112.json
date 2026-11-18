@@ -1,0 +1,130 @@
+{
+ "id": "RJ038112",
+ "title": "Lemm/ing～失われた村～",
+ "title_romaji": "reminguushinawaretamura",
+ "circle": {
+  "id": "RG06024",
+  "name": "Circle Al dEnte",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG06024.html"
+ },
+ "type": {
+  "code": "DNV",
+  "name": "デジタルノベル",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "all",
+ "sex": 1,
+ "price": {
+  "jpy": 440,
+  "official_jpy": 440,
+  "currencies": {
+   "USD": 2.760647472219416,
+   "EUR": 2.5102119988133547,
+   "GBP": 2.091094740373954,
+   "TWD": 90.92036202835061,
+   "CNY": 18.430708912085517,
+   "KRW": 3688.1810561609386,
+   "IDR": 50464.50280995527,
+   "VND": 70990.64214262665,
+   "THB": 93.40834306336907,
+   "SEK": 27.93136501850453,
+   "HKD": 21.66079199732194,
+   "SGD": 3.558169192562456,
+   "CAD": 3.946584769053035,
+   "MYR": 11.300799017857832,
+   "BRL": 15.979720282259969,
+   "AUD": 4.097956051284058,
+   "PHP": 175.9788825340959,
+   "MXN": 50.911194677466014,
+   "NZD": 5.0215126165504484,
+   "INR": 258.1402170724553
+  }
+ },
+ "point": {
+  "point_amount": 24,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1205161200,
+ "file": {
+  "type": "EXE",
+  "size": 179792015
+ },
+ "tags": [
+  {
+   "key": "212",
+   "name": "妹"
+  },
+  {
+   "key": "220",
+   "name": "お姉さん"
+  },
+  {
+   "key": "019",
+   "name": "ホラー"
+  }
+ ],
+ "languages": [
+  "JPN"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [],
+ "rating": {
+  "average": 3.52,
+  "count": 27
+ },
+ "review_count": 0,
+ "dl_count": 63,
+ "wishlist_count": 62,
+ "ranking": [],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ039000/RJ038112_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ039000/RJ038112_img_main_240x240.jpg",
+  "samples": [
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ039000/RJ038112_img_smp1.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ039000/RJ038112_img_smp2.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ039000/RJ038112_img_smp3.jpg"
+  ],
+  "sample_thumbs": [
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ039000/RJ038112_img_smp1_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ039000/RJ038112_img_smp2_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ039000/RJ038112_img_smp3_100x100.jpg"
+  ],
+  "alt": "Lemm/ing～失われた村～ [Circle Al dEnte]"
+ },
+ "introductions": [
+  {
+   "type": "text",
+   "title": "",
+   "body": [
+    {
+     "intro": "迷い込んだ村、そこは……。<br />\r\n-------------------------------------<br />\r\n私、遠近宙(とおちかそら)はフリーライター。<br />\r\nその日も取材先に向かってレンタカーを走らせていた。<br />\r\nだが、途中の山道。どんなに車を走らせても一向に景色が<br />\r\n変わらない。どれだけ走っても、延々と続く山道。<br />\r\n迷うはずはない、一本道なのだから。<br />\r\n<br />\r\n停まるエンジン。困った私は通りかかった車に走り寄る。<br />\r\nそこで出会った4人組。だが、彼らも道に迷っていたのだった。<br />\r\n一本道と思われた山道で見付かった脇道。その道はどこへ<br />\r\n繋がっているのか。<br />\r\n<br />\r\nそして、訪れた村で行われる怪しい儀式とは……。<br />\r\n<br />\r\n閉ざされた村から私達は抜け出すことができるのか!?"
+    }
+   ]
+  }
+ ],
+ "description": "延々と続く山道を抜け出し訪れた名も知れぬ怪しい村。私達を待ち受けていたのは、殺戮の儀式だった。私達は無事村から逃げ出せることができるのだろうか?",
+ "short_introduction": "延々と続く山道を抜け出し訪れた名も知れぬ怪しい村。私達を待ち受けていたのは、殺戮の儀式だった。私達は無事村から逃げ出せることができるのだろうか?",
+ "options": [
+  "MS2",
+  "MV2",
+  "TRI"
+ ],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ038112.html",
+ "site_id": "home",
+ "fetched_at": 1794972143
+}

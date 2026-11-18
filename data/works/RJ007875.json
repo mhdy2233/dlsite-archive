@@ -1,0 +1,133 @@
+{
+ "id": "RJ007875",
+ "title": "フタナリ戦士アンドロセイバー",
+ "title_romaji": "",
+ "circle": {
+  "id": "RG02081",
+  "name": "土鍋屋",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG02081.html"
+ },
+ "type": {
+  "code": "DNV",
+  "name": "デジタルノベル",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "r18",
+ "sex": 1,
+ "price": {
+  "jpy": 1100,
+  "official_jpy": 1100,
+  "currencies": {
+   "USD": 6.90161868054854,
+   "EUR": 6.275529997033386,
+   "GBP": 5.227736850934885,
+   "TWD": 227.30090507087652,
+   "CNY": 46.076772280213795,
+   "KRW": 9220.452640402347,
+   "IDR": 126161.25702488818,
+   "VND": 177476.60535656664,
+   "THB": 233.5208576584227,
+   "SEK": 69.82841254626132,
+   "HKD": 54.15197999330485,
+   "SGD": 8.89542298140614,
+   "CAD": 9.866461922632588,
+   "MYR": 28.251997544644578,
+   "BRL": 39.94930070564992,
+   "AUD": 10.244890128210143,
+   "PHP": 439.94720633523974,
+   "MXN": 127.27798669366503,
+   "NZD": 12.553781541376122,
+   "INR": 645.3505426811382
+  }
+ },
+ "point": {
+  "point_amount": 60,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1063897200,
+ "file": {
+  "type": "EXE",
+  "size": 72146449
+ },
+ "tags": [
+  {
+   "key": "118",
+   "name": "レズ/女同士"
+  },
+  {
+   "key": "190",
+   "name": "フタナリ"
+  }
+ ],
+ "languages": [
+  "JPN"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [],
+ "rating": {
+  "average": 3.23,
+  "count": 197
+ },
+ "review_count": 0,
+ "dl_count": 488,
+ "wishlist_count": 55,
+ "ranking": [
+  {
+   "category": "all",
+   "period": "day",
+   "rank": 2,
+   "date": "2003-09-20"
+  },
+  {
+   "category": "all",
+   "period": "week",
+   "rank": 14,
+   "date": "2003-09-26"
+  },
+  {
+   "category": "all",
+   "period": "month",
+   "rank": 54,
+   "date": "2003-10-17"
+  }
+ ],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ008000/RJ007875_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ008000/RJ007875_img_main_240x240.jpg",
+  "samples": [],
+  "sample_thumbs": [],
+  "alt": "フタナリ戦士アンドロセイバー [土鍋屋]"
+ },
+ "introductions": [
+  {
+   "type": "text",
+   "title": "",
+   "body": [
+    {
+     "intro": "収録イベントCG16枚(差分含め38枚)CG閲覧モード、高解像度CG有りふたなりもの戦うヒロインデジタルノベル。アンドロセイバー漣 奈々恵(は改造人間である。彼女を改造したヘルトロンは世界ふたなり化を企む悪の秘密結社である。アンドロセイバーは人類の貞操のためにヘルトロンと戦うのだ。<br />\nMacユーザーの方はショートノベル付CG集としてお楽しみいただけます。<br />\nサンプルは<a href=\"http://www.donabeya.com/\" target=\"_blank\">http://www.donabeya.com/</a>をご覧下さい。"
+    }
+   ]
+  }
+ ],
+ "description": "収録イベントCG16枚(差分含め38枚)CG閲覧モード、高解像度CG有りふたなりもの戦うヒロインデジタルノベル。",
+ "short_introduction": "収録イベントCG16枚(差分含め38枚)CG閲覧モード、高解像度CG有りふたなりもの戦うヒロインデジタルノベル。",
+ "options": [],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ007875.html",
+ "site_id": "maniax",
+ "fetched_at": 1794972968
+}

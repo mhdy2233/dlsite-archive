@@ -1,0 +1,126 @@
+{
+ "id": "RJ041068",
+ "title": "朱鷺のことば",
+ "title_romaji": "tokinokotoba",
+ "circle": {
+  "id": "RG06746",
+  "name": "御茶ノ水電子製作所",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG06746.html"
+ },
+ "type": {
+  "code": "ADV",
+  "name": "アドベンチャー",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "all",
+ "sex": 1,
+ "price": {
+  "jpy": 880,
+  "official_jpy": 880,
+  "currencies": {
+   "USD": 5.521294944438832,
+   "EUR": 5.020423997626709,
+   "GBP": 4.182189480747908,
+   "TWD": 181.84072405670122,
+   "CNY": 36.861417824171035,
+   "KRW": 7376.362112321877,
+   "IDR": 100929.00561991055,
+   "VND": 141981.2842852533,
+   "THB": 186.81668612673815,
+   "SEK": 55.86273003700906,
+   "HKD": 43.32158399464388,
+   "SGD": 7.116338385124912,
+   "CAD": 7.89316953810607,
+   "MYR": 22.601598035715664,
+   "BRL": 31.959440564519937,
+   "AUD": 8.195912102568116,
+   "PHP": 351.9577650681918,
+   "MXN": 101.82238935493203,
+   "NZD": 10.043025233100897,
+   "INR": 516.2804341449106
+  }
+ },
+ "point": {
+  "point_amount": 48,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1215702000,
+ "file": {
+  "type": "EXE",
+  "size": 81751742
+ },
+ "tags": [
+  {
+   "key": "206",
+   "name": "少女"
+  },
+  {
+   "key": "075",
+   "name": "セーラー服"
+  }
+ ],
+ "languages": [
+  "JPN"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [],
+ "rating": {
+  "average": 4.47,
+  "count": 30
+ },
+ "review_count": 2,
+ "dl_count": 69,
+ "wishlist_count": 122,
+ "ranking": [],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ042000/RJ041068_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ042000/RJ041068_img_main_240x240.jpg",
+  "samples": [
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ042000/RJ041068_img_smp1.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ042000/RJ041068_img_smp2.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ042000/RJ041068_img_smp3.jpg"
+  ],
+  "sample_thumbs": [
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ042000/RJ041068_img_smp1_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ042000/RJ041068_img_smp2_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ042000/RJ041068_img_smp3_100x100.jpg"
+  ],
+  "alt": "朱鷺のことば [御茶ノ水電子製作所]"
+ },
+ "introductions": [
+  {
+   "type": "text",
+   "title": "",
+   "body": [
+    {
+     "intro": "本当に伝えたい悲しみは言葉にすら出来ない。<br />\r\n忘れていたものを呼び起こすために。<br />\r\n目の前の出来事の真実を手に入れるために。<br />\r\nそして失った言葉を取り戻すために。<br />\r\n私は旅に出る。兄が生き死んでいった場所を目指して。<br />\r\n<br />\r\n御茶ノ水電子製作所が贈る幻想的なアドベンチャーゲーム。<br />\r\nシステムとして、マップ移動、時間軸、ゲーム分岐の管理を搭載。<br />\r\n過去と現在、二つの時代にまたがる物語を紐解きながら、一人の少女の成長を描く。"
+    }
+   ]
+  }
+ ],
+ "description": "言葉を失った少女の、過去と現在を交錯する不思議な物語。\r\n御茶ノ水電子製作所が贈る、分岐管理システム搭載のADV。",
+ "short_introduction": "言葉を失った少女の、過去と現在を交錯する不思議な物語。\r\n御茶ノ水電子製作所が贈る、分岐管理システム搭載のADV。",
+ "options": [
+  "MS2",
+  "TRI",
+  "REV"
+ ],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ041068.html",
+ "site_id": "home",
+ "fetched_at": 1794972045
+}

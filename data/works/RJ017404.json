@@ -1,0 +1,148 @@
+{
+ "id": "RJ017404",
+ "title": "お仕置きクマー",
+ "title_romaji": "oshiokikumaa",
+ "circle": {
+  "id": "RG01726",
+  "name": "も〜も〜ぼっくす",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01726.html"
+ },
+ "type": {
+  "code": "DNV",
+  "name": "デジタルノベル",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "r18",
+ "sex": 1,
+ "price": {
+  "jpy": 1100,
+  "official_jpy": 1100,
+  "currencies": {
+   "USD": 6.90161868054854,
+   "EUR": 6.275529997033386,
+   "GBP": 5.227736850934885,
+   "TWD": 227.30090507087652,
+   "CNY": 46.076772280213795,
+   "KRW": 9220.452640402347,
+   "IDR": 126161.25702488818,
+   "VND": 177476.60535656664,
+   "THB": 233.5208576584227,
+   "SEK": 69.82841254626132,
+   "HKD": 54.15197999330485,
+   "SGD": 8.89542298140614,
+   "CAD": 9.866461922632588,
+   "MYR": 28.251997544644578,
+   "BRL": 39.94930070564992,
+   "AUD": 10.244890128210143,
+   "PHP": 439.94720633523974,
+   "MXN": 127.27798669366503,
+   "NZD": 12.553781541376122,
+   "INR": 645.3505426811382
+  }
+ },
+ "point": {
+  "point_amount": 60,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1119970800,
+ "file": {
+  "type": "EXE",
+  "size": 35798798
+ },
+ "tags": [
+  {
+   "key": "162",
+   "name": "触手"
+  },
+  {
+   "key": "126",
+   "name": "ぶっかけ"
+  },
+  {
+   "key": "134",
+   "name": "屈辱"
+  },
+  {
+   "key": "121",
+   "name": "回し"
+  }
+ ],
+ "languages": [
+  "JPN"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [],
+ "rating": {
+  "average": 3.66,
+  "count": 706
+ },
+ "review_count": 2,
+ "dl_count": 1211,
+ "wishlist_count": 375,
+ "ranking": [
+  {
+   "category": "all",
+   "period": "day",
+   "rank": 5,
+   "date": "2005-06-30"
+  },
+  {
+   "category": "all",
+   "period": "week",
+   "rank": 15,
+   "date": "2005-07-01"
+  },
+  {
+   "category": "all",
+   "period": "month",
+   "rank": 63,
+   "date": "2005-07-29"
+  }
+ ],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ018000/RJ017404_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ018000/RJ017404_img_main_240x240.jpg",
+  "samples": [
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ018000/RJ017404_img_smp1.jpg"
+  ],
+  "sample_thumbs": [
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ018000/RJ017404_img_smp1_100x100.jpg"
+  ],
+  "alt": "お仕置きクマー [も〜も〜ぼっくす]"
+ },
+ "introductions": [
+  {
+   "type": "text",
+   "title": "",
+   "body": [
+    {
+     "intro": "お仕置きを課せられた少女たちに降りかかる淫猥な罠。<br />\r\n <br />\r\n輪○、ぶっかけ、パイズリ、触手、産卵、搾乳、浣腸、素股…<br />\r\n <br />\r\n襲いかかる様々な恥辱に彼女たちは為す術なく飲み込まれていく…<br />\r\n <br />\r\n某クイズゲームを題材にした、オムニバス形式のビジュアルノベル。<br />\r\n <br />\r\n絶望に打ちひしがれる光景をご堪能ください。"
+    }
+   ]
+  }
+ ],
+ "description": "某クイズゲームのお仕置きビジュアルノベルです。",
+ "short_introduction": "某クイズゲームのお仕置きビジュアルノベルです。",
+ "options": [
+  "MS2",
+  "REV"
+ ],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ017404.html",
+ "site_id": "maniax",
+ "fetched_at": 1794972744
+}

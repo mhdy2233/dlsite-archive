@@ -1,0 +1,115 @@
+{
+ "id": "RJ007726",
+ "title": "【C.B.S!】",
+ "title_romaji": "",
+ "circle": {
+  "id": "RG02013",
+  "name": "広域避難場所",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG02013.html"
+ },
+ "type": {
+  "code": "TBL",
+  "name": "テーブル",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "r15",
+ "sex": 1,
+ "price": {
+  "jpy": 1100,
+  "official_jpy": 1100,
+  "currencies": {
+   "USD": 6.90161868054854,
+   "EUR": 6.275529997033386,
+   "GBP": 5.227736850934885,
+   "TWD": 227.30090507087652,
+   "CNY": 46.076772280213795,
+   "KRW": 9220.452640402347,
+   "IDR": 126161.25702488818,
+   "VND": 177476.60535656664,
+   "THB": 233.5208576584227,
+   "SEK": 69.82841254626132,
+   "HKD": 54.15197999330485,
+   "SGD": 8.89542298140614,
+   "CAD": 9.866461922632588,
+   "MYR": 28.251997544644578,
+   "BRL": 39.94930070564992,
+   "AUD": 10.244890128210143,
+   "PHP": 439.94720633523974,
+   "MXN": 127.27798669366503,
+   "NZD": 12.553781541376122,
+   "INR": 645.3505426811382
+  }
+ },
+ "point": {
+  "point_amount": 60,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1037026800,
+ "file": {
+  "type": "HTE",
+  "size": 9061216
+ },
+ "tags": [],
+ "languages": [
+  "JPN"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [],
+ "rating": {
+  "average": 4,
+  "count": 29
+ },
+ "review_count": 1,
+ "dl_count": 139,
+ "wishlist_count": 61,
+ "ranking": [
+  {
+   "category": "all",
+   "period": "day",
+   "rank": 20,
+   "date": "2002-11-13"
+  }
+ ],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ008000/RJ007726_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ008000/RJ007726_img_main_240x240.jpg",
+  "samples": [],
+  "sample_thumbs": [],
+  "alt": "【C.B.S!】 [広域避難場所]"
+ },
+ "introductions": [
+  {
+   "type": "text",
+   "title": "",
+   "body": [
+    {
+     "intro": "音楽に合わせて男の子がくるくる踊る、ちょっとえっちなダンスゲームです。120枚の手書きダンスアニメと7枚のボーナスCGをお楽しみください。全3ステージ。400MHz以上のCPU推奨。"
+    }
+   ]
+  }
+ ],
+ "description": "音楽に合わせて男の子がくるくる踊る、ちょっとえっちなダンスゲームです。120枚の手書きダンスアニメと7枚のボーナスCG",
+ "short_introduction": "音楽に合わせて男の子がくるくる踊る、ちょっとえっちなダンスゲームです。120枚の手書きダンスアニメと7枚のボーナスCG",
+ "options": [
+  "REV",
+  "DLP"
+ ],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ007726.html",
+ "site_id": "maniax",
+ "fetched_at": 1794973015
+}

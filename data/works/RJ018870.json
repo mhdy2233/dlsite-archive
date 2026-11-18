@@ -1,0 +1,124 @@
+{
+ "id": "RJ018870",
+ "title": "Eclipse",
+ "title_romaji": "ekuripusu",
+ "circle": {
+  "id": "RG03720",
+  "name": "ゼロワン",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG03720.html"
+ },
+ "type": {
+  "code": "STG",
+  "name": "シューティング",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "r18",
+ "sex": 1,
+ "price": {
+  "jpy": 1430,
+  "official_jpy": 1430,
+  "currencies": {
+   "USD": 8.972104284713103,
+   "EUR": 8.158188996143402,
+   "GBP": 6.796057906215351,
+   "TWD": 295.4911765921395,
+   "CNY": 59.899803964277936,
+   "KRW": 11986.58843252305,
+   "IDR": 164009.63413235464,
+   "VND": 230719.5869635366,
+   "THB": 303.57711495594947,
+   "SEK": 90.77693631013972,
+   "HKD": 70.39757399129631,
+   "SGD": 11.564049875827981,
+   "CAD": 12.826400499422364,
+   "MYR": 36.72759680803795,
+   "BRL": 51.934090917344896,
+   "AUD": 13.318357166673186,
+   "PHP": 571.9313682358116,
+   "MXN": 165.46138270176453,
+   "NZD": 16.319916003788958,
+   "INR": 838.9557054854797
+  }
+ },
+ "point": {
+  "point_amount": 78,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1130166000,
+ "file": {
+  "type": "EXE",
+  "size": 94347805
+ },
+ "tags": [
+  {
+   "key": "509",
+   "name": "3D作品"
+  },
+  {
+   "key": "073",
+   "name": "アニメ"
+  }
+ ],
+ "languages": [
+  "JPN"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [],
+ "rating": {
+  "average": 3.42,
+  "count": 150
+ },
+ "review_count": 0,
+ "dl_count": 329,
+ "wishlist_count": 128,
+ "ranking": [
+  {
+   "category": "all",
+   "period": "day",
+   "rank": 12,
+   "date": "2005-10-26"
+  }
+ ],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ019000/RJ018870_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ019000/RJ018870_img_main_240x240.jpg",
+  "samples": [],
+  "sample_thumbs": [],
+  "alt": "Eclipse [ゼロワン]"
+ },
+ "introductions": [
+  {
+   "type": "text",
+   "title": "",
+   "body": [
+    {
+     "intro": "Eclipseは、あなたが反逆者ゼウスとなり、エリーネ姫を手に入れるため、行く手を阻む兵士たちを倒していくシューティングゲームです。ゲーム中にはゼロワンならではのエッチでリアルそして繊細なフラッシュアニメを搭載!しかも今回のアニメは800X600のビッグサイズ!シューティング自体の難易度はそれほど高くありませんので、気軽にお楽しみください。<br />\n■ストーリー<br />\nデュークとエリーネの結婚そして王国建国に沸くデューク王国。そんな中、ゼウスは幼い頃から恋いこがれていたエリーネを兄に奪われたことを妬み、密かに兄を倒してエリーネを奪う機会を待っていた。他の国での内乱がきっかけで、そのチャンスが今訪れようとしていた。"
+    }
+   ]
+  }
+ ],
+ "description": "復讐に燃えるゼウスとなり、行く手を阻む兵士を倒してエリーネ姫を手に入れろ!HなFlashアニメ満載のシューティングゲームです。",
+ "short_introduction": "復讐に燃えるゼウスとなり、行く手を阻む兵士を倒してエリーネ姫を手に入れろ!HなFlashアニメ満載のシューティングゲームです。",
+ "options": [
+  "MV2",
+  "TRI"
+ ],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ018870.html",
+ "site_id": "maniax",
+ "fetched_at": 1794972709
+}

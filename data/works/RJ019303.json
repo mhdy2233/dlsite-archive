@@ -1,0 +1,116 @@
+{
+ "id": "RJ019303",
+ "title": "やわらかあたま大王",
+ "title_romaji": "yawarakaatamadaiou",
+ "circle": {
+  "id": "RG04016",
+  "name": "ぷぷぷ工房",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG04016.html"
+ },
+ "type": {
+  "code": "PZL",
+  "name": "パズル",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "all",
+ "sex": 1,
+ "price": {
+  "jpy": 110,
+  "official_jpy": 110,
+  "currencies": {
+   "USD": 0.690161868054854,
+   "EUR": 0.6275529997033387,
+   "GBP": 0.5227736850934885,
+   "TWD": 22.730090507087652,
+   "CNY": 4.607677228021379,
+   "KRW": 922.0452640402347,
+   "IDR": 12616.125702488818,
+   "VND": 17747.66053565666,
+   "THB": 23.35208576584227,
+   "SEK": 6.982841254626132,
+   "HKD": 5.415197999330485,
+   "SGD": 0.889542298140614,
+   "CAD": 0.9866461922632588,
+   "MYR": 2.825199754464458,
+   "BRL": 3.994930070564992,
+   "AUD": 1.0244890128210145,
+   "PHP": 43.994720633523976,
+   "MXN": 12.727798669366504,
+   "NZD": 1.2553781541376121,
+   "INR": 64.53505426811383
+  }
+ },
+ "point": {
+  "point_amount": 6,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1133881200,
+ "file": {
+  "type": "EXE",
+  "size": 2474276
+ },
+ "tags": [],
+ "languages": [
+  "JPN"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [],
+ "rating": {
+  "average": 4.04,
+  "count": 225
+ },
+ "review_count": 44,
+ "dl_count": 386,
+ "wishlist_count": 81,
+ "ranking": [
+  {
+   "category": "all",
+   "period": "day",
+   "rank": 28,
+   "date": "2005-12-08"
+  }
+ ],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ020000/RJ019303_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ020000/RJ019303_img_main_240x240.jpg",
+  "samples": [],
+  "sample_thumbs": [],
+  "alt": "やわらかあたま大王 [ぷぷぷ工房]"
+ },
+ "introductions": [
+  {
+   "type": "text",
+   "title": "",
+   "body": [
+    {
+     "intro": "今、流行の脳活性化ゲームです。<br />\r\n記憶・言語・分析・数学・知覚、5つのジャンルで頭のストレッチ。<br />\r\n問題に慣れたら総合テストでやわらか度をチェック。<br />\r\n問題は毎回ランダムで出題されるので、繰り返し遊んであたまをやわらかくしましょう。<br />\r\n*2006年1,2月カレンダー付き壁紙入り"
+    }
+   ]
+  }
+ ],
+ "description": "今、流行の脳活性化ゲームです。記憶・言語・分析・数学・知覚、5つのジャンルで頭のストレッチ。",
+ "short_introduction": "今、流行の脳活性化ゲームです。記憶・言語・分析・数学・知覚、5つのジャンルで頭のストレッチ。",
+ "options": [
+  "REV",
+  "REV",
+  "OLY"
+ ],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ019303.html",
+ "site_id": "home",
+ "fetched_at": 1794972684
+}

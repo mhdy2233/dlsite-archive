@@ -1,0 +1,121 @@
+{
+ "id": "RJ028979",
+ "title": "はさまれ!? 委員長",
+ "title_romaji": "hasamareiinchou",
+ "circle": {
+  "id": "RG05628",
+  "name": "KURADANe",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG05628.html"
+ },
+ "type": {
+  "code": "DNV",
+  "name": "デジタルノベル",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "r18",
+ "sex": 1,
+ "price": {
+  "jpy": 1210,
+  "official_jpy": 1210,
+  "currencies": {
+   "USD": 7.591780548603395,
+   "EUR": 6.903082996736725,
+   "GBP": 5.750510536028374,
+   "TWD": 250.0309955779642,
+   "CNY": 50.684449508235176,
+   "KRW": 10142.497904442582,
+   "IDR": 138777.382727377,
+   "VND": 195224.26589222328,
+   "THB": 256.872943424265,
+   "SEK": 76.81125380088746,
+   "HKD": 59.56717799263534,
+   "SGD": 9.784965279546753,
+   "CAD": 10.853108114895846,
+   "MYR": 31.077197299109038,
+   "BRL": 43.944230776214916,
+   "AUD": 11.269379141031157,
+   "PHP": 483.9419269687637,
+   "MXN": 140.00578536303152,
+   "NZD": 13.809159695513735,
+   "INR": 709.885596949252
+  }
+ },
+ "point": {
+  "point_amount": 66,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1169132400,
+ "file": {
+  "type": "EXE",
+  "size": 6656203
+ },
+ "tags": [
+  {
+   "key": "509",
+   "name": "3D作品"
+  }
+ ],
+ "languages": [
+  "JPN"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [],
+ "rating": {
+  "average": 3.66,
+  "count": 68
+ },
+ "review_count": 1,
+ "dl_count": 107,
+ "wishlist_count": 45,
+ "ranking": [],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ029000/RJ028979_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ029000/RJ028979_img_main_240x240.jpg",
+  "samples": [
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ029000/RJ028979_img_smp1.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ029000/RJ028979_img_smp2.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ029000/RJ028979_img_smp3.jpg"
+  ],
+  "sample_thumbs": [
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ029000/RJ028979_img_smp1_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ029000/RJ028979_img_smp2_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ029000/RJ028979_img_smp3_100x100.jpg"
+  ],
+  "alt": "はさまれ!? 委員長 [KURADANe]"
+ },
+ "introductions": [
+  {
+   "type": "text",
+   "title": "",
+   "body": [
+    {
+     "intro": "ある日の放課後、まじかに迫った文化祭の準備をするクラス委員長と主人公。<br />\r\n委員長は、突然倒れてきた大道具にはさまれ、身動き出来なくなってしまう・・・<br />\r\nさて、主人公の行動は?<br />\r\nそのまま悪戯?<br />\r\nそれともたすける?<br />\r\n<br />\r\nゲーム本編には、「悪戯ルート」と「いちゃいちゃ?」ルートがあり、主人公の行動により分岐します。<br />\r\nまた、没モーションを集めた「おまけ」も入れてみました。<br />\r\n<br />\r\nこのゲームは、DirectX9にて作成しました。<br />\r\nご購入前に必ず、お使いのパソコンで体験版が正常に動作することを確認してください。"
+    }
+   ]
+  }
+ ],
+ "description": "ある日の放課後、まじかに迫った文化祭の準備をするクラス委員長と主人公。委員長は…",
+ "short_introduction": "ある日の放課後、まじかに迫った文化祭の準備をするクラス委員長と主人公。委員長は…",
+ "options": [
+  "TRI",
+  "REV"
+ ],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ028979.html",
+ "site_id": "maniax",
+ "fetched_at": 1794972450
+}

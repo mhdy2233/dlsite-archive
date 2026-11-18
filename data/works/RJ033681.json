@@ -1,0 +1,117 @@
+{
+ "id": "RJ033681",
+ "title": "七不思議 -七瀬と不思議の漢女道-",
+ "title_romaji": "nanafushigi nanasetofushiginootomedou",
+ "circle": {
+  "id": "RG06701",
+  "name": "剛久企画(仮)",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG06701.html"
+ },
+ "type": {
+  "code": "RPG",
+  "name": "ロールプレイング",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "all",
+ "sex": 1,
+ "price": {
+  "jpy": 1320,
+  "official_jpy": 1320,
+  "currencies": {
+   "USD": 8.281942416658248,
+   "EUR": 7.530635996440063,
+   "GBP": 6.2732842211218625,
+   "TWD": 272.76108608505183,
+   "CNY": 55.292126736256556,
+   "KRW": 11064.543168482816,
+   "IDR": 151393.50842986582,
+   "VND": 212971.92642787995,
+   "THB": 280.22502919010725,
+   "SEK": 83.79409505551358,
+   "HKD": 64.98237599196582,
+   "SGD": 10.674507577687368,
+   "CAD": 11.839754307159104,
+   "MYR": 33.902397053573495,
+   "BRL": 47.939160846779906,
+   "AUD": 12.293868153852172,
+   "PHP": 527.9366476022877,
+   "MXN": 152.73358403239803,
+   "NZD": 15.064537849651346,
+   "INR": 774.4206512173658
+  }
+ },
+ "point": {
+  "point_amount": 72,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1188226800,
+ "file": {
+  "type": "EXE",
+  "size": 90259609
+ },
+ "tags": [],
+ "languages": [
+  "JPN"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [],
+ "rating": {
+  "average": 4.58,
+  "count": 267
+ },
+ "review_count": 5,
+ "dl_count": 661,
+ "wishlist_count": 531,
+ "ranking": [],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ034000/RJ033681_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ034000/RJ033681_img_main_240x240.jpg",
+  "samples": [
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ034000/RJ033681_img_smp1.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ034000/RJ033681_img_smp2.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ034000/RJ033681_img_smp3.jpg"
+  ],
+  "sample_thumbs": [
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ034000/RJ033681_img_smp1_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ034000/RJ033681_img_smp2_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ034000/RJ033681_img_smp3_100x100.jpg"
+  ],
+  "alt": "七不思議 -七瀬と不思議の漢女道- [剛久企画(仮)]"
+ },
+ "introductions": [
+  {
+   "type": "text",
+   "title": "",
+   "body": [
+    {
+     "intro": "入るたびにマップが変わり、数多のモンスターと<br />\r\n仕掛けられた罠が行く手を阻む、不思議の漢女道。<br />\r\n深部まで辿り着いた者は真の漢女の称号を得られるという<br />\r\nそのダンジョンに挑戦する。<br />\r\n<br />\r\n床に魔法陣を描くと効果を発揮する&lt;ペン&gt;や<br />\r\n武器・盾に使用すると能力を付与する&lt;魔法石&gt;など<br />\r\n様々なアイテムが登場する漢女の道。<br />\r\n知識・経験・運……すべてを兼ね備え、試練を突破しよう。<br />\r\n<br />\r\n失敗してもアドバイスがもらえる簡単なダンジョンや<br />\r\nすべてのアイテムが未識別な高難度のダンジョンなど<br />\r\n初心者から熟練者まで楽しめます。"
+    }
+   ]
+  }
+ ],
+ "description": "二次創作でローグライクダンジョンRPG",
+ "short_introduction": "二次創作でローグライクダンジョンRPG",
+ "options": [
+  "MS2",
+  "TRI",
+  "REV"
+ ],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ033681.html",
+ "site_id": "home",
+ "fetched_at": 1794972296
+}

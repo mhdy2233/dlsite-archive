@@ -1,0 +1,123 @@
+{
+ "id": "RJ037244",
+ "title": "ある日の帰りに・・・ Plus",
+ "title_romaji": "aruhinokaerinipurasu",
+ "circle": {
+  "id": "RG07237",
+  "name": "ふ〜む",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG07237.html"
+ },
+ "type": {
+  "code": "DNV",
+  "name": "デジタルノベル",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "r18",
+ "sex": 1,
+ "price": {
+  "jpy": 1210,
+  "official_jpy": 1210,
+  "currencies": {
+   "USD": 7.591780548603395,
+   "EUR": 6.903082996736725,
+   "GBP": 5.750510536028374,
+   "TWD": 250.0309955779642,
+   "CNY": 50.684449508235176,
+   "KRW": 10142.497904442582,
+   "IDR": 138777.382727377,
+   "VND": 195224.26589222328,
+   "THB": 256.872943424265,
+   "SEK": 76.81125380088746,
+   "HKD": 59.56717799263534,
+   "SGD": 9.784965279546753,
+   "CAD": 10.853108114895846,
+   "MYR": 31.077197299109038,
+   "BRL": 43.944230776214916,
+   "AUD": 11.269379141031157,
+   "PHP": 483.9419269687637,
+   "MXN": 140.00578536303152,
+   "NZD": 13.809159695513735,
+   "INR": 709.885596949252
+  }
+ },
+ "point": {
+  "point_amount": 66,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1201791600,
+ "file": {
+  "type": "EXE",
+  "size": 93634720
+ },
+ "tags": [
+  {
+   "key": "206",
+   "name": "少女"
+  },
+  {
+   "key": "074",
+   "name": "制服"
+  }
+ ],
+ "languages": [
+  "JPN"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [],
+ "rating": {
+  "average": null,
+  "count": null
+ },
+ "review_count": 0,
+ "dl_count": 4,
+ "wishlist_count": 9,
+ "ranking": [],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ038000/RJ037244_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ038000/RJ037244_img_main_240x240.jpg",
+  "samples": [
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ038000/RJ037244_img_smp1.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ038000/RJ037244_img_smp2.jpg"
+  ],
+  "sample_thumbs": [
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ038000/RJ037244_img_smp1_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ038000/RJ037244_img_smp2_100x100.jpg"
+  ],
+  "alt": "ある日の帰りに・・・ Plus [ふ〜む]"
+ },
+ "introductions": [
+  {
+   "type": "text",
+   "title": "",
+   "body": [
+    {
+     "intro": "ある日の学校帰りの少年少女の縮まる距離を描いたノベルタイプのゲームです。<br />\r\n<br />\r\n特に恋人同士というわけでもなく、何となくよく会話をし一緒に帰る。<br />\r\nそういう友達以上恋人未満な関係の二人が、お互いの気持ちをハッキリさせる物語。<br />\r\n<br />\r\n以前販売されたブラウザで見る『ある日の帰りに・・・』のゲームバージョンで、内容も追加されています。<br />\r\nCGモードもあり。"
+    }
+   ]
+  }
+ ],
+ "description": "ある日の学校帰りの少年少女の縮まる距離を描いたノベルタイプのゲームです。",
+ "short_introduction": "ある日の学校帰りの少年少女の縮まる距離を描いたノベルタイプのゲームです。",
+ "options": [
+  "MS2",
+  "RegionHiddenFilter"
+ ],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ037244.html",
+ "site_id": "maniax",
+ "fetched_at": 1794972180
+}

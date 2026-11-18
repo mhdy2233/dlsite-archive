@@ -1,0 +1,121 @@
+{
+ "id": "RJ022646",
+ "title": "Dark Light Renewal",
+ "title_romaji": "daakuraitorinyuuaru",
+ "circle": {
+  "id": "RG04620",
+  "name": "CirClet!",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG04620.html"
+ },
+ "type": {
+  "code": "ADV",
+  "name": "アドベンチャー",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "all",
+ "sex": 1,
+ "price": {
+  "jpy": 770,
+  "official_jpy": 770,
+  "currencies": {
+   "USD": 4.831133076383979,
+   "EUR": 4.39287099792337,
+   "GBP": 3.6594157956544198,
+   "TWD": 159.11063354961357,
+   "CNY": 32.253740596149655,
+   "KRW": 6454.316848281643,
+   "IDR": 88312.87991742173,
+   "VND": 124233.62374959663,
+   "THB": 163.46460036089587,
+   "SEK": 48.87988878238293,
+   "HKD": 37.90638599531339,
+   "SGD": 6.226796086984298,
+   "CAD": 6.906523345842811,
+   "MYR": 19.776398281251204,
+   "BRL": 27.964510493954943,
+   "AUD": 7.1714230897471,
+   "PHP": 307.96304443466784,
+   "MXN": 89.09459068556552,
+   "NZD": 8.787647078963285,
+   "INR": 451.74537987679673
+  }
+ },
+ "point": {
+  "point_amount": 42,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1143039600,
+ "file": {
+  "type": "EXE",
+  "size": 234317171
+ },
+ "tags": [
+  {
+   "key": "015",
+   "name": "シリアス"
+  }
+ ],
+ "languages": [
+  "JPN"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [],
+ "rating": {
+  "average": 3.84,
+  "count": 25
+ },
+ "review_count": 2,
+ "dl_count": 44,
+ "wishlist_count": 37,
+ "ranking": [],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ023000/RJ022646_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ023000/RJ022646_img_main_240x240.jpg",
+  "samples": [
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ023000/RJ022646_img_smp1.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ023000/RJ022646_img_smp2.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ023000/RJ022646_img_smp3.jpg"
+  ],
+  "sample_thumbs": [
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ023000/RJ022646_img_smp1_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ023000/RJ022646_img_smp2_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ023000/RJ022646_img_smp3_100x100.jpg"
+  ],
+  "alt": "Dark Light Renewal [CirClet!]"
+ },
+ "introductions": [
+  {
+   "type": "text",
+   "title": "",
+   "body": [
+    {
+     "intro": "深山隆志は、桐島北高校に通う、どこにでもいるような普通の高校生。すこし湿っぽくなり始めた初夏のある晩。<br />\r\n隆志は、学校から帰宅途中に偶然にも、殺人現場に遭遇してしまう。<br />\r\n 道路やコンクリート塀が血で染まり、空には紅い月が輝く、何もかも赤い世界の中心に、大きな鎌を携えた一人の少女が立っていた。<br />\r\n 人を惑わし、他者を巻き込み死に至らしめる、<br />\r\n 『死のカケラ』<br />\r\n 一人、孤独にカケラを狩りつづけ、戦いつづけてきた死神を名乗る少女。つぐみ。<br />\r\n<br />\r\n 二人は出会い、やがて惹かれ合っていくが、<br />\r\nそれはやがて多くの人々を巻き込む大惨劇の<br />\r\n始まりでもあった……"
+    }
+   ]
+  }
+ ],
+ "description": "死神の少女との恋愛を描いた、純愛アドベンチャー。",
+ "short_introduction": "死神の少女との恋愛を描いた、純愛アドベンチャー。",
+ "options": [
+  "MV2",
+  "REV"
+ ],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ022646.html",
+ "site_id": "home",
+ "fetched_at": 1794972646
+}

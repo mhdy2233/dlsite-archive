@@ -1,0 +1,159 @@
+{
+ "id": "RJ01760872",
+ "title": "釣って釣ってツチノコ【思い出増量版】",
+ "title_romaji": "tsuttetsuttetsuchinokoomoidezouryouban",
+ "circle": {
+  "id": "RG53878",
+  "name": "ALLDICE",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG53878.html"
+ },
+ "type": {
+  "code": "SLN",
+  "name": "シミュレーション",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "all",
+ "sex": 1,
+ "price": {
+  "jpy": 440,
+  "official_jpy": 550,
+  "currencies": {
+   "USD": 2.7609922001970344,
+   "EUR": 2.5158527311296752,
+   "GBP": 2.0982625908869594,
+   "TWD": 90.94291265346617,
+   "CNY": 18.43665542310029,
+   "KRW": 3678.929765886288,
+   "IDR": 50314.46540880504,
+   "VND": 70956.29737139172,
+   "THB": 93.78263742353518,
+   "SEK": 28.066236317709798,
+   "HKD": 21.661431820643344,
+   "SGD": 3.5599310344269606,
+   "CAD": 3.9548073379652515,
+   "MYR": 11.360262318784454,
+   "BRL": 16.013393019616405,
+   "AUD": 4.1086130536239365,
+   "PHP": 175.6627275630789,
+   "MXN": 51.80981089419024,
+   "NZD": 5.026044046422371,
+   "INR": 258.03424818203143
+  }
+ },
+ "point": {
+  "point_amount": 24,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1795100400,
+ "file": {
+  "type": "EXE",
+  "size": 631923493
+ },
+ "tags": [
+  {
+   "key": "053",
+   "name": "健全"
+  },
+  {
+   "key": "431",
+   "name": "ドット"
+  },
+  {
+   "key": "255",
+   "name": "メガネ"
+  }
+ ],
+ "languages": [
+  "JPN",
+  "ENG"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [],
+ "rating": {
+  "average": null,
+  "count": null
+ },
+ "review_count": 0,
+ "dl_count": 4,
+ "wishlist_count": 51,
+ "ranking": [],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01761000/RJ01760872_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ01761000/RJ01760872_img_main_240x240.jpg",
+  "samples": [
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01761000/RJ01760872_img_smp1.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01761000/RJ01760872_img_smp2.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01761000/RJ01760872_img_smp3.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01761000/RJ01760872_img_smp4.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01761000/RJ01760872_img_smp5.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01761000/RJ01760872_img_smp6.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01761000/RJ01760872_img_smp7.jpg"
+  ],
+  "sample_thumbs": [
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01761000/RJ01760872_img_smp1_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01761000/RJ01760872_img_smp2_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01761000/RJ01760872_img_smp3_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01761000/RJ01760872_img_smp4_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01761000/RJ01760872_img_smp5_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01761000/RJ01760872_img_smp6_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01761000/RJ01760872_img_smp7_100x100.jpg"
+  ],
+  "alt": "釣って釣ってツチノコ【思い出増量版】 [ALLDICE]"
+ },
+ "introductions": [
+  {
+   "type": "image",
+   "title": "このゲームについて",
+   "body": [
+    {
+     "intro": "釣って釣ってツチノコは釣り恋愛アドベンチャーゲームです。いろんな場所で釣りをし、トラブルを解決したり、ヒロインとの仲を深めたりするゲームとなっています！<br />\r\n<br />\r\n釣りはシンプル。餌を選んで、魚がかかったらボタンを押すだけ。<br />\r\n場所や餌によって釣れる魚が変わるので、色々試してコンプリートを目指そう！",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ01761000/RJ01760872/4b37d23215d446dd48a5989e5c31c2ce.jpg",
+      "alt": "釣って釣ってツチノコ【思い出増量版】 [ALLDICE]",
+      "title": "釣って釣ってツチノコ【思い出増量版】 [ALLDICE]"
+     },
+     "position": "left"
+    }
+   ]
+  },
+  {
+   "type": "image",
+   "title": "相棒(ヒロイン)はサメタ",
+   "body": [
+    {
+     "intro": "特定の獲物を釣り上げると特別なイベントが発生し、思い出の写真が増えます。<br />\r\n<br />\r\nツチノコを釣り上げるために出会った二人。<br />\r\n二人の物語がどこへ行くのか是非ともお楽しみください。",
+     "image_info": {
+      "url": "//img.dlsite.jp/modpub/images2/parts/RJ01761000/RJ01760872/f4fa255ab5aa336a97393426f522192a.jpg",
+      "alt": "釣って釣ってツチノコ【思い出増量版】 [ALLDICE]",
+      "title": "釣って釣ってツチノコ【思い出増量版】 [ALLDICE]"
+     },
+     "position": "over"
+    }
+   ]
+  }
+ ],
+ "description": "ツチノコを釣る釣りアドベンチャーです。",
+ "short_introduction": "ツチノコを釣る釣りアドベンチャーです。",
+ "options": [
+  "MS2",
+  "TRI"
+ ],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01760872.html",
+ "site_id": "home",
+ "fetched_at": 1795107352
+}

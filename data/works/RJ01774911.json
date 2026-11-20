@@ -1,0 +1,125 @@
+{
+ "id": "RJ01774911",
+ "title": "ぼくのお寿司屋さん",
+ "title_romaji": "bokunoosushiyasan",
+ "circle": {
+  "id": "RG01065314",
+  "name": "湯宮の森",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01065314.html"
+ },
+ "type": {
+  "code": "SLN",
+  "name": "シミュレーション",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "all",
+ "sex": 1,
+ "price": {
+  "jpy": 880,
+  "official_jpy": 880,
+  "currencies": {
+   "USD": 5.5086244401390925,
+   "EUR": 5.017461335613998,
+   "GBP": 4.200501387120117,
+   "TWD": 181.83696662878396,
+   "CNY": 36.855088305629195,
+   "KRW": 7327.227310574522,
+   "IDR": 100445.15466270974,
+   "VND": 141775.4148541969,
+   "THB": 186.91191775875618,
+   "SEK": 56.09382967873534,
+   "HKD": 43.2007854688267,
+   "SGD": 7.111645562050319,
+   "CAD": 7.892058168055998,
+   "MYR": 22.647491790284224,
+   "BRL": 32.39033295789993,
+   "AUD": 8.25548473767259,
+   "PHP": 350.62554785241855,
+   "MXN": 104.90052331056516,
+   "NZD": 10.02844431478375,
+   "INR": 513.5986926578732
+  }
+ },
+ "point": {
+  "point_amount": 48,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1795186800,
+ "file": {
+  "type": "EXE",
+  "size": 186125792
+ },
+ "tags": [
+  {
+   "key": "509",
+   "name": "3D作品"
+  }
+ ],
+ "languages": [
+  "JPN",
+  "ENG"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [],
+ "rating": {
+  "average": null,
+  "count": null
+ },
+ "review_count": 0,
+ "dl_count": 0,
+ "wishlist_count": 2,
+ "ranking": [],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01775000/RJ01774911_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ01775000/RJ01774911_img_main_240x240.jpg",
+  "samples": [
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01775000/RJ01774911_img_smp1.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01775000/RJ01774911_img_smp2.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01775000/RJ01774911_img_smp3.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01775000/RJ01774911_img_smp4.jpg"
+  ],
+  "sample_thumbs": [
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01775000/RJ01774911_img_smp1_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01775000/RJ01774911_img_smp2_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01775000/RJ01774911_img_smp3_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01775000/RJ01774911_img_smp4_100x100.jpg"
+  ],
+  "alt": "ぼくのお寿司屋さん [湯宮の森]"
+ },
+ "introductions": [
+  {
+   "type": "text",
+   "title": "米研ぎから仕入れ、接客までたった一人！ 町の小さな寿司屋を切り盛りする、本格3Dワンオペお寿司屋さん経営シミュレーション！",
+   "body": [
+    {
+     "intro": "「へい、らっしゃい！」<br />\nあなたは町の小さなカウンター寿司店(全3席)の大将。<br />\nガラス窓の向こうに広がる町の風景と、昼・夕方・夜と移ろう時間帯の中で、仕込みから調理、接客、片付けまでをたった一人でこなす一人称視点(3D)の経営シミュレーションゲームです。<br />\n■ 本作のここが面白い！<br />\n・リアルすぎる寿司調理の全工程<br />\n生米を水道で研ぎ、炊飯器で炊き、寿司酢を混ぜてシャリを作る本格仕込み！<br />\n包丁で魚を切り分けて握る「握り寿司」、海苔を巻く「軍艦巻き」、巻きすを敷いてシャリと具を乗せて巻き、輪切りにする「巻き寿司」まで、職人の手さばきを一人称視点で体験できます。右の調理台からはお茶・お水・オレンジジュース・生ビールも提供可能！<br />\n・忙しいピークと仕込みの営業サイクル<br />\nゲーム内時計が進行し、ランチタイムやディナータイムのピークにはお客さんが続々来店！アイドルタイム(14:00〜17:00)や閉店後に、翌日の仕込みや皿洗いをこなすリアルな飲食店のリズムが味わえます。<br />\n・市場仕入れ&amp;「大将におまかせ！」特注イベント<br />\n店内のノートPCから市場へ食材を発注し、在庫と原価を管理！さらに、時々やってくる「グルメ評論家」や「常連客」からの特注オーダーを制限時間内に成功させれば、高額チップと店の評価(★)が一気にアップします。<br />\n・SNSバズ&amp;最新設備の導入でずっと遊べる！<br />\n満足したお客さんが料理をスマホで撮影してSNSに投稿！バズれば客足が急増するフィーバー状態に突入します。稼いだお金で「自動食洗機」や「自動シャリロボット」を導入すれば、ワンオペの効率が劇的に進化！オートセーブ対応でエンドレスに遊べます。<br />\n■ 収録内容(製品版&amp;無料体験版)<br />\n・【無料体験版】:時間制限なしで、基本の寿司&amp;ドリンク調理・昼夜変化・VIP客対応・PCアップグレード・SNSバズまでたっぷり遊べます(まずは動作確認にもどうぞ！)。<br />\n・【製品版(フルバージョン)】:体験版の全要素に加え、「ゲーム内時計&amp;営業時間サイクル」「市場からの食材仕入れ&amp;在庫管理」「グルメ評論家・常連客の特注オーダーイベント」を完全収録！<br />\n■ 動作環境・仕様<br />\n・対応OS:Windows 10 / Windows 11 (64bit)<br />\n・ジャンル:3D一人称視点 お寿司屋さん経営シミュレーション<br />\n・プレイ人数:1人(オートセーブ対応)<br />\n・制作サークル:湯宮の森(まりれいチャンネル)<br />\n■ 禁止事項・利用規約(必ずお読みください)<br />\n・本ソフトウェアの著作権は制作サークル「湯宮の森」に帰属します。<br />\n・本データの【二次配布】【他サイト・他媒体での無断販売】【第三者への譲渡・貸与】は、有償・無償を問わず全面禁止といたします。<br />\n・データの解析(リバースエンジニアリング)、改変、および素材データの抽出・流用も固くお断りいたします。<br />\n・ゲーム実況動画の投稿やライブ配信(YouTube、Twitch等)および収益化は大歓迎です！"
+    }
+   ]
+  }
+ ],
+ "description": "米研ぎから仕入れ、接客までたった一人！ 町の小さな寿司屋を切り盛りする、本格3Dワンオペお寿司屋さん経営シミュレーション！",
+ "short_introduction": "米研ぎから仕入れ、接客までたった一人！ 町の小さな寿司屋を切り盛りする、本格3Dワンオペお寿司屋さん経営シミュレーション！",
+ "options": [
+  "MS2",
+  "TRI",
+  "OLY"
+ ],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01774911.html",
+ "site_id": "home",
+ "fetched_at": 1795213649
+}

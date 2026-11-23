@@ -1,0 +1,139 @@
+{
+ "id": "RJ01777363",
+ "title": "ブチュキス怪人化ゲーム",
+ "title_romaji": "buchukisukaijinkageemu",
+ "circle": {
+  "id": "RG01003362",
+  "name": "ホケキョ9",
+  "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01003362.html"
+ },
+ "type": {
+  "code": "SLN",
+  "name": "シミュレーション",
+  "category": "game"
+ },
+ "category": "doujin",
+ "age": "r18",
+ "sex": 1,
+ "price": {
+  "jpy": 220,
+  "official_jpy": 220,
+  "currencies": {
+   "USD": 1.3863420105740085,
+   "EUR": 1.2631765099696206,
+   "GBP": 1.058607392351658,
+   "TWD": 45.655467242202256,
+   "CNY": 9.253845603792394,
+   "KRW": 1861.2521150592218,
+   "IDR": 25287.35632183908,
+   "VND": 35696.900859970796,
+   "THB": 47.05882352941177,
+   "SEK": 14.17233560090703,
+   "HKD": 10.862051940357459,
+   "SGD": 1.787991362376273,
+   "CAD": 1.9871001073937284,
+   "MYR": 5.6994966308202875,
+   "BRL": 8.238373595263685,
+   "AUD": 2.0866015520521723,
+   "PHP": 88.39956603849399,
+   "MXN": 26.498361919444978,
+   "NZD": 2.529366520155027,
+   "INR": 128.42215865973964
+  }
+ },
+ "point": {
+  "point_amount": 12,
+  "standard_point_rate": 6,
+  "advance_point_rate": null,
+  "advance_point_end_date": null
+ },
+ "release": 1795417200,
+ "file": {
+  "type": "EXE",
+  "size": 197850228
+ },
+ "tags": [
+  {
+   "key": "510",
+   "name": "ツクール"
+  },
+  {
+   "key": "240",
+   "name": "魔法少女"
+  },
+  {
+   "key": "405",
+   "name": "レスラー/格闘家"
+  },
+  {
+   "key": "637",
+   "name": "キス"
+  },
+  {
+   "key": "190",
+   "name": "フタナリ"
+  },
+  {
+   "key": "200",
+   "name": "人体改造"
+  }
+ ],
+ "languages": [
+  "JPN"
+ ],
+ "translation": {
+  "is_translation_agree": false,
+  "is_volunteer": false,
+  "is_original": true,
+  "is_parent": false,
+  "is_child": false,
+  "is_translation_bonus_child": false,
+  "original_workno": null,
+  "parent_workno": null,
+  "child_worknos": [],
+  "lang": null,
+  "production_trade_price_rate": 0
+ },
+ "language_editions": [],
+ "rating": {
+  "average": null,
+  "count": null
+ },
+ "review_count": 0,
+ "dl_count": 60,
+ "wishlist_count": 108,
+ "ranking": [],
+ "images": {
+  "main": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01778000/RJ01777363_img_main.jpg",
+  "thumb": "https://img.dlsite.jp/resize/images2/work/doujin/RJ01778000/RJ01777363_img_main_240x240.jpg",
+  "samples": [
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01778000/RJ01777363_img_smp1.jpg",
+   "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01778000/RJ01777363_img_smp2.jpg"
+  ],
+  "sample_thumbs": [
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01778000/RJ01777363_img_smp1_100x100.jpg",
+   "https://img.dlsite.jp/resize/images2/work/doujin/RJ01778000/RJ01777363_img_smp2_100x100.jpg"
+  ],
+  "alt": "ブチュキス怪人化ゲーム [ホケキョ9]"
+ },
+ "introductions": [
+  {
+   "type": "text",
+   "title": "",
+   "body": [
+    {
+     "intro": "想定プレイ時間:4分<br />\n<br />\nくちびるメスクリーチャーが大好きでほぼ自分用に制作しました。ぶちゅぶちゅでよいです。<br />\nほぼ差分CG集みたいなものです。<br />\nキャラクターは二種です。<br />\n<br />\n絵の数(少しアニメーションです):4シーンほど<br />\n<br />\n※会話中にもパラパラアニメのように絵を動かしたかったのでそれ用のプラグインをAIに作ってもらいました。<br />\nイラストは手描きです。"
+    }
+   ]
+  }
+ ],
+ "description": "ほぼ差分CG集みたいなものです。エロシーンを見るだけ。",
+ "short_introduction": "ほぼ差分CG集みたいなものです。エロシーンを見るだけ。",
+ "options": [
+  "AIP",
+  "ORW"
+ ],
+ "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01777363.html",
+ "site_id": "maniax",
+ "fetched_at": 1795462882
+}

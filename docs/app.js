@@ -44,6 +44,7 @@ async function boot() {
   renderFilters();
   render();
   bindSearch();
+  routeFromLocation();
 }
 
 /* ------------------------------------------------------------- filters */
@@ -112,13 +113,14 @@ function bindSearch() {
 /* -------------------------------------------------------------- render */
 function filtered() {
   const q = state.q.trim().toLowerCase();
+  const terms = q ? q.split(/\s+/).filter(Boolean) : [];
   const out = state.all.filter(c => {
     if (state.types.size && !state.types.has(c.ty)) return false;
     if (state.tags.size && ![...state.tags].every(t => (c.g || []).includes(t))) return false;
     if (state.age && c.age !== state.age) return false;
-    if (q) {
-      const hay = `${c.t} ${c.c} ${(c.g || []).join(' ')}`.toLowerCase();
-      if (!hay.includes(q)) return false;
+    if (terms.length) {
+      const hay = `${c.i} ${c.t} ${c.rm || ''} ${c.c} ${(c.g || []).join(' ')} ${c.d || ''}`.toLowerCase();
+      if (!terms.every(t => hay.includes(t))) return false;
     }
     return true;
   });
@@ -177,12 +179,27 @@ $('#grid').addEventListener('click', e => {
 $('#mclose').onclick = closeDetail;
 $('#modal').addEventListener('click', e => { if (e.target.id === 'modal') closeDetail(); });
 
-function closeDetail() { $('#modal').classList.remove('on'); document.body.style.overflow = ''; }
+function closeDetail() {
+  $('#modal').classList.remove('on');
+  document.body.style.overflow = '';
+  if (location.pathname.match(WORK_RE)) history.pushState({}, '', '/');
+}
 
-async function openDetail(id) {
+/* /RJ01530415 -> open that work directly (served through 404.html) */
+const WORK_RE = /\/(RJ\d{5,8})\/?$/i;
+
+function routeFromLocation() {
+  const m = location.pathname.match(WORK_RE);
+  if (m) openDetail(m[1].toUpperCase(), { fromUrl: true });
+}
+
+window.addEventListener('popstate', routeFromLocation);
+
+async function openDetail(id, opts = {}) {
   const m = $('#modal');
   m.classList.add('on');
   document.body.style.overflow = 'hidden';
+  if (!opts.fromUrl) history.pushState({ w: id }, '', '/' + id);
   $('#mtitle').textContent = '加载中…';
   $('#minfo').innerHTML = '';
   $('#mhero').removeAttribute('src');

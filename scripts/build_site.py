@@ -2,6 +2,7 @@
 """Build the static site payload: card index, per-work detail, meta stats."""
 import json
 import os
+import re
 import sys
 import time
 from collections import Counter
@@ -17,6 +18,26 @@ def log(m):
     print(f"[build] {m}", flush=True)
 
 
+def search_text(w, limit=140):
+    """Flatten the intro/description into one searchable string."""
+    parts = []
+    if w.get("short_introduction"):
+        parts.append(w["short_introduction"])
+    desc = w.get("description")
+    if desc and desc not in parts:
+        parts.append(desc)
+    for sec in (w.get("introductions") or []):
+        if sec.get("title"):
+            parts.append(sec["title"])
+        for b in (sec.get("body") or []):
+            if b.get("intro"):
+                parts.append(b["intro"])
+    txt = " ".join(parts)
+    txt = re.sub(r"<[^>]+>", " ", txt)
+    txt = re.sub(r"\s+", " ", txt).strip()
+    return txt[:limit]
+
+
 def card(w):
     imgs = w.get("local_images") or {}
     thumb = imgs.get("thumb") or imgs.get("main")
@@ -30,6 +51,8 @@ def card(w):
     return {
         "i": w["id"],
         "t": w["title"],
+        "rm": (w.get("title_romaji") or "")[:70],
+        "d": search_text(w),
         "c": w["circle"]["name"],
         "ci": w["circle"]["id"],
         "ty": w["type"]["name"],
@@ -87,6 +110,17 @@ def main():
         }, f, ensure_ascii=False, indent=1)
 
     log(f"{len(cards)} works, {len(types)} types, {len(tags)} tags -> {API}")
+
+    # SPA fallback: /RJ01530415 has no file on disk, so GitHub Pages serves 404.html
+    src = os.path.join(SITE, "index.html")
+    if os.path.exists(src):
+        with open(src, encoding="utf-8") as f:
+            html = f.read()
+        if "<base " not in html:
+            html = html.replace("<head>", '<head>\n<base href="/">', 1)
+        with open(os.path.join(SITE, "404.html"), "w", encoding="utf-8") as f:
+            f.write(html)
+        log("wrote 404.html (SPA fallback for /RJxxxxx)")
     return 0
 
 

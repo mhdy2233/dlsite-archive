@@ -109,8 +109,14 @@ def collect_ids(want, proxy=None, start_page=1, max_pages=200, existing=(),
     last_page = start_page + max_pages - 1   # max_pages counts pages walked, not an absolute cap
     misses = 0
     while len(out) < want and page <= last_page:
-        p = plist[(page - start_page) % len(plist)]
-        ids, total_pages, html = list_page(page, proxy=p, netns=netns, category=category)
+        # one dead endpoint must not abort the walk: try a few before giving up
+        ids, total_pages, html = [], None, ""
+        for attempt in range(min(len(plist), 3)):
+            p = plist[(page - start_page + attempt) % len(plist)]
+            ids, total_pages, html = list_page(page, proxy=p, netns=netns, category=category)
+            if ids:
+                break
+            time.sleep(2)
         total = total_pages
         if not ids:
             log(f"page {page}: no ids (blocked or end)")

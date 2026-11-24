@@ -71,7 +71,9 @@ def main():
     st = load_state()
     cst = st.setdefault(cat, {"done": [], "runs": 0})
     done = set(cst.get("done", []))
-    scraper.log(f"[{cat}] already archived: {len(done)} works")
+    failed = set(cst.get("failed", []))
+    scraper.log(f"[{cat}] already archived: {len(done)} works"
+                f"{f' / {len(failed)} pending retry' if failed else ''}")
 
     vpn = None
     netns = None
@@ -84,12 +86,18 @@ def main():
         scraper.log(f"egress [{mode}]: {info.get('ip')} {info.get('city')}")
 
     try:
-        ids, page, total_pages = scraper.collect_ids(
-            args.limit, existing=done, max_pages=args.max_pages,
-            netns=netns, start_page=args.start_page, proxies=proxies,
-            category=cat,
-            stop_on_old=(args.start_page == 1 and not args.no_stop))
-        scraper.log(f"[{cat}] {len(ids)} new ids to fetch (listing page {page}/{total_pages})")
+        ids = []
+        if failed and args.start_page == 1 and not args.no_stop:
+            ids = sorted(failed)[:args.limit]
+            scraper.log(f"[{cat}] retrying {len(ids)} previously failed works first")
+        if len(ids) < args.limit:
+            more, page, total_pages = scraper.collect_ids(
+                args.limit - len(ids), existing=done | set(ids),
+                max_pages=args.max_pages, netns=netns,
+                start_page=args.start_page, proxies=proxies, category=cat,
+                stop_on_old=(args.start_page == 1 and not args.no_stop))
+            ids += more
+        scraper.log(f"[{cat}] {len(ids)} ids to fetch")
 
         def work_one(item):
             idx, pid = item
@@ -115,20 +123,25 @@ def main():
             return pid, work, f"{time.time() - t0:.1f}s"
 
         ok = fail = 0
+        failed_now = []
         with cf.ThreadPoolExecutor(max_workers=args.workers) as ex:
             for pid, work, msg in ex.map(work_one, enumerate(ids)):
                 if work:
                     ok += 1
                     done.add(pid)
+                    failed.discard(pid)
                     local = (work.get("local_images") or {}).get("samples")
                     tag = f"imgs={len(local) + 1}" if local else "cdn"
                     scraper.log(f"  {pid} ok  {tag} ({msg}) {work['title'][:38]}")
                 else:
                     fail += 1
+                    failed_now.append(pid)
+                    failed.add(pid)
                     scraper.log(f"  {pid} FAIL {msg}")
 
         cst.update({
             "done": sorted(done),
+            "failed": sorted(failed),
             "runs": cst.get("runs", 0) + 1,
             "last_run": int(time.time()),
             "last_ok": ok,

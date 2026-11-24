@@ -13,7 +13,8 @@ const num = n => n == null ? '—' : Number(n).toLocaleString('en-US');
 const date = ts => ts ? new Date(ts * 1000).toISOString().slice(0, 10) : '—';
 
 const state = {
-  all: [], meta: null, q: '', types: new Set(), tags: new Set(),
+  all: [], meta: null, cats: [], cat: 'game',
+  q: '', types: new Set(), tags: new Set(),
   age: '', sort: 'new', shown: 0, PAGE: 60, detailCache: new Map(),
 };
 
@@ -32,19 +33,52 @@ function gate() {
 
 async function boot() {
   gate();
+  try {
+    const c = await fetch('api/categories.json').then(r => r.ok ? r.json() : null);
+    state.cats = (c && c.categories) || [];
+  } catch (e) { state.cats = []; }
+  const m = location.pathname.match(/^\/(game|audio)\/?$/);
+  state.cat = m ? m[1] : 'game';
+  await loadCategory(state.cat);
+  bindSearch();
+  routeFromLocation();
+}
+
+/* load one category's card index + facets */
+async function loadCategory(cat, opts = {}) {
+  state.cat = cat;
   let index = [], meta = null;
   try {
     [index, meta] = await Promise.all([
-      fetch('api/index.json').then(r => r.ok ? r.json() : []),
-      fetch('api/meta.json').then(r => r.ok ? r.json() : null).catch(() => null),
+      fetch(`api/${cat}/index.json`).then(r => r.ok ? r.json() : []),
+      fetch(`api/${cat}/meta.json`).then(r => r.ok ? r.json() : null).catch(() => null),
     ]);
   } catch (e) { console.error('load failed', e); }
   state.all = Array.isArray(index) ? index : [];
   state.meta = meta;
+  if (!opts.keepFilters) {
+    state.types.clear(); state.tags.clear(); state.age = ''; state.q = '';
+    const q = $('#q'); if (q) q.value = '';
+  }
+  renderCats();
   renderFilters();
   render();
-  bindSearch();
-  routeFromLocation();
+}
+
+function renderCats() {
+  const el = $('#cats');
+  if (!el) return;
+  if (!state.cats.length) { el.innerHTML = ''; return; }
+  el.innerHTML = state.cats.map(c =>
+    `<button class="cat${c.cat === state.cat ? ' on' : ''}" data-cat="${esc(c.cat)}">` +
+    `${esc(c.label)}<span>${c.count}</span></button>`
+  ).join('');
+  el.onclick = e => {
+    const b = e.target.closest('[data-cat]');
+    if (!b || b.dataset.cat === state.cat) return;
+    history.pushState({}, '', b.dataset.cat === 'game' ? '/' : '/' + b.dataset.cat);
+    loadCategory(b.dataset.cat);
+  };
 }
 
 /* ------------------------------------------------------------- filters */
@@ -190,7 +224,16 @@ const WORK_RE = /\/(RJ\d{5,8})\/?$/i;
 
 function routeFromLocation() {
   const m = location.pathname.match(WORK_RE);
-  if (m) openDetail(m[1].toUpperCase(), { fromUrl: true });
+  if (m) { openDetail(m[1].toUpperCase(), { fromUrl: true }); return; }
+  const c = location.pathname.match(/^\/(game|audio)\/?$/);
+  if (c && c[1] !== state.cat) loadCategory(c[1]);
+}
+
+async function fetchWork(cat, id) {
+  try {
+    const r = await fetch(`api/${cat}/works/${id}.json`);
+    return r.ok ? await r.json() : null;
+  } catch (e) { return null; }
 }
 
 window.addEventListener('popstate', routeFromLocation);
@@ -207,8 +250,14 @@ async function openDetail(id, opts = {}) {
 
   let w = state.detailCache.get(id);
   if (!w) {
-    try { w = await fetch(`api/works/${id}.json`).then(r => r.ok ? r.json() : null); }
-    catch (e) { w = null; }
+    w = await fetchWork(state.cat, id);
+    if (!w) {
+      for (const c of state.cats.map(x => x.cat)) {
+        if (c === state.cat) continue;
+        w = await fetchWork(c, id);
+        if (w) break;
+      }
+    }
     if (w) state.detailCache.set(id, w);
   }
   if (!w) { $('#mtitle').textContent = '详情加载失败'; return; }

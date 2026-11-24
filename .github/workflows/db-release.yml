@@ -1,0 +1,71 @@
+name: db-release
+
+on:
+  schedule:
+    - cron: '30 3 * * *'      # daily 03:30 UTC (12:30 JST)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: db-release
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Build SQLite
+        run: python3 scripts/build_db.py
+
+      - name: Compress
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq zstd
+          zstd -19 --long=27 -T0 dist/dlsite-archive.db -o dist/dlsite-archive.db.zst
+          ls -lh dist/
+
+      - name: Publish release
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          TAG="db-$(date -u +%Y%m%d)"
+          WORKS=$(python3 - <<'PY'
+          import json, os
+          n = 0
+          for c in os.listdir('docs/api'):
+              wd = os.path.join('docs/api', c, 'works')
+              if os.path.isdir(wd):
+                  n += len([f for f in os.listdir(wd) if f.endswith('.json')])
+          print(n)
+          PY
+          )
+          SIZE=$(du -h dist/dlsite-archive.db.zst | cut -f1)
+          NOTES="Full DLsite maniax archive (game + voice/ASMR).
+
+          - works: **${WORKS}**
+          - asset: \`dlsite-archive.db.zst\` (${SIZE}, zstd)
+          - schema: \`works\` table + \`works_fts\` (FTS5) for search
+          - rebuild: \`zstd -d dlsite-archive.db.zst\` then any sqlite3 client"
+
+          if gh release view "$TAG" >/dev/null 2>&1; then
+            gh release upload "$TAG" dist/dlsite-archive.db.zst --clobber
+          else
+            gh release create "$TAG" dist/dlsite-archive.db.zst \
+              --title "Database $(date -u +%Y-%m-%d)" \
+              --notes "$NOTES" \
+              --latest
+          fi
+
+      - name: Prune old releases (keep 7)
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh release list --limit 100 --json tagName,createdAt \
+            --jq '[.[] | select(.tagName | startswith("db-"))] | .[7:] | .[].tagName' \
+          | while read -r tag; do
+              [ -n "$tag" ] && gh release delete "$tag" --yes --cleanup-tag && echo "pruned $tag"
+            done

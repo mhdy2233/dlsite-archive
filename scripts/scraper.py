@@ -13,9 +13,18 @@ import time
 UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
       "(KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36")
 BASE = "https://www.dlsite.com"
-LIST_TPL = (BASE + "/maniax/fsr/=/work_category%5B0%5D/doujin"
-            "/work_type_category%5B0%5D/game/order%5B0%5D/release_d"
-            "/page/{page}/")
+LIST_TPL = {
+    "game": (BASE + "/maniax/fsr/=/work_category%5B0%5D/doujin"
+             "/work_type_category%5B0%5D/game/order%5B0%5D/release_d"
+             "/page/{page}/"),
+    "audio": (BASE + "/maniax/fsr/=/work_category%5B0%5D/doujin"
+              "/work_type_category%5B0%5D/audio/order%5B0%5D/release_d"
+              "/page/{page}/"),
+}
+CATEGORIES = {
+    "game": {"label": "同人ゲーム", "code": "game"},
+    "audio": {"label": "ボイス・ASMR", "code": "audio"},
+}
 WORK_TPL = BASE + "/maniax/work/=/product_id/{pid}.html"
 IMG = "https://img.dlsite.jp"
 
@@ -72,8 +81,9 @@ def download(url, dest, proxy=None, timeout=90, netns=None):
 
 # ---------------------------------------------------------------- listing
 
-def list_page(page, proxy=None, netns=None):
-    html = http_get(LIST_TPL.format(page=page), proxy=proxy,
+def list_page(page, proxy=None, netns=None, category="game"):
+    tpl = LIST_TPL.get(category) or LIST_TPL["game"]
+    html = http_get(tpl.format(page=page), proxy=proxy,
                     netns=netns).decode("utf-8", "replace")
     ids = []
     for m in re.finditer(r'data-list_item_product_id="(RJ\d+)"', html):
@@ -87,7 +97,7 @@ def list_page(page, proxy=None, netns=None):
 
 
 def collect_ids(want, proxy=None, start_page=1, max_pages=200, existing=(),
-                netns=None, stop_on_old=True, proxies=None):
+                netns=None, stop_on_old=True, proxies=None, category="game"):
     """Walk listing pages until `want` unseen ids are collected.
 
     stop_on_old=True is the incremental mode: a full page of already-archived ids
@@ -100,7 +110,7 @@ def collect_ids(want, proxy=None, start_page=1, max_pages=200, existing=(),
     misses = 0
     while len(out) < want and page <= last_page:
         p = plist[(page - start_page) % len(plist)]
-        ids, total_pages, html = list_page(page, proxy=p, netns=netns)
+        ids, total_pages, html = list_page(page, proxy=p, netns=netns, category=category)
         total = total_pages
         if not ids:
             log(f"page {page}: no ids (blocked or end)")

@@ -11,6 +11,9 @@ on:
       start_page:
         description: 'Start from listing page N (use >1 to backfill older works)'
         default: '1'
+      categories:
+        description: 'Comma separated: game,audio'
+        default: 'game'
       skip_vpn:
         description: 'Skip VPN setup (debug only)'
         type: boolean
@@ -46,9 +49,16 @@ jobs:
           set -o pipefail
           LIMIT="${{ github.event.inputs.limit || '50' }}"
           START="${{ github.event.inputs.start_page || '1' }}"
+          CATS="${{ github.event.inputs.categories || 'game' }}"
           FLAGS=""
           if [ "${{ github.event.inputs.skip_vpn }}" = "true" ]; then FLAGS="--no-vpn"; fi
-          python3 scripts/run.py --limit "$LIMIT" --start-page "$START" $FLAGS 2>&1 | tee /tmp/archive.log
+          rc=0
+          for cat in $(echo "$CATS" | tr ',' ' '); do
+            echo "===== $cat ====="
+            python3 scripts/run.py --category "$cat" --limit "$LIMIT" \
+              --start-page "$START" $FLAGS 2>&1 | tee -a /tmp/archive.log || rc=1
+          done
+          exit $rc
 
       - name: Diagnose tunnel (on failure)
         if: failure()

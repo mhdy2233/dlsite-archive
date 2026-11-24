@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 """Entry point: bring up a JP egress (optional), collect new works, archive them.
 
-  python3 scripts/run.py --limit 50                       # CI: vpngate tunnel
-  python3 scripts/run.py --limit 50 --proxy socks5h://127.0.0.1:1081   # local
-  python3 scripts/run.py --limit 5 --no-vpn --proxy ...   # quick test
+  python3 scripts/run.py --category game  --limit 50
+  python3 scripts/run.py --category audio --limit 50 --start-page 2
+  python3 scripts/run.py --limit 10 --no-vpn --proxy socks5h://127.0.0.1:1081
 """
 import argparse
 import concurrent.futures as cf
@@ -19,50 +19,59 @@ sys.path.insert(0, HERE)
 import scraper  # noqa: E402
 
 DATA = os.path.join(ROOT, "data")
-WORKS = os.path.join(DATA, "works")
-IMAGES = os.path.join(ROOT, "docs", "images")
 STATE = os.path.join(DATA, "state.json")
+API = os.path.join(ROOT, "docs", "api")
+
+
+def works_dir(category):
+    return os.path.join(API, category, "works")
 
 
 def load_state():
-    if os.path.exists(STATE):
-        with open(STATE) as f:
-            return json.load(f)
-    return {"done": [], "runs": 0}
+    """{"game": {"done": [...]}, "audio": {...}}  (migrates the old flat shape)"""
+    if not os.path.exists(STATE):
+        return {}
+    with open(STATE) as f:
+        st = json.load(f)
+    if "done" in st:                      # legacy single-category file
+        return {"game": st}
+    return st
 
 
 def save_state(st):
     os.makedirs(DATA, exist_ok=True)
     tmp = STATE + ".tmp"
-    with open(tmp, "w") as f:
-        json.dump(st, f, ensure_ascii=False, indent=1)
+    with open(tmp, "w", encoding="utf-8") as f:
+        json.dump(st, f, ensure_ascii=False, separators=(",", ":"))
     os.replace(tmp, STATE)
 
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--limit", type=int, default=50, help="how many new works to archive")
+    ap.add_argument("--category", default="game", choices=list(scraper.CATEGORIES))
+    ap.add_argument("--limit", type=int, default=50)
     ap.add_argument("--proxy", default=None,
-                    help="socks5h://127.0.0.1:1081 for local runs, comma-separated for multiple egress IPs")
-    ap.add_argument("--no-vpn", action="store_true", help="skip vpngate setup")
+                    help="socks5h://127.0.0.1:1081, comma-separated for a pool")
+    ap.add_argument("--no-vpn", action="store_true")
     ap.add_argument("--workers", type=int, default=8)
     ap.add_argument("--with-images", action="store_true",
-                    help="download official images into docs/images (default: CDN links only)")
+                    help="download official images (default: CDN links only)")
     ap.add_argument("--max-pages", type=int, default=120)
-    ap.add_argument("--start-page", type=int, default=1,
-                    help="listing page to start from (older pages = backfill)")
-    ap.add_argument("--no-stop", action="store_true",
-                    help="keep paging even when a page is entirely archived")
+    ap.add_argument("--start-page", type=int, default=1)
+    ap.add_argument("--no-stop", action="store_true")
     args = ap.parse_args()
 
-    os.makedirs(WORKS, exist_ok=True)
-    os.makedirs(IMAGES, exist_ok=True)
+    cat = args.category
+    out_dir = works_dir(cat)
+    os.makedirs(out_dir, exist_ok=True)
     proxies = [p.strip() for p in (args.proxy or "").split(",") if p.strip()] or [None]
     if len(proxies) > 1:
         scraper.log(f"egress pool: {len(proxies)} endpoints, round-robin")
+
     st = load_state()
-    done = set(st["done"])
-    scraper.log(f"already archived: {len(done)} works")
+    cst = st.setdefault(cat, {"done": [], "runs": 0})
+    done = set(cst.get("done", []))
+    scraper.log(f"[{cat}] already archived: {len(done)} works")
 
     vpn = None
     netns = None
@@ -78,8 +87,9 @@ def main():
         ids, page, total_pages = scraper.collect_ids(
             args.limit, existing=done, max_pages=args.max_pages,
             netns=netns, start_page=args.start_page, proxies=proxies,
+            category=cat,
             stop_on_old=(args.start_page == 1 and not args.no_stop))
-        scraper.log(f"{len(ids)} new ids to fetch (listing page {page}/{total_pages})")
+        scraper.log(f"[{cat}] {len(ids)} new ids to fetch (listing page {page}/{total_pages})")
 
         def work_one(item):
             idx, pid = item
@@ -96,11 +106,12 @@ def main():
                 return pid, None, err
             if args.with_images:
                 try:
-                    scraper.save_images(work, IMAGES, proxy=proxy, netns=netns)
+                    scraper.save_images(work, os.path.join(ROOT, "docs", "images"),
+                                        proxy=proxies[idx % len(proxies)], netns=netns)
                 except Exception as e:
                     work["image_error"] = f"{type(e).__name__}: {e}"
-            with open(os.path.join(WORKS, pid + ".json"), "w") as f:
-                json.dump(work, f, ensure_ascii=False, indent=1)
+            with open(os.path.join(out_dir, pid + ".json"), "w", encoding="utf-8") as f:
+                json.dump(work, f, ensure_ascii=False, separators=(",", ":"))
             return pid, work, f"{time.time() - t0:.1f}s"
 
         ok = fail = 0
@@ -116,15 +127,15 @@ def main():
                     fail += 1
                     scraper.log(f"  {pid} FAIL {msg}")
 
-        st = {
+        cst.update({
             "done": sorted(done),
-            "runs": st.get("runs", 0) + 1,
+            "runs": cst.get("runs", 0) + 1,
             "last_run": int(time.time()),
             "last_ok": ok,
             "last_fail": fail,
-        }
+        })
         save_state(st)
-        scraper.log(f"done: {ok} ok / {fail} failed, total archived {len(done)}")
+        scraper.log(f"[{cat}] done: {ok} ok / {fail} failed, total {len(done)}")
         # "nothing new to archive" is a normal, successful outcome
         return 0 if fail == 0 else 1
     finally:

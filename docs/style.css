@@ -60,6 +60,18 @@ button { font: inherit; cursor: pointer; }
 }
 .stats { margin-left: auto; color: var(--fg-faint); font-size: 12px; white-space: nowrap; }
 
+/* ---------- category tabs ---------- */
+.cats { display: flex; gap: 4px; align-items: center; }
+.cat {
+  padding: 6px 12px; border-radius: 8px; border: 1px solid transparent;
+  background: transparent; color: var(--fg-dim); font-size: 12.5px;
+  display: flex; align-items: center; gap: 6px; transition: all .12s;
+}
+.cat:hover { background: var(--bg-soft); color: var(--fg); }
+.cat.on { background: var(--accent-soft); border-color: var(--accent); color: var(--accent); }
+.cat span { font-size: 10.5px; color: var(--fg-faint); }
+.cat.on span { color: var(--accent); opacity: .8; }
+
 /* ---------- layout ---------- */
 .layout { display: flex; gap: 20px; padding: 18px 20px 60px; align-items: flex-start; }
 .sidebar {

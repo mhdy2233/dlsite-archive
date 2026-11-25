@@ -118,8 +118,20 @@ jobs:
           if git diff --staged --quiet; then
             echo "nothing new"
           else
-            OK=$(python3 -c "import json;print(json.load(open('data/state.json')).get('last_ok',0))" 2>/dev/null || echo 0)
-            TOTAL=$(python3 -c "import json;print(len(json.load(open('data/state.json'))['done']))" 2>/dev/null || echo 0)
+            STATS=$(python3 - <<'PY' 2>/dev/null || echo "0 0"
+          import json
+          try:
+              st = json.load(open('data/state.json'))
+          except Exception:
+              st = {}
+          if 'done' in st:
+              st = {'game': st}
+          cats = [v for v in st.values() if isinstance(v, dict)]
+          print(sum(v.get('last_ok', 0) for v in cats), sum(len(v.get('done', [])) for v in cats))
+          PY
+            )
+            OK=$(echo "$STATS" | cut -d' ' -f1)
+            TOTAL=$(echo "$STATS" | cut -d' ' -f2)
             git commit -m "archive: +${OK} works (total ${TOTAL}) [skip ci]"
             git push
           fi
@@ -131,16 +143,24 @@ jobs:
           try:
               st = json.load(open('data/state.json'))
           except Exception:
-              st = {"done": [], "last_ok": 0, "last_fail": 0}
-          try:
-              meta = json.load(open('docs/api/meta.json'))
-          except Exception:
-              meta = {"types": [], "tags": []}
+              st = {}
+          if 'done' in st:                 # legacy single-category shape
+              st = {'game': st}
+          cats = {k: v for k, v in st.items() if isinstance(v, dict)}
+          total = sum(len(v.get('done', [])) for v in cats.values())
+          ok = sum(v.get('last_ok', 0) for v in cats.values())
+          fail = sum(v.get('last_fail', 0) for v in cats.values())
           print("### DLsite archive")
-          print(f"- archived: **{len(st['done'])}** works")
-          print(f"- last run: +{st.get('last_ok',0)} ok / {st.get('last_fail',0)} failed")
-          print(f"- types: {len(meta['types'])} · tags: {len(meta['tags'])}")
-          size = sum(os.path.getsize(os.path.join(r, f))
-                     for r, _, fs in os.walk('docs/images') for f in fs) if os.path.isdir('docs/images') else 0
-          print(f"- images on disk: {size/1024/1024:.0f} MB")
+          for k, v in cats.items():
+              print(f"- {k}: **{len(v.get('done', []))}** works")
+          print(f"- total: **{total}** works")
+          print(f"- last run: +{ok} ok / {fail} failed")
+          size = 0
+          for r, _, fs in os.walk('docs/api'):
+              for f in fs:
+                  try:
+                      size += os.path.getsize(os.path.join(r, f))
+                  except OSError:
+                      pass
+          print(f"- site payload: {size/1024/1024:.0f} MB")
           PY

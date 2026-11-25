@@ -47,13 +47,19 @@ async function boot() {
 /* load one category's card index + facets */
 async function loadCategory(cat, opts = {}) {
   state.cat = cat;
+  const grid = $('#grid');
+  if (grid) grid.innerHTML = '<div class="loading">正在加载作品索引…</div>';
   let index = [], meta = null;
   try {
     [index, meta] = await Promise.all([
       fetch(`api/${cat}/index.json`).then(r => r.ok ? r.json() : []),
       fetch(`api/${cat}/meta.json`).then(r => r.ok ? r.json() : null).catch(() => null),
     ]);
-  } catch (e) { console.error('load failed', e); }
+  } catch (e) {
+    console.error('load failed', e);
+    if (grid) grid.innerHTML = '<div class="loading">索引加载失败，请检查网络后刷新页面</div>';
+    return;
+  }
   state.all = Array.isArray(index) ? index : [];
   state.meta = meta;
   if (!opts.keepFilters) {

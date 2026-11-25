@@ -22,6 +22,17 @@ const SORTS = [['new', '最新发售'], ['dl', '销量'], ['rate', '评分'],
                ['plow', '价格 ↑'], ['phigh', '价格 ↓']];
 const AGES = [['', '全部'], ['r18', 'R18'], ['r15', 'R15'], ['all', '全年龄']];
 
+/* mobile: the filter panel is collapsed behind this toggle */
+const fbtn = $('#fbtn');
+if (fbtn) {
+  fbtn.onclick = () => {
+    const sb = document.querySelector('.sidebar');
+    if (!sb) return;
+    const open = sb.classList.toggle('open');
+    fbtn.classList.toggle('on', open);
+  };
+}
+
 /* ---------------------------------------------------------------- boot */
 function gate() {
   const el = $('#gate');

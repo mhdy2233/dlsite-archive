@@ -61,6 +61,15 @@ def row_values(work, cat):
     def pick(obj, key):
         return obj.get(key) if isinstance(obj, dict) else None
 
+    # tags come as [{key,name}] in detail JSON but the index (and therefore D1)
+    # stores plain strings - normalise so both sources agree
+    tags = [t.get('name') if isinstance(t, dict) else t
+            for t in (work.get('tags') or [])]
+    tags = [t for t in tags if t]
+    langs = [l.get('name') if isinstance(l, dict) else l
+             for l in (work.get('languages') or [])]
+    langs = [l for l in langs if l]
+
     return [
         work.get('id'),                                        # id
         cat,                                                   # cat
@@ -79,8 +88,8 @@ def row_values(work, cat):
         work.get('wishlist_count'),                            # wishlist
         work.get('release'),                                   # release
         pick(fileinfo, 'size'),                                # file_size
-        json.dumps(work.get('languages') or [], ensure_ascii=False),
-        json.dumps(work.get('tags') or [], ensure_ascii=False),
+        json.dumps(langs, ensure_ascii=False),
+        json.dumps(tags, ensure_ascii=False),
         work.get('short_introduction') or '',                   # body
         imgs.get('thumb') or '',                                # thumb
     ]

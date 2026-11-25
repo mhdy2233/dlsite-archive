@@ -110,6 +110,19 @@ jobs:
       - name: Build static site
         run: python3 scripts/build_site.py
 
+      - name: Sync new works to D1
+        # Keeps the Cloudflare Worker (D1) in step with the repo. Non-fatal: a
+        # failed sync must not lose the scrape, the next run retries.
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: a33c9d386f3cd7221306077a08ffaba9
+        run: |
+          if [ -z "$CLOUDFLARE_API_TOKEN" ]; then
+            echo "CLOUDFLARE_API_TOKEN secret not set - skipping D1 sync"
+          else
+            python3 scripts/sync_d1.py || echo "::warning::D1 sync failed, will retry next run"
+          fi
+
       - name: Commit
         run: |
           git config user.name  "dlsite-archive-bot"
